@@ -1,0 +1,25 @@
+=== AUDIT MISSINGNESS & SPARSITY ===
+Alignment X/Y OK: True
+N samples X: 105
+N samples Y: 105
+N X features: 3104
+N Y targets: 981
+
+=== X SUMMARY ===
+X features with >40% missing: 0
+X features with >95% zeros: 41
+X near-constant features: 42
+X recommended features after audit: 3061
+
+=== Y SUMMARY ===
+Y targets with <10 present samples: 291
+Y targets with <20 present samples: 536
+Y targets with >95% zeros: 91
+Y recommended targets (>=20 present samples): 445
+
+=== ROW SUMMARY ===
+Mean X % missing per sample: 0.0384
+Max X % missing per sample: 0.6765
+Mean Y nonzero targets per sample: 261.90
+Min Y nonzero targets per sample: 113
+Max Y nonzero targets per sample: 441
