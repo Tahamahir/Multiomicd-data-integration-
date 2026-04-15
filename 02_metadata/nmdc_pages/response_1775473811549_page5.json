@@ -1,0 +1,528 @@
+{
+  "meta": {
+    "mongo_filter_dict": {
+      "associated_studies": "nmdc:sty-11-r2h77870"
+    },
+    "mongo_sort_list": null,
+    "count": 416,
+    "db_response_time_ms": 18,
+    "page": 5,
+    "per_page": 100,
+    "fields": "id,name,description,env_broad_scale,env_local_scale,env_medium"
+  },
+  "results": [
+    {
+      "id": "nmdc:bsm-11-cxprmv88",
+      "name": "Leaf tissue communities from poplar common garden site in Corvallis, Oregon, USA - GW-7986-Co3_31_39 leaf tissue",
+      "description": "Leaf tissue microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "PO_0025034",
+        "term": {
+          "id": "PO:0025034",
+          "name": "leaf",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-6m5dma62",
+      "name": "Leaf tissue communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-866-CL3_75_7 leaf tissue",
+      "description": "Leaf tissue microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "PO_0025034",
+        "term": {
+          "id": "PO:0025034",
+          "name": "leaf",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-s6r1q327",
+      "name": "Leaf tissue communities from poplar common garden site in Corvallis, Oregon, USA - GW-9591-Co2_62_24 leaf tissue",
+      "description": "Leaf tissue microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "PO_0025034",
+        "term": {
+          "id": "PO:0025034",
+          "name": "leaf",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-gd31q856",
+      "name": "Leaf tissue communities from poplar common garden site in Corvallis, Oregon, USA - GW-7986-Co1_37_5 leaf tissue",
+      "description": "Leaf tissue microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "PO_0025034",
+        "term": {
+          "id": "PO:0025034",
+          "name": "leaf",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-vpe6j733",
+      "name": "Leaf tissue communities from poplar common garden site in Corvallis, Oregon, USA - GW-7986-Co2_68_28 leaf tissue",
+      "description": "Leaf tissue microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "PO_0025034",
+        "term": {
+          "id": "PO:0025034",
+          "name": "leaf",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-5j742c82",
+      "name": "Leaf tissue communities from poplar common garden site in Clatskanie, Oregon, USA - SKWD-24-1-CL2_58_25 leaf tissue",
+      "description": "Leaf tissue microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "PO_0025034",
+        "term": {
+          "id": "PO:0025034",
+          "name": "leaf",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-q94v7385",
+      "name": "Leaf tissue communities from poplar common garden site in Corvallis, Oregon, USA - GW-9591-Co1_16_8 leaf tissue",
+      "description": "Leaf tissue microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "PO_0025034",
+        "term": {
+          "id": "PO:0025034",
+          "name": "leaf",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-9c0hk014",
+      "name": "Leaf tissue communities from poplar common garden site in Clatskanie, Oregon, USA - GW-9591-CL3_98_5 leaf tissue",
+      "description": "Leaf tissue microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "PO_0025034",
+        "term": {
+          "id": "PO:0025034",
+          "name": "leaf",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-tpatza67",
+      "name": "Leaf tissue communities from poplar common garden site in Corvallis, Oregon, USA - GW-9591-Co3_35_48 leaf tissue",
+      "description": "Leaf tissue microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "PO_0025034",
+        "term": {
+          "id": "PO:0025034",
+          "name": "leaf",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-7z1qvf63",
+      "name": "Leaf tissue communities from poplar common garden site in Corvallis, Oregon, USA - SKWA-24-3-Co3_23_35 leaf tissue",
+      "description": "Leaf tissue microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "PO_0025034",
+        "term": {
+          "id": "PO:0025034",
+          "name": "leaf",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-sv771k17",
+      "name": "Leaf tissue communities from poplar common garden site in Clatskanie, Oregon, USA - SKWA-24-3-CL2_69_25 leaf tissue",
+      "description": "Leaf tissue microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "PO_0025034",
+        "term": {
+          "id": "PO:0025034",
+          "name": "leaf",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-f8tzvk82",
+      "name": "Leaf tissue communities from poplar common garden site in Corvallis, Oregon, USA - SKWA-24-3-Co1_3_5 leaf tissue",
+      "description": "Leaf tissue microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "PO_0025034",
+        "term": {
+          "id": "PO:0025034",
+          "name": "leaf",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-fzvzb345",
+      "name": "Leaf tissue communities from poplar common garden site in Corvallis, Oregon, USA - SKWA-24-3-Co2_41_10 leaf tissue",
+      "description": "Leaf tissue microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "PO_0025034",
+        "term": {
+          "id": "PO:0025034",
+          "name": "leaf",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-8bewbp90",
+      "name": "Leaf tissue communities from poplar common garden site in Corvallis, Oregon, USA - SKWD-24-1-Co1_7_5 leaf tissue",
+      "description": "Leaf tissue microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "PO_0025034",
+        "term": {
+          "id": "PO:0025034",
+          "name": "leaf",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-m4e83773",
+      "name": "Leaf tissue communities from poplar common garden site in Corvallis, Oregon, USA - SKWD-24-1-Co2_54_22 leaf tissue",
+      "description": "Leaf tissue microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "PO_0025034",
+        "term": {
+          "id": "PO:0025034",
+          "name": "leaf",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-sdjt4464",
+      "name": "Leaf tissue communities from poplar common garden site in Corvallis, Oregon, USA - SKWD-24-1-Co3_24_32 leaf tissue",
+      "description": "Leaf tissue microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "PO_0025034",
+        "term": {
+          "id": "PO:0025034",
+          "name": "leaf",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    }
+  ],
+  "group_by": []
+}

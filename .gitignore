@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environnements
+env/
+venv/
+.venv/
+conda-env/
+*.conda
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.gz
+*.bz2
+*.7z
+
+# Raw omics / heavy data
+*.mzML
+*.fastq
+*.fastq.gz
+*.bam
+*.sam
+
+# Large project folders to ignore
+03_metabolomics/METADATA/metabolomics_csv_bundle/
+06_metagenomics_matrix/bracken_results/
+08_metabolomics_targets/metabolomics_csv_bundle/
+
+# Optional: ignore huge intermediate tables if needed
+metagenomics_species_long.csv
+metabolomics_annotated_long.csv
+
+# Temporary outputs
+*.tmp
+*.log
