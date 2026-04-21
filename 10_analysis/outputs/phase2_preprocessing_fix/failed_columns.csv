@@ -1,0 +1,17 @@
+failed_columns
+host_id
+nmdc_biosample_id
+metagenome_accession
+metabolomics_id
+keep_for_analysis
+notes
+gold_project_id
+metabolomics_present
+cohort_status
+soil_match
+metagenomics_match
+biosample_id_norm
+Field Sample ID
+chem__NO2-N (mg/kg dry weight)
+sample_id_raw
+sample_id_norm
