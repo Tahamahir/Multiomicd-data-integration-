@@ -1,0 +1,18 @@
+{
+  "n_samples_x": 105,
+  "n_samples_y": 105,
+  "n_columns_x_total": 3123,
+  "n_columns_y_total": 986,
+  "n_numeric_columns_x": 3107,
+  "n_numeric_columns_y": 985,
+  "x_id_column": "nmdc_biosample_id",
+  "y_id_column": "biosample_id_norm",
+  "n_common_sample_ids": 0,
+  "same_order_between_x_and_y": false,
+  "x_global_sparsity_zero_fraction": 0.19418823853970296,
+  "y_global_sparsity_zero_fraction": 0.7300555958423979,
+  "x_missing_rate": 0.00045743561593705685,
+  "y_missing_rate": 0.0,
+  "n_non_numeric_columns_x": 16,
+  "n_non_numeric_columns_y": 1
+}

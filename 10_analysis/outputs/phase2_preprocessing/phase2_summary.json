@@ -1,0 +1,17 @@
+{
+  "n_samples": 105,
+  "x_original_total_columns": 3125,
+  "y_original_total_columns": 988,
+  "x_numeric_columns": 3107,
+  "y_numeric_columns": 985,
+  "x_columns_after_presence_filter": 3064,
+  "y_columns_after_presence_filter": 652,
+  "x_global_zero_fraction_before_filter": 0.19418823853970296,
+  "y_global_zero_fraction_before_filter": 0.7300555958423979,
+  "x_global_zero_fraction_after_filter": 0.18415703095859753,
+  "y_global_zero_fraction_after_filter": 0.6261904761904762,
+  "same_order_x_y": true,
+  "x_presence_threshold": 0.05,
+  "y_presence_threshold": 0.1,
+  "y_log_transform_applied": true
+}
