@@ -1,0 +1,19 @@
+var1,var2,correlation,abs_correlation
+soil_NH4,chem__NH4-N (mg/kg dry weight),1.0,1.0
+chem__NO3-N (mg/kg dry weight),soil_NO3,1.0,1.0
+soil_total_N,chem__N (%),1.0,1.0
+chem__LBCeq (mg/kg CaCO3/pH dry weight),chem__LBC (mg/kg CaCO3/pH dry weight),1.0,1.0
+soil_pH,chem__pH,1.0,1.0
+chem__C (%),soil_total_C,1.0,1.0
+moist__Replicate 1 Mass Water / Mass Dry Soil %,moist__Replicate 2 Mass Water / Mass Dry Soil %,0.9776612247513832,0.9776612247513832
+moist__Replicate 2 Mass Water / Mass Dry Soil %,moist__Replicate 3 Mass Water / Mass Dry Soil %,0.9766259095737357,0.9766259095737357
+moist__Replicate 1 Mass Water / Mass Dry Soil %,moist__Replicate 3 Mass Water / Mass Dry Soil %,0.9760677400753058,0.9760677400753058
+chem__LBC (mg/kg CaCO3/pH dry weight),chem__C (%),0.9485827786229418,0.9485827786229418
+chem__LBCeq (mg/kg CaCO3/pH dry weight),soil_total_C,0.9485827786229418,0.9485827786229418
+chem__LBC (mg/kg CaCO3/pH dry weight),soil_total_C,0.9485827786229418,0.9485827786229418
+chem__LBCeq (mg/kg CaCO3/pH dry weight),chem__C (%),0.9485827786229418,0.9485827786229418
+psize__Soil Clay Content %,psize__Soil Silt Content %,-0.9444629015952373,0.9444629015952373
+chem__NH4-N (mg/kg dry weight),soil_total_C,0.9073354555560056,0.9073354555560056
+soil_NH4,soil_total_C,0.9073354555560056,0.9073354555560056
+chem__NH4-N (mg/kg dry weight),chem__C (%),0.9073354555560056,0.9073354555560056
+soil_NH4,chem__C (%),0.9073354555560056,0.9073354555560056
