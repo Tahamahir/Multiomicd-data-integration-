@@ -1,0 +1,105 @@
+feature,feature_type,count_in_top20_lists
+Mesorhizobium amorphae,soil,6
+psize__Soil Sand Content %,soil,6
+meta_PC14,metagenomics_pca,5
+meta_PC48,metagenomics_pca,5
+psize__Soil Clay Content %,soil,5
+meta_PC25,metagenomics_pca,4
+meta_PC31,metagenomics_pca,4
+meta_PC35,metagenomics_pca,4
+meta_PC46,metagenomics_pca,4
+moist__Replicate 1 Mass Water / Mass Dry Soil %,soil,4
+nitrif__Rate (mg NO3-N/kilogram dry weight soil/day),soil,4
+Actinopolymorpha singaporensis,soil,3
+Catenulispora acidiphila,soil,3
+Phycicoccus dokdonensis,soil,3
+chem__K (Mehlich 1 mg/kg dry weight),soil,3
+denit__Rate (microgN/kilogram dry weight soil/day),soil,3
+meta_PC10,metagenomics_pca,3
+meta_PC19,metagenomics_pca,3
+meta_PC28,metagenomics_pca,3
+meta_PC37,metagenomics_pca,3
+meta_PC39,metagenomics_pca,3
+meta_PC49,metagenomics_pca,3
+meta_PC5,metagenomics_pca,3
+meta_PC8,metagenomics_pca,3
+soil_NO3,soil,3
+Amycolatopsis keratiniphila,soil,2
+Lacunisphaera limnophila,soil,2
+Pseudomonas alcaliphila,soil,2
+Pseudomonas entomophila,soil,2
+Sphingomonas panacis,soil,2
+Sphingomonas sp. LM7,soil,2
+Stenotrophomonas maltophilia,soil,2
+Stenotrophomonas sp. LM091,soil,2
+Streptacidiphilus sp. DSM 106435,soil,2
+chem__LBCeq (mg/kg CaCO3/pH dry weight),soil,2
+chem__Mg (Mehlich 1 mg/kg dry weight),soil,2
+chem__Mn (Mehlich 1 mg/kg dry weight),soil,2
+meta_PC15,metagenomics_pca,2
+meta_PC16,metagenomics_pca,2
+meta_PC18,metagenomics_pca,2
+meta_PC2,metagenomics_pca,2
+meta_PC20,metagenomics_pca,2
+meta_PC21,metagenomics_pca,2
+meta_PC27,metagenomics_pca,2
+meta_PC3,metagenomics_pca,2
+meta_PC33,metagenomics_pca,2
+meta_PC4,metagenomics_pca,2
+meta_PC41,metagenomics_pca,2
+meta_PC42,metagenomics_pca,2
+meta_PC7,metagenomics_pca,2
+psize__Soil Silt Content %,soil,2
+soil_NH4,soil,2
+soil_total_N,soil,2
+Bradyrhizobium erythrophlei,soil,1
+Bradyrhizobium oligotrophicum,soil,1
+Chitinophaga pinensis,soil,1
+Dietzia psychralcaliphila,soil,1
+Flavobacterium branchiophilum,soil,1
+Flavobacterium psychrophilum,soil,1
+Geodermatophilus obscurus,soil,1
+Kibdelosporangium phytohabitans,soil,1
+Leadbetterella byssophila,soil,1
+Microlunatus phosphovorus,soil,1
+Mycobacterium dioxanotrophicus,soil,1
+Novosphingobium resinovorum,soil,1
+Novosphingobium sp. P6W,soil,1
+Paraburkholderia phymatum,soil,1
+Paraburkholderia phytofirmans,soil,1
+Phenylobacterium sp. HYN0004,soil,1
+Pseudomonas phage phiPsa374,soil,1
+Rhizobium phage RHEph10,soil,1
+Singulisphaera acidiphila,soil,1
+Sphingobacteriaceae bacterium GW460-11-11-14-LB5,soil,1
+Sphingobium hydrophobicum,soil,1
+Sphingobium sp. YG1,soil,1
+Sphingobium yanoikuyae,soil,1
+Stenotrophomonas rhizophila,soil,1
+Stenotrophomonas sp. SAU14A_NAIMI4_8,soil,1
+Streptomyces phage phiHau3,soil,1
+Streptomyces phage phiSASD1,soil,1
+Streptomyces virus phiBT1,soil,1
+Streptomyces virus phiC31,soil,1
+Xenorhabdus nematophila,soil,1
+[Mycobacterium] stephanolepidis,soil,1
+chem__LBC (mg/kg CaCO3/pH dry weight),soil,1
+chem__P (Mehlich 1 mg/kg dry weight),soil,1
+chem__Zn (Mehlich 1 mg/kg dry weight),soil,1
+meta_PC11,metagenomics_pca,1
+meta_PC12,metagenomics_pca,1
+meta_PC17,metagenomics_pca,1
+meta_PC22,metagenomics_pca,1
+meta_PC23,metagenomics_pca,1
+meta_PC26,metagenomics_pca,1
+meta_PC29,metagenomics_pca,1
+meta_PC30,metagenomics_pca,1
+meta_PC32,metagenomics_pca,1
+meta_PC36,metagenomics_pca,1
+meta_PC40,metagenomics_pca,1
+meta_PC43,metagenomics_pca,1
+meta_PC45,metagenomics_pca,1
+meta_PC47,metagenomics_pca,1
+meta_PC50,metagenomics_pca,1
+meta_PC6,metagenomics_pca,1
+meta_PC9,metagenomics_pca,1

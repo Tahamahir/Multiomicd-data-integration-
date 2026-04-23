@@ -1,0 +1,9 @@
+{
+  "selected_config": "soil_plus_mg",
+  "n_samples": 105,
+  "n_features": 437,
+  "n_top_metabolites": 10,
+  "mean_r2_across_selected_metabolites": 0.07765759265326809,
+  "median_r2_across_selected_metabolites": 0.09279560673332687,
+  "n_positive_r2_selected_metabolites": 8
+}

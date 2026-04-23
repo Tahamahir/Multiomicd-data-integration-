@@ -1,0 +1,2 @@
+selected_config,n_samples,n_features,n_top_metabolites,mean_r2_across_selected_metabolites,median_r2_across_selected_metabolites,n_positive_r2_selected_metabolites
+soil_plus_mg,105,437,10,0.07765759265326809,0.09279560673332687,8
