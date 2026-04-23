@@ -1,0 +1,8 @@
+0,1,2
+soil_pH,chem__pH,
+soil_NH4,chem__NH4-N (mg/kg dry weight),
+soil_NO3,chem__NO3-N (mg/kg dry weight),
+soil_total_C,chem__C (%),
+soil_total_N,chem__N (%),
+chem__LBC (mg/kg CaCO3/pH dry weight),chem__LBCeq (mg/kg CaCO3/pH dry weight),
+moist__Replicate 1 Mass Water / Mass Dry Soil %,moist__Replicate 2 Mass Water / Mass Dry Soil %,moist__Replicate 3 Mass Water / Mass Dry Soil %

@@ -1,0 +1,2 @@
+n_samples,x_input_shape,y_input_shape,n_soil_columns,n_metagenomics_columns,meta_nan_total_before_imputation,soil_nan_total_before_imputation,meta_nan_total_after_imputation,soil_nan_total_after_imputation,x_meta_pca_shape,x_final_shape,y_top_shape,x_pca_n_components,x_pca_total_explained_variance,y_top_n_metabolites
+105,"[105, 3059]","[105, 652]",387,2672,0,102,0,0,"[105, 50]","[105, 437]","[105, 50]",50,0.9295499044119809,50

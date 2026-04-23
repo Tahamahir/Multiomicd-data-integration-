@@ -1,0 +1,7 @@
+{
+  "global_r2_uniform_average": -0.060250836575065046,
+  "global_r2_variance_weighted": -0.04994764225786744,
+  "global_rmse": 1.0110336395617514,
+  "n_positive_r2_targets": 21,
+  "n_negative_r2_targets": 29
+}

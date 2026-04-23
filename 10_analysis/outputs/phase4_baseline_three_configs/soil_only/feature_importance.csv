@@ -1,0 +1,388 @@
+feature,importance
+Catenulispora acidiphila,0.03745820310435561
+psize__Soil Clay Content %,0.03362779739085126
+nitrif__Rate (mg NO3-N/kilogram dry weight soil/day),0.027622324354159577
+psize__Soil Sand Content %,0.02513777773600623
+Streptacidiphilus sp. DSM 106435,0.01947273466307158
+soil_total_N,0.01921419149359468
+Mesorhizobium amorphae,0.01841280219154064
+moist__Replicate 1 Mass Water / Mass Dry Soil %,0.017534020816872387
+chem__K (Mehlich 1 mg/kg dry weight),0.01547226299268828
+Leadbetterella byssophila,0.014980289756081804
+Phycicoccus dokdonensis,0.014190057860669215
+psize__Soil Silt Content %,0.011353230865144608
+denit__Rate (microgN/kilogram dry weight soil/day),0.01013889773711635
+chem__Mg (Mehlich 1 mg/kg dry weight),0.009843508645925413
+chem__P (Mehlich 1 mg/kg dry weight),0.009632530911153373
+Chitinophaga pinensis,0.009200247124097914
+Singulisphaera acidiphila,0.008475360013421576
+Stenotrophomonas sp. LM091,0.008014353078468919
+Actinopolymorpha singaporensis,0.00760431351263628
+chem__Mn (Mehlich 1 mg/kg dry weight),0.007565431755745902
+Lacunisphaera limnophila,0.00715664754549793
+Pseudomonas rhizosphaerae,0.006971013329519264
+Phycisphaera mikurensis,0.0069588808945643815
+Sphingomonas panacis,0.006869648863030999
+soil_pH,0.006795855112646417
+chem__Zn (Mehlich 1 mg/kg dry weight),0.006721593342004024
+Pseudomonas chlororaphis,0.006635936211124836
+Paludisphaera borealis,0.006441046620990976
+Pseudarthrobacter chlorophenolicus,0.006325017145939216
+soil_total_C,0.005844323405334012
+Stenotrophomonas rhizophila,0.0057266317182216465
+[Pseudomonas] mesoacidophila,0.00561488198871974
+Geodermatophilus obscurus,0.005556127600950561
+Paraburkholderia phytofirmans,0.005539304655615481
+Sphingobacteriaceae bacterium GW460-11-11-14-LB5,0.0053785290420328554
+soil_NO3,0.005343699569938351
+Mycolicibacterium phlei,0.005338299878258609
+Rhodanobacter denitrificans,0.005283270038003558
+Novosphingobium sp. P6W,0.005203365823352472
+Elizabethkingia anophelis,0.005010460087705713
+Pseudomonas entomophila,0.005003363004483524
+soil_NH4,0.004838729728825786
+Sphingobium sp. YG1,0.004770163699287362
+Phyllobacterium zundukense,0.00472035050531652
+Bradyrhizobium erythrophlei,0.004695496079492079
+Microlunatus phosphovorus,0.00469253419742996
+Sphingomonas sp. KC8,0.004683101547621656
+Streptomyces phage phiSASD1,0.0046760832361845625
+Archangium gephyra,0.004659994675783837
+Paraburkholderia phenoliruptrix,0.004602136990871886
+Paraburkholderia phymatum,0.004382526590047843
+Streptomyces virus phiC31,0.004343851468880909
+Novosphingobium resinovorum,0.004321123880171391
+chem__LBC (mg/kg CaCO3/pH dry weight),0.004317078883098638
+Pseudarthrobacter phenanthrenivorans,0.004223472944032987
+Methylibium petroleiphilum,0.004200996180906424
+Sphaerobacter thermophilus,0.004157555632547799
+Mycobacterium dioxanotrophicus,0.004153462237019891
+Jatrophihabitans sp. GAS493,0.004079339494835314
+chem__LBCeq (mg/kg CaCO3/pH dry weight),0.00402533421838465
+Microcella alkaliphila,0.003906946506088177
+Phenylobacterium zucineum,0.0038939724830343928
+Sphingomonas indica,0.0038497425570751635
+Stenotrophomonas maltophilia,0.003834285450472333
+Xanthomonas phaseoli,0.003820156473162656
+chem__Ca (Mehlich 1 mg/kg dry weight),0.0038078696350680036
+Pseudomonas sp. LPH1,0.0037892794907405593
+Amycolatopsis keratiniphila,0.0037792507976865605
+Pseudomonas sp. phDV1,0.0035840963451341046
+Pseudomonas alkylphenolica,0.0035790764355133685
+Mycobacterium haemophilum,0.0035559717398742094
+Sphingomonas sp. LM7,0.003544981005858485
+Rhizobacter gummiphilus,0.003517215066830668
+Bradyrhizobium oligotrophicum,0.0034779065628665656
+Staphylococcus aureus,0.0034565819607783777
+Pseudomonas psychrophila,0.0033635305989601133
+Sphingomonas taxi,0.00335459202542654
+Streptomyces virus phiBT1,0.0033126094340089176
+Streptomyces phage phiHau3,0.0032815811217450693
+Sphingobium sp. RAC03,0.00327512914766106
+Pseudomonas alcaliphila,0.0032630663587969737
+Stenotrophomonas sp. ESTM1D_MKCIP4_1,0.0032560594767285663
+Stenotrophomonas acidaminiphila,0.003250606939939274
+Gemmatimonas phototrophica,0.003242159814576829
+Pseudomonas saudiphocaensis,0.003106269453396243
+Sphingomonas koreensis,0.0030981903127044784
+Sphingobium hydrophobicum,0.0030959952333690145
+Kibdelosporangium phytohabitans,0.003095000132806683
+Kocuria rhizophila,0.003048795034234877
+Phenylobacterium sp. HYN0004,0.002989503128769551
+Methyloceanibacter sp. wino2,0.002970710419825581
+Flavobacterium psychrophilum,0.0028927987716802256
+Sphingobium baderi,0.0028856348598746153
+Hyphomicrobium nitrativorans,0.0028770899821944835
+Candidatus Protochlamydia amoebophila,0.002839281103622938
+Chitinophaga sp. MD30,0.0028074068479032183
+Oligotropha carboxidovorans,0.0027989562185000024
+Sphingopyxis macrogoltabida,0.0027936729675861415
+Stenotrophomonas sp. SAU14A_NAIMI4_8,0.002792481374243105
+Polaromonas naphthalenivorans,0.0027722840080086396
+Sphingomonas hengshuiensis,0.002771618824072188
+Rhizobium phaseoli,0.0027017105900094098
+Acidisphaera sp. G45-3,0.00267747959710459
+Stenotrophomonas sp. ZAC14A_NAIMI4_1,0.00265595623031068
+Rubrobacter xylanophilus,0.0026302417136265964
+nitrif__Technical Replicate,0.002595386780695093
+[Mycobacterium] stephanolepidis,0.002567774296273981
+Hydrogenophaga sp. RAC07,0.002564843165889731
+Aeromonas hydrophila,0.0025544974052917713
+Sphingobium japonicum,0.0025001941378369552
+Streptomyces phage Nanodon,0.002494250272565391
+Sphingopyxis fribergensis,0.002479718244802265
+Jiangella alkaliphila,0.0024612147001562856
+Stenotrophomonas sp. MYb57,0.002431507176456117
+Xenorhabdus nematophila,0.0024032433541395014
+Chloracidobacterium thermophilum,0.0023816035873599596
+Hyphomicrobium denitrificans,0.002367004095977071
+Stenotrophomonas sp. G4,0.002358159052141148
+Gordonia phage GMA4,0.0023533904195155633
+Agrococcus carbonis,0.0023470615270703046
+Methylobacterium phyllosphaerae,0.002341630680118061
+Hartmannibacter diazotrophicus,0.0023226164114457173
+Candidatus Xiphinematobacter sp. Idaho Grape,0.002305251455623821
+Methylovorus glucosotrophus,0.0023029282839848154
+Rhizobium phage RHEph10,0.0022876597347062113
+Hydrogenophaga sp. PBC,0.002278928773091476
+Candidatus Accumulibacter phosphatis,0.002257505160501477
+Sphingomonas sp. Cra20,0.002242798089995187
+Chryseobacterium arthrosphaerae,0.0022047526805046356
+Novosphingobium aromaticivorans,0.002156742653046056
+Sphingopyxis terrae,0.002113977644343821
+Agarilytica rhodophyticola,0.0021033374315849607
+Steroidobacter denitrificans,0.0020826701759982993
+Sphingomonas sp. LK11,0.002058545013960521
+Sphingomonas sp. MM-1,0.0020384186460354527
+Sphingomonas wittichii,0.002030504862048271
+Gluconacetobacter diazotrophicus,0.0020281220741851383
+Phreatobacter cathodiphilus,0.002012387865312611
+Rhodococcus coprophilus,0.0019751964263990764
+Sphingobium sp. SYK-6,0.0019594743895840834
+Stenotrophomonas sp. ZAC14D2_NAIMI4_7,0.001956701256945403
+Sphingomonas sanxanigenens,0.0019381211119627447
+Sphingopyxis alaskensis,0.001925157984093274
+Stenotrophomonas sp. ZAC14D2_NAIMI4_6,0.0019237182569887446
+Novosphingobium tardaugens,0.0019072014906302297
+Sphingobium yanoikuyae,0.0018906111113882217
+Acidiphilium multivorum,0.0018869596531177662
+Sphingopyxis sp. EG6,0.0018731154276298541
+Sandaracinus amylolyticus,0.0018635550188150086
+Verminephrobacter eiseniae,0.0018563395283636619
+Sphingobium cloacae,0.0018560068482373255
+Mesorhizobium phage vB_MloP_Lo5R7ANS,0.0018371446303879987
+Hyphomonas neptunium,0.0018362111840271652
+Cytophagales bacterium TFI 002,0.0018270151947850344
+Novosphingobium pentaromativorans,0.0018249434440776595
+Cnuibacter physcomitrellae,0.0018146554734638169
+Novosphingobium sp. PP1Y,0.0018003724006521531
+Capnocytophaga ochracea,0.0017921171123872763
+Streptococcus thermophilus,0.001791881517842478
+Magnetospirillum gryphiswaldense,0.0017632431796271624
+Porphyrobacter sp. LM 6,0.0017499938444839151
+Novosphingobium sp. THN1,0.0017385963719635318
+Polymorphum gilvum,0.0017372839299805384
+Sphingobium sp. EP60837,0.0017368828111939802
+Thiobacillus denitrificans,0.0017177767082298967
+Sphingobium chlorophenolicum,0.001701030789379334
+Sphingobium sp. TKS,0.0016849396088415487
+Sphingopyxis sp. 113P3,0.0016725592176352034
+Hyphomicrobium sp. MC1,0.0016674317081743636
+Sideroxydans lithotrophicus,0.0016620826137431128
+Sphingobium sp. YBL2,0.0016584724679840112
+Glutamicibacter halophytocola,0.0016504022440660356
+Methylophaga nitratireducenticrescens,0.0016317717378314144
+Sphingobium sp. SCG-1,0.0016275062678451505
+Martelella endophytica,0.001624076642509303
+Azospirillum thiophilum,0.0016046494874911506
+Sphingobium sp. MI1205,0.0015973683438872419
+Corynebacterium diphtheriae,0.0015826403958106438
+Salinisphaera sp. LB1,0.0015762581034819707
+Sphingobacterium sp. B29,0.0015623565284801817
+Sulfuricella denitrificans,0.0015609852678132561
+Caldilinea aerophila,0.0015583964543801237
+Wolbachia endosymbiont of Drosophila melanogaster,0.0015558809950689618
+Thioalkalivibrio sulfidiphilus,0.001538322243324462
+Sphingomonas sp. JJ-A5,0.0015382413485858283
+Sphingomonas sp. FARSPH,0.0015356383690208332
+Xanthobacter autotrophicus,0.0015324764296249537
+Brevibacterium sandarakinum,0.0015307845268439841
+Stenotrophomonas sp. Pemsol,0.0015229515679005688
+Sphingomonas melonis,0.0015118472045693352
+Porphyrobacter neustonensis,0.001509992711588558
+Microvirgula aerodenitrificans,0.0015057699799783028
+Hoeflea phototrophica,0.001504138415863783
+Hydrogenophaga crassostreae,0.0015004013903840792
+Symbiobacterium thermophilum,0.0014982471115083003
+Achromobacter denitrificans,0.0014924466555265028
+Planctopirus limnophila,0.00149151134288927
+Akkermansia glycaniphila,0.001491441424594705
+Candidatus Amoebophilus asiaticus,0.0014888662409470968
+Isosphaera pallida,0.001487755487810406
+Sphingopyxis sp. WS5A3p,0.0014812904199911548
+Dietzia psychralcaliphila,0.0014784490380162678
+Rhodobacter sphaeroides,0.0014635385548945879
+Syntrophobacter fumaroxidans,0.0014614077914921401
+Sphingopyxis sp. MG,0.0014531448237988715
+Pannonibacter phragmitetus,0.00143684406185957
+Porphyrobacter sp. CACIAM 03H1,0.0014212960990866376
+Thermus thermophilus,0.0014133552855031134
+Alicycliphilus denitrificans,0.0014131706449955303
+Sphingorhabdus sp. Alg231-15,0.0013967598800520879
+Hyphomonas sp. Mor2,0.0013853891051636101
+Roseobacter denitrificans,0.0013795647023383362
+Sphingobium herbicidovorans,0.0013767911617094113
+Burkholderia phage KS14,0.0013659181126785336
+Sporosarcina psychrophila,0.0013609961204269134
+Acidiphilium cryptum,0.0013557868082471082
+Stenotrophomonas sp. SAU14A_NAIMI4_5,0.0013536030876624872
+Rubinisphaera brasiliensis,0.0013433516981743877
+Sphingorhabdus sp. YGSMI21,0.0013389193053040974
+Sphingorhabdus sp. M41,0.001325426100489987
+Rhodovulum sulfidophilum,0.001323541783792003
+Candidatus Thiodictyon syntrophicum,0.0013205054900475544
+Sphingopyxis sp. FD7,0.0013199316233751066
+Sphingomonas sp. NIC1,0.0013093570686306692
+Diaphorobacter polyhydroxybutyrativorans,0.0013078470813375459
+Gordonia phthalatica,0.001302951334330983
+Ferriphaselus amnicola,0.0012758802338289905
+Sphingopyxis sp. QXT-31,0.0012689478080758043
+Croceicoccus naphthovorans,0.0012635856824555554
+Sphingopyxis sp. LPB0140,0.0012504213489016734
+Hyphomonas sp. CACIAM 19H1,0.0012481841094834955
+Candidatus Phaeomarinobacter ectocarpi,0.0012447208549056761
+Methylomonas denitrificans,0.001234107851207868
+Methylacidiphilum infernorum,0.001223822566692243
+Wolbachia endosymbiont of Drosophila simulans,0.0012217983888818838
+Akkermansia muciniphila,0.0012198022043613474
+Porphyrobacter HT-58-2,0.0012146165040669416
+Cytophaga hutchinsonii,0.0012006771638292206
+Saccharophagus degradans,0.0011960503737031554
+Halorhodospira halophila,0.0011954858912851046
+Nostoc sphaeroides,0.0011798425699758362
+Tenacibaculum mesophilum,0.0011677482828831415
+Methylocystis bryophila,0.0011663145211597483
+Stenotrophomonas sp. YAU14D1_LEIMI4_1,0.0011595927703609637
+Pararhodospirillum photometricum,0.0011564322636726722
+Metallosphaera sedula,0.001156116396438976
+Paracoccus denitrificans,0.001155406785897795
+Phaeobacter gallaeciensis,0.0011550082185459462
+Sphingomonas sp. YZ-8,0.0011488330606904483
+Paenibacillus naphthalenovorans,0.0011395167571184683
+alpha proteobacterium HIMB59,0.0011393521655858629
+Phaeobacter sp. LSS9,0.0011379031813617952
+Sphingopyxis granuli,0.0011169825631916056
+Tateyamaria omphalii,0.0010760450212830128
+Sphingorhabdus flavimaris,0.0010638416832055837
+Cellulophaga lytica,0.0010503924972816714
+Flavobacterium branchiophilum,0.0010124225193145747
+Novibacillus thermophilus,0.0010111237859285293
+Phaeobacter piscinae,0.001007862552389723
+Sphingobacterium sp. G1-14,0.001007170814023243
+Buchnera aphidicola,0.0010071109505862055
+Hydrogenophilus thermoluteolus,0.0009948682277684392
+Megasphaera elsdenii,0.0009917006250240907
+Chitinophaga caeni,0.000981041905296615
+Denitrobacterium detoxificans,0.000975671298602557
+Pseudomonas phage phiPsa374,0.0009538182139111986
+Zobellella denitrificans,0.000940054930058936
+Sphingobium indicum,0.0009199118974797841
+Corynebacterium sphenisci,0.0009038225678326815
+Phaeobacter inhibens,0.000901407852059538
+Sphingobacterium sp. ML3W,0.0009006688179979787
+Stenotrophomonas sp. WZN-1,0.0008802262174229127
+Sphingobacterium sp. 21,0.0008787326056694792
+Cellulophaga baltica,0.0008713184396825125
+Polynucleobacter acidiphobus,0.0008703826965589854
+Nitrososphaera viennensis,0.0008632615626015928
+Oblitimonas alkaliphila,0.0008594839486616553
+Photorhabdus laumondii,0.0008498526882433094
+Chlorobium phaeobacteroides,0.0008383534376755541
+Haemophilus influenzae,0.0008250414089759642
+Lysinibacillus sphaericus,0.000820258814948366
+Corynebacterium glyciniphilum,0.0008133366183047972
+Nitrosococcus halophilus,0.0008125172514601964
+Oceanisphaera avium,0.0008056404937344269
+Algoriphagus machipongonensis,0.0008028378230063054
+Dermatophilus congolensis,0.0007982267111371805
+Halobacillus halophilus,0.0007789786188934904
+Sedimentisphaera salicampi,0.0007760830610826543
+Desulfurivibrio alkaliphilus,0.000769293577765674
+Bifidobacterium thermophilum,0.000763898876644546
+Marinobacter hydrocarbonoclasticus,0.0007607800741820353
+Rhodococcus biphenylivorans,0.0007462243174434873
+Capnocytophaga sputigena,0.0007375798293182191
+Yersinia entomophaga,0.0007146731952667471
+Candidatus Nucleicultrix amoebiphila,0.0007136982591343951
+Peptoclostridium acidaminophilum,0.0007040504289032716
+Sphingobacterium mizutaii,0.0006884522763675255
+Methylophilus sp. TWE2,0.0006882470914866676
+Natronomonas pharaonis,0.0006708865077777334
+Leptospirillum ferriphilum,0.0006685921646444814
+Formosa agariphila,0.0006612301081142459
+Paenibacillus physcomitrellae,0.0006434412858496143
+Methylomicrobium alcaliphilum,0.0006424804683800234
+Phytobacter ursingii,0.0006339072160139661
+Thermacetogenium phaeum,0.000625915826803443
+Paracoccus aminophilus,0.0006126234316905821
+Thermoanaerobacter siderophilus,0.000592223541992526
+Spirochaeta thermophila,0.0005784047411224232
+Photorhabdus thracensis,0.000564016705825551
+Syntrophus aciditrophicus,0.000554481754849433
+Megasphaera hexanoica,0.0005447823044944463
+Porphyromonas asaccharolytica,0.0005423185461751379
+Megasphaera stantonii,0.0005389093836707198
+Marinobacter psychrophilus,0.0005353646006557184
+Methanosphaerula palustris,0.0005137961684792008
+Phaeobacter porticola,0.0005132427339244811
+Jonesia denitrificans,0.0005014168022474417
+Oleiphilus messinensis,0.0004851951453735065
+Legionella pneumophila,0.00048317510008415176
+Zhongshania aliphaticivorans,0.0004788737880653726
+Persephonella marina,0.0004770164618769454
+Lachnoclostridium phytofermentans,0.00046419080982622383
+Rhizobium phage 16-3,0.00045657313237974643
+Candidatus Desulfovibrio trichonymphae,0.00045318944749697963
+Aggregatibacter aphrophilus,0.0004309915503949861
+Anaerolinea thermophila,0.0004212242171313399
+Candidatus Planktophila versatilis,0.0004183857551328699
+Oceanisphaera profunda,0.00039639661673529654
+halophilic archaeon DL31,0.0003940910587507065
+Porphyromonas gingivalis,0.00039253754618610967
+Capnocytophaga canimorsus,0.00039181065475427047
+Shewanella psychrophila,0.00038819106809957836
+Methylophaga frappieri,0.0003821221200841767
+Nitrosomonas eutropha,0.0003819352145337153
+Desulfosporosinus acidiphilus,0.00037569730881387576
+Corynebacterium phocae,0.0003694965284071187
+Algoriphagus sp. M8-2,0.0003566998687412947
+Cellulophaga algicola,0.0003536177767705155
+Photobacterium damselae,0.00035187953194497904
+Thiomicrospira aerophila,0.00034777146262785587
+Methylacidiphilum fumariolicum,0.0003449076788183345
+Tropheryma whipplei,0.00033127616550860756
+Chamaesiphon minutus,0.0003308472890839526
+Lacimicrobium alkaliphilum,0.00032784372471791754
+Syntrophomonas wolfei,0.00032737694552097086
+Denitrovibrio acetiphilus,0.00032359089888195656
+Waddlia chondrophila,0.0003190697587915376
+Sedimentisphaera cyanobacteriorum,0.00031833747558928467
+Paraglaciecola psychrophila,0.00031795773708048774
+Phytobacter sp. SCO41,0.00031790850534413914
+Stenotrophomonas sp. YAU14A_MKIMI4_1,0.00031294329260894753
+Syntrophobotulus glycolicus,0.0003078582890201565
+Microchaete diplosiphon,0.0003043675999325148
+Fictibacillus phosphorivorans,0.00030163594706291075
+Sphaerochaeta coccoides,0.0002960135511653106
+Desulfobacterium autotrophicum,0.00028908298116268443
+Sphaerospermopsis kisseleviana,0.00028764179807272216
+Bacillus phage BM5,0.00028223969326126967
+Lachnoclostridium phocaeense,0.0002781998912332455
+Gloeomargarita lithophora,0.0002766498491619812
+Thermotoga petrophila,0.00027640729705637494
+Photobacterium gaetbulicola,0.00026621549032249754
+Vibrio scophthalmi,0.00025204748249438687
+Thermodesulfobium acidiphilum,0.0002495254755423681
+Candidatus Planktophila dulcis,0.00023989028889835138
+Capnocytophaga stomatis,0.00023201246633836422
+Pelodictyon phaeoclathratiforme,0.00022426188265922228
+Candidatus Planktophila lacus,0.00022107550299513057
+Candidatus Protochlamydia naegleriophila,0.00022025375309222745
+Carboxydocella thermautotrophica,0.00021519192271282923
+Phoenicibacter massiliensis,0.0002102187720708267
+Arcanobacterium phocae,0.00019670183434670875
+Proteiniphilum saccharofermentans,0.00019632329444056526
+Desulfotalea psychrophila,0.000179674729588253
+Pseudodesulfovibrio piezophilus,0.0001577838237656962
+Shewanella denitrificans,0.00015582726500562808
+Syntrophothermus lipocalidus,0.0001553231282666744
+Sphaerochaeta globosa,0.00014994270381919818
+Chlorobium phaeovibrioides,0.00014405896390637062
+Stenotrophomonas nitritireducens,0.000139102994737874
+[Clostridium] sphenoides,0.00013814704198577125
+Bathymodiolus septemdierum thioautotrophic gill symbiont,0.0001377377387117625
+Capnocytophaga haemolytica,0.00011880604529310483
+Candidatus Azobacteroides pseudotrichonymphae,0.00010096389001086065
+Capnocytophaga leadbetteri,8.655446761319458e-05
+Staphylococcus epidermidis,6.923974857295524e-05
+Candidatus Methanomethylophilus alvus,4.7360490788297766e-05

@@ -1,0 +1,32 @@
+{
+  "n_samples": 105,
+  "x_input_shape": [
+    105,
+    3059
+  ],
+  "y_input_shape": [
+    105,
+    652
+  ],
+  "n_soil_columns": 387,
+  "n_metagenomics_columns": 2672,
+  "meta_nan_total_before_imputation": 0,
+  "soil_nan_total_before_imputation": 102,
+  "meta_nan_total_after_imputation": 0,
+  "soil_nan_total_after_imputation": 0,
+  "x_meta_pca_shape": [
+    105,
+    50
+  ],
+  "x_final_shape": [
+    105,
+    437
+  ],
+  "y_top_shape": [
+    105,
+    50
+  ],
+  "x_pca_n_components": 50,
+  "x_pca_total_explained_variance": 0.9295499044119809,
+  "y_top_n_metabolites": 50
+}

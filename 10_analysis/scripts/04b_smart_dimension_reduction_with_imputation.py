@@ -62,7 +62,7 @@ def main():
     output_dir = repo_root / "10_analysis" / "outputs" / "phase3_smart_reduction_imputed"
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    x_path = input_dir / "X_ml_filtered.csv"
+    x_path = repo_root / "10_analysis" / "outputs" / "phase3_soil_dedup" / "X_deduplicated.csv"
     y_path = input_dir / "Y_ml_filtered_log1p.csv"
     ids_path = input_dir / "sample_ids.csv"
 
