@@ -1,0 +1,13 @@
+{
+  "n_metabolites_tuned": 47,
+  "mean_baseline_rf_r2": 0.3055932922256968,
+  "mean_tuned_rf_r2": 0.33932353725292563,
+  "median_baseline_rf_r2": 0.2856814292331583,
+  "median_tuned_rf_r2": 0.32187980033299546,
+  "mean_r2_improvement": 0.03373024502722885,
+  "n_improved_metabolites": 46,
+  "n_worse_metabolites": 1,
+  "n_tuned_r2_gt_0_2": 45,
+  "n_tuned_r2_gt_0_4": 10,
+  "n_tuned_r2_gt_0_6": 2
+}
