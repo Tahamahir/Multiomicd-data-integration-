@@ -1,0 +1,2 @@
+n_metabolites_analyzed,n_total_features,n_soil_features,n_mg_features,mean_cv_r2_analyzed,mean_soil_importance_fraction,mean_mg_importance_fraction
+10,3059,20,3039,0.5125343379468761,0.02899968783592698,0.9710003269721019

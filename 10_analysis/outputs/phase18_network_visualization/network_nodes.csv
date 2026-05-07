@@ -1,0 +1,407 @@
+node,node_type,degree
+Acidiferrobacter sp. SPIII_3,MG,2
+Acidihalobacter ferrooxidans,MG,1
+Acidisphaera sp. G45-3,MG,3
+Acidobacteriaceae bacterium SBC82,MG,2
+Acidobacterium capsulatum,MG,2
+Acidothermus cellulolyticus,MG,1
+Acinetobacter calcoaceticus,MG,1
+Acinetobacter sp. WCHAc010034,MG,1
+Actinoalloteichus sp. GBA129-24,MG,2
+Actinomadura amylolytica,MG,8
+Actinomyces sp. VUL4_3,MG,5
+Actinomyces sp. oral taxon 414,MG,1
+Actinomyces sp. oral taxon 897,MG,1
+Actinoplanes derwentensis,MG,1
+Actinoplanes friuliensis,MG,1
+Actinoplanes sp. N902-109,MG,1
+Actinoplanes teichomyceticus,MG,2
+Actinopolymorpha singaporensis,MG,1
+Advenella kashmirensis,MG,2
+Aeromicrobium sp. 592,MG,1
+Aeromonas media,MG,1
+Agrobacterium fabrum,MG,1
+Ahniella affigens,MG,1
+Alcanivorax sp. N3-2A,MG,2
+Allokutzneria albata,MG,5
+Amycolatopsis japonica,MG,1
+Amycolatopsis keratiniphila,MG,2
+Amycolatopsis methanolica,MG,4
+Amycolatopsis orientalis,MG,7
+Amycolatopsis sp. AA4,MG,2
+Amycolatopsis sp. BJA-103,MG,3
+Aromatoleum aromaticum,MG,1
+Arthrobacter alpinus,MG,1
+Arthrobacter sp. DCT-5,MG,2
+Arthrobacter sp. ERGS1:01,MG,2
+Arthrobacter sp. FB24,MG,1
+Arthrobacter sp. Rue61a,MG,1
+Azoarcus sp. CIB,MG,1
+Azoarcus sp. SY39,MG,1
+Azospira oryzae,MG,4
+Bacillus clausii,MG,2
+Bacillus simplex,MG,1
+Bdellovibrio bacteriovorus,MG,1
+Bifidobacterium angulatum,MG,2
+Bifidobacterium breve,MG,1
+Bifidobacterium longum,MG,2
+Bordetella pertussis,MG,5
+Bordetella sp. H567,MG,1
+Bosea sp. AS-1,MG,1
+Brachybacterium saurashtrense,MG,1
+Bradyrhizobium erythrophlei,MG,6
+Bradyrhizobium icense,MG,2
+Bradyrhizobium lablabi,MG,3
+Bradyrhizobium oligotrophicum,MG,1
+Bradyrhizobium sp. BTAi1,MG,1
+Bradyrhizobium sp. CCGE-LA001,MG,1
+Bradyrhizobium sp. S23321,MG,1
+Bradyrhizobium sp. WSM471,MG,1
+Brucella suis,MG,1
+Burkholderia cenocepacia,MG,1
+Burkholderia pseudomallei,MG,1
+Burkholderia sp. CCGE1003,MG,1
+Candidatus Koribacter versatilis,MG,3
+Candidatus Solibacter usitatus,MG,9
+Catenulispora acidiphila,MG,12
+Caulobacter flavus,MG,2
+Caulobacter vibrioides,MG,1
+Celeribacter manganoxidans,MG,1
+Cellulomonas fimi,MG,1
+Cellvibrio japonicus,MG,1
+Chloracidobacterium thermophilum,MG,1
+Chryseolinea sp. KIS68-18,MG,4
+Citrobacter freundii complex sp. CFNIH2,MG,1
+Clavibacter michiganensis,MG,1
+Clostridium estertheticum,MG,1
+Conexibacter woesei,MG,1
+Corynebacterium camporealensis,MG,5
+Cupriavidus oxalaticus,MG,1
+Cupriavidus pauculus,MG,2
+Cupriavidus sp. USMAHM13,MG,1
+Cupriavidus taiwanensis,MG,1
+Dermacoccus nishinomiyaensis,MG,2
+Dickeya chrysanthemi,MG,1
+Enterobacter asburiae,MG,1
+Enterobacter ludwigii,MG,3
+Flavobacterium commune,MG,1
+Flavobacterium indicum,MG,2
+Fluviicola taffensis,MG,1
+Frankia alni,MG,1
+Frankia casuarinae,MG,1
+Frankia inefficax,MG,1
+Frankia sp. EAN1pec,MG,2
+Frankia sp. QA3,MG,2
+Frankia symbiont of Datisca glomerata,MG,4
+Frondihabitans sp. PAMC 28766,MG,1
+Gemmata sp. SH-PL17,MG,1
+Glutamicibacter arilaitensis,MG,2
+Gordonia iterans,MG,1
+Gordonia sp. MMS17-SY073,MG,1
+Granulibacter bethesdensis,MG,1
+Granulicella mallensis,MG,3
+Granulicella tundricola,MG,2
+Halalkalicoccus jeotgali,MG,1
+Halodesulfurarchaeum formicicum,MG,1
+Halomonas sp. JS92-SW72,MG,6
+Halothiobacillus neapolitanus,MG,2
+Hippea maritima,MG,1
+Homo sapiens,MG,4
+Hoyosella subflava,MG,1
+Hymenobacter sedentarius,MG,2
+Hymenobacter sp. APR13,MG,1
+Hymenobacter sp. DG25B,MG,6
+Hymenobacter sp. sh-6,MG,1
+Idiomarina sp. OT37-5b,MG,1
+Intrasporangium calvum,MG,2
+Janthinobacterium agaricidamnosum,MG,2
+Janthinobacterium sp. LM6,MG,1
+Janthinobacterium svalbardensis,MG,2
+Jatrophihabitans sp. GAS493,MG,3
+Kibdelosporangium phytohabitans,MG,2
+Kitasatospora albolonga,MG,2
+Kitasatospora aureofaciens,MG,21
+Kitasatospora setae,MG,16
+Kitasatospora sp. MMS16-BH015,MG,19
+Kocuria palustris,MG,2
+Kocuria sp. BT304,MG,1
+Kocuria turfanensis,MG,1
+Komagataeibacter xylinus,MG,2
+Kosakonia radicincitans,MG,2
+Kutzneria albida,MG,6
+Kytococcus sedentarius,MG,2
+Lactobacillus fermentum,MG,1
+Lacunisphaera limnophila,MG,1
+Laribacter hongkongensis,MG,1
+Leadbetterella byssophila,MG,1
+Leifsonia sp. 21MFCrub1.1,MG,1
+Lentzea guizhouensis,MG,2
+Luteibacter rhizovicinus,MG,1
+Maribacter sp. T28,MG,1
+Marinobacter sp. LQ44,MG,1
+Marivirga tractuosa,MG,1
+Mesorhizobium amorphae,MG,3
+Mesorhizobium ciceri,MG,2
+Mesorhizobium sp. WSM1497,MG,1
+Methylobacillus flagellatus,MG,3
+Methylobacterium sp. XJLW,MG,1
+Methylomonas koyamae,MG,1
+Methylophaga nitratireducenticrescens,MG,1
+Methylosinus trichosporium,MG,1
+Methylotenera versatilis,MG,4
+Microbacterium foliorum,MG,2
+Microbacterium hominis,MG,1
+Microbacterium paraoxydans,MG,1
+Microbacterium sp. PAMC 28756,MG,2
+Micrococcus luteus,MG,1
+Microlunatus phosphovorus,MG,1
+Micromonospora auratinigra,MG,3
+Micromonospora chokoriensis,MG,1
+Micromonospora echinofusca,MG,1
+Micromonospora echinospora,MG,1
+Micromonospora inositola,MG,3
+Micromonospora krabiensis,MG,1
+Micromonospora narathiwatensis,MG,3
+Micromonospora purpureochromogenes,MG,1
+Micromonospora rifamycinica,MG,1
+Micromonospora viridifaciens,MG,1
+Microterricola viridarii,MG,1
+Mobiluncus curtisii,MG,1
+Mucilaginibacter sp. BJC16-A31,MG,1
+Mycobacterium avium,MG,1
+Mycobacterium canettii,MG,1
+Mycobacterium chimaera,MG,1
+Mycobacterium colombiense,MG,4
+Mycobacterium haemophilum,MG,2
+Mycobacterium kansasii,MG,1
+Mycobacterium liflandii,MG,1
+Mycobacterium marseillense,MG,4
+Mycobacterium pseudoshottsii,MG,1
+Mycobacterium shigaense,MG,4
+Mycobacterium sp. YC-RL4,MG,1
+Nakamurella multipartita,MG,3
+Nakamurella panacisegetis,MG,6
+Neisseria subflava,MG,1
+Niabella ginsenosidivorans,MG,1
+Nitrobacter hamburgensis,MG,1
+Nitrosomonas communis,MG,1
+Nocardia cyriacigeorgica,MG,1
+Nocardia farcinica,MG,2
+Nocardia seriolae,MG,1
+Nocardia sp. CFHS0054,MG,2
+Nocardia terpenica,MG,2
+Nocardiopsis alba,MG,4
+Nocardiopsis dassonvillei,MG,7
+Nocardiopsis gilva,MG,5
+Nonomuraea sp. ATCC 55076,MG,5
+Novosphingobium resinovorum,MG,1
+Novosphingobium sp. P6W,MG,2
+Ochrobactrum sp. A44,MG,1
+Opitutaceae bacterium TAV5,MG,1
+Opitutus sp. GAS368,MG,4
+Oxalobacter formigenes,MG,1
+Paludisphaera borealis,MG,2
+Pantoea agglomerans,MG,1
+Paraburkholderia caffeinilytica,MG,1
+Paraburkholderia caledonica,MG,1
+Paraburkholderia sprentiae,MG,1
+Paracoccus denitrificans,MG,1
+Phycicoccus dokdonensis,MG,1
+Planctomyces sp. SH-PL62,MG,3
+Plantactinospora sp. KBS50,MG,1
+Polynucleobacter asymbioticus,MG,4
+Polynucleobacter difficilis,MG,1
+Prevotella denticola,MG,1
+Prevotella intermedia,MG,2
+Pseudarthrobacter phenanthrenivorans,MG,1
+Pseudoalteromonas rubra,MG,1
+Pseudolabrys taiwanensis,MG,3
+Pseudomonas alcaliphila,MG,1
+Pseudomonas azotoformans,MG,1
+Pseudomonas chlororaphis,MG,1
+Pseudomonas entomophila,MG,3
+Pseudomonas fragi,MG,2
+Pseudomonas frederiksbergensis,MG,1
+Pseudomonas fulva,MG,1
+Pseudomonas granadensis,MG,2
+Pseudomonas kribbensis,MG,2
+Pseudomonas lini,MG,2
+Pseudomonas lurida,MG,1
+Pseudomonas mendocina,MG,1
+Pseudomonas moraviensis,MG,1
+Pseudomonas mosselii,MG,1
+Pseudomonas mucidolens,MG,1
+Pseudomonas prosekii,MG,1
+Pseudomonas protegens,MG,1
+Pseudomonas putida,MG,1
+Pseudomonas reinekei,MG,7
+Pseudomonas silesiensis,MG,2
+Pseudomonas sp. 7SR1,MG,1
+Pseudomonas sp. ATCC 13867,MG,1
+Pseudomonas sp. B10,MG,1
+Pseudomonas sp. CC6-YY-74,MG,1
+Pseudomonas sp. CMR12a,MG,1
+Pseudomonas sp. DR 5-09,MG,1
+Pseudomonas sp. DY-1,MG,3
+Pseudomonas sp. JY-Q,MG,1
+Pseudomonas sp. K2W31S-8,MG,2
+Pseudomonas sp. LH1G9,MG,1
+Pseudomonas sp. MYb193,MG,2
+Pseudomonas sp. NC02,MG,1
+Pseudomonas sp. R11-23-07,MG,1
+Pseudomonas sp. R4-39-08,MG,1
+Pseudomonas sp. TMW 2.1634,MG,2
+Pseudomonas sp. URMO17WK12:I11,MG,1
+Pseudomonas sp. Z003-0.4C(8344-21),MG,2
+Pseudomonas sp. s211(2017),MG,1
+Pseudomonas syringae group genomosp. 3,MG,2
+Pseudomonas thivervalensis,MG,1
+Pseudomonas umsongensis,MG,9
+Pseudonocardia dioxanivorans,MG,1
+Pseudonocardia sp. AL041005-10,MG,3
+Pseudonocardia sp. HH130629-09,MG,1
+Pseudonocardia sp. HH130630-07,MG,1
+Psychrobacter sp. AntiMn-1,MG,1
+Rhizobium favelukesii,MG,1
+Rhizobium gallicum,MG,1
+Rhizobium jaguaris,MG,2
+Rhizobium leguminosarum,MG,4
+Rhizobium phage RHEph10,MG,1
+Rhizobium sp. CCGE532,MG,1
+Rhizobium sp. NXC24,MG,1
+Rhodococcus coprophilus,MG,1
+Rhodococcus erythropolis,MG,1
+Rhodococcus hoagii,MG,1
+Rhodococcus rhodochrous,MG,1
+Rhodococcus sp. 008,MG,1
+Rhodococcus sp. MTM3W5.2,MG,1
+Rhodococcus sp. S2-17,MG,1
+Rhodococcus sp. YL-1,MG,1
+Rhodococcus sp. p52,MG,3
+Rhodopseudomonas palustris,MG,1
+Roseobacter denitrificans,MG,2
+Rothia mucilaginosa,MG,1
+Rubrobacter radiotolerans,MG,1
+Saccharomonospora marina,MG,1
+Saccharopolyspora erythraea,MG,1
+Saccharothrix espanaensis,MG,4
+Salinibacter ruber,MG,1
+Salinibacterium sp. CGMCC 1.16371,MG,1
+Serinicoccus sp. JLT9,MG,1
+Shewanella sediminis,MG,1
+Singulisphaera acidiphila,MG,1
+Sinomonas atrocyanea,MG,2
+Sphingomonas indica,MG,1
+Sphingomonas koreensis,MG,1
+Sphingomonas sp. Cra20,MG,1
+Sphingomonas sp. LM7,MG,1
+Sphingopyxis sp. LPB0140,MG,1
+Spongiibacter sp. IMCC21906,MG,3
+Streptacidiphilus sp. DSM 106435,MG,16
+Streptomyces actuosus,MG,2
+Streptomyces alboflavus,MG,1
+Streptomyces albulus,MG,1
+Streptomyces ambofaciens,MG,1
+Streptomyces autolyticus,MG,3
+Streptomyces cattleya,MG,3
+Streptomyces clavuligerus,MG,1
+Streptomyces coelicolor,MG,1
+Streptomyces collinus,MG,1
+Streptomyces fungicidicus,MG,1
+Streptomyces globosus,MG,3
+Streptomyces hygroscopicus,MG,1
+Streptomyces katrae,MG,2
+Streptomyces lincolnensis,MG,1
+Streptomyces lydicus,MG,1
+Streptomyces malaysiensis,MG,1
+Streptomyces olivaceus,MG,1
+Streptomyces olivoreticuli,MG,1
+Streptomyces pactum,MG,1
+Streptomyces phage Nanodon,MG,1
+Streptomyces phage phiHau3,MG,1
+Streptomyces puniciscabiei,MG,1
+Streptomyces qaidamensis,MG,1
+Streptomyces rubrolavendulae,MG,1
+Streptomyces scabiei,MG,2
+Streptomyces sp. 769,MG,1
+Streptomyces sp. CMB-StM0423,MG,1
+Streptomyces sp. CNQ-509,MG,2
+Streptomyces sp. CdTB01,MG,1
+Streptomyces sp. Go-475,MG,1
+Streptomyces sp. NEAU-S7GS2,MG,1
+Streptomyces sp. P3,MG,1
+Streptomyces sp. RTd22,MG,1
+Streptomyces sp. SCSIO 03032,MG,12
+Streptomyces sp. TLI_053,MG,20
+Streptomyces vietnamensis,MG,1
+Streptomyces violaceusniger,MG,1
+Streptomyces virus Caliburn,MG,1
+Streptomyces virus R4,MG,1
+Streptomyces virus phiBT1,MG,1
+Streptomyces xiamenensis,MG,8
+Streptomyces xinghaiensis,MG,1
+Streptosporangium roseum,MG,8
+Streptosporangium sp. 'caverna',MG,8
+Sulfurihydrogenibium sp. YO3AOP1,MG,6
+Sulfuritalea hydrogenivorans,MG,1
+Terriglobus roseus,MG,4
+Terriglobus saanensis,MG,1
+Thauera aromatica,MG,1
+Thauera chlorobenzoica,MG,1
+Thauera sp. MZ1T,MG,1
+Thermanaerovibrio velox,MG,2
+Thermobifida fusca,MG,3
+Thermobispora bispora,MG,4
+Thermomonospora curvata,MG,6
+Vibrio coralliilyticus,MG,1
+Weeksella virosa,MG,1
+Wolbachia endosymbiont of Brugia malayi,MG,1
+Wolbachia endosymbiont of Drosophila melanogaster,MG,1
+Xanthomonas axonopodis,MG,1
+Xylanimonas cellulosilytica,MG,1
+C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,MB,25
+C18_negative|IK:BJEPYKJPYRNKOW-REOHCLBHSA-N,MB,22
+C18_negative|IK:BJRNKVDFDLYUGJ-RMPHRYRLSA-N,MB,22
+C18_negative|IK:CKEXCBVNKRHAMX-UHFFFAOYSA-N,MB,23
+C18_negative|IK:GHOKWGTUZJEAQD-UHFFFAOYSA-N,MB,20
+C18_negative|IK:GUNGQVJAKLIYDG-JXMROGBWSA-N,MB,21
+C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,MB,16
+C18_negative|IK:HMUJXQRRKBLVOO-UHFFFAOYSA-N,MB,20
+C18_negative|IK:IQFYYKKMVGJFEH-UHFFFAOYSA-N,MB,14
+C18_negative|IK:KDYFGRWQOYBRFD-UHFFFAOYSA-N,MB,21
+C18_negative|IK:LJCWONGJFPCTTL-ZETCQYMHSA-N,MB,5
+C18_negative|IK:LTSJJOKAWSCMBC-UHFFFAOYSA-N,MB,13
+C18_negative|IK:NGFMICBWJRZIBI-UHFFFAOYSA-N,MB,25
+C18_negative|IK:OKVJCVWFVRATSG-UHFFFAOYSA-N,MB,3
+C18_negative|IK:PVWALMCXZUMCBB-UHFFFAOYSA-N,MB,5
+C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,MB,25
+C18_negative|IK:UGAGPNKCDRTDHP-UHFFFAOYSA-N,MB,18
+C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,MB,15
+C18_negative|IK:ZWNLSRDFHQCTQW-UHFFFAOYSA-N,MB,18
+C18_negative|NAME:,MB,13
+C18_positive|IK:GHOKWGTUZJEAQD-UHFFFAOYSA-N,MB,18
+C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,MB,12
+C18_positive|IK:IBMRTYCHDPMBFN-UHFFFAOYSA-N,MB,25
+C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,MB,19
+C18_positive|IK:LWYJCVVIVLBLID-UHFFFAOYSA-N,MB,20
+C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,MB,19
+C18_positive|IK:NGFMICBWJRZIBI-UHFFFAOYSA-N,MB,3
+C18_positive|IK:OVASVJPBDPJABT-UHFFFAOYSA-N,MB,25
+C18_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,MB,7
+C18_positive|IK:PRYIJAGAEJZDBO-ZEQHCUNVSA-N,MB,19
+C18_positive|IK:PUQSUZTXKPLAPR-UJPOAAIJSA-N,MB,18
+C18_positive|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,MB,3
+C18_positive|IK:RGHMISIYKIHAJW-UHFFFAOYSA-N,MB,16
+C18_positive|IK:WCGUUGGRBIKTOS-UHFFFAOYSA-N,MB,16
+C18_positive|NAME:,MB,19
+HILICZ_negative|IK:AAWZDTNXLSGCEK-LNVDRNJUSA-N,MB,14
+HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,MB,9
+HILICZ_negative|IK:JVQYSWDUAOAHFM-UHFFFAOYSA-N,MB,25
+HILICZ_negative|IK:LWYJCVVIVLBLID-UHFFFAOYSA-N,MB,21
+HILICZ_negative|IK:QZZGJDVWLFXDLK-UHFFFAOYSA-N,MB,3
+HILICZ_negative|IK:SLWWJZMPHJJOPH-PHDIDXHHSA-N,MB,2
+HILICZ_positive|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,MB,22
+HILICZ_positive|IK:KWIUHFFTVRNATP-UHFFFAOYSA-N,MB,16
+HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,MB,20
+HILICZ_positive|IK:SIOXPEMLGUPBBT-UHFFFAOYSA-N,MB,15
+HILICZ_positive|IK:XPCTZQVDEJYUGT-UHFFFAOYSA-N,MB,19
