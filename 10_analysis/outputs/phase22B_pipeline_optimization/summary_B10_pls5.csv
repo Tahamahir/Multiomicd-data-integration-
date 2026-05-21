@@ -1,0 +1,2 @@
+experiment_id,rare_filter,feature_selection,fs_top_k,dim_reduction,n_components,integration,model,n_samples,n_features_after_filter,n_mg_features_after_filter,n_soil_features_after_filter,n_metabolites,mean_r2,median_r2,max_r2,std_r2,n_r2_gt_0,n_r2_gt_02,n_r2_gt_04,n_r2_gt_06,mean_spearman,runtime_sec
+B10_pls5,0.05,none,,none,,early,pls5,105,3059,2568,491,47,-0.7086067931364991,-0.4371113314094546,0.4487639338159596,1.176809920749071,13,7,2,0,0.4708963874532529,15.86

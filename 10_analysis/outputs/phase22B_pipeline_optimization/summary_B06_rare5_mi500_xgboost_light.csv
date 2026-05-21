@@ -1,0 +1,2 @@
+experiment_id,rare_filter,feature_selection,fs_top_k,dim_reduction,n_components,integration,model,n_samples,n_features_after_filter,n_mg_features_after_filter,n_soil_features_after_filter,n_metabolites,mean_r2,median_r2,max_r2,std_r2,n_r2_gt_0,n_r2_gt_02,n_r2_gt_04,n_r2_gt_06,mean_spearman,runtime_sec
+B06_rare5_mi500_xgboost_light,0.05,mutual_info,500,none,,early,xgboost_light,105,3059,2568,491,47,0.28456621829449147,0.2652699845507157,0.6182970410976716,0.1252192102896628,46,40,9,2,0.5224471762964878,462.97
