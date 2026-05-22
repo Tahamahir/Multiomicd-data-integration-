@@ -1,0 +1,2 @@
+experiment_id,mean_r2,median_r2,max_r2,std_r2,n_r2_gt_0,n_r2_gt_02,n_r2_gt_04,n_r2_gt_06,runtime_sec
+DR20_late_mi500_sparsepca100_rf,0.3372087962569033,0.3165681868760104,0.6889804933971291,0.10689547037308786,47,43,10,2,5034.19
