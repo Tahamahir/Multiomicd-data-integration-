@@ -1,2 +1,2 @@
 experiment_id,mean_r2,median_r2,max_r2,std_r2,n_r2_gt_0,n_r2_gt_02,n_r2_gt_04,n_r2_gt_06,runtime_sec,mi_k,n_components,sparsepca_alpha,mg_weight,soil_weight,rf_name,n_estimators,max_features,min_samples_leaf,max_depth
-T266_mi500_spca75_a10_w7_rf_a,0.33826433839478653,0.3238999024311968,0.6890519033042923,0.1089422426393102,47,44,10,1,5221.44,500,75,1.0,0.7,0.30000000000000004,rf_a,500,sqrt,2,
+T246_mi500_spca75_a05_w7_rf_a,0.331928684021607,0.3210043383808546,0.686487358123559,0.10737410169148069,47,43,10,1,5732.58,500,75,0.5,0.7,0.30000000000000004,rf_a,500,sqrt,2,

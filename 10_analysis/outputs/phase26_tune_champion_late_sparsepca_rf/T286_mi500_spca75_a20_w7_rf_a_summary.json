@@ -1,0 +1,22 @@
+{
+  "experiment_id": "T286_mi500_spca75_a20_w7_rf_a",
+  "mean_r2": 0.33676034508326397,
+  "median_r2": 0.3204012953161912,
+  "max_r2": 0.6868951169696399,
+  "std_r2": 0.10873898676393205,
+  "n_r2_gt_0": 47,
+  "n_r2_gt_02": 42,
+  "n_r2_gt_04": 11,
+  "n_r2_gt_06": 1,
+  "runtime_sec": 2757.05,
+  "mi_k": 500,
+  "n_components": 75,
+  "sparsepca_alpha": 2.0,
+  "mg_weight": 0.7,
+  "soil_weight": 0.30000000000000004,
+  "rf_name": "rf_a",
+  "n_estimators": 500,
+  "max_features": "sqrt",
+  "min_samples_leaf": 2,
+  "max_depth": null
+}
