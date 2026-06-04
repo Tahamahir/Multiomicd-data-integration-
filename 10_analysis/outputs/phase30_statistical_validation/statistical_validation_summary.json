@@ -1,0 +1,9 @@
+{
+  "n_metabolites": 47,
+  "n_pipelines": 47,
+  "best_pipeline_by_mean_r2": "T266_mi500_spca75_a10_w7_rf_a",
+  "best_mean_r2": 0.33826433839478653,
+  "best_median_r2": 0.3238999024311968,
+  "friedman_pvalue": 4.4078605573582547e-243,
+  "friedman_significant_005": true
+}
