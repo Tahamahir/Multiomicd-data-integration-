@@ -1,0 +1,21 @@
+feature,mean_abs_shap
+nitrif__Rate (mg NO3-N/kilogram dry weight soil/day),0.6430514997991394
+soil_total_N,0.6357901028882021
+soil_total_C,0.4781515273646089
+soil_NH4,0.44117878797118576
+moist__Replicate 1 Mass Water / Mass Dry Soil %,0.39114546638770764
+soil_pH,0.31190429322478036
+chem__LBCeq (mg/kg CaCO3/pH dry weight),0.24770352804677637
+chem__LBC (mg/kg CaCO3/pH dry weight),0.22267917099814016
+soil_NO3,0.19933512054014876
+psize__Soil Sand Content %,0.17558706783887165
+chem__Mn (Mehlich 1 mg/kg dry weight),0.11997440992143561
+denit__Rate (microgN/kilogram dry weight soil/day),0.09649343777521578
+chem__P (Mehlich 1 mg/kg dry weight),0.08389056027534186
+psize__Soil Clay Content %,0.055874709612427714
+psize__Soil Silt Content %,0.055075969770548155
+chem__K (Mehlich 1 mg/kg dry weight),0.0510077141939354
+chem__Mg (Mehlich 1 mg/kg dry weight),0.04435604263893184
+chem__Zn (Mehlich 1 mg/kg dry weight),0.04287624184261482
+chem__Ca (Mehlich 1 mg/kg dry weight),0.038506694422582366
+nitrif__Technical Replicate,0.028089445528039925
