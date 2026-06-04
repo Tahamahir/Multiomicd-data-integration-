@@ -1,0 +1,15 @@
+Loaded X=(105, 3059), Y=(105, 47)
+MG=3039, Soil=20
+Running Repeated CV: 5 folds × 10 repeats
+{
+  "experiment": "T266_repeatedCV_5x10",
+  "mean_r2": 0.328298182208367,
+  "median_r2": 0.312912541562394,
+  "std_r2": 0.11520873309977285,
+  "max_r2": 0.6878560954630335,
+  "n_r2_gt_0": 47,
+  "n_r2_gt_02": 41,
+  "n_r2_gt_04": 9,
+  "n_r2_gt_06": 1,
+  "runtime_sec": 49303.28
+}

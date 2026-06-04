@@ -56,7 +56,9 @@ def rf(params):
 def predict_one_metabolite(X, y, mg_cols, soil_cols, cv, params):
     preds = np.zeros(len(y))
 
-    for train_idx, test_idx in cv.split(X):
+    splits = cv.split(X) if hasattr(cv, "split") else cv
+
+    for train_idx, test_idx in splits:
         X_train_mg = X.iloc[train_idx][mg_cols]
         X_test_mg = X.iloc[test_idx][mg_cols]
 
