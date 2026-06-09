@@ -6,12 +6,18 @@
 #SBATCH --output=logs/P31_%j.out
 #SBATCH --error=logs/P31_%j.err
 
-module load Anaconda3
-source /srv/software/easybuild/software/Anaconda3/2024.06-1/etc/profile.d/conda.sh
+cd /home/taha.mahir/Multiomicd-data-integration-
 
-conda activate multiomics22
+echo "HOSTNAME:"
+hostname
 
-cd ~/Multiomicd-data-integration-
+echo "PYTHON USED:"
+/home/taha.mahir/.conda/envs/multiomics22/bin/python -c "import sys; print(sys.executable)"
 
-python \
+echo "CHECK XGBOOST:"
+/home/taha.mahir/.conda/envs/multiomics22/bin/python -c "from xgboost import XGBRegressor; print('xgboost OK')"
+
+echo "START PHASE31"
+
+/home/taha.mahir/.conda/envs/multiomics22/bin/python \
 10_analysis/scripts/31_best_model_per_metabolite.py
