@@ -1,0 +1,2 @@
+n_metabolites,n_mg_features,n_tested_pairs,n_significant_pairs,n_positive_significant,n_negative_significant,fdr_alpha,min_abs_rho
+30,3039,6000,5738,3481,2257,0.05,0.25
