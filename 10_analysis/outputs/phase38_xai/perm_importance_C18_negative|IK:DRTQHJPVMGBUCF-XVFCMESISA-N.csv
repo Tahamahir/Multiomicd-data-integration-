@@ -1,0 +1,3060 @@
+feature,importance
+psize__Soil Clay Content %,0.05558278471449809
+Methylotenera mobilis,0.05113641739416856
+Enterobacter sp. 638,0.04513386151334029
+Polaribacter sp. SA4-10,0.0300162907517852
+Xanthomonas campestris,0.022428642838694057
+Pseudomonas koreensis,0.01612687251440865
+Caulobacter sp. K31,0.013976342349989568
+psize__Soil Silt Content %,0.010040677544281862
+Helicobacter pylori,0.009051439535442563
+Alcaligenes faecalis,0.007878789526129326
+Pantoea rwandensis,0.007338950115521481
+chem__Mg (Mehlich 1 mg/kg dry weight),0.006763486557838916
+Lysobacter gummosus,0.006591136236901951
+Methylomonas clara,0.006015609429045421
+Azotobacter vinelandii,0.005807392837539016
+Mycobacterium sp. YC-RL4,0.0057177215804921746
+Microcystis sp. MC19,0.005567598007774244
+Neisseria gonorrhoeae,0.0053047596463547285
+Mycolicibacterium gilvum,0.004595029977393317
+Algoriphagus machipongonensis,0.004416059218222745
+Paenibacillus xylanexedens,0.00438070497428431
+Synechococcus sp. JA-2-3B'a(2-13),0.004187408729152531
+Rhodococcus sp. P1Y,0.004109776167950385
+Flavobacterium psychrophilum,0.003920907091680715
+Chryseolinea sp. KIS68-18,0.003847335547472008
+Variovorax sp. PMC12,0.0038080819475412976
+Caulobacter vibrioides,0.003690572612208265
+Pseudomonas sp. R4-34-07,0.003306425046236372
+Clostridium estertheticum,0.003128937711480262
+Polaromonas sp. SP1,0.0031112254471315826
+Massilia putida,0.0028724916047904838
+Luteitalea pratensis,0.002854732147827854
+Croceibacter atlanticus,0.0027757500202941323
+Xanthomonas albilineans,0.0027253885976022073
+Frateuria aurantia,0.0025818793128279615
+Anabaena sp. 90,0.00236651301845483
+Friedmanniella luteola,0.0022661958377304227
+Mycobacterium dioxanotrophicus,0.002234974976243631
+Mycolicibacterium rutilum,0.0021680724850982047
+halophilic archaeon DL31,0.0021145992495923637
+Anabaena cylindrica,0.0020939088805121964
+Cupriavidus sp. USMAA2-4,0.0020644136945748848
+Bacillus butanolivorans,0.0020376383546655275
+Pseudomonas sp. NC02,0.0020254630176850252
+Agromyces aureus,0.002024315796367282
+Plautia stali symbiont,0.0019394909253483527
+Variovorax boronicumulans,0.001907322138548584
+Burkholderia sp. YI23,0.0018560425961847704
+Candidatus Methylopumilus planktonicus,0.0018247811063551334
+Pseudoxanthomonas spadix,0.0017382029716498603
+Xanthomonas hortorum,0.0017242976643347951
+Pseudomonas sp. S09G 359,0.001690847833409914
+Paenibacillus sp. FSL H7-0737,0.0015984436263492441
+Bradyrhizobium icense,0.0015810081855227808
+Streptomyces virus Sujidade,0.0015771482223676746
+Mycolicibacterium chubuense,0.0015104404719026299
+Pseudomonas yamanorum,0.0014996126553324495
+moist__Replicate 1 Mass Water / Mass Dry Soil %,0.001474718636785033
+Paenibacillus sp. JDR-2,0.0014402738491211097
+Anabaena sp. WA102,0.0014169067012531843
+Clostridium saccharoperbutylacetonicum,0.0013991200233142598
+Bacillus simplex,0.0013933928437964704
+Chitinophaga pinensis,0.0013893993606384659
+Bacteroides dorei,0.0013491294203578752
+Aeromonas sp. ASNIH7,0.0013449418599597474
+Mycobacterium sp. QIA-37,0.0013410811870657956
+Delftia acidovorans,0.0012773499260044564
+Burkholderia sp. RPE67,0.0012162364335056796
+Rhodococcus coprophilus,0.0012123260147459014
+Candidatus Methylopumilus turicensis,0.0012117213623288991
+Microbacterium foliorum,0.0012002574610407545
+[Mycobacterium] stephanolepidis,0.0011514660784554876
+Betaproteobacteria bacterium GR16-43,0.0010835982438736958
+Melittangium boletus,0.0010239808085481083
+Burkholderia sp. HB1,0.000995734438886564
+Flavobacterium gilvum,0.000983220339590396
+chem__P (Mehlich 1 mg/kg dry weight),0.0009575045342059329
+Microbacterium sp. TPU 3598,0.0009570896002626839
+Rhizobium leguminosarum,0.0009543205629927165
+Paenibacillus sp. FSL R5-0912,0.0009516778387800961
+Mycolicibacterium vanbaalenii,0.0009495639546197587
+Parabacteroides sp. CT06,0.0009428558102204887
+Microvirga ossetica,0.0009396742691481607
+Methylovorus glucosotrophus,0.0009331935689202986
+Mycolicibacterium phlei,0.0009260011405479496
+Massilia sp. WG5,0.0009160625142366596
+Paenibacillus sp. BIHB4019,0.0009136788841274778
+Lelliottia sp. WB101,0.0009131623807002942
+Mycolicibacterium smegmatis,0.0008923968828951079
+Mesorhizobium amorphae,0.0008922965462529575
+Bacillus phage BM5,0.0008843702767838523
+Mollivirus sibericum,0.0008811090267456078
+Curtobacterium sp. MR_MD2014,0.0008756397542787786
+Microbacterium pygmaeum,0.0008739815837301324
+Lactococcus lactis,0.0008685345560438095
+Burkholderia insecticola,0.0008298448898219846
+Clostridium sp. DL-VIII,0.0008294673085951221
+Paraburkholderia caledonica,0.0008223812331975555
+Pacmanvirus A23,0.0008022599155996124
+Pseudomonas protegens,0.0007815278746358123
+Deinococcus radiodurans,0.0007590579676447051
+Altererythrobacter ishigakiensis,0.0007530284057142067
+Pantoea sp. At-9b,0.0007494017260295305
+Sphingobacterium sp. G1-14,0.0007478604946284273
+Conexibacter woesei,0.000746672383600755
+Burkholderia sp. PAMC 26561,0.0007453051310647885
+Pseudomonas arsenicoxydans,0.0007361214244238079
+Paraburkholderia terricola,0.000723646352698415
+Rhodococcus sp. BH4,0.0007231222742199561
+Weeksella virosa,0.0007174842048500718
+Arthrobacter sp. ERGS1:01,0.0007159554389636558
+Thermodesulfobium acidiphilum,0.0007122662296180415
+Pedobacter cryoconitis,0.0007092251972763864
+Mycolicibacterium aurum,0.000708287864603263
+Bacillus muralis,0.0007011879349823724
+Stenotrophomonas rhizophila,0.0006993250717834742
+Clostridium botulinum,0.000696792254396561
+Mycobacterium sp. djl-10,0.0006793124337182377
+soil_total_N,0.0006631003920369638
+Borreliella bavariensis,0.0006616114909663518
+Erythrobacter gangjinensis,0.0006587699469342123
+Pseudomonas rhizosphaerae,0.0006581371200744312
+Serratia fonticola,0.0006524916354675225
+Pseudomonas sp. UW4,0.0006495562696787527
+Edwardsiella piscicida,0.0006462804806804945
+Mycolicibacterium fortuitum,0.0006422844509717196
+Pseudomonas sp. R5-89-07,0.0006404380450586222
+denit__Rate (microgN/kilogram dry weight soil/day),0.0006378239128513652
+Rhodococcus erythropolis,0.0006374742716128478
+Burkholderia multivorans,0.0006271254252669279
+Homo sapiens,0.0006267832668188644
+Cronobacter muytjensii,0.0006263601190145129
+Pseudomonas oryzihabitans,0.0006252032104361094
+Mycolicibacterium vaccae,0.0006244735495246845
+Novosphingobium sp. P6W,0.0006184375979988666
+Agrobacterium sp. H13-3,0.0006064648399362494
+Sphingomonas wittichii,0.0006057480735186527
+Trichormus variabilis,0.0006013421177019085
+Lactobacillus delbrueckii,0.0006006914491800463
+Bradyrhizobium sp. S23321,0.0005967449209012488
+Bacillus sp. 1NLA3E,0.0005817855007967055
+Cronobacter universalis,0.0005803385677631612
+Tenacibaculum sp. SZ-18,0.0005755200248010572
+Delftia sp. Cs1-4,0.0005740119454466619
+Niabella ginsenosidivorans,0.000571236325193758
+Mycobacterium sp. MS1601,0.0005711621163039471
+Clostridium beijerinckii,0.0005693042163005257
+Croceicoccus marinus,0.0005691854730509371
+Stenotrophomonas sp. G4,0.0005672639449256112
+Salinigranum rubrum,0.0005636183318006305
+Bacillus mycoides,0.0005522766992057226
+Pseudomonas sp. Z003-0.4C(8344-21),0.0005476994428145643
+Paraburkholderia xenovorans,0.0005395919112432645
+Rhodococcus sp. H-CA8f,0.0005314467763799291
+Burkholderia sp. CCGE1003,0.000526547736300853
+Sphingopyxis macrogoltabida,0.0005261702716916616
+Streptomyces virus Lika,0.0005201358758191388
+Pseudomonas tolaasii,0.0005189940414205507
+Pseudomonas azotoformans,0.0005117383288584687
+Polaribacter sp. KT25b,0.0005069580466951163
+Burkholderia pseudomultivorans,0.0004983627069697239
+Corallococcus coralloides,0.0004959623733432172
+Mucilaginibacter sp. PAMC 26640,0.0004892839205111965
+Curtobacterium pusillum,0.0004887693280758443
+Clostridium tetani,0.0004875645939531381
+Streptomyces phage phiHau3,0.0004721167244413849
+Friedmanniella sagamiharensis,0.0004678774631206695
+Pseudomonas sp. B10,0.0004640315441926335
+Alistipes finegoldii,0.0004637011675697522
+Xanthomonas fragariae,0.0004633763502231103
+Corynebacterium kroppenstedtii,0.00045576488548217944
+Cystobacter fuscus,0.0004555710535051327
+Bacillus sp. X1(2014),0.00045236598127718075
+Gloeobacter kilaueensis,0.0004513567161016141
+Streptomyces griseorubiginosus,0.0004478082408844619
+Pseudomonas sp. Leaf58,0.00044357456879553505
+Pseudomonas syringae,0.0004435160477231248
+Bacillus thuringiensis,0.0004349913757929702
+Paraburkholderia phenoliruptrix,0.000432632552536516
+Mycobacterium sp. JS623,0.0004324160868399929
+Microlunatus phosphovorus,0.0004301842395957545
+Azotobacter chroococcum,0.00043017672594312104
+Mesorhizobium huakuii,0.000429243138853197
+Acinetobacter sp. WCHAc010034,0.00042870688485159293
+Bradyrhizobium sp.,0.0004250602376187684
+Bradyrhizobium sp. WSM471,0.0004220817890711936
+Pseudomonas syringae group genomosp. 3,0.00041938670488781413
+Acinetobacter sp. ACNIH1,0.0004191550454321069
+Bacillus cereus,0.00041876543648970975
+Streptomyces cyaneogriseus,0.0004105691149553392
+Kosakonia oryzae,0.0004101152310192591
+Blastochloris viridis,0.000409535783513304
+Gordonia sp. 1D,0.00040952260888731383
+Halothiobacillus sp. LS2,0.00040903284269646625
+Magnetospirillum sp. ME-1,0.00040869624819648285
+Afipia sp. GAS231,0.0004070178661422119
+Luteibacter rhizovicinus,0.00040367764263100626
+Pedobacter steynii,0.0004022179376338197
+Pseudarthrobacter equi,0.00040085053877063624
+Enterobacteriaceae bacterium strain FGI 57,0.0004005421864145653
+Paraburkholderia sp. SOS3,0.0004002308153675749
+Sphingorhabdus sp. M41,0.00039992503969725756
+Clostridium taeniosporum,0.000394862024920406
+Arthrobacter sp. YC-RL1,0.00039320500830026807
+Halomonas subglaciescola,0.0003917059502458464
+Paenibacillus sp. FSL R5-0345,0.0003853408138453585
+Novosphingobium tardaugens,0.0003842172507458219
+Enterobacteriaceae bacterium ENNIH1,0.00038031045123561037
+Marinifilaceae bacterium SPP2,0.00037846090769826367
+Pseudomonas kribbensis,0.00037516327720483745
+Actinoplanes derwentensis,0.00037326753296422764
+Janthinobacterium agaricidamnosum,0.0003728491800864209
+Starkeya novella,0.00036923325396660546
+Paenibacillus sp. FSL R7-0273,0.00036891451864304867
+Bradyrhizobium japonicum,0.00036851261669832434
+Polaribacter sp. SA4-12,0.00036536441994658995
+Pseudomonas granadensis,0.00036492460701349484
+Sphingobium japonicum,0.00036401488340616074
+Burkholderia diffusa,0.00035991639827259725
+Pseudomonas sp. Os17,0.0003598988526576141
+Paraburkholderia graminis,0.00035906218913326347
+Streptomyces albus,0.0003586756659442747
+Streptomyces virus Lannister,0.0003565198838300754
+Comamonas thiooxydans,0.00035263924909927357
+Agrobacterium tumefaciens,0.0003522192284207026
+Pseudomonas sp. R2-7-07,0.00034954808638372193
+Nakamurella panacisegetis,0.00034947062814540966
+Pseudarthrobacter chlorophenolicus,0.0003490924565995979
+Escherichia coli,0.00034772945419432323
+Halomonas sp. JS92-SW72,0.0003472934471848932
+Paenibacillus odorifer,0.0003472311575611453
+Bradyrhizobium sp. ORS 3257,0.0003464491792821489
+Bacillus smithii,0.0003456464840202678
+Niastella koreensis,0.00034362125632469986
+Stenotrophomonas sp. MYb57,0.0003427827581626408
+Pseudomonas psychrophila,0.00033923305556080583
+Variovorax sp. PAMC 28711,0.0003381209920972905
+Pseudomonas sp. NS1(2017),0.0003380729519341985
+Delftia sp. HK171,0.00033772294184242213
+Burkholderia ubonensis,0.00033568998162589734
+Clostridium saccharobutylicum,0.0003353715024930315
+Flavobacterium faecale,0.00033427755651278536
+Caulobacter mirabilis,0.0003341875487455237
+Pseudomonas brenneri,0.0003303834119127602
+Altererythrobacter dongtanensis,0.0003301727908268326
+Phyllobacterium zundukense,0.0003296868240166173
+Paenibacillus graminis,0.0003295202079269144
+Rufibacter tibetensis,0.0003273376735370537
+Pantoea sp. PSNIH1,0.0003259218819068099
+Komagataeibacter nataicola,0.0003245885757383382
+Methylobacterium sp. 17Sr1-43,0.00032215542846838476
+Faecalibacterium prausnitzii,0.00032138116686113437
+Altererythrobacter epoxidivorans,0.0003187021278910684
+Streptomyces avermitilis,0.0003182005768237239
+Azoarcus sp. BH72,0.0003146285536598903
+Aeromicrobium choanae,0.0003137004701810442
+Variibacter gotjawalensis,0.00031200324578823936
+Acidovorax cattleyae,0.0003118516898946044
+Cyanobium sp. NIES-981,0.0003089904851746317
+Geodermatophilus obscurus,0.00030736195434026835
+Paraburkholderia phymatum,0.0003063588992042954
+Dechloromonas aromatica,0.0003043116425924364
+Pseudomonas psychrotolerans,0.00030400848929106327
+Mycobacterium sp. VKM Ac-1817D,0.0003026199542907282
+Opitutaceae bacterium TAV5,0.0003005591321282086
+Stenotrophomonas sp. LM091,0.000300103904606841
+Melaminivora sp. SC2-7,0.00029999535513043353
+Pseudomonas entomophila,0.0002989367773713836
+Streptomyces xiamenensis,0.00029879309233118436
+Halomonas sp. A3H3,0.0002969993421425565
+Bacillus subtilis,0.00029368285109829804
+Microcella alkaliphila,0.0002925227586006773
+Altererythrobacter sp. NS1,0.0002918746262984051
+Corynebacterium uterequi,0.0002891437689371612
+Verrucomicrobia bacterium,0.00028910895289406823
+Methylobacterium radiotolerans,0.00028785698704953956
+Haloferax volcanii,0.0002859410839639587
+Fusobacterium nucleatum,0.0002854655313736743
+Streptomyces virus Zemlya,0.00028382443262622294
+Azospira oryzae,0.00028055368615340635
+Collimonas fungivorans,0.0002794287541410423
+Citrobacter koseri,0.00027869690857416083
+soil_total_C,0.0002759842866967066
+Burkholderia sp. CCGE1001,0.00027471886954957283
+Caulobacter segnis,0.0002744252034014183
+Acidovorax avenae,0.000273562454209797
+Cupriavidus pauculus,0.00027351452835659983
+Pseudomonas sp. 7SR1,0.00027308843140867457
+Curtobacterium sp. BH-2-1-1,0.0002730111598825857
+Nostoc sp. CENA543,0.0002722276250532119
+Bacillus sp. FJAT-42376,0.0002687269916452184
+Flavobacterium johnsoniae,0.00026849552613090745
+Janthinobacterium sp. LM6,0.000266203498314832
+Blastomonas fulva,0.0002662028708450448
+Micromonospora chokoriensis,0.0002654733153270694
+Eggerthella lenta,0.0002653193842903745
+Pandoraea vervacti,0.00026489791359709527
+Streptococcus thermophilus,0.0002638484067663427
+Acidovorax sp. RAC01,0.00026297724330999196
+Ralstonia mannitolilytica,0.0002623615105845856
+chem__LBCeq (mg/kg CaCO3/pH dry weight),0.00025900731349761676
+Streptomyces sp. SirexAA-E,0.0002542953171100315
+Pseudomonas xanthomarina,0.0002541766358800768
+Pseudomonas sp. HLS-6,0.00025226543038137095
+Streptomyces virus R4,0.0002499695849347061
+Pseudomonas fuscovaginae,0.00024973694587857585
+Marivirga tractuosa,0.00024963296932922763
+Solibacillus sp. R5-41,0.0002493285744381568
+Streptomyces formicae,0.00024808080923712785
+Acidobacterium capsulatum,0.0002473151326777501
+Burkholderia sp. KK1,0.00024701979296963826
+Lactobacillus mucosae,0.00024637311886339664
+Pseudonocardia sp. HH130629-09,0.0002462227276133211
+Dickeya sp. Secpp 1600,0.00024575945079241546
+Nitrobacter winogradskyi,0.000244477711590374
+Rubrobacter indicoceani,0.00024403803760528753
+Pseudomonas sp. LBUM920,0.00024393384742162904
+Lactobacillus sakei,0.00024321115651877446
+Isoptericola dokdonensis,0.0002423975697847691
+Arthrobacter sp. QXT-31,0.00024214058819818085
+Enterococcus faecalis,0.000239527911678028
+Citrobacter rodentium,0.00023907440992647632
+Burkholderia mallei,0.00023821224287674526
+Microbacterium chocolatum,0.00023811569170775204
+Rubrivivax gelatinosus,0.0002380304129659061
+Bacillus methanolicus,0.00023796010641110587
+Enterobacter hormaechei,0.00023780806603979077
+Erwinia pyrifoliae,0.00023774901760085232
+Burkholderia glumae,0.00023764373381085502
+Streptomyces virus TG1,0.00023498431206117054
+Burkholderia metallica,0.00023300459594786105
+Streptomyces cavourensis,0.00023276369946154674
+Bradyrhizobium sp. 3 85S1MB,0.00023026862310200348
+Streptacidiphilus sp. DSM 106435,0.0002302421227610596
+Rhizobium favelukesii,0.00022963332790220113
+Methylobacterium oryzae,0.000228060504124894
+Polaribacter sp. ALD11,0.00022751240715739306
+Sulfuriferula sp. AH1,0.00022707372554906514
+Pseudomonas mendocina,0.00022523674080137112
+Sphingorhabdus sp. Alg231-15,0.00022496462285996887
+Pantoea alhagi,0.00022392167416169785
+Burkholderia cepacia,0.000223093382812789
+Collimonas arenae,0.000223091085388627
+Flavisolibacter tropicus,0.00022244894783325365
+Burkholderia anthina,0.00022094969158488188
+Nostoc sp. NIES-4103,0.00022018045129577058
+Pseudodesulfovibrio profundus,0.00021989051422892646
+Haloplanus sp. CBA1112,0.00021955144034724317
+Collimonas pratensis,0.00021932076570299052
+Chromobacterium sp. IIBBL 112-1,0.00021764898001239708
+Pseudomonas cichorii,0.00021736149551223604
+Sphingorhabdus flavimaris,0.00021729329487276682
+Bradyrhizobium sp. 2 39S1MB,0.00021723459643712139
+Flavobacterium columnare,0.00021707295079109734
+Pseudomonas umsongensis,0.00021604439298217315
+Idiomarinaceae bacterium HL-53,0.00021509812050515275
+Pseudomonas vancouverensis,0.0002147602473377086
+Streptomyces fungicidicus,0.00021439140471628536
+Polaribacter vadi,0.00021431680368950713
+Halomonas beimenensis,0.00021355192123031496
+Microbacterium sp. PAMC 28756,0.00021304846513041652
+Paenibacillus terrae,0.00021244312237655993
+Mucilaginibacter sp. BJC16-A31,0.00021226403433591834
+Corynebacterium deserti,0.00021200849311191482
+Aeromonas veronii,0.00021178882014170065
+Pontimonas salivibrio,0.0002111239931990694
+Polynucleobacter wuianus,0.00021044394191740423
+Sphingomonas taxi,0.00020998698924847847
+Altererythrobacter atlanticus,0.00020905309760397284
+Porphyrobacter sp. CACIAM 03H1,0.00020902872302601682
+Hymenobacter sp. PAMC 26554,0.000208929381498546
+Porphyrobacter HT-58-2,0.0002084827443709747
+Dokdonella koreensis,0.0002083515547887771
+Burkholderia cenocepacia,0.00020733704533815178
+Streptomyces sp. P3,0.00020710710882620997
+Shigella dysenteriae,0.00020637225342439168
+Geobacter sp. M21,0.00020501143836253454
+Streptomyces sp. TN58,0.0002036694598145372
+Zhihengliuella sp. ISTPL4,0.0002034299091353331
+Sphingopyxis terrae,0.00020282710788366298
+Streptomyces collinus,0.00020268711786421977
+Frankia sp. QA3,0.00020247931752017667
+Stenotrophomonas sp. YAU14A_MKIMI4_1,0.00019802590750799264
+Gordonibacter massiliensis,0.00019697403933431888
+Ferriphaselus amnicola,0.00019692531187991412
+[Polyangium] brachysporum,0.00019677089447860395
+Massilia sp. NR 4-1,0.0001965673198192297
+Phreatobacter cathodiphilus,0.0001950935072230875
+Mycolicibacterium rhodesiae,0.00019503875570863193
+Aquabacterium olei,0.00019360860211585783
+Caulobacter henricii,0.00019360047837111428
+Achromobacter sp. B7,0.00019337475465308618
+Chryseobacterium gallinarum,0.00019282000198925787
+Pseudomonas taetrolens,0.00019208011287168424
+Formosa sp. Hel3_A1_48,0.00019192171553310543
+Pseudomonas sp. K2W31S-8,0.0001914864101917546
+Microbacterium sp. CGR1,0.00019129695950712567
+Novosphingobium aromaticivorans,0.00019117810674385005
+Pedobacter ginsengisoli,0.00018912619005255759
+Pseudomonas sp. URMO17WK12:I11,0.00018896024010799372
+Sphingopyxis granuli,0.00018779935631707545
+Sphingomonas sp. KC8,0.0001877149670882261
+Shimwellia blattae,0.0001875608739963619
+Rhizorhabdus dicambivorans,0.000186994610741964
+Comamonas kerstersii,0.00018669749098199073
+Christensenella sp. Marseille-P3954,0.0001861655070033219
+Enterobacter sp. Crenshaw,0.00018612654831722252
+soil_NO3,0.0001854076680082528
+Mesorhizobium ciceri,0.00018495836952661104
+Sphingobium sp. TKS,0.00018484788296355693
+Lactococcus sp. 1JSPR-7,0.00018444906145096419
+Erythrobacter seohaensis,0.00018424141069803835
+Mycobacterium sp. PYR15,0.0001842392107495483
+Mycolicibacterium goodii,0.00018388036361369764
+Streptomyces violaceoruber,0.00018137158687374643
+Erythrobacter atlanticus,0.00018124398565682042
+Mycetocola sp. 449,0.00018057053352089626
+Arthrobacter sp. YN,0.00018056288843353306
+Burkholderia sp. OLGA172,0.00018033511562047798
+Thermobifida fusca,0.000179664397680801
+Mesorhizobium sp. WSM1497,0.0001788404816531086
+Flavobacterium crassostreae,0.0001775868667999836
+Bordetella hinzii,0.00017730466276224543
+Pseudomonas cedrina,0.00017707141172345063
+Erythrobacter sp. YH-07,0.0001769582507645806
+Streptomyces anulatus,0.0001767500917486009
+Luteimonas sp. JM171,0.0001753752112718887
+Mesorhizobium sp. DCY119,0.00017518996428538268
+Arthrobacter crystallopoietes,0.00017453762464276769
+Agrobacterium rhizogenes,0.00017435369984448724
+Burkholderia sp. IDO3,0.00017328945162509157
+Thermococcus celer,0.00017301013838768586
+Pseudomonas sabulinigri,0.00017222550012265802
+Nitrobacter hamburgensis,0.00017220119631145003
+Comamonas aquatica,0.00017066125494584749
+Clostridium butyricum,0.00017063151406608855
+Nocardioides sp. JS614,0.0001705834224278835
+Salinibacterium sp. CGMCC 1.16371,0.00017022307509291236
+Burkholderia pyrrocinia,0.00016980282324094987
+Sphingobacteriaceae bacterium GW460-11-11-14-LB5,0.00016940245381287246
+nitrif__Rate (mg NO3-N/kilogram dry weight soil/day),0.00016939344035176162
+Streptomyces sp. 11-1-2,0.00016863304339493902
+Mycobacterium colombiense,0.0001685086902945665
+Rhizobium sp. IE4771,0.00016829277414427414
+Porphyrobacter neustonensis,0.00016812455936390247
+Wolbachia endosymbiont of Brugia malayi,0.00016767949766451906
+Fimbriimonas ginsengisoli,0.00016627780159899074
+Nocardioides sp. 603,0.00016617903216697982
+Pseudanabaena sp. PCC 7367,0.0001658226543227004
+Herminiimonas arsenicoxydans,0.00016466937709902485
+Rhizobium phaseoli,0.0001645738097680427
+Tokyovirus A1,0.00016442153658864368
+Nocardia nova,0.0001636083212926298
+chem__LBC (mg/kg CaCO3/pH dry weight),0.00016308014876948996
+Sodalis praecaptivus,0.0001629922363781011
+Streptomyces albireticuli,0.00016228239218853968
+Bacillus sp. FJAT-18017,0.00016219758613980061
+Allokutzneria albata,0.00016219615082919693
+Frankia sp. EAN1pec,0.00016216722920390226
+Altererythrobacter mangrovi,0.0001609404544930415
+Thiohalobacter thiocyanaticus,0.00016049816499839054
+Aeromonas sp. ASNIH1,0.00015980478414239218
+Arthrobacter sp. PGP41,0.00015969494259540084
+Methylibium petroleiphilum,0.00015965904320003332
+Pseudomonas libanensis,0.0001596351625494874
+Bradyrhizobium sp. SK17,0.00015953760353712987
+chem__Mn (Mehlich 1 mg/kg dry weight),0.00015929841172472868
+Microbacterium testaceum,0.00015819146571180998
+Niveispirillum cyanobacteriorum,0.00015778219538902237
+Maricaulis maris,0.00015776674577989703
+Alteromonas macleodii,0.00015736306945590695
+Arthrobacter sp. FB24,0.00015735431590366833
+Serratia marcescens,0.00015468278188546236
+Rhodoferax ferrireducens,0.0001543968303323817
+Agrobacterium fabrum,0.000154297674235071
+Rhodococcus sp. 008,0.000154211140689009
+Pseudomonas pohangensis,0.00015403101028168553
+Mycobacteroides saopaulense,0.00015246598318063853
+Novosphingobium resinovorum,0.0001510273676021523
+Dietzia sp. oral taxon 368,0.0001496722982093468
+Mycobacteroides chelonae,0.00014822402394401024
+Halomonas chromatireducens,0.000148212028325978
+Acidothermus cellulolyticus,0.00014754807648114098
+Mycobacterium haemophilum,0.00014753694070144264
+Dickeya paradisiaca,0.0001475125836132074
+Streptomyces sp. GSSD-12,0.00014698193594411268
+Flavobacterium kingsejongi,0.00014630342278563191
+Pseudomonas phage phiPsa374,0.00014529434708536736
+Microbacterium sp. No. 7,0.00014472999388945862
+Candidatus Protochlamydia amoebophila,0.00014327166636038947
+Nocardioides sp. 78,0.00014319485731020264
+Sulfurifustis variabilis,0.00014260908117471604
+Pseudolabrys taiwanensis,0.0001413509983056116
+Brevundimonas sp. LM2,0.00014072265417131025
+Actinomyces sp. Chiba101,0.00014044536997450673
+Cellulomonas sp. PSBB021,0.00014041577026622232
+Planococcus maritimus,0.0001403516198561716
+Bacillus beveridgei,0.0001402195062550682
+Marinobacter salinus,0.0001398532560375143
+Rhizobium jaguaris,0.00013920602456920505
+Herbaspirillum robiniae,0.00013853849673273189
+Microbacterium sp. XT11,0.00013827177999354846
+Oceanobacillus sp. 160,0.00013724118011644305
+Erwinia billingiae,0.00013658333728161498
+Streptomyces gilvosporeus,0.00013646290298805486
+Pseudomonas sp. R11-23-07,0.00013593168571961466
+Sphingobium cloacae,0.00013538639269992104
+Acidovorax sp. KKS102,0.00013473154034624458
+Kitasatospora albolonga,0.00013455303431417765
+Jonquetella anthropi,0.0001338503354106013
+Sphaerobacter thermophilus,0.00013354876031614892
+Aeromonas schubertii,0.00013347630072990668
+Rhodococcus sp. PBTS 1,0.00013347031493313733
+Hafnia paralvei,0.00013335000417999954
+Thermovirga lienii,0.0001324928883229548
+Herbaspirillum sp. meg3,0.00013207882324601795
+Auraticoccus monumenti,0.00013198219837886604
+Ornithinimicrobium sp. AMA3305,0.00013198219837884384
+Planctomyces sp. SH-PL62,0.0001318651282849359
+Pseudomonas corrugata,0.00013175881434539515
+Euzebya sp. DY32-46,0.00013165929981251434
+Aureimonas sp. AU20,0.0001309667827445793
+Sphingomonas sp. LK11,0.00013053340807751558
+Burkholderia stabilis,0.00013030779562219763
+Brevibacterium linens,0.00013014168928711102
+Pseudomonas frederiksbergensis,0.00012944393807277078
+Pseudomonas sp. DY-1,0.00012906002756920553
+Neoasaia chiangmaiensis,0.00012897028662308684
+Paraburkholderia fungorum,0.00012883148204991812
+Castellaniella defragrans,0.00012847716648705098
+Arthrobacter sp. Rue61a,0.00012821546018166875
+Corynebacterium sphenisci,0.00012817870915775574
+Erythrobacter sp. HL-111,0.00012815440059488203
+Pseudomonas knackmussii,0.00012756584759663348
+Mycobacterium chimaera,0.00012720317338261734
+Mesorhizobium australicum,0.00012693950979076886
+Pseudomonas parafulva,0.0001267297649781618
+Burkholderia sp. MSMB0856,0.00012515305143079303
+Kocuria rhizophila,0.00012477498727654358
+Rhodobacter sphaeroides,0.00012430278196273736
+Agrobacterium sp. RAC06,0.00012416204876246616
+Cryobacterium sp. LW097,0.00012412271155617382
+Sphingopyxis sp. FD7,0.00012339543146335785
+Acidiferrobacter sp. SPIII_3,0.00012311030545442136
+Streptomyces sp. NEAU-S7GS2,0.00012287568898516898
+Burkholderia dolosa,0.0001227043059655042
+Bacillus marisflavi,0.00012224861455996107
+Komagataeibacter saccharivorans,0.00012205222426122652
+Mobiluncus curtisii,0.00012163196803947063
+Chryseobacterium piperi,0.0001216198186172468
+Pseudomonas mandelii,0.0001208131307056881
+Acidihalobacter prosperus,0.0001205520988960762
+Hyphomicrobium denitrificans,0.000120151016828407
+Streptomyces sp. S8,0.00011984171491301599
+Micromonospora echinospora,0.00011980411585403861
+Bosea vaviloviae,0.00011946804849980453
+Kocuria turfanensis,0.00011920924833359603
+Kineococcus radiotolerans,0.00011852621594306
+Actinoalloteichus sp. AHMU CJ021,0.0001183443186413502
+Porphyrobacter sp. LM 6,0.00011782249858338645
+Rhodococcus hoagii,0.00011757688783429199
+Pseudomonas poae,0.00011660381607689896
+Jiangella alkaliphila,0.0001154885842591824
+Deinococcus irradiatisoli,0.0001143002731144982
+Novosphingobium sp. THN1,0.00011421712598929102
+chem__Zn (Mehlich 1 mg/kg dry weight),0.00011393338138998566
+Pseudomonas reinekei,0.00011392727914083522
+Massilia oculi,0.00011308382837194042
+Orrella dioscoreae,0.00011295068039969269
+Corynebacterium provencense,0.00011290428235215533
+Streptomyces sp. CdTB01,0.00011184058514901452
+Neisseria meningitidis,0.00011183424486225225
+Pseudomonas sp. GR 6-02,0.00011152218627892285
+Flavobacteriaceae bacterium MAR_2010_188,0.00011144809543450762
+Nitrospirillum amazonense,0.00011104678730970985
+Streptomyces scabiei,0.00011092775651873054
+Brevibacterium aurantiacum,0.0001107506730872343
+Prevotella ruminicola,0.00010935999417882591
+Cryobacterium sp. GCJ02,0.00010900726603910727
+Aminobacter sp. MSH1,0.00010891422231402714
+Burkholderia lata,0.0001086024200461999
+Arthrobacter sp. PAMC 25486,0.00010828683748380641
+Pannonibacter phragmitetus,0.00010819821259149265
+Sphingobium sp. SCG-1,0.00010809812021759236
+Burkholderia sp. LA-2-3-30-S1-D2,0.00010702986393509306
+Pseudomonas alcaligenes,0.00010697063561377895
+Geobacter pickeringii,0.00010690594114695084
+Mucilaginibacter mallensis,0.00010629037738856262
+Paraburkholderia terrae,0.00010585025693179428
+Sphingomonas sanxanigenens,0.0001043509392495645
+Robiginitalea biformata,0.000103913215307605
+Cellulomonas flavigena,0.00010384203384150581
+Sphingobacterium sp. B29,0.00010361134575902487
+Stenotrophomonas sp. YAU14D1_LEIMI4_1,0.00010361134575902487
+Stenotrophomonas sp. SAU14A_NAIMI4_5,0.00010361134575902487
+Acinetobacter junii,0.00010361134575902487
+Acinetobacter soli,0.00010361134575902487
+Acinetobacter baumannii,0.00010361134575902487
+Nitrosomonas communis,0.0001036063758988126
+Streptomyces sp. FR-008,0.0001013942291058001
+Pseudomonas orientalis,0.00010081859786805757
+Rhizobium sp. CIAT894,0.00010056489291523362
+Sphingomonas hengshuiensis,0.00010030472322557493
+Desulfuromonas sp. DDH964,0.00010018370495061824
+Kocuria sp. BT304,9.943750348633263e-05
+Listeria monocytogenes,9.929500239191924e-05
+Cronobacter condimenti,9.906537171766594e-05
+Ethanoligenens harbinense,9.891993177073566e-05
+Streptomyces olivaceus,9.855298495655695e-05
+Paracoccus mutanolyticus,9.785467299228134e-05
+Sphingobium sp. RAC03,9.771638209474798e-05
+Pseudomonas versuta,9.683084054092905e-05
+Acinetobacter oleivorans,9.650049463889587e-05
+Methylotenera versatilis,9.620501588190056e-05
+Pseudomonas sp. bs2935,9.607671083728952e-05
+Pseudomonas guangdongensis,9.598464358424596e-05
+Turneriella parva,9.578413057274027e-05
+Dickeya dadantii,9.534452634445412e-05
+Paenibacillus sabinae,9.531944523895053e-05
+Cylindrospermum stagnale,9.524637801037184e-05
+Rhodoferax antarcticus,9.449674074217818e-05
+Pseudovibrio sp. FO-BEG1,9.449009962441135e-05
+Achromobacter sp. MFA1 R4,9.419362891043282e-05
+Deinococcus actinosclerus,9.382709449525794e-05
+Stenotrophomonas sp. WZN-1,9.369801403829037e-05
+Sphingobium herbicidovorans,9.358711201981062e-05
+Cupriavidus sp. USMAA1020,9.158992880773376e-05
+Sphingobium sp. EP60837,9.152471490458947e-05
+Rickettsia helvetica,9.142593790683051e-05
+Sphingopyxis sp. 113P3,9.067874886106164e-05
+Nocardiopsis alba,8.985823904152923e-05
+Pseudomonas sp. StFLB209,8.935006623707053e-05
+Marinobacter similis,8.917902423397628e-05
+soil_pH,8.875242593762157e-05
+Serratia sp. FS14,8.809939010210322e-05
+Streptomyces sp. CLI2509,8.765694789487632e-05
+Chloracidobacterium thermophilum,8.7224643222239e-05
+Alcanivorax sp. NBRC 101098,8.722370606835117e-05
+Sphingopyxis sp. QXT-31,8.721465937919782e-05
+Bacillus circulans,8.703551497299956e-05
+Zymobacter palmae,8.68829849800079e-05
+Candidatus Paracaedibacter acanthamoebae,8.687665743727369e-05
+Mycobacterium marseillense,8.680334043034143e-05
+Rhizobium sp. IRBG74,8.633972231717469e-05
+Paenibacillus donghaensis,8.622620394118651e-05
+Sphingobium sp. YBL2,8.596675266319132e-05
+Limnohabitans sp. 103DPR2,8.570595456220964e-05
+Arthrobacter alpinus,8.429306116024549e-05
+Micromonospora zamorensis,8.284344169371405e-05
+Streptomyces virus Izzy,8.237688418368804e-05
+Leclercia sp. LSNIH3,8.219782586336156e-05
+Chryseobacterium carnipullorum,8.18297692352532e-05
+Stenotrophomonas acidaminiphila,8.180665490151729e-05
+Sphingomonas sp. Cra20,8.171532881973143e-05
+Rhizobium sp. NXC14,8.16768542720725e-05
+Gramella sp. SH35,8.140266241607463e-05
+Ochrobactrum pituitosum,8.137206438387778e-05
+Streptomyces virus Amela,8.076213878076555e-05
+Serinicoccus sp. JLT9,8.062899007998947e-05
+Streptomyces antibioticus,8.051959474031367e-05
+Roseobacter denitrificans,8.008198008682132e-05
+Lacinutrix venerupis,7.977693797238672e-05
+Aeromonas salmonicida,7.973173686890434e-05
+Vogesella sp. LIG4,7.953047708404437e-05
+Paraburkholderia caribensis,7.945577710959384e-05
+Devriesea agamarum,7.879512611470574e-05
+Burkholderia sp. CCGE1002,7.869506494859735e-05
+Bradyrhizobium lablabi,7.844989266299063e-05
+Xanthomonas vasicola,7.835304336767379e-05
+Rhizobium sp. Y9,7.805850477691224e-05
+Bacillus oceanisediminis,7.7694882926993e-05
+Xanthomonas cassavae,7.763973748664554e-05
+Chromatiaceae bacterium 2141T.STBD.0c.01a,7.763826848494748e-05
+Pimelobacter simplex,7.760662223925685e-05
+Amycolatopsis sp. BJA-103,7.7253613758832e-05
+Burkholderia oklahomensis,7.642205709967875e-05
+Hymenobacter sp. sh-6,7.569035059731277e-05
+Mesorhizobium opportunistum,7.565615464573127e-05
+Salinimonas sp. HMF8227,7.520752548564324e-05
+Acinetobacter bereziniae,7.507349443374167e-05
+Streptomyces pluripotens,7.394988894262599e-05
+Stenotrophomonas sp. ZAC14A_NAIMI4_1,7.299622771719249e-05
+Pseudomonas sp. MRSN12121,7.274992233619049e-05
+Flavobacterium commune,7.265149569823937e-05
+Corynebacterium mycetoides,7.264812040155277e-05
+Congregibacter litoralis,7.190329790081051e-05
+Pandoraea thiooxydans,7.173156055921837e-05
+Nonomuraea sp. ATCC 55076,7.155380302661384e-05
+Mucilaginibacter sp. HYN0043,7.103656825369065e-05
+Bacillus sp. FJAT-22090,6.926764175381183e-05
+Enterobacter asburiae,6.894441522997674e-05
+Streptomyces chartreusis,6.88558862673938e-05
+Variovorax paradoxus,6.87878650355911e-05
+Rhizobium sp. ACO-34A,6.818150168512727e-05
+Streptomyces sp. 2323.1,6.669957831813011e-05
+[Pseudomonas] mesoacidophila,6.629208349795412e-05
+Mesorhizobium loti,6.604266891605537e-05
+Tannerella sp. oral taxon HOT-286,6.582627749822656e-05
+Leptospira santarosai,6.383255947288724e-05
+Streptomyces autolyticus,6.370953710688187e-05
+Bordetella pertussis,6.35984141120982e-05
+Chryseobacterium shandongense,6.34341013404871e-05
+Novosphingobium sp. PP1Y,6.321261626853757e-05
+Chryseobacterium camelliae,6.298493822431972e-05
+Roseomonas gilardii,6.26878050881352e-05
+Methylocystis sp. SC2,6.249835027225537e-05
+Microbacterium sp. 1.5R,6.213029303494543e-05
+Rothia mucilaginosa,6.112594032412489e-05
+Burkholderia territorii,6.110666947680698e-05
+Sideroxydans lithotrophicus,6.036928104964367e-05
+Pseudomonas alkylphenolica,6.0319212224557714e-05
+Acidovorax citrulli,6.0242740424509834e-05
+Pseudomonas sp. FGI182,5.8914580313418344e-05
+Chryseobacterium bernardetii,5.8792022262799116e-05
+Pseudomonas sp. TMW 2.1634,5.8350087161285204e-05
+Halobiforma lacisalsi,5.779431308405858e-05
+Stenotrophomonas sp. ESTM1D_MKCIP4_1,5.775988956036038e-05
+Chryseobacterium joostei,5.744231700139934e-05
+Rhodococcus qingshengii,5.695611393357059e-05
+Oxalobacter formigenes,5.6216867388192425e-05
+Myxococcus hansupus,5.621359732872477e-05
+Rhodococcus fascians,5.621359732872477e-05
+Azospirillum thiophilum,5.621359732870257e-05
+Halomonas sp. N3-2A,5.6213597328680366e-05
+Gluconobacter oxydans,5.604743180267491e-05
+Rhodobacter capsulatus,5.5793245711766024e-05
+Opitutus sp. GAS368,5.52142892591867e-05
+Burkholderia sp. PAMC 28687,5.4748911009050436e-05
+Ralstonia insidiosa,5.435293757871662e-05
+Pseudomonas sp. CMR12a,5.2391728081735425e-05
+Desulfarculus baarsii,5.2280154066619564e-05
+Spiribacter salinus,5.2254279346208855e-05
+Frankia symbiont of Datisca glomerata,5.223818156674387e-05
+Enterobacteriaceae bacterium w17,5.221046389696227e-05
+Rhodococcus sp. MTM3W5.2,5.2119276116013856e-05
+Rhizobium sp. NT-26,5.085450522330781e-05
+Massilia sp. YMA4,5.0267769436396215e-05
+Desulfobacter postgatei,4.985402191803878e-05
+Mycolicibacter terrae,4.935045482898914e-05
+Tannerella forsythia,4.829255058558246e-05
+Lysobacter capsici,4.78104442199756e-05
+Paraburkholderia sprentiae,4.715862875170895e-05
+Comamonadaceae bacterium A1,4.628345857022875e-05
+Streptomyces sp. Tue 6075,4.587865313179229e-05
+Nocardia sp. Y48,4.4929669388604764e-05
+Serratia plymuthica,4.3063832233269926e-05
+Methylobacterium sp. 17Sr1-28,4.275400625501913e-05
+Streptomyces sp. ETH9427,4.257041166932929e-05
+Desulfovibrio fairfieldensis,4.130718839776559e-05
+Agromyces flavus,4.09020402995397e-05
+Actinomyces oris,3.981528162992909e-05
+Xanthomonas euvesicatoria,3.938320240897131e-05
+Pelagibacterium halotolerans,3.908468524751463e-05
+Arsenicicoccus sp. oral taxon 190,3.872433643679063e-05
+Sulfuritalea hydrogenivorans,3.8602650928565295e-05
+Candidatus Methanomethylophilus alvus,3.857079409217423e-05
+Streptomyces sp. Tu6071,3.799775475985534e-05
+Streptomyces rubrolavendulae,3.7815324188228416e-05
+Dietzia lutea,3.7560606455433465e-05
+Bradyrhizobium sp. BTAi1,3.65397458411465e-05
+Peptoclostridium acidaminophilum,3.608798722252171e-05
+Stenotrophomonas sp. ZAC14D2_NAIMI4_6,3.4786201703096434e-05
+Thermomonospora curvata,3.387749578696031e-05
+Actinomyces sp. 2129,3.374110163600896e-05
+Nocardioides sp. CF8,3.3465978474356287e-05
+Pseudomonas sp. A214,3.232977985088148e-05
+Rhizobium sp. Kim5,3.113499376470319e-05
+Micromonospora tulbaghiae,2.933235404010137e-05
+Saccharomonospora azurea,2.8452664285705254e-05
+Agromyces sp. 30A,2.7962415144866527e-05
+Dyella jiangningensis,2.7866539211540697e-05
+Sulfitobacter sp. JL08,2.639722760047203e-05
+Brevundimonas diminuta,2.634533857586163e-05
+Microbacterium sp. 10M-3C3,2.5746861803321862e-05
+Verrucosispora maris,2.5649125893711933e-05
+Stenotrophomonas sp. SAU14A_NAIMI4_8,2.5585287645624177e-05
+Pseudomonas sp. R4-35-07,2.537556535631147e-05
+Phycicoccus dokdonensis,2.519968967820141e-05
+Oscillatoria nigro-viridis,2.498480085812993e-05
+Pseudomonas sp. XWY-1,2.4878781287163144e-05
+Myxococcus xanthus,2.4412151616193256e-05
+Hydrogenophilus thermoluteolus,2.428090375512504e-05
+Acidovorax carolinensis,2.4215236123370508e-05
+Leptospirillum ferriphilum,2.4213999997146907e-05
+Oceanithermus profundus,2.371658547402067e-05
+Aeromicrobium sp. A1-2,2.3176758535914388e-05
+Mycobacterium avium,2.315750117034554e-05
+Pseudomonas trivialis,2.245300105421233e-05
+Bradyrhizobium erythrophlei,2.24433672485258e-05
+Dietzia psychralcaliphila,2.230648291372539e-05
+Corynebacterium falsenii,2.1951447310941675e-05
+Pseudomonas sp. LTGT-11-2Z,2.117180695675458e-05
+Pseudomonas fluorescens,2.0737646827528877e-05
+Gordonia bronchialis,2.0499758959324764e-05
+[Clostridium] saccharolyticum,2.0339306002314927e-05
+Akkermansia muciniphila,2.0050157983120265e-05
+Fuerstia marisgermanicae,1.9956774737317495e-05
+Brenneria sp. EniD312,1.9103364725658878e-05
+Sphingobium sp. MI1205,1.909301550817588e-05
+Streptomyces violaceusniger,1.9081837515089184e-05
+Microterricola viridarii,1.8890928224779558e-05
+Pasteurella multocida,1.8549534589018535e-05
+Labrenzia aggregata,1.8382744943057362e-05
+Nocardia seriolae,1.8276621243762392e-05
+Corynebacterium simulans,1.7342242085160997e-05
+Salimicrobium jeotgali,1.6757362853758727e-05
+Olsenella umbonata,1.660893163746291e-05
+Gluconacetobacter diazotrophicus,1.6527212705597093e-05
+Miniimonas sp. S16,1.6483808356082542e-05
+Aquaspirillum sp. LM1,1.5580101978218686e-05
+Rhodococcus pyridinivorans,1.5513355767127203e-05
+Humibacter sp. BT305,1.5218205800082707e-05
+Geosporobacter ferrireducens,1.4954019736856949e-05
+Pseudomonas viridiflava,1.4831369970957908e-05
+Brevibacterium sandarakinum,1.480188437041896e-05
+Pseudomonas synxantha,1.477172862074383e-05
+Brachybacterium sp. VR2415,1.4234764579978964e-05
+Paraburkholderia rhizoxinica,1.3740356583347157e-05
+Thermacetogenium phaeum,1.362560494688747e-05
+Actinopolyspora erythraea,1.3363708329849899e-05
+Micromonospora inositola,1.3323625410932572e-05
+Corynebacterium testudinoris,1.320084593781079e-05
+Streptomyces sp. ZFG47,1.3048912817237302e-05
+Bifidobacterium asteroides,1.272097149833673e-05
+Sphingomonas sp. LM7,1.2358480828145169e-05
+Cnuibacter physcomitrellae,1.2318823812074164e-05
+Neorhizobium sp. NCHU2750,1.2290126336456097e-05
+Deinococcus wulumuqiensis,1.2173052633412951e-05
+Corynebacterium jeikeium,1.2110909286988658e-05
+Cellulosimicrobium cellulans,1.2005369414436196e-05
+Pseudomonas prosekii,1.1687671575510983e-05
+Aeromonas sp. ASNIH2,1.1685175563425076e-05
+Corynebacterium marinum,1.1498838003909384e-05
+Rhodococcus aetherivorans,1.1404653047097923e-05
+Myxococcus macrosporus,1.1283661094996234e-05
+Corynebacterium aurimucosum,1.1256164555040193e-05
+Pseudomonas agarici,1.120946815234003e-05
+Bacillus thermoamylovorans,1.1116450330406202e-05
+Micromonospora echinaurantiaca,1.1010749883566539e-05
+Olsenella sp. Marseille-P2300,1.0970338654647804e-05
+Streptomyces sp. fd1-xmd,1.096661076576133e-05
+Immundisolibacter cernigliae,1.083870815268284e-05
+Singulisphaera acidiphila,1.0727221506967588e-05
+Streptomyces sp. CMB-StM0423,1.0531161884164143e-05
+Ruegeria sp. AD91A,1.0454864475506475e-05
+Streptomyces sp. 3211,1.0305365566609658e-05
+Acetobacter persici,1.0292028066460901e-05
+Corynebacterium sp. 2184,1.0292028066460901e-05
+Haloterrigena turkmenica,1.0219423023416496e-05
+Enterobacter sp. FY-07,1.0069260320411111e-05
+Microbacterium hominis,1.0064896541894796e-05
+Natronococcus occultus,9.99641166186116e-06
+Nocardia brasiliensis,9.909986549017092e-06
+Geobacter lovleyi,9.875351856414304e-06
+Selenomonas sp. oral taxon 126,9.581406675196468e-06
+Pseudomonas sp. FDAARGOS_380,9.486915562928466e-06
+Selenomonas sp. oral taxon 136,9.417650025689284e-06
+Pectobacterium carotovorum,9.405119796412897e-06
+Agarilytica rhodophyticola,9.2771720674234e-06
+Streptosporangium roseum,9.251357895556644e-06
+Acetobacter pomorum,9.241246350732979e-06
+Komagataeibacter europaeus,9.103143180588802e-06
+Bacillus pseudomycoides,9.061259906961716e-06
+Mycobacteroides immunogenum,8.215567327218842e-06
+Pelobacter propionicus,8.06263252894901e-06
+Carboxydocella thermautotrophica,7.87692790700234e-06
+Hymenobacter sedentarius,7.807167040052576e-06
+Brevibacillus laterosporus,7.703613194443016e-06
+Streptomyces fulvissimus,7.604359292368024e-06
+Geobacter anodireducens,7.482071669540069e-06
+Burkholderia gladioli,7.385626893396946e-06
+Pseudomonas sp. LG1D9,7.353099946816322e-06
+Streptomyces sp. SCSIO 03032,7.350960047514121e-06
+Nocardia terpenica,7.165130833075573e-06
+Streptosporangium sp. 'caverna',7.164474953924582e-06
+Corynebacterium variabile,7.159466706641027e-06
+Elizabethkingia meningoseptica,7.0752279361263605e-06
+Kitasatospora sp. MMS16-BH015,6.8698577939230175e-06
+Alcaligenes aquatilis,6.8602476099410835e-06
+Bifidobacterium indicum,6.84114926339241e-06
+Dermatophilus congolensis,6.833444507314823e-06
+Acidimicrobium ferrooxidans,6.824985890974134e-06
+Actinoalloteichus hymeniacidonis,6.756495092563597e-06
+Shewanella amazonensis,6.749309199438613e-06
+Rhizobium sp. NXC24,6.726326981931763e-06
+Streptomyces lavendulae,6.705275774732122e-06
+Micropruina glycogenica,6.642906950737881e-06
+Roseibacterium elongatum,6.54118489460398e-06
+Cellulomonas fimi,6.518891570683749e-06
+Cellulomonas gilvus,6.4954113329518394e-06
+Actinobacteria bacterium IMCC26256,6.42992238784057e-06
+Micromonospora aurantiaca,6.363870188819121e-06
+Thermus aquaticus,6.286012866185686e-06
+Massilia armeniaca,6.259242981299096e-06
+Spongiibacter sp. IMCC21906,6.2457336320598245e-06
+Bacillus gobiensis,6.125882617435963e-06
+Thermomicrobium roseum,6.083719619454087e-06
+Zhongshania aliphaticivorans,6.075770070435027e-06
+Janthinobacterium sp. Marseille,6.025601937209579e-06
+Lysinimonas sp. 2DFWR-13,5.863720304954967e-06
+Slackia heliotrinireducens,5.85268115860238e-06
+Bifidobacterium adolescentis,5.731972071587599e-06
+Streptomyces sp. CB09001,5.63626545675433e-06
+Prauserella marina,5.595527662838329e-06
+Segniliparus rotundus,5.5860761465575944e-06
+Erwinia tasmaniensis,5.579892864560065e-06
+Achromobacter insolitus,5.448618657655224e-06
+Burkholderia latens,5.442181153991754e-06
+Streptomyces sp. M56,5.4172439661437364e-06
+Halalkalicoccus jeotgali,5.295733628285504e-06
+Bordetella holmesii,5.244697897532902e-06
+Saccharomonospora viridis,5.226519294176946e-06
+Pseudomonas brassicacearum,5.218528482631157e-06
+Tessaracoccus flavescens,5.069326391105022e-06
+Tessaracoccus flavus,5.0257024901023685e-06
+Streptomyces noursei,5.006277071162302e-06
+Raoultella ornithinolytica,4.9813825797384584e-06
+Nocardia farcinica,4.9771407834464655e-06
+Pseudomonas fragi,4.942705904231737e-06
+Parascardovia denticolens,4.86890898581116e-06
+Alcanivorax sp. N3-2A,4.8179664560832334e-06
+Ornithobacterium rhinotracheale,4.81285796549713e-06
+Beutenbergia cavernae,4.808705190129104e-06
+Mycolicibacterium thermoresistibile,4.792222227867349e-06
+Pseudomonas chlororaphis,4.737173819924223e-06
+Halomonas sp. GFAJ-1,4.684746699346043e-06
+Corynebacterium glyciniphilum,4.5923620109356024e-06
+Acetohalobium arabaticum,4.5639840207112314e-06
+Deinococcus proteolyticus,4.546319712805946e-06
+Nonlabens sp. Hel1_33_55,4.521168949533916e-06
+Corynebacterium ureicelerivorans,4.511589491862367e-06
+Burkholderia sp. Bp7605,4.470328432759629e-06
+Candidatus Nitrosopelagicus brevis,4.4454652929903915e-06
+Phaeobacter gallaeciensis,4.428799957079122e-06
+Octadecabacter antarcticus,4.422560968619926e-06
+Chryseobacterium sp. StRB126,4.4074609225841496e-06
+Pseudomonas sp. 31-12,4.382866062835334e-06
+Porphyromonas asaccharolytica,4.329105419209611e-06
+Brevirhabdus pacifica,4.275342347259681e-06
+Hoyosella subflava,4.274171752749467e-06
+Plantactinospora sp. KBS50,4.274171752749467e-06
+Actinopolymorpha singaporensis,4.2450164181362385e-06
+Pseudomonas sp. LG1E9,4.235341830849393e-06
+Negativicoccus massiliensis,4.224328972091129e-06
+Desulfobacterium autotrophicum,4.188489911860493e-06
+Desulfovibrio alaskensis,4.150060658303367e-06
+Pseudomonas moraviensis,4.095666075620841e-06
+Capnocytophaga canimorsus,4.078757192993443e-06
+Chryseobacterium haifense,4.0347876649526885e-06
+Bacillus sp. Y1,4.0143773258893845e-06
+Desulfovibrio gigas,3.944128078159359e-06
+Saccharothrix espanaensis,3.907854579443537e-06
+Flavobacterium indicum,3.8995099494565364e-06
+Eubacterium limosum,3.809381767228004e-06
+Cellulosimicrobium sp. TH-20,3.7389801634590824e-06
+Candidatus Saccharibacteria oral taxon TM7x,3.6988756056066664e-06
+Tessaracoccus sp. T2.5-30,3.6482271236426556e-06
+Pseudomonas sp. St29,3.644730694674081e-06
+Pseudomonas stutzeri,3.6189302205835715e-06
+Frankia casuarinae,3.589554087501945e-06
+Burkholderia seminalis,3.5810694204441162e-06
+Candidatus Saccharibacteria bacterium YM_S32_TM7_50_20,3.5391463119927024e-06
+Paludisphaera borealis,3.5120598032012396e-06
+Corynebacterium sp. ATCC 6931,3.393388293160271e-06
+Herbaspirillum seropedicae,3.3666830682843594e-06
+Streptomyces spongiicola,3.337226840849361e-06
+Brevundimonas naejangsanensis,3.283212560090121e-06
+Pseudarthrobacter phenanthrenivorans,3.2803048600982266e-06
+Sandaracinus amylolyticus,3.1527274863218936e-06
+Nocardiopsis dassonvillei,3.117058661872285e-06
+Microbulbifer aggregans,3.080005471711722e-06
+Massilia violaceinigra,3.064130160179701e-06
+Phaeobacter inhibens,3.052796589519957e-06
+Streptomyces xinghaiensis,3.0334857245684075e-06
+Micromonospora sp. WMMA2032,2.995872235356245e-06
+Celeribacter ethanolicus,2.9906972487170335e-06
+Microlunatus soli,2.9269984302970897e-06
+Cyanobium gracile,2.907598301460368e-06
+Brachybacterium ginsengisoli,2.9069548503013466e-06
+Desulfomicrobium orale,2.89112212508158e-06
+Rubrobacter radiotolerans,2.89112212508158e-06
+Glaesserella parasuis,2.7280947732410967e-06
+Mariprofundus ferrinatatus,2.7222355451161918e-06
+Cupriavidus metallidurans,2.71045665722891e-06
+Actinoplanes teichomyceticus,2.6924373545789136e-06
+Prevotella denticola,2.678412772039174e-06
+Bacillus licheniformis,2.6736280774875e-06
+Gryllotalpicola sp. 2DFW10M-5,2.657222773172485e-06
+Gordonia sp. MMS17-SY073,2.60362673960568e-06
+Riemerella anatipestifer,2.5758895829230964e-06
+Pseudoalteromonas rubra,2.562658081561864e-06
+Paenibacillus mucilaginosus,2.5561360144532587e-06
+Muricauda lutaonensis,2.5561360144532587e-06
+Methylomonas koyamae,2.5561360144532587e-06
+Candidatus Azobacteroides pseudotrichonymphae,2.5561360144532587e-06
+Azospirillum sp. CFH 70021,2.5561360144532587e-06
+Halomonas hydrothermalis,2.5561360144532587e-06
+Streptomyces sampsonii,2.5450964426854127e-06
+Clostridium sp. MF28,2.50816852920277e-06
+Methyloversatilis sp. RAC08,2.5022339364300096e-06
+Cedecea neteri,2.4854395891171776e-06
+Hymenobacter sp. PAMC 26628,2.4353710245561546e-06
+Corynebacterium efficiens,2.3945144607795397e-06
+Pseudomonas sp. MYb193,2.386674253251897e-06
+Pantoea stewartii,2.3734179062318007e-06
+Acidaminococcus fermentans,2.3694548403341287e-06
+Pseudomonas silesiensis,2.368735197988414e-06
+Sulfitobacter sp. SK011,2.368735197988414e-06
+Leifsonia xyli,2.3578454742434475e-06
+Marinobacter salarius,2.3101773699574224e-06
+Corynebacterium stationis,2.272977374850882e-06
+Streptomyces lincolnensis,2.2487658728920225e-06
+Mycobacterium paraintracellulare,2.1952488227228173e-06
+Cronobacter dublinensis,2.150453478488856e-06
+Pseudomonas mosselii,2.1442506025204366e-06
+Enterobacter sp. E20,2.139601401807134e-06
+Clavibacter michiganensis,2.1344710288584425e-06
+Corynebacterium maris,2.132079491601324e-06
+Megasphaera elsdenii,2.127609391378016e-06
+Cobetia marina,2.127609391378016e-06
+Spirosoma montaniterrae,2.127609391378016e-06
+Streptomyces roseochromogenus,2.1093459216192657e-06
+Terriglobus roseus,2.097032130743415e-06
+Methylorubrum populi,2.0935868481730678e-06
+Azospirillum humicireducens,2.065757812652613e-06
+Salipiger profundus,2.065757812652613e-06
+Pseudomonas palleroniana,2.065757812652613e-06
+Paenibacillus riograndensis,2.064946884883234e-06
+Flavobacteriaceae bacterium UJ101,2.058951014438648e-06
+Intrasporangium calvum,2.056494357360883e-06
+Aeromonas sp. ASNIH4,2.0284126798220115e-06
+Microvirga sp. 17 mud 1-3,2.006534823362216e-06
+endosymbiont of unidentified scaly snail isolate Monju,2.001232567860889e-06
+Dickeya solani,1.9788058513769967e-06
+Rhizobium etli,1.914923338608432e-06
+Rhodococcus sp. WB1,1.8671620834576075e-06
+Halotalea alkalilenta,1.86661559451462e-06
+Pandoraea sputorum,1.8591772926956907e-06
+Spirosoma pollinicola,1.8585265951109875e-06
+soil_NH4,1.8541428215668177e-06
+Gordonia sp. YC-JH1,1.8133887647708847e-06
+Granulicella tundricola,1.8013208206824061e-06
+Synechococcus lividus,1.7849014750659364e-06
+Clostridium pasteurianum,1.771776901970945e-06
+Geobacillus sp. WCH70,1.7605019280386714e-06
+Pseudomonas sp. TCU-HL1,1.7448191294677784e-06
+Micromonospora viridifaciens,1.7229315586675399e-06
+Desulfovibrio vulgaris,1.706363855902282e-06
+Rahnella aquatilis,1.6799093790487163e-06
+Heliobacterium modesticaldum,1.673939133972624e-06
+Thauera hydrothermalis,1.6227301438576091e-06
+Halomicrobium mukohataei,1.6227301438576091e-06
+Glutamicibacter nicotianae,1.6193474841275091e-06
+Epibacterium mobile,1.614655047732505e-06
+Paracoccus contaminans,1.6101315712724328e-06
+Herminiimonas arsenitoxidans,1.5920107730549305e-06
+Salegentibacter sp. T436,1.5892973743492077e-06
+Hymenobacter swuensis,1.5864950082322692e-06
+Pseudomonas sp. ATCC 13867,1.5355686793894208e-06
+Aquifex aeolicus,1.5054963301563973e-06
+Corynebacterium diphtheriae,1.4972046815664442e-06
+Pseudomonas sp. DR 5-09,1.4775912544395808e-06
+Yersinia entomophaga,1.4708611127511873e-06
+Pluralibacter gergoviae,1.4604839633225453e-06
+Actinoalloteichus hoggarensis,1.4591347580417136e-06
+Methylomonas denitrificans,1.4577429538586984e-06
+Flavobacterium branchiophilum,1.4577429538586984e-06
+Erythrobacter litoralis,1.4374204021283531e-06
+Acidobacteriaceae bacterium SBC82,1.4200602664438123e-06
+Erwinia persicina,1.4113415891081616e-06
+Thermococcus kodakarensis,1.4002973588000956e-06
+Methanocorpusculum labreanum,1.393415043882129e-06
+Mycobacterium paragordonae,1.3916534040703255e-06
+Bordetella parapertussis,1.3895213078374268e-06
+Streptomyces sp. RTd22,1.3862557966204393e-06
+Streptomyces actuosus,1.379913457943971e-06
+Methylobacterium sp. XJLW,1.3725621855309456e-06
+Diaphorobacter polyhydroxybutyrativorans,1.3657162533542433e-06
+Myroides odoratus,1.3655889689712098e-06
+Paucibacter sp. KCTC 42545,1.3554318221586925e-06
+Fibrella aestuarina,1.322385172941587e-06
+Streptomyces albulus,1.2976820687349288e-06
+Agrococcus carbonis,1.2917810157775378e-06
+Scytonema sp. NIES-4073,1.2612073128082102e-06
+Dickeya chrysanthemi,1.2544882435960857e-06
+Citromicrobium sp. JL477,1.2500211411969886e-06
+Enterobacter cloacae complex sp. ECNIH7,1.2485304487386272e-06
+Deinococcus swuensis,1.2481430772037782e-06
+Jiangella sp. DSM 45060,1.24352628532165e-06
+Amycolatopsis methanolica,1.2246177030661442e-06
+Streptomyces sp. HNM0039,1.1897564348162248e-06
+Bradymonas sediminis,1.1832127405853044e-06
+Geobacter daltonii,1.1619994022993296e-06
+Pseudodesulfovibrio indicus,1.1297777111840547e-06
+Lactobacillus fermentum,1.1135755624502864e-06
+Thiocystis violascens,1.113109771000431e-06
+Thiobacillus denitrificans,1.113109771000431e-06
+Halorubrum trapanicum,1.1124506450910232e-06
+Candidatus Nitrospira inopinata,1.1069975702771018e-06
+Pseudomonas saudiphocaensis,1.068923146663181e-06
+Bacillus infantis,1.0458903556553878e-06
+Serratia sp. ATCC 39006,1.0431938606281221e-06
+Burkholderia stagnalis,1.033806021255579e-06
+Pseudarthrobacter sulfonivorans,1.0115285593581547e-06
+Allochromatium vinosum,1.007225858984384e-06
+Micromonospora purpureochromogenes,9.984365066717515e-07
+Gordonia phthalatica,9.805907984716812e-07
+Desulfitobacterium dehalogenans,9.704596505288876e-07
+Kordia sp. SMS9,9.650446554321236e-07
+Candidatus Bipolaricaulis anaerobius,9.585133545542134e-07
+Pseudomonas sihuiensis,9.561092480181444e-07
+Rhodococcus sp. YL-1,9.550998133489585e-07
+Pseudomonas sp. 02C 26,9.462197640752734e-07
+Fluoribacter dumoffii,9.457384950950498e-07
+Propionibacterium sp. oral taxon 193,9.366372916153054e-07
+Rhodobiaceae bacterium,9.347477888388411e-07
+Streptomyces bacillaris,9.34364968974144e-07
+Kyrpidia tusciae,9.334058705956494e-07
+Halocynthiibacter arcticus,9.251121289910458e-07
+Devosia sp. A16,9.244497078508829e-07
+Jeongeupia sp. USM3,9.194897993225481e-07
+Rhodococcus jostii,8.987329481735529e-07
+Pajaroellobacter abortibovis,8.903838730978108e-07
+Janthinobacterium sp. 1_2014MBL_MicDiv,8.884118207097557e-07
+Acidipropionibacterium acidipropionici,8.829106620256155e-07
+Sphaerospermopsis kisseleviana,8.788399864290142e-07
+Deinococcus maricopensis,8.751545319318766e-07
+Streptomyces griseochromogenes,8.733099520430443e-07
+Streptomyces peucetius,8.683825612365581e-07
+Streptomyces puniciscabiei,8.454592506978998e-07
+Pseudopedobacter saltans,8.307860436707059e-07
+Oleispira antarctica,8.291434725471447e-07
+Haloarcula marismortui,8.266732236972274e-07
+Olsenella uli,8.262306848472179e-07
+Bifidobacterium pseudolongum,8.227981478814427e-07
+Synechococcus sp. JA-3-3Ab,8.16507907575037e-07
+Kitasatospora aureofaciens,8.043788725542455e-07
+Marinobacter sp. Arc7-DN-1,8.03612006650134e-07
+Bacillus cellulosilyticus,8.034484058061508e-07
+Aminomonas paucivorans,7.971485299629322e-07
+Alistipes shahii,7.894043473788414e-07
+Fibrobacter succinogenes,7.76620546738549e-07
+Nostocales cyanobacterium HT-58-2,7.62197178283408e-07
+Paenibacillus sp. IHBB 10380,7.597260860858767e-07
+Lactobacillus zymae,7.591250413163663e-07
+Mycolicibacterium hassiacum,7.342996734216456e-07
+Ketogulonicigenium robustum,7.320698281132465e-07
+Tropheryma whipplei,7.308583503284893e-07
+Methylomonas sp. DH-1,7.246406859007237e-07
+Thermus oshimai,7.228557309169048e-07
+Bordetella pseudohinzii,6.964070499604346e-07
+Comamonadaceae bacterium B1,6.90871904618362e-07
+Fictibacillus phosphorivorans,6.864016422358787e-07
+Parachlamydia acanthamoebae,6.840117277029378e-07
+Shewanella sp. FDAARGOS_354,6.821768201437095e-07
+Streptomyces sp. WAC00288,6.785165702627438e-07
+Flavobacterium sp. HYN0049,6.740222477485958e-07
+Serratia sp. YD25,6.654848161424809e-07
+Chelatococcus daeguensis,6.528054700138952e-07
+Corynebacterium humireducens,6.492513380473852e-07
+Mycolicibacter sinensis,6.373541936444127e-07
+Mycolicibacterium litorale,6.373541936444127e-07
+Streptomyces sp. TLI_053,6.373541936444127e-07
+Kitasatospora setae,6.357214388463816e-07
+Hahella chejuensis,6.327219322033173e-07
+Paenalcaligenes hominis,6.327219322033173e-07
+Octadecabacter arcticus,6.327219322033173e-07
+Prevotella dentalis,6.327219322033173e-07
+Marinobacterium aestuarii,6.327219322033173e-07
+Rhizobium sp. S41,6.104393011074905e-07
+Edwardsiella ictaluri,6.046696112038674e-07
+Finegoldia magna,5.937245352694021e-07
+Azoarcus sp. SY39,5.840014635216662e-07
+Streptomyces sp. Z022,5.825689558314196e-07
+Bordetella avium,5.680072244995671e-07
+Aeromonas sp. ASNIH5,5.636381031237647e-07
+Arthrobacter sp. U41,5.560128143011767e-07
+Aureitalea sp. RR4-38,5.366778202953171e-07
+Cupriavidus sp. USMAHM13,5.354861546402745e-07
+Granulosicoccus antarcticus,5.354861546402745e-07
+Sphingomonas melonis,5.354861546402745e-07
+Christensenella minuta,5.354861546402745e-07
+Thermotoga sp. 2812B,5.354861546402745e-07
+Sphingopyxis fribergensis,5.354861546402745e-07
+Parasaccharibacter apium,5.354861546402745e-07
+Parvibaculum lavamentivorans,5.354861546402745e-07
+Streptomyces sp. ADI95-16,5.278257584118151e-07
+[Enterobacter] lignolyticus,5.20088886135639e-07
+Frankia inefficax,5.191481821542609e-07
+Pseudomonas cremoricolorata,5.028964574105288e-07
+Sinorhizobium meliloti,5.011509744523579e-07
+Dyella japonica,4.965459444727927e-07
+Pseudomonas sp. R4-39-08,4.922643786153813e-07
+Acinetobacter lactucae,4.685357076095187e-07
+Pseudomonas sp. s211(2017),4.685357076095187e-07
+Xanthomonas citri,4.6332575709406854e-07
+Cryobacterium arcticum,4.589314579694914e-07
+Microbacterium sp. PM5,4.5893145794728696e-07
+Aneurinibacillus soli,4.5893145794728696e-07
+Tsukamurella paurometabola,4.5893145794728696e-07
+Corynebacterium doosanense,4.5893145794728696e-07
+Saccharomonospora marina,4.5893145794728696e-07
+Algibacter alginicilyticus,4.3607779276477743e-07
+Corynebacterium lactis,4.231458819337064e-07
+Photorhabdus thracensis,4.204515269279341e-07
+Mesorhizobium japonicum,4.129262146657098e-07
+Actinomyces sp. oral taxon 897,4.127687403654434e-07
+Paenibacillus durus,4.123545221723646e-07
+Sphingobium sp. YG1,4.0731737851462666e-07
+Mycobacterium sp. EPa45,4.0320519043568483e-07
+Glutamicibacter arilaitensis,4.0194902040102676e-07
+Sedimentisphaera cyanobacteriorum,4.0194902040102676e-07
+Sagittula sp. P11,3.9558471907064077e-07
+Nocardia sp. CFHS0054,3.8792242005314394e-07
+Streptomyces sp. 4F,3.808291540785547e-07
+Bifidobacterium bifidum,3.758725103164551e-07
+Desulfovibrio desulfuricans,3.733283201245996e-07
+Rubrobacter xylanophilus,3.6714516638003403e-07
+Jonesia denitrificans,3.6714516638003403e-07
+Acidithiobacillus caldus,3.4568437783377705e-07
+Clostridium argentinense,3.4496658285476656e-07
+Corynebacterium pseudotuberculosis,3.407694758816859e-07
+Pseudomonas sp. Lz4W,3.3561787404767784e-07
+Desulfohalobium retbaense,3.287409417351839e-07
+Aerococcaceae bacterium ZY16052,3.274402938790999e-07
+Pseudomonas sp. R2A2,3.1996495275521397e-07
+Streptomyces venezuelae,3.190151890208881e-07
+Saccharopolyspora erythraea,3.1773515694055734e-07
+Cutibacterium granulosum,3.132174807074506e-07
+Gemmatimonas phototrophica,3.12420808024072e-07
+Thermobispora bispora,3.084172182532541e-07
+Streptomyces pratensis,3.0805261479471825e-07
+Microbacterium sp. BH-3-3-3,3.075619167791643e-07
+Flavobacterium arcticum,3.0735566558526273e-07
+Vibrio harveyi,3.069305098524211e-07
+Janibacter indicus,2.78578675061425e-07
+Stenotrophomonas sp. Pemsol,2.7712386372336086e-07
+Chloroherpeton thalassium,2.727874246488682e-07
+Chromobacterium violaceum,2.7118201055831294e-07
+Burkholderia plantarii,2.696366756538282e-07
+Streptomyces hygroscopicus,2.669782835251766e-07
+Streptomyces sp. SM18,2.518441881482758e-07
+Streptomyces sp. Mg1,2.518441881482758e-07
+Streptococcus pneumoniae,2.515496312804899e-07
+Brachybacterium faecium,2.4997192080711275e-07
+Desulfomonile tiedjei,2.446497091801447e-07
+Pirellula staleyi,2.417340173366256e-07
+Micromonospora coriariae,2.409982648998721e-07
+Rhizobacter gummiphilus,2.2649848403499816e-07
+Marmoricola scoriae,2.103027773259214e-07
+Streptomyces phage phiSASD1,2.101393506759308e-07
+Bradyrhizobium oligotrophicum,2.0532543059115228e-07
+Halopenitus persicus,2.00801188166011e-07
+Escherichia marmotae,2.0068749937429686e-07
+Celeribacter baekdonensis,1.9192602103146327e-07
+Vibrio natriegens,1.908676994899494e-07
+Corynebacterium frankenforstense,1.8234521348414745e-07
+Paenibacillus physcomitrellae,1.7144065060925585e-07
+Rhodobacteraceae bacterium QY30,1.7006507564421013e-07
+Cyanothece sp. ATCC 51142,1.6641742912604228e-07
+Pontibacter akesuensis,1.6641742912604228e-07
+Pseudomonas antarctica,1.6485279530353836e-07
+Bacillus foraminis,1.6391855197639416e-07
+Thiomonas arsenitoxydans,1.6283586554699525e-07
+Rhizobium phage RHEph10,1.5207150791951562e-07
+Thauera sp. K11,1.5079683801655364e-07
+Brevibacterium siliguriense,1.4675574593336905e-07
+Candidatus Desulfofervidus auxilii,1.4351882822172256e-07
+Corynebacterium minutissimum,1.402699653096917e-07
+Methanocella arvoryzae,1.3897779713722968e-07
+Kozakia baliensis,1.3796874460680896e-07
+Dinoroseobacter shibae,1.370013196444475e-07
+Gemmobacter sp. HYN0069,1.3700131962224305e-07
+Polymorphum gilvum,1.3610743134773174e-07
+Aeromonas dhakensis,1.1770206553851636e-07
+Ochrobactrum sp. A44,1.147520848343575e-07
+Achromobacter sp. AONIH1,1.1443075074168973e-07
+Pandoraea norimbergensis,1.1443075074168973e-07
+Borrelia hermsii,1.1315737136197157e-07
+Synechococcus sp. KORDI-52,1.0813724664604507e-07
+Corynebacterium epidermidicanis,1.0772296621386346e-07
+Shewanella pealeana,1.0364040057275758e-07
+Kibdelosporangium phytohabitans,1.0311640143978452e-07
+Pseudomonas sp. SWI44,1.0015619686942756e-07
+Azoarcus sp. CIB,9.91216342560719e-08
+Streptomyces olivoreticuli,9.895342494292691e-08
+Caldilinea aerophila,9.314094151502417e-08
+Desulfosporosinus youngiae,8.518357947906452e-08
+Kocuria flava,8.394806270128896e-08
+Paracoccus aminovorans,8.133332127790993e-08
+Halorhodospira halochloris,8.016196237914385e-08
+Pseudomonas fulva,7.000481696550765e-08
+Desulfovibrio hydrothermalis,6.915560404330279e-08
+Bradyrhizobium sp. ORS 285,6.915085735137438e-08
+Bdellovibrio exovorus,6.39830305626532e-08
+Thermanaerovibrio acidaminovorans,6.377975996230134e-08
+Candidatus Planktophila lacus,5.8985049511406373e-08
+Alcanivorax xenomutans,5.8985049511406373e-08
+Gemmata sp. SH-PL17,5.8985049489201914e-08
+Hyphomicrobium sp. MC1,5.8985049489201914e-08
+Pseudomonas sp. CMR5c,5.654778838515284e-08
+Saprospira grandis,5.15594773764505e-08
+Paraburkholderia caffeinilytica,4.8581655742729876e-08
+Geobacter sp. M18,4.78196107822626e-08
+Serratia proteamaculans,4.3535934879379566e-08
+Haloarcula sp. CBA1115,3.673837765116872e-08
+Sulfurihydrogenibium sp. YO3AOP1,3.438966995616966e-08
+Verrucomicrobium spinosum,3.293930064263151e-08
+Bacteroides caecimuris,2.49801513252379e-08
+Mycobacterium intracellulare,2.4917658203449378e-08
+Rhodoplanes sp. Z2-YC6860,1.7625934956022603e-08
+Hoeflea sp. IMCC20628,1.6459966989401665e-08
+Gramella sp. MAR_2010_102,1.4755783972475456e-08
+Microbulbifer sp. A4B17,1.1466616811617315e-08
+Oscillibacter sp. PEA192,6.952194531173461e-09
+Azospirillum sp. TSH58,5.199682751033663e-09
+Streptomyces koyangensis,3.391727054768978e-09
+Corynebacterium glaucum,0.0
+Corynebacterium phocae,0.0
+Corynebacterium mustelae,0.0
+Cronobacter turicensis,0.0
+Pseudomonas amygdali,0.0
+Alteromonas mediterranea,0.0
+Winogradskyella sp. J14-2,0.0
+Cronobacter sakazakii,0.0
+Aquimarina sp. AD1,0.0
+Xanthomonas phaseoli,0.0
+Thioalkalivibrio versutus,0.0
+Cronobacter malonaticus,0.0
+Thioalkalivibrio sp. K90mix,0.0
+Propionimicrobium sp. Marseille-P3275,0.0
+Prosthecochloris sp. HL-130-GSB,0.0
+Thioalkalivibrio nitratireducens,0.0
+Alteromonas sp. RKMC-009,0.0
+Archangium gephyra,0.0
+Pseudomonas balearica,0.0
+Pseudodesulfovibrio aespoeensis,0.0
+Pseudoclostridium thermosuccinogenes,0.0
+Corynebacterium genitalium,0.0
+Pseudomonas avellanae,0.0
+Corynebacterium geronticis,0.0
+Streptococcus agalactiae,0.0
+Corynebacterium resistens,0.0
+Ammonifex degensii,0.0
+Aquimarina sp. AD10,0.0
+Corynebacterium pseudopelargi,0.0
+Cellvibrio japonicus,0.0
+Polynucleobacter acidiphobus,0.0
+Polaribacter reichenbachii,0.0
+Propionibacterium acidifaciens,0.0
+Cellulosilyticum lentocellum,0.0
+Arthrobacter sp. DCT-5,0.0
+Amycolatopsis albispora,0.0
+Corynebacterium renale,0.0
+Xanthomonas translucens,0.0
+Xanthomonas sacchari,0.0
+Piscirickettsia salmonis,0.0
+Proteus vulgaris,0.0
+Planctomyces sp. SH-PL14,0.0
+Proteiniphilum saccharofermentans,0.0
+Woeseia oceani,0.0
+Winogradskyella sp. RHA_55,0.0
+Winogradskyella sp. PG-2,0.0
+Pseudomonas cerasi,0.0
+Polaribacter sp. MED152,0.0
+Polaribacter sp. KT 15,0.0
+Polaribacter sp. Hel1_33_78,0.0
+Winogradskyella sp. PC-19,0.0
+Polaribacter sp. BM10,0.0
+Photorhabdus laumondii,0.0
+Photobacterium damselae,0.0
+Providencia stuartii,0.0
+Photobacterium gaetbulicola,0.0
+Providencia rettgeri,0.0
+Phoenicibacter massiliensis,0.0
+Pragia fontium,0.0
+Prosthecochloris aestuarii,0.0
+Polynucleobacter asymbioticus,0.0
+Polynucleobacter duraquae,0.0
+Thiomonas intermedia,0.0
+Prosthecochloris sp. CIB 2401,0.0
+Prevotella enoeca,0.0
+Corynebacterium halotolerans,0.0
+Pontibacter korlensis,0.0
+Aminobacter aminovorans,0.0
+Pseudoalteromonas piscicida,0.0
+Corynebacterium glutamicum,0.0
+Pseudomonas alcaliphila,0.0
+Steroidobacter denitrificans,0.0
+Pseudohongiella spirulinae,0.0
+Propionibacterium freudenreichii,0.0
+Pseudoalteromonas sp. 13-15,0.0
+Pseudodesulfovibrio piezophilus,0.0
+Proteus mirabilis,0.0
+Pseudoalteromonas carrageenovora,0.0
+Prosthecochloris sp. GSB1,0.0
+Cyanothece sp. PCC 7425,0.0
+Desulfovibrio africanus,0.0
+Deinococcus deserti,0.0
+Corynebacterium ulcerans,0.0
+Corynebacterium terpenotabidum,0.0
+Corynebacterium striatum,0.0
+Paenibacillus yonginensis,0.0
+Streptomyces coelicolor,0.0
+Arcticibacterium luteifluviistationis,0.0
+Aurantimicrobium sp. MWH-Mo1,0.0
+Azorhizobium caulinodans,0.0
+Paenibacillus stellifer,0.0
+Paenibacillus sp. Y412MC10,0.0
+Paenibacillus sp. RUD330,0.0
+Paenibacillus sp. FSL R7-0331,0.0
+Paenibacillus sp. FSL H7-0357,0.0
+Paenibacillus sp. CAA11,0.0
+Paenibacillus sp. 32O-W,0.0
+Streptomyces glaucescens,0.0
+Anoxybacillus flavithermus,0.0
+Anoxybacillus amylolyticus,0.0
+Anderseniella sp. Alg231-50,0.0
+Pandoraea oxalativorans,0.0
+Dehalococcoides mccartyi,0.0
+Dehalobacterium formicoaceticum,0.0
+Cupriavidus basilensis,0.0
+Cryptobacterium curtum,0.0
+Cyanothece sp. PCC 7822,0.0
+Azospirillum lipoferum,0.0
+Bacillus anthracis,0.0
+Bacillus amyloliquefaciens,0.0
+Dehalobacter restrictus,0.0
+Deinococcus puniceus,0.0
+Deinococcus gobiensis,0.0
+Dehalogenimonas lykanthroporepellens,0.0
+Dehalogenimonas formicexedens,0.0
+Cytophaga hutchinsonii,0.0
+Azospirillum sp. M2T2B2,0.0
+Oscillibacter valericigenes,0.0
+Oscillatoriales cyanobacterium JSC-12,0.0
+Paenibacillus crassostreae,0.0
+Paenibacillus bovis,0.0
+Oligotropha carboxidovorans,0.0
+Bacillus horikoshii,0.0
+Olsenella sp. oral taxon 807,0.0
+Bacillus sonorensis,0.0
+Paraburkholderia aromaticivorans,0.0
+Bacillus pumilus,0.0
+Bacillus pseudofirmus,0.0
+Azoarcus sp. KH32C,0.0
+Azoarcus sp. DN11,0.0
+Pantoea ananatis,0.0
+Paludibacter propionicigenes,0.0
+Bacillus paralicheniformis,0.0
+Bacillus litoralis,0.0
+Aurantimicrobium minutum,0.0
+Bacillus safensis,0.0
+Paenibacillus swuensis,0.0
+Paenibacillus polymyxa,0.0
+Paenibacillus peoriae,0.0
+Paenibacillus naphthalenovorans,0.0
+Bacillus jeotgali,0.0
+Bacillus aryabhattai,0.0
+Paenibacillus lautus,0.0
+Paenibacillus larvae,0.0
+Streptomyces niveus,0.0
+Paenibacillus glucanolyticus,0.0
+Octadecabacter temperatus,0.0
+Dermacoccus nishinomiyaensis,0.0
+Dermabacter vaginalis,0.0
+Denitrovibrio acetiphilus,0.0
+Deinococcus peraridilitoris,0.0
+Thermocrinis minervae,0.0
+Thermococcus eurythermalis,0.0
+Opitutus terrae,0.0
+Paenibacillus kribbensis,0.0
+Thermosynechococcus sp. NK55a,0.0
+Pelagibaca abyssi,0.0
+Pedobacter sp. eg,0.0
+Persephonella marina,0.0
+Planococcus antarcticus,0.0
+Pelodictyon phaeoclathratiforme,0.0
+Pelodictyon luteolum,0.0
+Pelobacter sp. SFB93,0.0
+Antarctobacter heliothermus,0.0
+Stenotrophomonas sp. ZAC14D2_NAIMI4_7,0.0
+Pedobacter heparinus,0.0
+Pectobacterium wasabiae,0.0
+Pectobacterium polaris,0.0
+Pectobacterium parmentieri,0.0
+Petrimonas mucosa,0.0
+Pectobacterium atrosepticum,0.0
+Pelobacter acetylenicus,0.0
+Planktothrix agardhii,0.0
+Phaeobacter sp. LSS9,0.0
+Wenzhouxiangella marina,0.0
+Arcanobacterium phocae,0.0
+Arcanobacterium haemolyticum,0.0
+Thermotoga sp. RQ7,0.0
+Cyanothece sp. PCC 7424,0.0
+Denitrobacterium detoxificans,0.0
+Cupriavidus necator,0.0
+Cyanobacterium aponinum,0.0
+Thermotoga caldifontis,0.0
+Thermus thermophilus,0.0
+Thermus sp. CCB_US3_UF1,0.0
+Thermus scotoductus,0.0
+Thermus parvatiensis,0.0
+Thermus brockianus,0.0
+Thermovibrio ammonificans,0.0
+Crenobacter sp. K1W11S-77,0.0
+Thermotoga petrophila,0.0
+Thermotoga maritima,0.0
+Thermosynechococcus elongatus,0.0
+Paraglaciecola psychrophila,0.0
+Parageobacillus genomosp. 1,0.0
+Paracoccus zhejiangensis,0.0
+Paraburkholderia phytofirmans,0.0
+Paraburkholderia hospita,0.0
+Parabacteroides distasonis,0.0
+Paenibacillus lentus,0.0
+Paracoccus sp. SC2-6,0.0
+Planctopirus limnophila,0.0
+Paucimonas lemoignei,0.0
+Paracoccus denitrificans,0.0
+Plantactinospora sp. BB1,0.0
+Planococcus sp. Y42,0.0
+Phytobacter ursingii,0.0
+Phytobacter sp. SCO41,0.0
+Phycisphaera mikurensis,0.0
+Planococcus rifietoensis,0.0
+Planococcus plakortidis,0.0
+Paracoccus sp. CBA4604,0.0
+Plesiomonas shigelloides,0.0
+Azoarcus communis,0.0
+Austwickia chelonae,0.0
+Streptomyces ambofaciens,0.0
+Streptomyces alfalfae,0.0
+Auritidibacter sp. NML130574,0.0
+Aurantimicrobium sp. MWH-Uga1,0.0
+Wenyingzhuangia fucanilytica,0.0
+Xanthomonas axonopodis,0.0
+Paraoerskovia marina,0.0
+Wolbachia endosymbiont of Drosophila melanogaster,0.0
+Xanthomonas perforans,0.0
+Paracoccus yeei,0.0
+Streptomyces cattleya,0.0
+Arachidicoccus sp. KIS59-12,0.0
+Aquimarina sp. BL5,0.0
+Paracoccus aminophilus,0.0
+Pararhodospirillum photometricum,0.0
+Pandoraea apista,0.0
+Wolbachia endosymbiont of Drosophila simulans,0.0
+Chryseobacterium nakagawai,0.0
+Chryseobacterium lactis,0.0
+Citrobacter amalonaticus,0.0
+Rothia dentocariosa,0.0
+Roseovarius sp. TM1035,0.0
+Chloroflexus aurantiacus,0.0
+Chryseobacterium arthrosphaerae,0.0
+Chromohalobacter salexigens,0.0
+Chryseobacterium indoltheticum,0.0
+Alkalitalea saponilacus,0.0
+Rickettsia rickettsii,0.0
+Rhodovulum sulfidophilum,0.0
+Sphingomonas koreensis,0.0
+Roseobacter litoralis,0.0
+Roseiflexus sp. RS-1,0.0
+Roseiflexus castenholzii,0.0
+Rhodothermaceae bacterium RA,0.0
+Rhodothermaceae bacterium,0.0
+Rhodospirillum rubrum,0.0
+Chryseobacterium indologenes,0.0
+Shewanella marisflavi,0.0
+Salmonella bongori,0.0
+Ruegeria sp. NKC1-1,0.0
+Saccharomonospora cyanea,0.0
+Runella sp. HYN0085,0.0
+Roseburia hominis,0.0
+Ruminococcus champanellensis,0.0
+Ruminococcus albus,0.0
+Chryseobacterium taklimakanense,0.0
+Chryseobacterium sp. 6424,0.0
+Chryseobacterium sp. IHB B 17019,0.0
+Cellulophaga baltica,0.0
+Cellulophaga algicola,0.0
+Acinetobacter nosocomialis,0.0
+Acinetobacter wuhouensis,0.0
+Rufibacter sp. DG31D,0.0
+Chromobacterium sp. ATCC 53434,0.0
+Chryseobacterium carnis,0.0
+Celeribacter marinus,0.0
+Celeribacter manganoxidans,0.0
+Chryseobacterium sp. T16E-39,0.0
+Aeromonas media,0.0
+Aeromonas hydrophila,0.0
+Rhodococcus biphenylivorans,0.0
+Rhodobacteraceae bacterium BAR1,0.0
+Aeromonas sp. CU5,0.0
+Aeromonas sp. CA23,0.0
+Acinetobacter calcoaceticus,0.0
+Acinetobacter sp. ACNIH2,0.0
+Rhodobacter blasticus,0.0
+Rhodospirillum centenum,0.0
+Aggregatibacter aphrophilus,0.0
+Aggregatibacter actinomycetemcomitans,0.0
+Sphingomonas sp. JJ-A5,0.0
+Acinetobacter schindleri,0.0
+Acinetobacter radioresistens,0.0
+Aeromicrobium sp. 592,0.0
+Aequorivita sublithincola,0.0
+Aeromonas caviae,0.0
+Rhizobium sp. TAL182,0.0
+Rhizobium tropici,0.0
+Rhodobaca barguzinensis,0.0
+Rivularia sp. PCC 7116,0.0
+Serratia sp. P2ACOL2,0.0
+Serratia sp. MYb239,0.0
+Serratia sp. JKS000199,0.0
+Rhodococcus sp. S2-17,0.0
+Rhodococcus sp. PBTS 2,0.0
+Rhodoluna lacicola,0.0
+Rhodovulum sp. MB263,0.0
+Ruminococcaceae bacterium CPB6,0.0
+Clostridium acetobutylicum,0.0
+Rhodococcus sp. WMMA185,0.0
+Ruegeria sp. TM1040,0.0
+Serratia sp. SSNIH1,0.0
+Serratia sp. SCBI,0.0
+Renibacterium salmoninarum,0.0
+Rhizobium sp. CCGE532,0.0
+Citrobacter freundii complex sp. CFNIH2,0.0
+Clostridiales bacterium CCNA10,0.0
+Cloacibacterium normanense,0.0
+Citrobacter braakii,0.0
+Rhodococcus sp. p52,0.0
+Acidovorax ebreus,0.0
+Chitinophaga caeni,0.0
+Chelatococcus sp. CO-6,0.0
+Chania multitudinisentens,0.0
+Chlorobium phaeovibrioides,0.0
+Yersinia aleksiciae,0.0
+Simplicispira suum,0.0
+Acidaminococcus intestini,0.0
+Achromobacter xylosoxidans,0.0
+Serratia sp. FDAARGOS_506,0.0
+Shewanella violacea,0.0
+chem__Ca (Mehlich 1 mg/kg dry weight),0.0
+Actinomyces meyeri,0.0
+Actinoplanes sp. SE50/110,0.0
+[Clostridium] sphenoides,0.0
+endosymbiont of Acanthamoeba sp. UWC8,0.0
+[Eubacterium] rectale,0.0
+Acidovorax sp. T1,0.0
+Acidovorax sp. JS42,0.0
+Shewanella algae,0.0
+Sphingobium indicum,0.0
+Selenomonas ruminantium,0.0
+Serratia sp. 3ACOL1,0.0
+Serratia liquefaciens,0.0
+Capnocytophaga sputigena,0.0
+Capnocytophaga leadbetteri,0.0
+Capnocytophaga haemolytica,0.0
+Candidatus Xiphinematobacter sp. Idaho Grape,0.0
+Candidatus Thiodictyon syntrophicum,0.0
+Simonsiella muelleri,0.0
+Shewanella denitrificans,0.0
+Shewanella benthica,0.0
+Acinetobacter pittii,0.0
+Chlorobaculum limnaeum,0.0
+Candidatus Solibacter usitatus,0.0
+Candidatus Sodalis pierantonius,0.0
+Candidatus Rhodoluna planktonica,0.0
+Candidatus Puniceispirillum marinum,0.0
+Candidatus Protochlamydia naegleriophila,0.0
+Chromobacterium sp. IIBBL 274-1,0.0
+Candidatus Symbiobacter mobilis,0.0
+Sphingobacterium mizutaii,0.0
+Rubinisphaera brasiliensis,0.0
+Saccharomonospora glauca,0.0
+Salinicola tamaricis,0.0
+Salmonella enterica,0.0
+Salinarchaeum sp. Harcht-Bsk1,0.0
+Salegentibacter salegens,0.0
+Salinivirga cyanobacteriivorans,0.0
+Salinispora arenicola,0.0
+Acidipropionibacterium virtanenii,0.0
+alpha proteobacterium HIMB59,0.0
+Sinorhizobium americanum,0.0
+Shewanella sp. WE21,0.0
+Saccharospirillum mangrovi,0.0
+Saccharophagus degradans,0.0
+Serratia ficaria,0.0
+Shewanella psychrophila,0.0
+Shewanella oneidensis,0.0
+Simkania negevensis,0.0
+Simiduia agarivorans,0.0
+Salinispira pacifica,0.0
+Yersinia rohdei,0.0
+[Clostridium] cellulosi,0.0
+[Clostridium] bolteae,0.0
+Zymomonas mobilis,0.0
+Zunongwangia profunda,0.0
+Acidiphilium multivorum,0.0
+Acidiphilium cryptum,0.0
+[Eubacterium] cellulosolvens,0.0
+Sodalis glossinidius,0.0
+Sedimentisphaera salicampi,0.0
+Gammaproteobacteria bacterium DM2,0.0
+Acetobacter aceti,0.0
+Acetobacterium sp. KB-1,0.0
+Acetobacter tropicalis,0.0
+Acetobacter senegalensis,0.0
+archaeon AArc-Sl,0.0
+Salinimonas sp. N102,0.0
+Scytonema sp. HK-05,0.0
+Sediminispirochaeta smaragdinae,0.0
+Sediminicola sp. YIK13,0.0
+Gardnerella vaginalis,0.0
+Akkermansia glycaniphila,0.0
+Pseudomonas sp. LAB-08,0.0
+Pseudomonas sp. WCS374,0.0
+Pseudomonas veronii,0.0
+Pseudomonas sp. JY-Q,0.0
+Alkalilimnicola ehrlichii,0.0
+Alicyclobacillus acidocaldarius,0.0
+Alteromonas australica,0.0
+Xanthomonas gardneri,0.0
+Sphingomonas sp. YZ-8,0.0
+Xenorhabdus doucetiae,0.0
+Corynebacterium camporealensis,0.0
+Corynebacterium callunae,0.0
+Corynebacterium atypicum,0.0
+Corynebacterium flavescens,0.0
+Clostridium sp. JN500901,0.0
+Collinsella aerofaciens,0.0
+Arthrobacter sp. ZXY-2,0.0
+Coriobacteriaceae bacterium 68-1-3,0.0
+Xenorhabdus hominickii,0.0
+Clostridium sp. SY8519,0.0
+Aeromonas sp. ASNIH3,0.0
+Pseudomonas sp. VLB120,0.0
+Aeromonas rivipollensis,0.0
+Alloactinosynnema sp. L-07,0.0
+Trichormus azollae,0.0
+Trichodesmium erythraeum,0.0
+Treponema sp. OMZ 838,0.0
+Pseudomonas putida,0.0
+Alcanivorax borkumensis,0.0
+Pseudomonas sp. MT-1,0.0
+Pseudomonas sp. R3-52-08,0.0
+Pseudomonas savastanoi,0.0
+Pseudomonas sp. R3-18-08,0.0
+Pseudomonas sp. R2-60-08W,0.0
+Pseudomonas sp. LPH1,0.0
+Pseudomonas sp. LH1G9,0.0
+Pseudomonas sp. R1-43-08,0.0
+Pseudomonas salegens,0.0
+Pseudomonas sp. R2-37-08W,0.0
+Pseudomonas pseudoalcaligenes,0.0
+Pseudomonas extremorientalis,0.0
+Pseudomonas litoralis,0.0
+Stenotrophomonas nitritireducens,0.0
+Pseudomonas furukawaii,0.0
+Pseudomonas simiae,0.0
+Staphylococcus epidermidis,0.0
+Staphylococcus aureus,0.0
+Sphingorhabdus sp. YGSMI21,0.0
+Stackebrandtia nassauensis,0.0
+Coraliomargarita akajimensis,0.0
+Sporosarcina psychrophila,0.0
+Xenorhabdus bovienii,0.0
+Sphingopyxis sp. WS5A3p,0.0
+Spirosoma radiotolerans,0.0
+Pseudomonas sp. CCOS 191,0.0
+Pseudomonas sp. CC6-YY-74,0.0
+Spirochaeta africana,0.0
+Stappia sp. ES.058,0.0
+Aminobacterium colombiense,0.0
+Arenibacter algicola,0.0
+Sporosarcina ureae,0.0
+Coprothermobacter proteolyticus,0.0
+Corynebacterium crudilactis,0.0
+Corynebacterium choanis,0.0
+Thiomicrospira cyclica,0.0
+Thiomicrospira aerophila,0.0
+Corynebacterium casei,0.0
+Commensalibacter sp. AMU001,0.0
+Comamonas testosteroni,0.0
+Chlorobium chlorochromatii,0.0
+Pseudomonas monteilii,0.0
+Chamaesiphon minutus,0.0
+Cellvibrio sp. PSBB023,0.0
+Cellvibrio sp. PSBB006,0.0
+Pseudomonas mucidolens,0.0
+Spiribacter curvatus,0.0
+Anaplasma marginale,0.0
+Anaerotignum propionicum,0.0
+Anaeromyxobacter sp. Fw109-5,0.0
+Anaeromyxobacter dehalogenans,0.0
+Pseudomonas asplenii,0.0
+Chlorobaculum parvum,0.0
+Clostridium kluyveri,0.0
+Clostridium isatidis,0.0
+Clostridium bornimense,0.0
+Ralstonia solanacearum,0.0
+Ralstonia pseudosolanacearum,0.0
+Rhizobium phage 16-3,0.0
+Rhodococcus sp. B7740,0.0
+Rhodococcus sp. 2G,0.0
+Rhodococcus ruber,0.0
+Confluentimicrobium sp. EMB200-NS6,0.0
+Reinekea forsetii,0.0
+Rathayibacter tritici,0.0
+Rathayibacter toxicus,0.0
+Pseudomonas sp. SWI6,0.0
+Pseudomonas sp. SWI36,0.0
+Pseudomonas sp. S-6-2,0.0
+Psychrobacter sp. AntiMn-1,0.0
+Psychrobacter alimentarius,0.0
+Pseudonocardia dioxanivorans,0.0
+Rhodococcus rhodochrous,0.0
+Sphingomonas sp. NIC1,0.0
+Sphingopyxis sp. MG,0.0
+Acinetobacter indicus,0.0
+Acinetobacter haemolyticus,0.0
+Clostridium scatologenes,0.0
+Chryseobacterium balustinum,0.0
+Christensenella massiliensis,0.0
+Rhizobium sp. 11515TR,0.0
+Ramlibacter tataouinensis,0.0
+Clostridium ljungdahlii,0.0
+Clostridium tyrobutyricum,0.0
+Clostridium drakei,0.0
+Clostridium chauvoei,0.0
+Clostridium cellulovorans,0.0
+Clostridium carboxidivorans,0.0
+Clostridium septicum,0.0
+Cloacibacillus porcorum,0.0
+Citrobacter youngae,0.0
+Citrobacter werkmanii,0.0
+Corynebacterium cystitidis,0.0
+Clostridium baratii,0.0
+Turicibacter sp. H121,0.0
+Treponema azotonutricium,0.0
+Tolumonas auensis,0.0
+Tistrella mobilis,0.0
+Thioploca ingrica,0.0
+Citrobacter sp. FDAARGOS_156,0.0
+Citrobacter freundii complex sp. CFNIH9,0.0
+Truepera radiovictrix,0.0
+Caulobacteraceae bacterium OTSz_A_272,0.0
+Pseudomonas virus PaMx74,0.0
+Corynebacterium aquilae,0.0
+Corynebacterium ammoniagenes,0.0
+Corynebacterium sp. NML98-0116,0.0
+Treponema primitia,0.0
+Ahniella affigens,0.0
+Actinomyces sp. VUL4_3,0.0
+Actinomyces radingae,0.0
+Clostridium perfringens,0.0
+Corynebacterium sp. 2183,0.0
+Corynebacterium singulare,0.0
+Treponema denticola,0.0
+Pseudothermotoga hypogea,0.0
+Pseudorhodoplanes sinuspersici,0.0
+Ralstonia pickettii,0.0
+Rahnella sp. Y9602,0.0
+Actinomyces sp. Z16,0.0
+Advenella kashmirensis,0.0
+Adlercreutzia equolifaciens,0.0
+Actinotignum schaalii,0.0
+Actinosynnema mirum,0.0
+Treponema pallidum,0.0
+Pseudonocardia sp. EC080610-09,0.0
+Psychromicrobium lacuslunae,0.0
+Citrobacter freundii complex sp. CFNIH4,0.0
+Citrobacter freundii complex sp. CFNIH3,0.0
+Actinomyces radicidentis,0.0
+Agarivorans gilvus,0.0
+Agrococcus jejuensis,0.0
+Alcanivorax dieselolei,0.0
+Anaerolineaceae bacterium oral taxon 439,0.0
+Anabaenopsis circularis,0.0
+Pseudonocardia sp. HH130630-07,0.0
+Sulfuricurvum kujiense,0.0
+Sulfitobacter sp. SK012,0.0
+Klebsiella variicola,0.0
+Brucella vulpis,0.0
+Janthinobacterium sp. B9-8,0.0
+Ketogulonicigenium vulgare,0.0
+Ketobacter alkanivorans,0.0
+Klebsiella sp. M5al,0.0
+Klebsiella quasivariicola,0.0
+Streptomyces leeuwenhoekii,0.0
+Klebsiella pneumoniae,0.0
+Laceyella sacchari,0.0
+Labrenzia sp. VG12,0.0
+Labrenzia sp. CP4,0.0
+Jeotgalibacillus malaysiensis,0.0
+Kingella kingae,0.0
+Kribbella flavida,0.0
+Bradyrhizobium sp. ORS 278,0.0
+Bradyrhizobium sp. CCGE-LA001,0.0
+Bradyrhizobium ottawaense,0.0
+Klebsiella quasipneumoniae,0.0
+Lachnoclostridium sp. YL32,0.0
+Lachnoclostridium phytofermentans,0.0
+Lachnoclostridium phocaeense,0.0
+Kosakonia radicincitans,0.0
+Kosakonia cowanii,0.0
+Brucella sp. 09RB8471,0.0
+Streptomyces virus Caliburn,0.0
+Sulfitobacter sp. AM1-D1,0.0
+Sulfitobacter pseudonitzschiae,0.0
+Streptomyces virus phiC31,0.0
+Kocuria palustris,0.0
+Brevundimonas sp. GW460-12-10-14-LB2,0.0
+Legionella spiritensis,0.0
+Legionella oakridgensis,0.0
+Legionella lansingensis,0.0
+Legionella hackeliae,0.0
+Legionella fallonii,0.0
+Legionella anisa,0.0
+Brucella sp. 09RB8910,0.0
+Klebsiella oxytoca,0.0
+Sulfitobacter sp. D7,0.0
+Terriglobus saanensis,0.0
+Flavobacteriaceae bacterium,0.0
+Flavivirga eckloniae,0.0
+Thauera chlorobenzoica,0.0
+Thauera aromatica,0.0
+Thalassospira marina,0.0
+Thalassococcus sp. SH-1,0.0
+Klebsiella michiganensis,0.0
+Hymenobacter sp. DG25B,0.0
+Kangiella profundi,0.0
+Borreliella burgdorferi,0.0
+Brucella melitensis,0.0
+Brucella abortus,0.0
+Burkholderia ambifaria,0.0
+Buchnera aphidicola,0.0
+Hoeflea phototrophica,0.0
+Hyphomonas sp. Mor2,0.0
+Hyphomonas sp. CACIAM 19H1,0.0
+Halomicronema hongdechloris,0.0
+Halogeometricum borinquense,0.0
+Hymenobacter sp. DG25A,0.0
+Kangiella koreensis,0.0
+Bosea sp. RAC05,0.0
+Bosea sp. PAMC 26642,0.0
+Indioceanicola profundi,0.0
+Burkholderia phage KS14,0.0
+Calothrix sp. NIES-2100,0.0
+Calothrix sp. NIES-2098,0.0
+Calothrix parasitica,0.0
+Ignavibacterium album,0.0
+Brucella suis,0.0
+Frankia alni,0.0
+Caldanaerobacter subterraneus,0.0
+Burkholderiales bacterium YL45,0.0
+Campylobacter gracilis,0.0
+Flammeovirga sp. MY04,0.0
+Fischerella sp. NIES-4106,0.0
+Francisella tularensis,0.0
+Filimonas lacunae,0.0
+Flavobacteriaceae bacterium 3519-10,0.0
+Frondihabitans sp. PAMC 28766,0.0
+Flavobacterium sp. MEBiC07310,0.0
+Lacimicrobium alkaliphilum,0.0
+Lachnospiraceae bacterium oral taxon 500,0.0
+Lactobacillus rhamnosus,0.0
+Bifidobacterium thermophilum,0.0
+Bifidobacterium scardovii,0.0
+Legionella waltersii,0.0
+Lonsdalea britannica,0.0
+Listeria innocua,0.0
+Limnochorda pilosa,0.0
+Lachnospiraceae bacterium GAM79,0.0
+Lactobacillus crispatus,0.0
+Lactobacillus casei,0.0
+Luteimonas sp. 83-4,0.0
+Lentzea guizhouensis,0.0
+Lentibacillus amyloliquefaciens,0.0
+Leminorella richardii,0.0
+Libanicoccus massiliensis,0.0
+Leptospirillum sp. Group II 'CF-1',0.0
+Leptospirillum ferrooxidans,0.0
+Leptospira kmetyi,0.0
+Limnobaculum parvum,0.0
+Maribacter sp. T28,0.0
+Maribacter sp. HTCC2170,0.0
+Maribacter sp. 1_2014MBL_MicDiv,0.0
+Lysinibacillus sphaericus,0.0
+Maribacter cobaltidurans,0.0
+Mannheimia haemolytica,0.0
+Lysinibacillus sp. YS11,0.0
+Mahella australiensis,0.0
+Magnetospirillum magneticum,0.0
+Lacinutrix sp. 5H-3-7-4,0.0
+Martelella sp. AD-3,0.0
+Martelella mediterranea,0.0
+Lysinibacillus sp. Marseille-P5727,0.0
+Lutibacter profundi,0.0
+Mariprofundus aestuarium,0.0
+Meiothermus silvanus,0.0
+Megasphaera stantonii,0.0
+Megasphaera hexanoica,0.0
+Streptomyces sp. PVA 94-07,0.0
+Lacinutrix sp. Bg11-31,0.0
+Magnetospirillum gryphiswaldense,0.0
+Trueperella pyogenes,0.0
+Verrucomicrobia bacterium IMCC26134,0.0
+Verminephrobacter eiseniae,0.0
+Faecalibaculum rodentium,0.0
+Exiguobacterium sp. N4-1P,0.0
+Exiguobacterium sp. AT1b,0.0
+Bifidobacterium pseudocatenulatum,0.0
+Campylobacter curvus,0.0
+Campylobacter concisus,0.0
+Leptospira interrogans,0.0
+Calothrix sp. NIES-3974,0.0
+Candidatus Aquiluna sp. UB-MaderosW2red,0.0
+Tumebacillus algifaecis,0.0
+Komagataeibacter xylinus,0.0
+Leclercia sp. LSNIH1,0.0
+Leclercia adecarboxylata,0.0
+Leadbetterella byssophila,0.0
+Kyrpidia spormannii,0.0
+Kushneria marisflavi,0.0
+Kosakonia sacchari,0.0
+Calothrix sp. PCC 7507,0.0
+Methanofollis liminatans,0.0
+Methanoculleus bourgensis,0.0
+Methanocella conradii,0.0
+Leptospira biflexa,0.0
+Leptospira alstonii,0.0
+Leptolyngbya sp. O-77,0.0
+Leptolyngbya boryana,0.0
+Fervidobacterium islandicum,0.0
+Enterobacter sp. SA187,0.0
+Tsukamurella tyrosinosolvens,0.0
+Bifidobacterium kashiwanohense,0.0
+Brevibacillus brevis,0.0
+Brevefilum fermentans,0.0
+Brenneria goodwinii,0.0
+Exiguobacterium sibiricum,0.0
+Euzebyella marina,0.0
+Erythrobacter sp. Alg231-14,0.0
+Terribacillus goriensis,0.0
+Fictibacillus arsenicus,0.0
+Fibrella sp. ES10-3-2-2,0.0
+Bifidobacterium longum,0.0
+Geobacter bemidjiensis,0.0
+Candidatus Phaeomarinobacter ectocarpi,0.0
+Candidatus Pelagibacter sp. HIMB1321,0.0
+Burkholderia sp. MSMB0852,0.0
+Burkholderia sp. MSMB0266,0.0
+Geobacillus thermoleovorans,0.0
+Geobacillus thermocatenulatus,0.0
+Geobacter uraniireducens,0.0
+Burkholderia sp. MSMB1588,0.0
+Halomonas sp. HL-93,0.0
+Syntrophothermus lipocalidus,0.0
+Gramella sp. MAR_2010_147,0.0
+Candidatus Planktophila versatilis,0.0
+Candidatus Planktophila dulcis,0.0
+Solibacillus silvestris,0.0
+Acaryochloris marina,0.0
+Yoonia vestfoldensis,0.0
+Seonamhaeicola sp. S2-3,0.0
+Selenomonas sputigena,0.0
+Selenomonas sp. oral taxon 920,0.0
+Synechococcus sp. NIES-970,0.0
+Halobacteriovorax marinus,0.0
+Halobacillus halophilus,0.0
+Gloeocapsa sp. PCC 7428,0.0
+Haloarculaceae archaeon HArcel1,0.0
+Haloarcula taiwanensis,0.0
+Gynuella sunshinyii,0.0
+Grimontia hollisae,0.0
+Halopiger xanaduensis,0.0
+Gibbsiella quercinecans,0.0
+Gilvibacter sp. SZ-19,0.0
+Formosa sp. Hel1_31_208,0.0
+Formosa agariphila,0.0
+Flexistipes sinusarabici,0.0
+Flavonifractor plautii,0.0
+Gemmata obscuriglobus,0.0
+Burkholderiales bacterium JOSHI_001,0.0
+Candidatus Profftella armatura,0.0
+Geobacter sp. DSM 9736,0.0
+Gloeobacter violaceus,0.0
+Glaciecola nitratireducens,0.0
+Formosa sp. Hel1_33_131,0.0
+Acidisphaera sp. G45-3,0.0
+Sinorhizobium sp. CCBAU 05631,0.0
+Snodgrassella alvi,0.0
+Acetobacter pasteurianus,0.0
+Acetobacter oryzifermentans,0.0
+Acetobacter ascendens,0.0
+Zoogloeaceae bacteirum Par-f-2,0.0
+Acidovorax sp. 1608163,0.0
+Zobellia galactanivorans,0.0
+Selenomonas sp. oral taxon 478,0.0
+Shewanella baltica,0.0
+Actinoplanes missouriensis,0.0
+Actinomyces sp. oral taxon 414,0.0
+Shewanella loihica,0.0
+Shewanella halifaxensis,0.0
+Siansivirga zeaxanthinifaciens,0.0
+Shigella flexneri,0.0
+Sinorhizobium medicae,0.0
+Actinomyces pacaensis,0.0
+Sphaerochaeta globosa,0.0
+Geitlerinema sp. PCC 7407,0.0
+Acinetobacter sp. WCHA45,0.0
+Xylella fastidiosa,0.0
+Xylanimonas cellulosilytica,0.0
+Yersinia pseudotuberculosis,0.0
+Yersinia pestis,0.0
+Yersinia massiliensis,0.0
+Yersinia kristensenii,0.0
+Yersinia frederiksenii,0.0
+Yersinia enterocolitica,0.0
+Acetomicrobium mobile,0.0
+Actinomyces hongkongensis,0.0
+Actinomyces gaoshouyii,0.0
+Actinomadura amylolytica,0.0
+Actinobacteria bacterium IMCC26077,0.0
+Yersinia ruckeri,0.0
+Yangia sp. CCB-MM3,0.0
+Xylella taiwanensis,0.0
+Sphingobacterium sp. ML3W,0.0
+Yersinia intermedia,0.0
+Achromobacter denitrificans,0.0
+Acinetobacter sp. TGL-Y2,0.0
+Tatumella citrea,0.0
+Synechococcus sp. KORDI-100,0.0
+Synechococcus sp. CC9902,0.0
+Synechococcus sp. CC9605,0.0
+Haloplanus sp. CBA1113,0.0
+Hirschia baltica,0.0
+Hippea maritima,0.0
+Hydrogenovibrio crunogenus,0.0
+Symbiobacterium thermophilum,0.0
+Halobacteriovorax sp. BALOs_7,0.0
+Sulfurospirillum multivorans,0.0
+Sulfurospirillum cavolei,0.0
+Halomonas sp. KO116,0.0
+Halothiobacillus neapolitanus,0.0
+Halorientalis sp. IM1011,0.0
+Halorhodospira halophila,0.0
+Halorhabdus utahensis,0.0
+Halorhabdus tiamatea,0.0
+Halomonas huangheensis,0.0
+Halomonas elongata,0.0
+Sulfurovum sp. NBC37-1,0.0
+Brucella sp. 141012304,0.0
+Ignicoccus hospitalis,0.0
+Halothece sp. PCC 7418,0.0
+Haloterrigena daqingensis,0.0
+Halostagnicola larsenii,0.0
+Halomonas sp. 1513,0.0
+Hydrogenophaga sp. RAC07,0.0
+Hydrogenophaga crassostreae,0.0
+Halomonas campaniensis,0.0
+Tatumella ptyseos,0.0
+Jannaschia sp. CCS1,0.0
+Isoptericola variabilis,0.0
+Hyphomicrobium nitrativorans,0.0
+Jatrophihabitans sp. GAS493,0.0
+Herbaspirillum rubrisubalbicans,0.0
+Herbaspirillum hiltneri,0.0
+Synechococcus sp. WH 8020,0.0
+Synechococcus sp. WH 7803,0.0
+Haemophilus influenzae,0.0
+Synechococcus sp. RCC307,0.0
+Idiomarina loihiensis,0.0
+Tamlana sp. UJ94,0.0
+Syntrophus aciditrophicus,0.0
+Teredinibacter turnerae,0.0
+Tenacibaculum todarodis,0.0
+Tenacibaculum jejuense,0.0
+Gluconobacter albidus,0.0
+Gloeomargarita lithophora,0.0
+Gramella salexigens,0.0
+Gramella forsetii,0.0
+Synechococcus sp. PCC 6312,0.0
+Gramella flava,0.0
+Gottschalkia acidurici,0.0
+Haloferax mediterranei,0.0
+Haloferax gibbonsii,0.0
+Halodesulfurarchaeum formicicum,0.0
+Halobacterium salinarum,0.0
+Gordonibacter pamelaeae,0.0
+Glutamicibacter halophytocola,0.0
+Halomonas sp. hl-4,0.0
+Halomonas sp. SF2003,0.0
+Gordonia phage GMA4,0.0
+Halioglobus pacificus,0.0
+Haliangium ochraceum,0.0
+Halanaeroarchaeum sulfurireducens,0.0
+Syntrophomonas wolfei,0.0
+Syntrophobotulus glycolicus,0.0
+Syntrophobacter fumaroxidans,0.0
+Synechocystis sp. PCC 6714,0.0
+Burkholderia sp. JP2-270,0.0
+Fischerella sp. NIES-3754,0.0
+Tateyamaria omphalii,0.0
+Synechococcus sp. PCC 7502,0.0
+Synechococcus sp. PCC 7336,0.0
+Synechococcus sp. PCC 7003,0.0
+Geobacter sulfurreducens,0.0
+Geobacillus sp. GHH01,0.0
+Geobacillus genomosp. 3,0.0
+Geoalkalibacter subterraneus,0.0
+Geobacter metallireducens,0.0
+Burkholderia sp. KJ006,0.0
+Tatlockia micdadei,0.0
+Tenacibaculum dicentrarchi,0.0
+Desulfomicrobium baculatum,0.0
+Bacteroidales bacterium CF,0.0
+Bacterioplanes sanyensis,0.0
+Bacillus xiamenensis,0.0
+Bacillus weihaiensis,0.0
+Bacillus velezensis,0.0
+Bacillus sp. Y-01,0.0
+Blautia hansenii,0.0
+Dickeya sp. CSL RW240,0.0
+Marichromatium purpuratum,0.0
+Bacillus sp. OxB-1,0.0
+Bacillus sp. IHB B 7164,0.0
+Bacillus sp. FJAT-45348,0.0
+Natrialba magadii,0.0
+Nakamurella multipartita,0.0
+Mycobacterium virus D29,0.0
+Mycobacterium ulcerans,0.0
+Mycobacterium sp. WY10,0.0
+Neisseriaceae bacterium DSM 100970,0.0
+Neisseria zoodegmatis,0.0
+Myxococcus fulvus,0.0
+Bacteroides fragilis,0.0
+Waddlia chondrophila,0.0
+Desulfosporosinus orientis,0.0
+Desulfovibrio magneticus,0.0
+Desulfitobacterium hafniense,0.0
+Desulfatibacillum alkenivorans,0.0
+Desulfallas gibsoniae,0.0
+Virgibacillus sp. Bac332,0.0
+Bacteroides cellulosilyticus,0.0
+Catenulispora acidiphila,0.0
+Desulfococcus oleovorans,0.0
+Thermoplasmatales archaeon BRNA1,0.0
+Desulfocapsa sulfexigens,0.0
+Desulfotomaculum reducens,0.0
+Desulfotomaculum ferrireducens,0.0
+Desulfotalea psychrophila,0.0
+Thermodesulfovibrio yellowstonii,0.0
+Desulfobulbus sp. ORNL,0.0
+Treponema caldarium,0.0
+Treponema brennaborense,0.0
+Desulfofarcimen acetoxidans,0.0
+Capnocytophaga stomatis,0.0
+Bernardetia litoralis,0.0
+Dickeya sp. NCPPB 3274,0.0
+Thermanaerovibrio velox,0.0
+Thauera sp. MZ1T,0.0
+Edwardsiella hoshinae,0.0
+Edwardsiella anguillarum,0.0
+Dickeya fangzhongdai,0.0
+Desulfococcus multivorans,0.0
+Streptomyces sp. 2114.2,0.0
+Dietzia sp. JS16-p6b,0.0
+Dickeya zeae,0.0
+Thermodesulfobacterium geofontis,0.0
+Thermodesulfatator indicus,0.0
+Muribaculum intestinale,0.0
+Morganella morganii,0.0
+Mordavella sp. Marseille-P3756,0.0
+Bifidobacterium actinocoloniiforme,0.0
+Virgibacillus sp. 6R,0.0
+Bacteroides thetaiotaomicron,0.0
+Dickeya dianthicola,0.0
+Ndongobacter massiliensis,0.0
+Natronomonas pharaonis,0.0
+Natronolimnobius aegyptiacus,0.0
+Natronobacterium gregoryi,0.0
+Natrinema sp. J7-2,0.0
+Natrinema pellirubrum,0.0
+Neisseria polysaccharea,0.0
+Neisseria mucosa,0.0
+Beijerinckia indica,0.0
+Thermoanaerobacterales bacterium SK-G1,0.0
+Bifidobacterium catenulatum,0.0
+Mycobacterium marinum,0.0
+Murdochiella vaginalis,0.0
+Mucinivorans hirudinis,0.0
+Vibrio campbellii,0.0
+Vibrio breoganii,0.0
+Ectothiorhodospira sp. BSL-9,0.0
+Thermobaculum terrenum,0.0
+Thermobacillus composti,0.0
+Thermoanaerobacterium sp. RBIITD,0.0
+Bifidobacterium choerinum,0.0
+Thermoclostridium stercorarium,0.0
+Thermosulfidibacter takaii,0.0
+Thermosediminibacter oceani,0.0
+Thermoproteus uzoniensis,0.0
+Candidatus Endolissoclinum faulkneri,0.0
+Candidatus Desulfovibrio trichonymphae,0.0
+Candidatus Coxiella mudrowiae,0.0
+Nostoc flagelliforme,0.0
+Nostoc carneum,0.0
+Streptomyces sp. CFMR 7,0.0
+Nostoc sp. PCC 7524,0.0
+Oceanicoccus sagamiensis,0.0
+Oblitimonas alkaliphila,0.0
+Obesumbacterium proteus,0.0
+Paenibacillus borealis,0.0
+Nonlabens marinus,0.0
+Nodularia spumigena,0.0
+Paenarthrobacter aurescens,0.0
+Novosphingobium pentaromativorans,0.0
+Novibacillus thermophilus,0.0
+Nostoc sphaeroides,0.0
+Streptomyces griseus,0.0
+Oceanisphaera profunda,0.0
+Oceanisphaera avium,0.0
+Oceanimonas sp. GK1,0.0
+Oleiphilus messinensis,0.0
+Odoribacter splanchnicus,0.0
+Bacillus krulwichiae,0.0
+Candidatus Filomicrobium marinum,0.0
+Candidatus Evansia muelleri,0.0
+Candidatus Koribacter versatilis,0.0
+Dechloromonas sp. HYN0024,0.0
+Dactylococcopsis salina,0.0
+Oceanobacillus iheyensis,0.0
+Candidatus Babela massiliensis,0.0
+Desulfobacca acetoxidans,0.0
+Candidatus Nanopelagicus limnes,0.0
+Candidatus Nanopelagicus hibericus,0.0
+Candidatus Amoebophilus asiaticus,0.0
+Candidatus Accumulibacter phosphatis,0.0
+Candidatus Kuenenia stuttgartiensis,0.0
+Crinalium epipsammum,0.0
+Nitrospira defluvii,0.0
+Ochrobactrum pseudogrignonense,0.0
+Streptomyces phage Nanodon,0.0
+Nitratiruptor sp. SB155-2,0.0
+Nitratireductor sp. OM-1,0.0
+Nitrosospira multiformis,0.0
+Nitrosospira lacus,0.0
+Nitrosospira briensis,0.0
+Nitratireductor basaltis,0.0
+Nostoc sp. 'Lobaria pulmonaria (5183) cyanobiont',0.0
+Nitrososphaera viennensis,0.0
+Paenibacillus beijingensis,0.0
+Paenibacillaceae bacterium GAS479,0.0
+Nitrosomonas sp. AL212,0.0
+Nitrosomonas eutropha,0.0
+Nitrosomonas europaea,0.0
+Neomicrococcus aestuarii,0.0
+Nitrosococcus oceani,0.0
+Nitrosococcus halophilus,0.0
+Bacteroides caccae,0.0
+Nitratifractor salsuginis,0.0
+Nostoc linckia,0.0
+Bacillus filamentosus,0.0
+Bacillus cytotoxicus,0.0
+Bacillus cohnii,0.0
+Nocardia cyriacigeorgica,0.0
+Nonlabens spongiae,0.0
+Nonlabens sp. MIC269,0.0
+Nonlabens sp. MB-3u-79,0.0
+Olsenella sp. GAM18,0.0
+Nitrosomonas sp. Is79A3,0.0
+Sorangium cellulosum,0.0
+Bacillus halodurans,0.0
+Bacillus glycinifermentans,0.0
+Bacillus megaterium,0.0
+Bacillus flexus,0.0
+Vulgatibacter incomptus,0.0
+Vitreoscilla sp. C1,0.0
+Vitreoscilla filiformis,0.0
+Candidatus Nucleicultrix amoebiphila,0.0
+Nitrosomonas ureae,0.0
+Olleya sp. Bg11-27,0.0
+Microbacterium paludicola,0.0
+Microbacterium sp. LKL04,0.0
+Vibrio nigripulchritudo,0.0
+Vibrio anguillarum,0.0
+Vibrio alginolyticus,0.0
+Maritalea myrionectae,0.0
+Marinobacter psychrophilus,0.0
+Enterobacter roggenkampii,0.0
+Enterobacter ludwigii,0.0
+Bacteroides salanitronis,0.0
+Bordetella genomosp. 6,0.0
+Borrelia parkeri,0.0
+Bordetella sp. HZ20,0.0
+Vibrio scophthalmi,0.0
+Vibrio parahaemolyticus,0.0
+Vibrio owensii,0.0
+Methylobacterium sp. C1,0.0
+Methylobacterium sp. AMS5,0.0
+Methylacidiphilum fumariolicum,0.0
+Methylobacterium sp. 17Sr1-1,0.0
+Vibrio gazogenes,0.0
+Streptomyces sp. ICC1,0.0
+Vibrio coralliilyticus,0.0
+Virgibacillus necropolis,0.0
+Methyloceanibacter sp. wino2,0.0
+Methyloceanibacter caenitepidi,0.0
+Methylocaldum marinum,0.0
+Methylobacterium sp. DM1,0.0
+Bradyrhizobium diazoefficiens,0.0
+Bradyrhizobiaceae bacterium SG-6C,0.0
+Methylobacterium aquaticum,0.0
+Methanosarcina mazei,0.0
+Brachybacterium sp. VM2412,0.0
+Brachybacterium saurashtrense,0.0
+Vibrio furnissii,0.0
+Vibrio fluvialis,0.0
+Methanosaeta harundinacea,0.0
+Methanoregula formicica,0.0
+Methanoregula boonei,0.0
+Methylobacterium nodulans,0.0
+Methylobacterium brachiatum,0.0
+Microbulbifer thermotolerans,0.0
+Erythrobacter sp. KY5,0.0
+Erwinia amylovora,0.0
+Burkholderiales bacterium GJ-E10,0.0
+Calothrix brevissima,0.0
+Caldithrix abyssi,0.0
+Enterococcus sp. FDAARGOS_553,0.0
+Ereboglobus luteus,0.0
+Draconibacterium orientale,0.0
+Dolichospermum compactum,0.0
+Methylobacterium phyllosphaerae,0.0
+Flavobacterium sp. HYN0059,0.0
+Lelliottia nimipressuralis,0.0
+Lelliottia jeotgali,0.0
+Leisingera methylohalidivorans,0.0
+Leifsonia sp. 21MFCrub1.1,0.0
+Magnetospira sp. QH-2,0.0
+Methanopyrus sp. KOL6,0.0
+Methanolinea tarda,0.0
+Methanolacinia petrolearia,0.0
+Lysobacter sp. TY2-98,0.0
+Enterobacteriaceae bacterium w6,0.0
+Verrucomicrobium sp. GAS474,0.0
+Vibrio mimicus,0.0
+Melioribacter roseus,0.0
+Metallosphaera sedula,0.0
+Mesotoga prima,0.0
+Mesorhizobium phage vB_MloP_Lo5R7ANS,0.0
+Vibrio cholerae,0.0
+Marinomonas mediterranea,0.0
+Marinobacter sp. es.042,0.0
+Flavobacterium sp. CJ74,0.0
+Marinobacter sp. CP1,0.0
+Marivivens sp. JLT3646,0.0
+Caldisericum exile,0.0
+Burkholderia sp. MSMB617WGS,0.0
+Dyella thiooxydans,0.0
+Elizabethkingia anophelis,0.0
+Eikenella corrodens,0.0
+Marinobacter hydrocarbonoclasticus,0.0
+Marinithermus hydrothermalis,0.0
+Marinomonas primoryensis,0.0
+Marinobacter sp. LV10R510-11A,0.0
+Neisseria subflava,0.0
+Micromonospora siamensis,0.0
+Micromonospora rifamycinica,0.0
+Microvirgula aerodenitrificans,0.0
+Methylorubrum zatmanii,0.0
+Methylocystis bryophila,0.0
+Eggerthella sp. YY7918,0.0
+Edwardsiella tarda,0.0
+Micromonospora auratinigra,0.0
+Streptomyces sp. MOE7,0.0
+Methylomicrobium album,0.0
+Mycobacterium shigaense,0.0
+Mycobacterium pseudoshottsii,0.0
+Micromonospora sp. B006,0.0
+Microcystis aeruginosa,0.0
+Microcoleus sp. PCC 7113,0.0
+Microchaete diplosiphon,0.0
+Micromonospora echinofusca,0.0
+Microbulbifer agarilyticus,0.0
+Microbacterium sp. str. 'China',0.0
+Methylomicrobium alcaliphilum,0.0
+Bacteroides ovatus,0.0
+Moraxella bovoculi,0.0
+Moorella thermoacetica,0.0
+Modestobacter marinus,0.0
+Mitsuaria sp. 7,0.0
+Bacteroides helcogenes,0.0
+Mycoplasma pneumoniae,0.0
+Mycoplasma haemofelis,0.0
+Neisseria sp. KEM232,0.0
+Neisseria weaveri,0.0
+Neisseria sp. 10022,0.0
+Neisseria sicca,0.0
+Mycobacterium liflandii,0.0
+Mycobacterium leprae,0.0
+Moraxellaceae bacterium HYN0046,0.0
+Moraxella osloensis,0.0
+Bordetella flabilis,0.0
+Mycobacterium kansasii,0.0
+Mycobacterium sp. MOTT36Y,0.0
+Mycobacterium canettii,0.0
+Neisseria sp. 10023,0.0
+Desulfurella acetivorans,0.0
+Desulfovibrio sp. G11,0.0
+Desulfovibrio salexigens,0.0
+Dichelobacter nodosus,0.0
+Dialister sp. Marseille-P5638,0.0
+Enterobacter bugandensis,0.0
+Enterobacter kobei,0.0
+Enterobacter cloacae complex sp. FDA-CDC-AR_0164,0.0
+Dietzia timorensis,0.0
+Micromonospora narathiwatensis,0.0
+Endozoicomonas montiporae,0.0
+Endomicrobium proavitum,0.0
+Elusimicrobium minutum,0.0
+Elizabethkingia ursingii,0.0
+Desulfurivibrio alkaliphilus,0.0
+Echinicola strongylocentroti,0.0
+Streptomyces sp. SM17,0.0
+Streptomyces sp. GBA 94-10,0.0
+Methylocella silvestris,0.0
+Methylophaga frappieri,0.0
+Ensifer sojae,0.0
+Bacteroides heparinolyticus,0.0
+Bifidobacterium breve,0.0
+Bdellovibrio bacteriovorus,0.0
+Bathymodiolus septemdierum thioautotrophic gill symbiont,0.0
+Bartonella quintana,0.0
+Bartonella apis,0.0
+Methylorubrum extorquens,0.0
+Methylophilus sp. TWE2,0.0
+Methanothrix soehngenii,0.0
+Methylococcus capsulatus,0.0
+Methanosarcina sp. MTP4,0.0
+Methylomonas methanica,0.0
+Methylovulum psychrotolerans,0.0
+Methanosarcina barkeri,0.0
+Enterobacter cloacae complex sp. FDA-CDC-AR_0132,0.0
+Enterobacter cloacae complex sp.,0.0
+Enterobacter sp. R4-368,0.0
+Enterobacter sp. HK169,0.0
+Desulfurispirillum indicum,0.0
+Devosia sp. H5989,0.0
+Methanosphaerula palustris,0.0
+Hartmannibacter diazotrophicus,-4.878102011218743e-09
+Klebsiella aerogenes,-9.718765459076906e-09
+Mycobacterium tuberculosis,-1.0836213304443732e-08
+Hafnia alvei,-1.2573941643445607e-08
+Pseudonocardia sp. EC080625-04,-1.3848959112827686e-08
+Actinoplanes sp. N902-109,-1.6559025417528517e-08
+Actinoplanes friuliensis,-1.6559025439732977e-08
+Celeribacter indicus,-1.6559025439732977e-08
+Rhizobium sp. N324,-2.3355292877447197e-08
+Kutzneria albida,-2.8541413299443263e-08
+Chelativorans sp. BNC1,-2.900130395833145e-08
+Methylobacterium sp. 17SD2-17,-2.9390090006131687e-08
+Sphingopyxis sp. LPB0140,-2.9390090006131687e-08
+Haloarcula hispanica,-3.426819201735043e-08
+Thioflavicoccus mobilis,-3.4734195875074646e-08
+Brevundimonas subvibrioides,-3.527208340958765e-08
+Cutibacterium avidum,-4.328286524746261e-08
+Azoarcus olearius,-4.328286524746261e-08
+Sinomonas atrocyanea,-4.328286524746261e-08
+Corynebacterium riegelii,-4.416309811183794e-08
+Chlorobium phaeobacteroides,-4.4357166983921556e-08
+Aggregatibacter segnis,-4.435716700612602e-08
+Sphingobium yanoikuyae,-4.435716700612602e-08
+Brevibacillus formosus,-4.435716700612602e-08
+Salinicoccus halodurans,-4.435716700612602e-08
+Erwinia gerundensis,-5.3607326266913445e-08
+Halorubrum lacusprofundi,-5.390207800104463e-08
+Phaeobacter porticola,-5.390207800104463e-08
+Georgenia sp. ZLJ0423,-5.390207800104463e-08
+Halothermothrix orenii,-5.390207800104463e-08
+Pusillimonas sp. T7-7,-5.390207800104463e-08
+Actinoalloteichus sp. ADI127-7,-5.481001883467229e-08
+Nostoc piscinale,-5.781298788587463e-08
+Eubacterium callanderi,-6.329123094506173e-08
+Arachidicoccus sp. BS20,-6.562556227329708e-08
+Desulfosporosinus acidiphilus,-6.804457641784722e-08
+Neisseria cinerea,-7.33288668897103e-08
+Oscillatoria acuminata,-7.581043395266108e-08
+Bacteroidetes bacterium Omega,-7.748336103841069e-08
+Gordonia polyisoprenivorans,-7.841406599595757e-08
+Thermanaeromonas toyohensis,-8.728990597006714e-08
+Tessaracoccus aquimaris,-9.43423341670524e-08
+Sphaerochaeta coccoides,-9.512956231638725e-08
+Breoghania sp. L-A4,-9.52435620149572e-08
+Geobacillus subterraneus,-9.524356203716167e-08
+Halobacterium hubeiense,-9.524356205936613e-08
+Pseudomonas resinovorans,-9.865906023254211e-08
+Acidihalobacter ferrooxidans,-1.0967856480803562e-07
+Streptomyces albidoflavus,-1.1057953028803524e-07
+Enterobacter cancerogenus,-1.119943614957819e-07
+Rickettsia endosymbiont of Ixodes scapularis,-1.1692343020452966e-07
+Citrobacter farmeri,-1.2055777327546479e-07
+Escherichia fergusonii,-1.2055777327546479e-07
+Plantibacter flavus,-1.2055777327546479e-07
+Rhodobacter sp. CZR27,-1.2944241762902208e-07
+Chlorobium limicola,-1.3132643901236917e-07
+Haloplanus aerogenes,-1.3323945387000434e-07
+Acidithiobacillus ferrooxidans,-1.361434585955834e-07
+Chlorobaculum tepidum,-1.3614345861778787e-07
+Flavobacterium sp. HYN0056,-1.365303656797323e-07
+Desulfotomaculum nigrificans,-1.4218024466661205e-07
+Pelosinus fermentans,-1.4347485512988812e-07
+Pseudomonas lurida,-1.4663656136004733e-07
+Pedobacter sp. PACM 27299,-1.4765618816525716e-07
+Vibrio mediterranei,-1.5136954119032707e-07
+Nostoc sp. 'Peltigera membranacea cyanobiont' N6,-1.5284356509326357e-07
+Pseudopropionibacterium propionicum,-1.6070455715055943e-07
+Flavobacterium anhuiense,-1.6070455717276387e-07
+Cutibacterium acnes,-1.6070455717276387e-07
+Granulibacter bethesdensis,-1.6070455717276387e-07
+Cyclobacterium marinum,-1.6170013386052063e-07
+Amycolatopsis orientalis,-1.628126399699781e-07
+Asaia bogorensis,-1.6634438120277651e-07
+Acidithiobacillus ferrivorans,-1.6751600748765582e-07
+Cupriavidus gilardii,-1.709473126387806e-07
+Streptococcus gordonii,-1.7392809863459037e-07
+Nitrospira moscoviensis,-1.739280986567948e-07
+Corynebacterium vitaeruminis,-1.7392809867899927e-07
+Aquitalea magnusonii,-1.8098725835802297e-07
+Mycobacterium sp. JLS,-1.8301443935886396e-07
+Xanthomonas arboricola,-1.8301443935886396e-07
+Streptomyces atratus,-1.8853413039643385e-07
+Magnetococcus marinus,-1.931258961418436e-07
+Methylovorus sp. MP688,-1.9362662750932458e-07
+Rhodocyclaceae bacterium,-1.9551541514672975e-07
+Solimonas sp. K1W22B-7,-1.9551541514672975e-07
+Lysobacter maris,-1.9551541514672975e-07
+Actinoalloteichus sp. GBA129-24,-1.9627450889014853e-07
+Algoriphagus sp. M8-2,-2.0510415128516256e-07
+[Bacillus] selenitireducens,-2.0833226674898952e-07
+Amycolatopsis japonica,-2.0833226677119399e-07
+Polaromonas naphthalenivorans,-2.0975206909135126e-07
+Pedobacter sp. G11,-2.1825017977317173e-07
+Xenorhabdus nematophila,-2.2086478119742735e-07
+Aeromicrobium marinum,-2.2086478119742735e-07
+Vibrio diabolicus,-2.2086478119742735e-07
+Luteipulveratus mongoliensis,-2.2086478121963182e-07
+Halioglobus japonicus,-2.2765500415911077e-07
+Muricauda ruestringensis,-2.2765500415911077e-07
+Pontibacter actiniarum,-2.2765500415911077e-07
+Chloroflexus aggregans,-2.2765500415911077e-07
+Pseudoalteromonas spongiae,-2.2765500415911077e-07
+Barnesiella viscericola,-2.2765500418131523e-07
+Sphingomonas indica,-2.2765500418131523e-07
+Tenacibaculum maritimum,-2.2765500418131523e-07
+Ferrimonas balearica,-2.2765500418131523e-07
+Dyadobacter fermentans,-2.2765500418131523e-07
+Lacunisphaera limnophila,-2.2765500418131523e-07
+Lactobacillus paracollinoides,-2.2765500418131523e-07
+Gordonibacter urolithinfaciens,-2.2765500418131523e-07
+Hymenobacter sp. APR13,-2.2765500418131523e-07
+Synechococcus sp. CC9311,-2.2765500418131523e-07
+Persicobacter sp. JZB09,-2.2765500418131523e-07
+Kiritimatiella glycovorans,-2.2765500418131523e-07
+Laribacter hongkongensis,-2.2765500418131523e-07
+Meiothermus ruber,-2.2765500418131523e-07
+Marinobacter sp. LQ44,-2.2765500418131523e-07
+Methanoculleus marisnigri,-2.2765500418131523e-07
+Anaeromyxobacter sp. K,-2.2765500418131523e-07
+Aquiflexum balticum,-2.2765500418131523e-07
+Candidatus Promineofilum breve,-2.276550042035197e-07
+gamma proteobacterium HdN1,-2.276550042035197e-07
+Aneurinibacillus sp. XH2,-2.276550042035197e-07
+Belliella baltica,-2.276550042035197e-07
+Leptolyngbya sp. NIES-3755,-2.276550042035197e-07
+Methylacidiphilum infernorum,-2.276550042035197e-07
+Aeromicrobium erythreum,-2.276550042035197e-07
+Pleurocapsa minor,-2.276550042035197e-07
+Azospirillum brasilense,-2.276550042035197e-07
+Deinococcus soli Cha et al. 2016,-2.276550042035197e-07
+Tepidanaerobacter acetatoxydans,-2.2765500422572417e-07
+Desulfovibrio piger,-2.2765500422572417e-07
+Spirochaeta thermophila,-2.2765500422572417e-07
+Komagataeibacter medellinensis,-2.2765500422572417e-07
+Microbacterium aurum,-2.2765500422572417e-07
+Marinobacter sp. BSs20148,-2.279297501850408e-07
+Flammeovirgaceae bacterium 311,-2.279297501850408e-07
+Bordetella genomosp. 13,-2.279297501850408e-07
+Pseudoflavitalea sp. 5GH32-13,-2.279297501850408e-07
+Elizabethkingia miricola,-2.2792975020724527e-07
+Spirosoma aerolatum,-2.2792975020724527e-07
+Limnohabitans sp. 63ED37-2,-2.2792975020724527e-07
+Frondihabitans sp. 762G35,-2.3165987432793856e-07
+Mucilaginibacter gotjawali,-2.3814501615149197e-07
+Lawsonella clevelandensis,-2.3918727662941566e-07
+Bacteroides vulgatus,-2.391872766516201e-07
+Edwardsiella sp. EA181011,-2.4062207319985874e-07
+Pseudoalteromonas atlantica,-2.443942689334122e-07
+Mycobacteroides abscessus,-2.4639893805300515e-07
+Ottowia oryzae,-2.48355738152739e-07
+Hyphomonas neptunium,-2.526952312953412e-07
+Cohaesibacter sp. ES.047,-2.533559356976411e-07
+Synechococcus sp. KORDI-49,-2.58412653253437e-07
+Streptomyces dengpaensis,-2.6462710671637525e-07
+Streptococcus suis,-2.6780146378246883e-07
+Achromobacter ruhlandii,-2.688434784792193e-07
+Gordonia sp. KTR9,-2.774001580219121e-07
+Brevundimonas sp. DS20,-2.817117413567161e-07
+Deinococcus ficus,-2.84912187731301e-07
+psize__Soil Sand Content %,-2.84912187731301e-07
+Alcanivorax pacificus,-2.8491218775350544e-07
+Beggiatoa leptomitoformis,-2.8491218775350544e-07
+Pseudomonas sp. phDV1,-2.8883756708619757e-07
+Dickeya sp. DW 0440,-2.9418381046752985e-07
+Marinovum algicola,-3.107428359072628e-07
+Roseovarius mucosus,-3.2319071570086065e-07
+Micavibrio aeruginosavorus,-3.2361231863120563e-07
+Burkholderia vietnamiensis,-3.272533752207707e-07
+Nitrosococcus watsonii,-3.2789787589582177e-07
+Paenibacillus sp. FSL P4-0081,-3.320783931393123e-07
+Rhodopseudomonas palustris,-3.320783931837212e-07
+Bifidobacterium animalis,-3.3353170179051263e-07
+Methylocystis rosea,-3.4131796822212124e-07
+Ruegeria pomeroyi,-3.453343137893583e-07
+Desulfovibrio sp. FW1012B,-3.472331073783863e-07
+Bacillus clausii,-3.590723890889436e-07
+Thermincola potens,-3.6301925496751155e-07
+Synechococcus sp. WH 8109,-3.632311207146799e-07
+Synechococcus sp. SynAce01,-3.6581362734544597e-07
+Pseudomonas extremaustralis,-3.6732858827992486e-07
+Burkholderia thailandensis,-3.687525248041723e-07
+Tumebacillus avium,-3.774082163676695e-07
+Agrobacterium vitis,-3.8085181750524557e-07
+Chryseobacterium glaciei,-3.832224917177385e-07
+Rhodomicrobium vannielii,-4.064925455127266e-07
+Yersinia aldovae,-4.138469192671579e-07
+Pseudomonas sp. 09C 129,-4.1734617377553463e-07
+Pseudomonas sp. LTJR-52,-4.4413591850922527e-07
+Streptomyces katrae,-4.539920589907709e-07
+Fluviicola taffensis,-4.552359067933054e-07
+Halohasta litchfieldiae,-4.6185301938450607e-07
+Amycolatopsis mediterranei,-4.672007033468262e-07
+Methylosinus trichosporium,-4.984630652904442e-07
+Thauera humireducens,-5.011021024792228e-07
+Corynebacterium urealyticum,-5.120910919087506e-07
+Corynebacterium xerosis,-5.133043619931499e-07
+Bordetella petrii,-5.189925511128735e-07
+Streptomyces sp. CNQ-509,-5.309901417227536e-07
+Dickeya sp. MK7,-5.332294782167679e-07
+Rhodopirellula baltica,-5.496309686270351e-07
+Plantactinospora sp. BC1,-5.509696225702854e-07
+Thermoanaerobacter siderophilus,-5.525016069318766e-07
+Geminocystis herdmanii,-5.61994094572249e-07
+Intestinimonas butyriciproducens,-5.750637922963264e-07
+Wolinella succinogenes,-5.866677234234174e-07
+Cupriavidus taiwanensis,-5.942707981931861e-07
+Streptomyces pristinaespiralis,-5.983356893946024e-07
+Pseudomonas thivervalensis,-6.11768019265213e-07
+Clostridioides difficile,-6.260584733963626e-07
+Myxococcus stipitatus,-6.450269861790758e-07
+Acetobacter ghanensis,-6.515828446573835e-07
+Advenella mimigardefordensis,-6.518817899259232e-07
+Desulfobacula toluolica,-6.526664819261896e-07
+Devosia sp. I507,-6.562967525880481e-07
+Nakamurella sp. s14-144,-6.680630618705052e-07
+Leptothrix cholodnii,-6.764233866807245e-07
+Brachybacterium sp. P6-10-X1,-6.848705166095925e-07
+Enterococcus faecium,-6.976167781669318e-07
+Bacillus coagulans,-7.235947387274066e-07
+Bacillus lentus,-7.321607660148999e-07
+Lactobacillus pentosus,-7.381625016789073e-07
+Actinobacillus succinogenes,-7.381625016789073e-07
+Micrococcus luteus,-7.518209636403483e-07
+Micromonospora krabiensis,-7.76319077733234e-07
+Rhizobium sp. CCGE531,-7.836537990524306e-07
+Pseudomonas sp. PONIH3,-7.840150265892021e-07
+Nitrospira japonica,-8.157430178901137e-07
+Pantoea agglomerans,-8.281745810023722e-07
+Thiomonas sp. X19,-8.289630603730558e-07
+Burkholderia contaminans,-8.32446788212593e-07
+Paenibacillus ihbetae,-8.422440383570873e-07
+Corynebacterium argentoratense,-8.521251738224934e-07
+Sanguibacter keddieii,-8.818118451880963e-07
+Thiolapillus brandeum,-9.101861209392936e-07
+Variovorax sp. HW608,-9.29504261693026e-07
+Sedimenticola thiotaurini,-9.45938712004768e-07
+Corynebacterium imitans,-9.575914637904859e-07
+Pandoraea faecigallinarum,-9.645692613746704e-07
+Chondromyces crocatus,-9.73637939161165e-07
+Rhodanobacter denitrificans,-9.751096971655216e-07
+Salinisphaera sp. LB1,-9.923973810499476e-07
+Rahnella sp. ERMR1:05,-9.924103807179563e-07
+Acinetobacter sp. ADP1,-9.951890992843104e-07
+Yersinia similis,-1.0411398869925038e-06
+Pseudomonas sp. TKP,-1.0416005061797406e-06
+Micromonospora coxensis,-1.0432774140811674e-06
+Stenotrophomonas maltophilia,-1.0757342224776423e-06
+Thioalkalivibrio sulfidiphilus,-1.0943000965824012e-06
+Thalassospira xiamenensis,-1.1015765982946847e-06
+Phaeobacter piscinae,-1.109727099257718e-06
+Roseateles depolymerans,-1.1197959947084613e-06
+Asticcacaulis excentricus,-1.138417903789879e-06
+Thalassolituus oleivorans,-1.1680976964578704e-06
+Tenacibaculum mesophilum,-1.200779371357541e-06
+Roseomonas sp. FDAARGOS_362,-1.2253388390170983e-06
+Nostoc punctiforme,-1.235603472138358e-06
+Magnetospirillum sp. XM-1,-1.2630732327822969e-06
+Amycolatopsis sp. AA4,-1.272794310835934e-06
+Flagellimonas sp. HME9304,-1.2773463642590245e-06
+Prochlorococcus marinus,-1.282003869529369e-06
+Rhodoferax saidenbachensis,-1.2873898305842957e-06
+Tessaracoccus sp. Marseille-P5995,-1.2986149381610802e-06
+Bacillus kochii,-1.3094526601697964e-06
+Streptomyces vietnamensis,-1.3197269812526002e-06
+Flavobacterium sp. HYN0086,-1.3205682125594365e-06
+Bordetella genomosp. 8,-1.3217652888197761e-06
+Xanthobacter autotrophicus,-1.3295240972377441e-06
+Methylophaga nitratireducenticrescens,-1.3295240972377441e-06
+Gallionella capsiferriformans,-1.3295240972377441e-06
+Candidatus Desulforudis audaxviator,-1.3295240972377441e-06
+Thioalkalivibrio paradoxus,-1.3295240972377441e-06
+Pelobacter carbinolicus,-1.3295240972377441e-06
+Pandoraea pnomenusa,-1.3328649426602724e-06
+Isosphaera pallida,-1.3373346190226342e-06
+Kushneria konosiri,-1.3396427849254877e-06
+Streptomyces hundungensis,-1.3643649600103558e-06
+Streptomyces bingchenggensis,-1.4516067478265172e-06
+Hydromonas sp. F02,-1.4581434872429356e-06
+Aeribacillus pallidus,-1.463955608005385e-06
+Carboxydothermus hydrogenoformans,-1.4689332070272343e-06
+Streptomyces sp. 769,-1.4691130226118787e-06
+Victivallales bacterium CCUG 44730,-1.4700291552038892e-06
+Escherichia albertii,-1.4776964805118808e-06
+Lactobacillus curvatus,-1.4952536597334643e-06
+Defluviimonas alba,-1.5183824148889967e-06
+Gemmatimonas aurantiaca,-1.5404342041280827e-06
+Actinosynnema pretiosum,-1.5416905897014388e-06
+Polynucleobacter difficilis,-1.5859695387421268e-06
+Gordonia iterans,-1.6381608412441295e-06
+Paracoccus sp. BM15,-1.643963276265481e-06
+Streptomyces sp. PAMC 26508,-1.6516889766782227e-06
+Sulfuricella denitrificans,-1.6679335050451272e-06
+Streptomyces lunaelactis,-1.669207963939101e-06
+Arthrobacter sp. ATCC 21022,-1.6935888607072513e-06
+Pseudonocardia sp. AL041005-10,-1.700996312736791e-06
+Halomonas aestuarii,-1.7195645401812953e-06
+Caulobacter flavus,-1.7406919358364804e-06
+Chromobacterium vaccinii,-1.7541228812589792e-06
+Deinococcus geothermalis,-1.77346661818234e-06
+Pelosinus sp. UFO1,-1.8008060914231905e-06
+Pseudonocardia sp. EC080619-01,-1.8662262945445817e-06
+Legionella pneumophila,-1.9374079514467015e-06
+Salinispora tropica,-1.9395279102774055e-06
+Pseudomonas citronellolis,-1.953571191903869e-06
+Chthonomonas calidirosea,-2.0003997536433006e-06
+Streptomyces nodosus,-2.0223481084435947e-06
+Cupriavidus nantongensis,-2.0792916026080023e-06
+Gillisia sp. Hel1_33_143,-2.1129384304652278e-06
+Sinorhizobium fredii,-2.11482706635735e-06
+Melaminivora sp. SC2-9,-2.117145554758615e-06
+Zobellella denitrificans,-2.1608051359311986e-06
+Streptomyces parvulus,-2.1658227488341454e-06
+Neisseria elongata,-2.2654953752976326e-06
+Hymenobacter nivis,-2.288350856360921e-06
+Neorhizobium galegae,-2.3043695852154043e-06
+Pseudarcicella sp. HME7025,-2.3289743799725924e-06
+Echinicola vietnamensis,-2.339904744363963e-06
+Aromatoleum aromaticum,-2.3679781949281773e-06
+Pseudomonas soli,-2.3884054800360487e-06
+Parvularcula bermudensis,-2.4250331833064466e-06
+Frankineae bacterium MT45,-2.4426338682381752e-06
+chem__K (Mehlich 1 mg/kg dry weight),-2.4442726706652705e-06
+Desulfuromonas soudanensis,-2.4525396793873e-06
+Micromonospora sp. L5,-2.4694396128621675e-06
+Desulfitobacterium metallireducens,-2.485916733485638e-06
+Alicycliphilus denitrificans,-2.5291995987331005e-06
+Coriobacterium glomerans,-2.604498533953503e-06
+Pseudomonas xinjiangensis,-2.633079179559239e-06
+Kytococcus sedentarius,-2.699514884030307e-06
+Sphingobium chlorophenolicum,-2.7028100777037876e-06
+Pseudomonas sp. M30-35,-2.7146506823783057e-06
+Idiomarina sp. OT37-5b,-2.7234487114169425e-06
+Streptomyces lividans,-2.7261906159870007e-06
+Comamonas serinivorans,-2.7389863460181017e-06
+Sphingopyxis sp. EG6,-2.7439593475175883e-06
+Luteimonas sp. 100111,-2.7843816429617975e-06
+Shewanella sediminis,-2.7922021589521507e-06
+Streptomyces sp. Sge12,-2.796759229317658e-06
+Bacteroides zoogleoformans,-2.839853867753206e-06
+Porphyromonas gingivalis,-2.8947712551685712e-06
+Neorhizobium sp. SOG26,-2.9148824850722122e-06
+Natronomonas moolapensis,-2.9441244567607327e-06
+Burkholderia pseudomallei,-2.9763975670560327e-06
+Niabella soli,-3.108761396308779e-06
+Thermogutta terrifontis,-3.108761396308779e-06
+Sinorhizobium sp. RAC02,-3.127451827800165e-06
+Polaromonas sp. JS666,-3.146262022757362e-06
+Neisseria lactamica,-3.1697683984921453e-06
+Sphingobacterium sp. 21,-3.2001855602370456e-06
+Flavobacterium sp. HYN0048,-3.206465315042095e-06
+Pseudogulbenkiania sp. NH8B,-3.2330027437854627e-06
+Coxiella burnetii,-3.2422925182240546e-06
+Nocardioides dokdonensis,-3.3147062832306062e-06
+Lelliottia amnigena,-3.344380611491893e-06
+Yangia pacifica,-3.3731865760833203e-06
+Komagataeibacter hansenii,-3.3936902388731484e-06
+Chroococcidiopsis thermalis,-3.411039504164215e-06
+Sphingobium sp. SYK-6,-3.4128775867170445e-06
+Haematospirillum jordaniae,-3.4949876318135507e-06
+Ensifer adhaerens,-3.5365563507250284e-06
+Spirosoma rigui,-3.566777054930803e-06
+Phenylobacterium zucineum,-3.669215295709627e-06
+Blastomonas sp. RAC04,-3.6855922349809945e-06
+Sphingomonas panacis,-3.7325978037072715e-06
+Polynucleobacter necessarius,-3.797278050887698e-06
+Martelella endophytica,-3.880008776535604e-06
+Rhodoferax koreense,-3.938551804694157e-06
+Sphingobium baderi,-3.947966321904417e-06
+Shewanella sp. ANA-3,-3.956019670581234e-06
+Curvibacter sp. AEP1-3,-4.044749233611533e-06
+Streptomyces globosus,-4.142354700631401e-06
+Pantoea vagans,-4.161934295932035e-06
+Pseudomonas lini,-4.20143374335602e-06
+Burkholderia sp. BDU6,-4.223186954988023e-06
+Vibrio vulnificus,-4.34219869751562e-06
+Desulfotomaculum ruminis,-4.349821982385649e-06
+blood disease bacterium A2-HR MARDI,-4.461565043079041e-06
+Planococcus sp. MB-3u-03,-4.461565043079041e-06
+Cyclobacterium amurskyense,-4.461565043079041e-06
+Lutibacter sp. LPB0138,-4.461565043079041e-06
+Methylobacterium sp. 4-46,-4.473169343399696e-06
+Ottowia sp. oral taxon 894,-4.506157923067633e-06
+Granulicella mallensis,-4.531548162578503e-06
+Sphingopyxis alaskensis,-4.5497666513849564e-06
+Bifidobacterium dentium,-4.651453717530174e-06
+Gordonia terrae,-4.656261116364746e-06
+Nonlabens dokdonensis,-4.746477230921364e-06
+Raoultella planticola,-4.759154251843256e-06
+Phenylobacterium sp. HYN0004,-4.959685545125048e-06
+Pandoraea pulmonicola,-5.032763670009821e-06
+Bordetella trematum,-5.094707528208175e-06
+[Eubacterium] minutum,-5.257083861787137e-06
+Pseudomonas aeruginosa,-5.27488679264998e-06
+Rhodobacteraceae bacterium,-5.295680196804042e-06
+Oligella urethralis,-5.304598030853036e-06
+Streptomyces sp. 3214.6,-5.309171067313656e-06
+Pseudomonas plecoglossicida,-5.3377666203280326e-06
+Serratia rubidaea,-5.341097187816501e-06
+Streptomyces virus phiBT1,-5.371682145605128e-06
+Thioclava nitratireducens,-5.381034036444632e-06
+Xanthomonas vesicatoria,-5.404725887059314e-06
+Halobacterium sp. DL1,-5.444495089146351e-06
+Sulfuricaulis limicola,-5.474301238006518e-06
+Cytophagales bacterium TFI 002,-5.505962050356139e-06
+Anaerolinea thermophila,-5.6020823490987585e-06
+Mucilaginibacter paludis,-5.61537330783235e-06
+Thermoanaerobacterium thermosaccharolyticum,-5.629783957017409e-06
+Bordetella sp. H567,-5.629783957017409e-06
+Altererythrobacter marensis,-5.629783957017409e-06
+Rhodobacter sp. LPB0142,-5.640402275131073e-06
+Streptomyces sp. Go-475,-5.641687436375165e-06
+Rhodothermus marinus,-5.688951997173674e-06
+Salinibacter ruber,-5.812038275632148e-06
+Halomonas sp. GT,-5.881271486707362e-06
+Alistipes sp. Marseille-P5997,-5.882175467730732e-06
+Mixta gaviniae,-5.92788282696155e-06
+Chromobacterium rhizoryzae,-5.964024034854631e-06
+Mesorhizobium oceanicum,-5.974014767295977e-06
+Shinella sp. HZN7,-6.087654670849929e-06
+Pseudomonas rhodesiae,-6.108704222484995e-06
+Calditerrivibrio nitroreducens,-6.203361041112743e-06
+Streptomyces sviceus,-6.2193234280583095e-06
+Nocardiopsis gilva,-6.219474681712356e-06
+Moorea producens,-6.287667486004622e-06
+Runella slithyformis,-6.3282373970130475e-06
+Mariniflexile sp. TRM1-10,-6.35395887418344e-06
+Janthinobacterium svalbardensis,-6.384999253650214e-06
+Methylobacillus flagellatus,-6.414842112301144e-06
+Sphingobium hydrophobicum,-6.419654541756081e-06
+Streptomyces globisporus,-6.507273516676016e-06
+Streptomyces sp. CC0208,-6.704335229046343e-06
+Burkholderia sp. BDU8,-6.7055952602590455e-06
+Bordetella sp. N,-6.735898365350934e-06
+Streptomyces davaonensis,-6.901802916958744e-06
+Ochrobactrum anthropi,-6.9275650450784095e-06
+Methylobacterium currus,-6.930638557345325e-06
+Lysobacter enzymogenes,-7.1385806548640575e-06
+Bosea sp. AS-1,-7.160104823000779e-06
+Solitalea canadensis,-7.361389751636694e-06
+Enterobacter cloacae,-7.488058708360335e-06
+Streptomyces nigra,-7.542723125952833e-06
+Lysobacter antibioticus,-7.711426391088239e-06
+Streptomyces reticuli,-7.769290378556449e-06
+Sulfitobacter sp. SK025,-8.11149757780072e-06
+Rufibacter sp. DG15C,-8.134483373156697e-06
+Altererythrobacter namhicola,-8.166394729225424e-06
+Cupriavidus oxalaticus,-8.2079197121665e-06
+Haliscomenobacter hydrossis,-8.267866554079184e-06
+Capnocytophaga ochracea,-8.327236652738713e-06
+Microbacterium paraoxydans,-8.784823478857895e-06
+Cohnella sp. 18JY8-7,-8.789996018343516e-06
+Bordetella bronchialis,-8.820597830050403e-06
+Rhizobium gallicum,-9.263359522670989e-06
+Sphingomonas sp. MM-1,-9.413939508262636e-06
+Croceicoccus naphthovorans,-9.614360649856657e-06
+Streptomyces malaysiensis,-9.742198783269096e-06
+Serratia sp. FGI94,-9.82249978294103e-06
+Streptomyces pactum,-1.0045633128563658e-05
+Altererythrobacter sp. B11,-1.0099083733017267e-05
+Gallaecimonas sp. HK-28,-1.0274227098183708e-05
+Rhodovulum sp. P5,-1.0381411147930564e-05
+Prevotella intermedia,-1.0555869462036683e-05
+Streptomyces clavuligerus,-1.0927028123930426e-05
+Blastococcus saxobsidens,-1.2029971331850576e-05
+Gordonia rubripertincta,-1.212348327466195e-05
+Brevundimonas vesicularis,-1.2757987407607807e-05
+Pseudomonas oryzae,-1.3144249876573254e-05
+Streptomyces lydicus,-1.3241985718481786e-05
+Citrobacter freundii,-1.3983160856234633e-05
+Exiguobacterium sp. MH3,-1.4015803899436464e-05
+Pseudomonas mediterranea,-1.4029279590843657e-05
+Owenweeksia hongkongensis,-1.4058152644569332e-05
+Amycolatopsis keratiniphila,-1.4174235877195685e-05
+Cupriavidus pinatubonensis,-1.5090789931293536e-05
+Candidatus Cloacimonas acidaminovorans,-1.5519664415020172e-05
+Pseudoxanthomonas suwonensis,-1.5610090445195012e-05
+Bordetella genomosp. 9,-1.5706474821852723e-05
+Acinetobacter lwoffii,-1.5832426209505535e-05
+Xanthomonas oryzae,-1.59206776670473e-05
+Nostoc sp. PCC 7107,-1.6293352131002693e-05
+Streptomyces alboflavus,-1.6587043921956203e-05
+Streptomyces sp. SAT1,-1.6902610302627075e-05
+Bacteriovorax stolpii,-1.749792597578459e-05
+Bordetella bronchiseptica,-1.816145289832427e-05
+Stigmatella aurantiaca,-1.824158533438869e-05
+Erythrobacter flavus,-1.8642840321203557e-05
+Achromobacter spanius,-1.9053092290710615e-05
+Bifidobacterium angulatum,-1.9069508145430623e-05
+Deinococcus sp. NW-56,-1.9207940977938876e-05
+Corynebacterium timonense,-2.106324158859252e-05
+Sphingomonas sp. FARSPH,-2.256703052521125e-05
+Gemmatirosa kalamazoonesis,-2.302809024901098e-05
+Altererythrobacter sp. ZODW24,-2.3818479302573083e-05
+Hydrogenophaga sp. PBC,-2.475133342458857e-05
+Clostridium novyi,-2.600671616372896e-05
+Cellulophaga lytica,-3.131429214235926e-05
+Rhodococcus opacus,-3.255699836750559e-05
+Chitinophaga sp. MD30,-3.320020064119244e-05
+Streptomyces sp. CCM_MD2014,-3.407643797752602e-05
+Burkholderia sp. NRF60-BP8,-3.462021599394127e-05
+Psychromonas ingrahamii,-3.789678128487406e-05
+Thermaerobacter marianensis,-4.5299063780657176e-05
+Streptomyces qaidamensis,-4.5731893407352506e-05
+Buttiauxella sp. 3AFRM03,-6.275978038576824e-05
+Delftia tsuruhatensis,-6.723126576770876e-05
+nitrif__Technical Replicate,-8.202737377205338e-05
