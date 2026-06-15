@@ -1,0 +1,24 @@
+Job ID: 7140785
+Array Task ID: 6
+Node: slurm-compute-h23a8-u5-svn2
+Start: Sun Jun 14 14:35:52 +01 2026
+================================================================================
+Task ID: 6
+Metabolite: C18_negative|IK:KDYFGRWQOYBRFD-UHFFFAOYSA-N
+Model: RF
+X shape: (105, 3059)
+================================================================================
+Fitting 10 folds for each of 72 candidates, totalling 720 fits
+Done:
+{
+  "metabolite": "C18_negative|IK:KDYFGRWQOYBRFD-UHFFFAOYSA-N",
+  "model_code": "RF",
+  "best_cv_r2": 0.26446457062048523,
+  "best_params": "{\"model__max_depth\": 10, \"model__max_features\": 0.5, \"model__min_samples_leaf\": 5, \"model__n_estimators\": 300}",
+  "r2_train_refit": 0.7484870005572809,
+  "rmse_train_refit": 2.9406674288901287,
+  "mae_train_refit": 2.105209368787006,
+  "n_samples": 105,
+  "n_features": 3059
+}
+End: Sun Jun 14 14:41:12 +01 2026

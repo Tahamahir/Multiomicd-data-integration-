@@ -1,0 +1,24 @@
+Job ID: 7141121
+Array Task ID: 29
+Node: slurm-compute-h21a8-u4-svn3
+Start: Sun Jun 14 15:01:14 +01 2026
+================================================================================
+Task ID: 29
+Metabolite: HILICZ_positive|IK:XPCTZQVDEJYUGT-UHFFFAOYSA-N
+Model: XGB
+X shape: (105, 3059)
+================================================================================
+Fitting 10 folds for each of 972 candidates, totalling 9720 fits
+Done:
+{
+  "metabolite": "HILICZ_positive|IK:XPCTZQVDEJYUGT-UHFFFAOYSA-N",
+  "model_code": "XGB",
+  "best_cv_r2": 0.33938181436391435,
+  "best_params": "{\"model__colsample_bytree\": 0.7, \"model__learning_rate\": 0.05, \"model__max_depth\": 2, \"model__n_estimators\": 200, \"model__reg_alpha\": 0.0, \"model__reg_lambda\": 5.0, \"model__subsample\": 0.7}",
+  "r2_train_refit": 0.9800410303261702,
+  "rmse_train_refit": 0.9331661866916527,
+  "mae_train_refit": 0.634942875713836,
+  "n_samples": 105,
+  "n_features": 3059
+}
+End: Sun Jun 14 16:10:34 +01 2026
