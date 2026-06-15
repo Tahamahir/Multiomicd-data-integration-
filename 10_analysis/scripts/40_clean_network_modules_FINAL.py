@@ -1,15 +1,10 @@
 #!/usr/bin/env python3
 
 import pandas as pd
-import numpy as np
 import networkx as nx
 import matplotlib.pyplot as plt
 from pathlib import Path
-
-try:
-    from community import community_louvain
-except:
-    raise ImportError("Install: pip install python-louvain")
+from community import community_louvain
 
 
 # =========================================================
@@ -20,122 +15,148 @@ def load_data(path):
 
     required = {"feature", "metabolite", "importance"}
     if not required.issubset(df.columns):
-        raise ValueError(f"Missing columns: {required}")
+        raise ValueError("Missing columns")
 
     return df
 
 
 # =========================================================
-# FILTER EDGES (TOP 20%)
+# FILTER (balanced)
 # =========================================================
 def filter_edges(df):
-    thr = df["importance"].quantile(0.80)
-    df = df[df["importance"] >= thr].copy()
-    print(f"[INFO] Filtered edges: {len(df)}")
+
+    threshold = df["importance"].quantile(0.65)
+    df = df[df["importance"] >= threshold].copy()
+
     return df
 
 
 # =========================================================
-# BUILD GRAPH
+# GRAPH BUILD
 # =========================================================
 def build_graph(df):
+
     G = nx.Graph()
 
     for _, r in df.iterrows():
-        G.add_edge(r["feature"], r["metabolite"], weight=r["importance"])
+        G.add_edge(r["feature"], r["metabolite"], weight=float(r["importance"]))
 
     return G
 
 
 # =========================================================
-# MODULE DETECTION
+# MODULES
 # =========================================================
-def modules(G):
+def detect_modules(G):
     return community_louvain.best_partition(G, weight="weight")
 
 
 # =========================================================
 # HUBS
 # =========================================================
-def hubs(G):
-    deg = dict(G.degree())
-    btw = nx.betweenness_centrality(G, weight="weight")
+def compute_hubs(G):
 
-    df = pd.DataFrame({
-        "node": list(deg.keys()),
-        "degree": list(deg.values()),
-        "betweenness": [btw[n] for n in deg.keys()]
-    })
-
-    df["score"] = df["degree"]*0.7 + df["betweenness"]*0.3
-    return df.sort_values("score", ascending=False)
+    degree = dict(G.degree())
+    return degree
 
 
 # =========================================================
-# NETWORK FIGURE (PAPER READY)
+# FULL PAPER FIGURE
 # =========================================================
-def plot_network(G, part, out):
+def plot_network(G, partition, hubs, out_file):
 
-    plt.figure(figsize=(16, 12))
-    pos = nx.spring_layout(G, seed=42, k=0.35)
+    plt.figure(figsize=(20, 14))
 
+    pos = nx.spring_layout(G, seed=42, k=1.3, iterations=300)
+
+    # -----------------------------
+    # NODE TYPES
+    # -----------------------------
     microbes = [n for n in G.nodes() if "IK:" in str(n)]
     metabolites = [n for n in G.nodes() if "C18" in str(n) or "HILIC" in str(n)]
 
-    nx.draw_networkx_nodes(G, pos,
-        nodelist=microbes,
-        node_color="#2ecc71",
-        node_size=50,
-        label="Microbes"
+    # -----------------------------
+    # NODE SIZE = HUBS
+    # -----------------------------
+    node_size = []
+    for n in G.nodes():
+        node_size.append(hubs.get(n, 1) * 20)
+
+    # -----------------------------
+    # COLOR = MODULES
+    # -----------------------------
+    node_colors = [partition[n] for n in G.nodes()]
+
+    # -----------------------------
+    # DRAW NODES
+    # -----------------------------
+    nx.draw_networkx_nodes(
+        G, pos,
+        node_color=node_colors,
+        cmap=plt.cm.tab20,
+        node_size=node_size,
+        alpha=0.9
     )
 
-    nx.draw_networkx_nodes(G, pos,
-        nodelist=metabolites,
-        node_color="#3498db",
-        node_size=50,
-        label="Metabolites"
-    )
+    # -----------------------------
+    # EDGE FILTER (BACKBONE STYLE)
+    # -----------------------------
+    edges = sorted(G.edges(data=True), key=lambda x: x[2]["weight"], reverse=True)
+    edges = edges[:int(len(edges) * 0.6)]
 
-    weights = [G[u][v]["weight"] for u,v in G.edges()]
-    nx.draw_networkx_edges(G, pos,
-        alpha=0.15,
-        width=[w*2 for w in weights],
+    nx.draw_networkx_edges(
+        G, pos,
+        edgelist=[(u, v) for u, v, _ in edges],
+        width=2,
+        alpha=0.4,
         edge_color="gray"
     )
 
-    top = sorted(dict(G.degree()), key=dict(G.degree()).get, reverse=True)[:15]
-    labels = {n:n.split("|")[-1][:12] for n in top}
+    # -----------------------------
+    # HUB LABELS ONLY
+    # -----------------------------
+    top_nodes = sorted(hubs, key=hubs.get, reverse=True)[:12]
 
-    nx.draw_networkx_labels(G, pos, labels, font_size=8)
+    labels = {n: n.split("|")[-1][:10] for n in top_nodes}
 
-    plt.title("MicrobiomeMetabolome Network (Clean Modules)")
-    plt.legend()
+    nx.draw_networkx_labels(
+        G, pos,
+        labels=labels,
+        font_size=9
+    )
+
+    # -----------------------------
+    # LEGEND MANUAL
+    # -----------------------------
+    plt.scatter([], [], c="green", label="Microbes")
+    plt.scatter([], [], c="blue", label="Metabolites")
+    plt.legend(loc="upper right")
+
+    plt.title("MicrobiomeMetabolome Interaction Network (Publication Panel)")
     plt.axis("off")
+
     plt.tight_layout()
-    plt.savefig(out, dpi=600)
+    plt.savefig(out_file, dpi=600, bbox_inches="tight")
     plt.close()
 
 
 # =========================================================
 # HUBS FIGURE
 # =========================================================
-def plot_hubs(df, out):
+def plot_hubs(hubs, out_file):
 
-    df = df.head(20)
+    top = dict(sorted(hubs.items(), key=lambda x: x[1], reverse=True)[:20])
 
     plt.figure(figsize=(12,6))
 
-    colors = ["#2ecc71" if "IK:" in str(x) else "#3498db"
-              for x in df["node"]]
+    plt.bar(top.keys(), top.values(), color="#2ecc71")
 
-    plt.bar(df["node"], df["score"], color=colors)
-    plt.xticks(rotation=90, fontsize=8)
-
+    plt.xticks(rotation=90)
+    plt.ylabel("Degree (Hub Score)")
     plt.title("Top Biological Hubs")
-    plt.ylabel("Score")
 
     plt.tight_layout()
-    plt.savefig(out, dpi=600)
+    plt.savefig(out_file, dpi=600)
     plt.close()
 
 
@@ -145,37 +166,32 @@ def plot_hubs(df, out):
 def main():
 
     root = Path(".")
-    inp = root / "10_analysis/outputs/phase39_biomarkers/links.csv"
-    outdir = root / "10_analysis/outputs/phase40_modules"
-    outdir.mkdir(parents=True, exist_ok=True)
 
-    print("[PHASE 40] Loading data")
-    df = load_data(inp)
+    input_file = root / "10_analysis/outputs/phase39_biomarkers/links.csv"
+    out_dir = root / "10_analysis/outputs/phase40_modules"
+    out_dir.mkdir(parents=True, exist_ok=True)
 
-    print("[PHASE 40] Filtering")
+    print("[PHASE 40] Loading data...")
+    df = load_data(input_file)
+
+    print("[PHASE 40] Filtering edges...")
     df = filter_edges(df)
 
-    print("[PHASE 40] Graph building")
+    print("[PHASE 40] Building graph...")
     G = build_graph(df)
 
-    print("[INFO] Nodes:", G.number_of_nodes())
-    print("[INFO] Edges:", G.number_of_edges())
+    print("[PHASE 40] Detecting modules...")
+    partition = detect_modules(G)
 
-    print("[PHASE 40] Modules detection")
-    part = modules(G)
+    print("[PHASE 40] Computing hubs...")
+    hubs = compute_hubs(G)
 
-    print("[PHASE 40] Hubs")
-    hub_df = hubs(G)
+    print("[PHASE 40] Plotting publication figure...")
 
-    hub_df.to_csv(outdir/"biological_hubs.csv", index=False)
-    nx.write_gexf(G, outdir/"clean_network.gexf")
+    plot_network(G, partition, hubs, out_dir / "network_PUBLICATION.png")
+    plot_hubs(hubs, out_dir / "hubs.png")
 
-    print("[PHASE 40] Figures")
-
-    plot_network(G, part, outdir/"network.png")
-    plot_hubs(hub_df, outdir/"hubs.png")
-
-    print("[DONE] Saved in", outdir)
+    print("[DONE] Publication-ready figures generated ")
 
 
 if __name__ == "__main__":

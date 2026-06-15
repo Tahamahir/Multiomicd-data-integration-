@@ -1,134 +1,157 @@
 node,degree,betweenness,score
-C18_negative|IK:CQSLTKIXAJTQGA-FLIBITNWSA-N,8,0.003238491788110109,5.600971547536433
-C18_negative|IK:DRTQHJPVMGBUCF-UHFFFAOYSA-N,7,0.002197547999074717,4.900659264399722
-C18_negative|IK:CZDNLUMNELLDDD-QZFWYPLZSA-N,6,0.015035854730511219,4.204510756419153
-C18_negative|IK:BDJRBEYXGGNYIS-UHFFFAOYSA-N,6,0.013300948415452232,4.203990284524635
-C18_negative|IK:ABVDJKDAAWCYKH-PNJCVKMMSA-N,6,0.005204718945176961,4.201561415683552
-C18_negative|IK:CUCUKLJLRRAKFN-UHFFFAOYSA-N,6,0.002313208420078649,4.200693962526023
-C18_negative|IK:AJFTWGKYXHISKT-UHFFFAOYSA-N,5,0.015267175572519083,3.504580152671756
-C18_negative|IK:CFJLERBDXYGARW-TVKJYDDYSA-N,5,0.0131852879944483,3.5039555863983347
-C18_negative|IK:BLUAFEHZUWYNDE-DCJAHCNHSA-N,5,0.01087207957436965,3.503261623872311
-C18_negative|IK:DRTQHJPVMGBUCF-XVFCMESISA-N,5,0.0008096229470275272,3.5002428868841085
-C18_negative|IK:DJOJDHGQRNZXQQ-UHFFFAOYSA-N,4,0.020471894517696043,2.806141568355309
-C18_negative|IK:CWVRJTMFETXNAD-UHFFFAOYSA-N,4,0.01943095072866065,2.805829285218598
-C18_negative|IK:CZMRCDWAGMRECN-UGDNZRGBSA-N,4,0.006245662734212352,2.8018736988202635
-C18_negative|IK:BJEPYKJPYRNKOW-REOHCLBHSA-N,4,0.004857737682165163,2.801457321304649
-C18_negative|IK:DLIKSSGEMUFQOK-UHFFFAOYSA-N,4,0.0006939625260235947,2.8002081887578067
-C18_negative|IK:BJHIKXHVCXFQLS-PQLUHFTBSA-N,4,0.0006939625260235947,2.8002081887578067
-C18_negative|IK:CDRPUGZCRXZLFL-UHFFFAOYSA-N,4,0.0006939625260235947,2.8002081887578067
-C18_negative|IK:BJRNKVDFDLYUGJ-UHFFFAOYSA-N,4,0.0006939625260235947,2.8002081887578067
-nitrif__Rate (mg NO3-N/kilogram dry weight soil/day),3,0.024866990515845476,2.1074600971547532
-C18_negative|IK:BJEPYKJPYRNKOW-UWTATZPHSA-N,3,0.0042794355771455005,2.101283830673143
-C18_negative|IK:DANYIYRPLHHOCZ-UHFFFAOYSA-N,3,0.00034698126301179735,2.1001040943789033
-C18_negative|IK:AKEUNCKRJATALU-UHFFFAOYSA-N,3,0.00034698126301179735,2.1001040943789033
-C18_negative|IK:AAWZDTNXLSGCEK-LNVDRNJUSA-N,3,0.00034698126301179735,2.1001040943789033
-C18_negative|IK:CZOXIGOPZRIBJM-TZWBTVLISA-N,3,0.00034698126301179735,2.1001040943789033
-C18_negative|IK:BAHHZVVNFAOLAZ-UHFFFAOYSA-N,3,0.00034698126301179735,2.1001040943789033
-moist__Replicate 1 Mass Water / Mass Dry Soil %,2,0.015382835993523017,1.404614850798057
-Cupriavidus necator,2,0.013879250520471894,1.4041637751561415
-soil_total_C,2,0.011450381679389313,1.4034351145038166
-Sulfurihydrogenibium sp. YO3AOP1,2,0.008674531575294934,1.4026023594725885
-Massilia sp. WG5,2,0.007402266944251677,1.4022206800832755
-C18_negative|IK:BJRNKVDFDLYUGJ-RMPHRYRLSA-N,2,0.007402266944251677,1.4022206800832755
-Chryseolinea sp. KIS68-18,2,0.005898681471200555,1.4017696044413601
-Rahnella sp. ERMR1:05,2,0.005551700208188758,1.4016655100624564
-Pseudomonas sp. K2W31S-8,2,0.004163775156141568,1.4012491325468424
-C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,2,0.0028915105250983115,1.4008674531575294
-Luteibacter rhizovicinus,2,0.002313208420078649,1.4006939625260235
-C18_negative|IK:DLRVVLDZNNYCBX-ABXHMFFYSA-N,2,0.001272264631043257,1.400381679389313
-Xanthomonas campestris,2,0.0006939625260235947,1.400208188757807
-Pseudomonas umsongensis,2,0.0006939625260235947,1.400208188757807
-C18_negative|IK:CKEXCBVNKRHAMX-UHFFFAOYSA-N,2,0.00011566042100393245,1.400034698126301
-C18_negative|IK:CSGSKMJWQQEEQK-NHCPJIJJSA-N,2,0.00011566042100393245,1.400034698126301
-psize__Soil Clay Content %,2,0.0,1.4
-Enterobacter sp. 638,2,0.0,1.4
-Polaribacter sp. SA4-10,2,0.0,1.4
-Methylotenera mobilis,2,0.0,1.4
-Rhodoferax koreense,1,0.0,0.7
-Serratia sp. SCBI,1,0.0,0.7
-Rhizobium sp. NXC24,1,0.0,0.7
-Agrobacterium tumefaciens,1,0.0,0.7
-Stenotrophomonas rhizophila,1,0.0,0.7
-Enterobacter ludwigii,1,0.0,0.7
-Mesorhizobium amorphae,1,0.0,0.7
-Bradyrhizobium sp.,1,0.0,0.7
-Neorhizobium galegae,1,0.0,0.7
-Cupriavidus taiwanensis,1,0.0,0.7
-Burkholderia phage KS14,1,0.0,0.7
-Amycolatopsis sp. AA4,1,0.0,0.7
-Paraburkholderia graminis,1,0.0,0.7
-Stenotrophomonas sp. LM091,1,0.0,0.7
-Paenibacillus crassostreae,1,0.0,0.7
-Mycobacterium virus D29,1,0.0,0.7
-Polaromonas sp. JS666,1,0.0,0.7
-Pseudomonas brassicacearum,1,0.0,0.7
-Pseudomonas sp. R11-23-07,1,0.0,0.7
-Pseudomonas alcaligenes,1,0.0,0.7
-Homo sapiens,1,0.0,0.7
-Paenibacillus sp. JDR-2,1,0.0,0.7
-Mycobacterium haemophilum,1,0.0,0.7
-Frondihabitans sp. PAMC 28766,1,0.0,0.7
-Aeromonas sp. ASNIH1,1,0.0,0.7
-Pectobacterium carotovorum,1,0.0,0.7
-Intrasporangium calvum,1,0.0,0.7
-Devosia sp. A16,1,0.0,0.7
-Streptomyces virus Amela,1,0.0,0.7
-Mesorhizobium phage vB_MloP_Lo5R7ANS,1,0.0,0.7
-C18_negative|IK:BPSJMBKZSUTYNF-GXCUHXBUSA-N,1,0.0,0.7
-psize__Soil Sand Content %,1,0.0,0.7
-Catenulispora acidiphila,1,0.0,0.7
-Kitasatospora setae,1,0.0,0.7
-soil_NO3,1,0.0,0.7
-Candidatus Solibacter usitatus,1,0.0,0.7
-Pseudomonas sp. R4-34-07,1,0.0,0.7
-Agrobacterium fabrum,1,0.0,0.7
-Stenotrophomonas nitritireducens,1,0.0,0.7
-Lactobacillus delbrueckii,1,0.0,0.7
-Janthinobacterium sp. Marseille,1,0.0,0.7
-Ralstonia pickettii,1,0.0,0.7
-Mycobacterium sp. JS623,1,0.0,0.7
-Streptomyces sp. SCSIO 03032,1,0.0,0.7
-Phycicoccus dokdonensis,1,0.0,0.7
-Ralstonia insidiosa,1,0.0,0.7
-soil_NH4,1,0.0,0.7
-Bradyrhizobium diazoefficiens,1,0.0,0.7
-Kitasatospora sp. MMS16-BH015,1,0.0,0.7
-Amycolatopsis orientalis,1,0.0,0.7
-Pantoea agglomerans,1,0.0,0.7
-Massilia oculi,1,0.0,0.7
-Sulfuricurvum kujiense,1,0.0,0.7
-denit__Rate (microgN/kilogram dry weight soil/day),1,0.0,0.7
-Streptacidiphilus sp. DSM 106435,1,0.0,0.7
-Streptomyces roseochromogenus,1,0.0,0.7
-Niastella koreensis,1,0.0,0.7
-Paenibacillus sp. FSL R5-0912,1,0.0,0.7
-Delftia acidovorans,1,0.0,0.7
-Curtobacterium pusillum,1,0.0,0.7
-Curtobacterium sp. BH-2-1-1,1,0.0,0.7
-Bacillus licheniformis,1,0.0,0.7
-Microbacterium sp. CGR1,1,0.0,0.7
-Variovorax boronicumulans,1,0.0,0.7
-Stenotrophomonas sp. MYb57,1,0.0,0.7
-Pseudomonas sp. LAB-08,1,0.0,0.7
-Cupriavidus basilensis,1,0.0,0.7
-Variovorax sp. PMC12,1,0.0,0.7
-Pseudomonas koreensis,1,0.0,0.7
-Paenibacillus sp. FSL P4-0081,1,0.0,0.7
-Pseudomonas virus PaMx74,1,0.0,0.7
-Paenibacillus borealis,1,0.0,0.7
-Marivirga tractuosa,1,0.0,0.7
-Bordetella pertussis,1,0.0,0.7
-Pseudomonas reinekei,1,0.0,0.7
-Pseudomonas sp. URMO17WK12:I11,1,0.0,0.7
-Mesorhizobium ciceri,1,0.0,0.7
-Pseudomonas sp. LH1G9,1,0.0,0.7
-Pseudomonas entomophila,1,0.0,0.7
-Acidobacteriaceae bacterium SBC82,1,0.0,0.7
-Flavobacterium gilvum,1,0.0,0.7
-Serratia sp. 3ACOL1,1,0.0,0.7
-Alcaligenes faecalis,1,0.0,0.7
-Pseudomonas sp. GR 6-02,1,0.0,0.7
-Streptomyces sviceus,1,0.0,0.7
-Rhodococcus sp. MTM3W5.2,1,0.0,0.7
-Ornithobacterium rhinotracheale,1,0.0,0.7
-Pseudarthrobacter equi,1,0.0,0.7
+C18_negative|IK:BJEPYKJPYRNKOW-UWTATZPHSA-N,9,0.31864264767490574,5.527457059069961
+C18_negative|IK:CQSLTKIXAJTQGA-FLIBITNWSA-N,8,0.002346041055718475,4.800938416422287
+C18_negative|IK:CZDNLUMNELLDDD-QZFWYPLZSA-N,7,0.12836196062002514,4.25134478424801
+C18_negative|IK:BJEPYKJPYRNKOW-REOHCLBHSA-N,7,0.09526602429828236,4.238106409719313
+C18_negative|IK:CUCUKLJLRRAKFN-UHFFFAOYSA-N,6,0.20377042312526183,3.6815081692501046
+C18_negative|IK:CFJLERBDXYGARW-TVKJYDDYSA-N,6,0.08043569333891915,3.6321742773355674
+C18_negative|IK:AJFTWGKYXHISKT-UHFFFAOYSA-N,6,0.06552157519899456,3.6262086300795975
+C18_negative|IK:BLUAFEHZUWYNDE-DCJAHCNHSA-N,6,0.04189359028068705,3.6167574361122745
+C18_negative|IK:BDJRBEYXGGNYIS-UHFFFAOYSA-N,6,0.04189359028068705,3.6167574361122745
+C18_negative|IK:ABVDJKDAAWCYKH-PNJCVKMMSA-N,6,0.04189359028068705,3.6167574361122745
+C18_negative|IK:CWVRJTMFETXNAD-UHFFFAOYSA-N,5,0.11638039379974864,3.0465521575198995
+C18_negative|IK:DRTQHJPVMGBUCF-XVFCMESISA-N,5,0.06518642647674906,3.0260745705906995
+C18_negative|IK:AKEUNCKRJATALU-UHFFFAOYSA-N,5,0.03368244658567239,3.013472978634269
+C18_negative|IK:CZOXIGOPZRIBJM-TZWBTVLISA-N,5,0.03368244658567239,3.013472978634269
+C18_negative|IK:CZMRCDWAGMRECN-UGDNZRGBSA-N,5,0.03368244658567239,3.013472978634269
+C18_negative|IK:BAHHZVVNFAOLAZ-UHFFFAOYSA-N,5,0.0008378718056137411,3.0003351487222454
+nitrif__Rate (mg NO3-N/kilogram dry weight soil/day),4,0.23142019271051528,2.492568077084206
+C18_negative|IK:DJOJDHGQRNZXQQ-UHFFFAOYSA-N,4,0.09325513196480939,2.4373020527859235
+C18_negative|IK:DLRVVLDZNNYCBX-ABXHMFFYSA-N,4,0.09325513196480939,2.4373020527859235
+C18_negative|IK:DRTQHJPVMGBUCF-UHFFFAOYSA-N,4,0.025387515710096356,2.4101550062840387
+C18_negative|IK:AAWZDTNXLSGCEK-LNVDRNJUSA-N,4,0.0005027230833682447,2.4002010892333474
+C18_negative|IK:CKEXCBVNKRHAMX-UHFFFAOYSA-N,4,0.0005027230833682447,2.4002010892333474
+C18_negative|IK:CDRPUGZCRXZLFL-UHFFFAOYSA-N,4,0.0005027230833682447,2.4002010892333474
+C18_negative|IK:BJHIKXHVCXFQLS-PQLUHFTBSA-N,4,0.0005027230833682447,2.4002010892333474
+C18_negative|IK:BJRNKVDFDLYUGJ-UHFFFAOYSA-N,4,0.0005027230833682447,2.4002010892333474
+C18_negative|IK:DLIKSSGEMUFQOK-UHFFFAOYSA-N,4,0.0005027230833682447,2.4002010892333474
+Luteibacter rhizovicinus,3,0.1819019689987432,1.8727607875994972
+C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,3,0.017008797653958945,1.8068035190615834
+C18_negative|IK:DANYIYRPLHHOCZ-UHFFFAOYSA-N,3,0.00025136154168412233,1.8001005446166736
+Mesorhizobium amorphae,2,0.19656472559698365,1.2786258902387935
+Pseudomonas umsongensis,2,0.17595307917888564,1.2703812316715541
+C18_negative|IK:BPSJMBKZSUTYNF-GXCUHXBUSA-N,2,0.17193129451193967,1.2687725178047757
+Chryseolinea sp. KIS68-18,2,0.13908671973188103,1.2556346878927525
+C18_negative|IK:BJRNKVDFDLYUGJ-RMPHRYRLSA-N,2,0.13372434017595308,1.2534897360703812
+Sulfurihydrogenibium sp. YO3AOP1,2,0.1281943862589024,1.251277754503561
+soil_total_C,2,0.0847926267281106,1.2339170506912442
+Enterobacter sp. 638,2,0.0708839547549225,1.2283535819019689
+moist__Replicate 1 Mass Water / Mass Dry Soil %,2,0.0708839547549225,1.2283535819019689
+Cupriavidus necator,2,0.048764139086719734,1.219505655634688
+Pseudomonas sp. K2W31S-8,2,0.048764139086719734,1.219505655634688
+Pseudomonas reinekei,2,0.04105571847507331,1.2164222873900292
+Pseudomonas sp. URMO17WK12:I11,2,0.04105571847507331,1.2164222873900292
+Massilia sp. WG5,2,0.04105571847507331,1.2164222873900292
+Methylotenera mobilis,2,0.03317972350230415,1.2132718894009216
+Rahnella sp. ERMR1:05,2,0.025136154168412233,1.2100544616673647
+C18_negative|IK:CSGSKMJWQQEEQK-NHCPJIJJSA-N,2,8.378718056137411e-05,1.2000335148722245
+Rhizobium sp. NXC24,1,0.0,0.6
+Serratia sp. SCBI,1,0.0,0.6
+Agrobacterium tumefaciens,1,0.0,0.6
+Bradyrhizobium sp. WSM471,1,0.0,0.6
+Paenibacillus crassostreae,1,0.0,0.6
+Pseudomonas alcaligenes,1,0.0,0.6
+Paenibacillus sp. JDR-2,1,0.0,0.6
+Opitutus sp. GAS368,1,0.0,0.6
+Frondihabitans sp. PAMC 28766,1,0.0,0.6
+Rhodoferax koreense,1,0.0,0.6
+Paludisphaera borealis,1,0.0,0.6
+Kocuria sp. BT304,1,0.0,0.6
+Mycobacterium haemophilum,1,0.0,0.6
+Homo sapiens,1,0.0,0.6
+Polaromonas sp. JS666,1,0.0,0.6
+Pseudomonas brassicacearum,1,0.0,0.6
+Pseudomonas sp. R11-23-07,1,0.0,0.6
+Leptolyngbya sp. NIES-3755,1,0.0,0.6
+Mycobacterium virus D29,1,0.0,0.6
+Phycicoccus dokdonensis,1,0.0,0.6
+Mycobacterium sp. JS623,1,0.0,0.6
+Streptomyces sp. SCSIO 03032,1,0.0,0.6
+Enterobacter ludwigii,1,0.0,0.6
+Lactobacillus delbrueckii,1,0.0,0.6
+Catenulispora acidiphila,1,0.0,0.6
+Kitasatospora setae,1,0.0,0.6
+Stenotrophomonas nitritireducens,1,0.0,0.6
+Nostoc sp. 'Lobaria pulmonaria (5183) cyanobiont',1,0.0,0.6
+Pseudomonas sp. R4-34-07,1,0.0,0.6
+Agrobacterium fabrum,1,0.0,0.6
+psize__Soil Sand Content %,1,0.0,0.6
+Paraburkholderia caledonica,1,0.0,0.6
+soil_NO3,1,0.0,0.6
+Ralstonia insidiosa,1,0.0,0.6
+Janthinobacterium sp. Marseille,1,0.0,0.6
+Neorhizobium galegae,1,0.0,0.6
+Ralstonia pickettii,1,0.0,0.6
+Pseudomonas protegens,1,0.0,0.6
+Cupriavidus taiwanensis,1,0.0,0.6
+Amycolatopsis sp. AA4,1,0.0,0.6
+Burkholderia phage KS14,1,0.0,0.6
+Paraburkholderia graminis,1,0.0,0.6
+Bradyrhizobium sp.,1,0.0,0.6
+Stenotrophomonas rhizophila,1,0.0,0.6
+Stenotrophomonas sp. LM091,1,0.0,0.6
+soil_NH4,1,0.0,0.6
+Sulfuritalea hydrogenivorans,1,0.0,0.6
+Streptomyces roseochromogenus,1,0.0,0.6
+Massilia oculi,1,0.0,0.6
+Pantoea agglomerans,1,0.0,0.6
+Hymenobacter sp. DG25B,1,0.0,0.6
+Aeromonas sp. ASNIH1,1,0.0,0.6
+Pectobacterium carotovorum,1,0.0,0.6
+Intrasporangium calvum,1,0.0,0.6
+Streptomyces virus Amela,1,0.0,0.6
+Thermotoga maritima,1,0.0,0.6
+Mesorhizobium phage vB_MloP_Lo5R7ANS,1,0.0,0.6
+Devosia sp. A16,1,0.0,0.6
+Candidatus Solibacter usitatus,1,0.0,0.6
+Pseudomonas koreensis,1,0.0,0.6
+Janthinobacterium agaricidamnosum,1,0.0,0.6
+Kitasatospora sp. MMS16-BH015,1,0.0,0.6
+Sulfuricurvum kujiense,1,0.0,0.6
+Streptomyces cattleya,1,0.0,0.6
+Streptacidiphilus sp. DSM 106435,1,0.0,0.6
+Bradyrhizobium diazoefficiens,1,0.0,0.6
+Variovorax boronicumulans,1,0.0,0.6
+Curtobacterium sp. BH-2-1-1,1,0.0,0.6
+Microbacterium sp. CGR1,1,0.0,0.6
+denit__Rate (microgN/kilogram dry weight soil/day),1,0.0,0.6
+Curtobacterium pusillum,1,0.0,0.6
+Bacillus licheniformis,1,0.0,0.6
+Paenibacillus sp. FSL R5-0912,1,0.0,0.6
+Delftia acidovorans,1,0.0,0.6
+Amycolatopsis orientalis,1,0.0,0.6
+Polaribacter sp. SA4-10,1,0.0,0.6
+Xanthomonas campestris,1,0.0,0.6
+psize__Soil Clay Content %,1,0.0,0.6
+Paenibacillus sp. FSL P4-0081,1,0.0,0.6
+Pseudomonas virus PaMx74,1,0.0,0.6
+Paenibacillus borealis,1,0.0,0.6
+Niastella koreensis,1,0.0,0.6
+Stenotrophomonas sp. MYb57,1,0.0,0.6
+Xanthomonas citri,1,0.0,0.6
+Variovorax sp. PMC12,1,0.0,0.6
+Pseudomonas sp. LAB-08,1,0.0,0.6
+psize__Soil Silt Content %,1,0.0,0.6
+Bordetella pertussis,1,0.0,0.6
+Bordetella pseudohinzii,1,0.0,0.6
+Marivirga tractuosa,1,0.0,0.6
+Acidobacteriaceae bacterium SBC82,1,0.0,0.6
+Mesorhizobium ciceri,1,0.0,0.6
+Rhizobium favelukesii,1,0.0,0.6
+Cupriavidus basilensis,1,0.0,0.6
+Bacteroides dorei,1,0.0,0.6
+Sphingobium yanoikuyae,1,0.0,0.6
+Pseudomonas sp. LH1G9,1,0.0,0.6
+Rhizobium leguminosarum,1,0.0,0.6
+Pseudomonas alcaliphila,1,0.0,0.6
+Pseudomonas sp. MYb193,1,0.0,0.6
+Raoultella ornithinolytica,1,0.0,0.6
+Pseudomonas entomophila,1,0.0,0.6
+Flavobacterium gilvum,1,0.0,0.6
+Serratia sp. 3ACOL1,1,0.0,0.6
+Alcaligenes faecalis,1,0.0,0.6
+Pseudomonas sp. GR 6-02,1,0.0,0.6
+Streptomyces sviceus,1,0.0,0.6
+Rhodococcus sp. MTM3W5.2,1,0.0,0.6
+Ornithobacterium rhinotracheale,1,0.0,0.6
+Pseudarthrobacter equi,1,0.0,0.6
