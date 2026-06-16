@@ -12,36 +12,45 @@ from community import community_louvain
 # =========================================================
 def load_data(path):
     df = pd.read_csv(path)
-
-    required = {"feature", "metabolite", "importance"}
-    if not required.issubset(df.columns):
-        raise ValueError("Missing columns")
-
     return df
 
 
 # =========================================================
-# FILTER (balanced)
-# =========================================================
-def filter_edges(df):
-
-    threshold = df["importance"].quantile(0.65)
-    df = df[df["importance"] >= threshold].copy()
-
-    return df
-
-
-# =========================================================
-# GRAPH BUILD
+# BUILD GRAPH (NO EARLY FILTER)
 # =========================================================
 def build_graph(df):
 
     G = nx.Graph()
 
     for _, r in df.iterrows():
-        G.add_edge(r["feature"], r["metabolite"], weight=float(r["importance"]))
+        w = float(r["importance"])
+
+        G.add_edge(
+            r["feature"],
+            r["metabolite"],
+            weight=w
+        )
 
     return G
+
+
+# =========================================================
+# BACKBONE EXTRACTION (KEY IDEA NEW APPROACH)
+# =========================================================
+def backbone_graph(G):
+
+    # 1. Maximum Spanning Tree (core structure)
+    mst = nx.maximum_spanning_tree(G, weight="weight")
+
+    # 2. add top 15% strongest edges
+    edges = sorted(G.edges(data=True), key=lambda x: x[2]["weight"], reverse=True)
+    top_edges = edges[:int(len(edges) * 0.15)]
+
+    H = nx.Graph()
+    H.add_edges_from(mst.edges(data=True))
+    H.add_edges_from([(u, v, d) for u, v, d in top_edges])
+
+    return H
 
 
 # =========================================================
@@ -52,91 +61,78 @@ def detect_modules(G):
 
 
 # =========================================================
-# HUBS
+# HUB SCORE (MULTI METRIC)
 # =========================================================
 def compute_hubs(G):
 
-    degree = dict(G.degree())
-    return degree
+    deg = dict(G.degree())
+    bet = nx.betweenness_centrality(G, weight="weight")
+
+    hubs = {}
+
+    for n in G.nodes():
+        hubs[n] = 0.7 * deg.get(n, 0) + 0.3 * bet.get(n, 0)
+
+    return hubs
 
 
 # =========================================================
-# FULL PAPER FIGURE
+# NETWORK PLOT (NEW STYLE CLEAN SCIENTIFIC)
 # =========================================================
 def plot_network(G, partition, hubs, out_file):
 
     plt.figure(figsize=(20, 14))
 
-    pos = nx.spring_layout(G, seed=42, k=1.3, iterations=300)
+    pos = nx.spring_layout(G, seed=42, k=1.4, iterations=400)
 
-    # -----------------------------
-    # NODE TYPES
-    # -----------------------------
-    microbes = [n for n in G.nodes() if "IK:" in str(n)]
-    metabolites = [n for n in G.nodes() if "C18" in str(n) or "HILIC" in str(n)]
+    # ----------------------------
+    # NODE SIZE = HUB SCORE
+    # ----------------------------
+    node_size = [max(20, hubs[n] * 120) for n in G.nodes()]
 
-    # -----------------------------
-    # NODE SIZE = HUBS
-    # -----------------------------
-    node_size = []
-    for n in G.nodes():
-        node_size.append(hubs.get(n, 1) * 20)
+    # ----------------------------
+    # NODE COLOR = MODULES
+    # ----------------------------
+    node_color = [partition[n] for n in G.nodes()]
 
-    # -----------------------------
-    # COLOR = MODULES
-    # -----------------------------
-    node_colors = [partition[n] for n in G.nodes()]
-
-    # -----------------------------
-    # DRAW NODES
-    # -----------------------------
     nx.draw_networkx_nodes(
         G, pos,
-        node_color=node_colors,
-        cmap=plt.cm.tab20,
         node_size=node_size,
-        alpha=0.9
+        node_color=node_color,
+        cmap=plt.cm.tab20,
+        alpha=0.95
     )
 
-    # -----------------------------
-    # EDGE FILTER (BACKBONE STYLE)
-    # -----------------------------
-    edges = sorted(G.edges(data=True), key=lambda x: x[2]["weight"], reverse=True)
-    edges = edges[:int(len(edges) * 0.6)]
+    # ----------------------------
+    # EDGE WIDTH = IMPORTANCE
+    # ----------------------------
+    weights = [G[u][v]["weight"] for u, v in G.edges()]
+    max_w = max(weights)
 
     nx.draw_networkx_edges(
         G, pos,
-        edgelist=[(u, v) for u, v, _ in edges],
-        width=2,
-        alpha=0.4,
+        width=[1 + 4 * (w / max_w) for w in weights],
+        alpha=0.35,
         edge_color="gray"
     )
 
-    # -----------------------------
-    # HUB LABELS ONLY
-    # -----------------------------
-    top_nodes = sorted(hubs, key=hubs.get, reverse=True)[:12]
+    # ----------------------------
+    # LABEL ONLY TOP HUBS
+    # ----------------------------
+    top_nodes = sorted(hubs, key=hubs.get, reverse=True)[:10]
 
-    labels = {n: n.split("|")[-1][:10] for n in top_nodes}
+    labels = {n: n.split("|")[-1][:12] for n in top_nodes}
 
     nx.draw_networkx_labels(
         G, pos,
         labels=labels,
-        font_size=9
+        font_size=10
     )
 
-    # -----------------------------
-    # LEGEND MANUAL
-    # -----------------------------
-    plt.scatter([], [], c="green", label="Microbes")
-    plt.scatter([], [], c="blue", label="Metabolites")
-    plt.legend(loc="upper right")
-
-    plt.title("MicrobiomeMetabolome Interaction Network (Publication Panel)")
+    plt.title("MicrobiomeMetabolome Backbone + Modules (NEW METHOD)")
     plt.axis("off")
-
     plt.tight_layout()
-    plt.savefig(out_file, dpi=600, bbox_inches="tight")
+    plt.savefig(out_file, dpi=600)
     plt.close()
 
 
@@ -148,12 +144,11 @@ def plot_hubs(hubs, out_file):
     top = dict(sorted(hubs.items(), key=lambda x: x[1], reverse=True)[:20])
 
     plt.figure(figsize=(12,6))
-
-    plt.bar(top.keys(), top.values(), color="#2ecc71")
+    plt.bar(top.keys(), top.values(), color="#3498db")
 
     plt.xticks(rotation=90)
-    plt.ylabel("Degree (Hub Score)")
-    plt.title("Top Biological Hubs")
+    plt.ylabel("Hub Score")
+    plt.title("Top Biological Hubs (Multi-metric)")
 
     plt.tight_layout()
     plt.savefig(out_file, dpi=600)
@@ -161,7 +156,7 @@ def plot_hubs(hubs, out_file):
 
 
 # =========================================================
-# MAIN
+# MAIN PIPELINE
 # =========================================================
 def main():
 
@@ -171,27 +166,35 @@ def main():
     out_dir = root / "10_analysis/outputs/phase40_modules"
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    print("[PHASE 40] Loading data...")
+    print("[1] Loading data")
     df = load_data(input_file)
 
-    print("[PHASE 40] Filtering edges...")
-    df = filter_edges(df)
-
-    print("[PHASE 40] Building graph...")
+    print("[2] Building full graph")
     G = build_graph(df)
 
-    print("[PHASE 40] Detecting modules...")
+    print("[3] Backbone extraction (MST + strong edges)")
+    G = backbone_graph(G)
+
+    print("[INFO] nodes:", G.number_of_nodes())
+    print("[INFO] edges:", G.number_of_edges())
+
+    print("[4] Detecting modules")
     partition = detect_modules(G)
 
-    print("[PHASE 40] Computing hubs...")
+    print("[5] Computing hubs")
     hubs = compute_hubs(G)
 
-    print("[PHASE 40] Plotting publication figure...")
+    print("[6] Saving results")
 
-    plot_network(G, partition, hubs, out_dir / "network_PUBLICATION.png")
-    plot_hubs(hubs, out_dir / "hubs.png")
+    nx.write_gexf(G, out_dir / "network.gexf")
+    pd.DataFrame.from_dict(hubs, orient="index").to_csv(out_dir / "hubs.csv")
 
-    print("[DONE] Publication-ready figures generated ")
+    print("[7] Plotting figures")
+
+    plot_network(G, partition, hubs, out_dir / "network_FINAL.png")
+    plot_hubs(hubs, out_dir / "hubs_FINAL.png")
+
+    print("DONE ")
 
 
 if __name__ == "__main__":

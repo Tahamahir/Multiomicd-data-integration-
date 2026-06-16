@@ -1,0 +1,11 @@
+Job ID: 7163587
+Task ID: 13
+Node: slurm-compute-h21c8-u12-svn1
+Start: Tue Jun 16 11:28:30 +01 2026
+[INFO] X: (105, 3059)
+[INFO] Y selected: (105, 30)
+[INFO] MG features: 3039
+[INFO] Soil features: 20
+[TASK] 13
+[METABOLITE] HILICZ_negative|IK:LWYJCVVIVLBLID-UHFFFAOYSA-N
+[RUN] Real baseline validation

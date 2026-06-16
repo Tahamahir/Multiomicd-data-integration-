@@ -1,0 +1,34 @@
+Phase 40 publication figures summary
+====================================
+
+Input file: 10_analysis/outputs/phase39_biomarkers/links.csv
+Output folder: 10_analysis/outputs/phase40_publication_figures
+
+Original network
+- Unique features: 348
+- Unique metabolites: 30
+- Total feature-metabolite links: 600
+
+Publication network
+- Plotted features: 71
+- Plotted metabolites: 30
+- Plotted links: 80
+- Graph nodes: 101
+- Graph edges: 80
+
+Node types in publication network
+- Microbial features: 64
+- Soil variables: 7
+- Metabolites: 30
+
+Top 10 hubs
+- metabolite: C18_negative|IK:CFJLERBDXYGARW-TVKJYDDYSA-N | degree=3, weighted_degree=0.2445, hub_score=0.9369
+- metabolite: C18_negative|IK:CZDNLUMNELLDDD-QZFWYPLZSA-N | degree=3, weighted_degree=0.1622, hub_score=0.9265
+- metabolite: C18_negative|IK:ABVDJKDAAWCYKH-PNJCVKMMSA-N | degree=3, weighted_degree=0.1726, hub_score=0.9106
+- metabolite: C18_negative|IK:BLUAFEHZUWYNDE-DCJAHCNHSA-N | degree=3, weighted_degree=0.1215, hub_score=0.9012
+- metabolite: C18_negative|IK:DJOJDHGQRNZXQQ-UHFFFAOYSA-N | degree=3, weighted_degree=0.1035, hub_score=0.8960
+- metabolite: C18_negative|IK:AJFTWGKYXHISKT-UHFFFAOYSA-N | degree=3, weighted_degree=0.1095, hub_score=0.8943
+- metabolite: C18_negative|IK:DLIKSSGEMUFQOK-UHFFFAOYSA-N | degree=3, weighted_degree=0.1375, hub_score=0.8899
+- metabolite: C18_negative|IK:CDRPUGZCRXZLFL-UHFFFAOYSA-N | degree=3, weighted_degree=0.1253, hub_score=0.8864
+- metabolite: C18_negative|IK:DRTQHJPVMGBUCF-UHFFFAOYSA-N | degree=3, weighted_degree=0.1573, hub_score=0.8847
+- metabolite: C18_negative|IK:DRTQHJPVMGBUCF-XVFCMESISA-N | degree=3, weighted_degree=0.1519, hub_score=0.8837

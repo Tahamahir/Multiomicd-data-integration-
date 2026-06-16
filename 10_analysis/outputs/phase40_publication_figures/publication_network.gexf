@@ -1,0 +1,906 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-06-16">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="node_type" type="string" />
+      <attribute id="1" title="original_label" type="string" />
+      <attribute id="2" title="display_label" type="string" />
+      <attribute id="3" title="bipartite" type="string" />
+    </attributes>
+    <nodes>
+      <node id="F::Pseudomonas sp. R11-23-07" label="F::Pseudomonas sp. R11-23-07">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Pseudomonas sp. R11-23-07" />
+          <attvalue for="2" value="Pseudomonas sp. R11..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="M::C18_negative|IK:AAWZDTNXLSGCEK-LNVDRNJUSA-N" label="M::C18_negative|IK:AAWZDTNXLSGCEK-LNVDRNJUSA-N">
+        <attvalues>
+          <attvalue for="0" value="metabolite" />
+          <attvalue for="1" value="C18_negative|IK:AAWZDTNXLSGCEK-LNVDRNJUSA-N" />
+          <attvalue for="2" value="C18-&#10;IK:AAWZDTNX" />
+          <attvalue for="3" value="metabolite" />
+        </attvalues>
+      </node>
+      <node id="F::Pseudomonas brassicacearum" label="F::Pseudomonas brassicacearum">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Pseudomonas brassicacearum" />
+          <attvalue for="2" value="Pseudomonas brassic..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Paenibacillus sp. FSL R5-0912" label="F::Paenibacillus sp. FSL R5-0912">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Paenibacillus sp. FSL R5-0912" />
+          <attvalue for="2" value="Paenibacillus sp. F..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="M::C18_negative|IK:ABVDJKDAAWCYKH-PNJCVKMMSA-N" label="M::C18_negative|IK:ABVDJKDAAWCYKH-PNJCVKMMSA-N">
+        <attvalues>
+          <attvalue for="0" value="metabolite" />
+          <attvalue for="1" value="C18_negative|IK:ABVDJKDAAWCYKH-PNJCVKMMSA-N" />
+          <attvalue for="2" value="C18-&#10;IK:ABVDJKDA" />
+          <attvalue for="3" value="metabolite" />
+        </attvalues>
+      </node>
+      <node id="F::Niastella koreensis" label="F::Niastella koreensis">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Niastella koreensis" />
+          <attvalue for="2" value="Niastella koreensis" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Paenibacillus borealis" label="F::Paenibacillus borealis">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Paenibacillus borealis" />
+          <attvalue for="2" value="Paenibacillus borealis" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Amycolatopsis orientalis" label="F::Amycolatopsis orientalis">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Amycolatopsis orientalis" />
+          <attvalue for="2" value="Amycolatopsis orien..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="M::C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N" label="M::C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N">
+        <attvalues>
+          <attvalue for="0" value="metabolite" />
+          <attvalue for="1" value="C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N" />
+          <attvalue for="2" value="C18-&#10;IK:AIONOLUJ" />
+          <attvalue for="3" value="metabolite" />
+        </attvalues>
+      </node>
+      <node id="F::Rahnella sp. ERMR1:05" label="F::Rahnella sp. ERMR1:05">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Rahnella sp. ERMR1:05" />
+          <attvalue for="2" value="Rahnella sp. ERMR1:05" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Kitasatospora sp. MMS16-BH015" label="F::Kitasatospora sp. MMS16-BH015">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Kitasatospora sp. MMS16-BH015" />
+          <attvalue for="2" value="Kitasatospora sp. M..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="M::C18_negative|IK:AJFTWGKYXHISKT-UHFFFAOYSA-N" label="M::C18_negative|IK:AJFTWGKYXHISKT-UHFFFAOYSA-N">
+        <attvalues>
+          <attvalue for="0" value="metabolite" />
+          <attvalue for="1" value="C18_negative|IK:AJFTWGKYXHISKT-UHFFFAOYSA-N" />
+          <attvalue for="2" value="C18-&#10;IK:AJFTWGKY" />
+          <attvalue for="3" value="metabolite" />
+        </attvalues>
+      </node>
+      <node id="F::moist__Replicate 1 Mass Water / Mass Dry Soil %" label="F::moist__Replicate 1 Mass Water / Mass Dry Soil %">
+        <attvalues>
+          <attvalue for="0" value="soil" />
+          <attvalue for="1" value="moist__Replicate 1 Mass Water / Mass Dry Soil %" />
+          <attvalue for="2" value="moist__Replicate 1 ..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Bradyrhizobium diazoefficiens" label="F::Bradyrhizobium diazoefficiens">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Bradyrhizobium diazoefficiens" />
+          <attvalue for="2" value="Bradyrhizobium diaz..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Cupriavidus basilensis" label="F::Cupriavidus basilensis">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Cupriavidus basilensis" />
+          <attvalue for="2" value="Cupriavidus basilensis" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="M::C18_negative|IK:AKEUNCKRJATALU-UHFFFAOYSA-N" label="M::C18_negative|IK:AKEUNCKRJATALU-UHFFFAOYSA-N">
+        <attvalues>
+          <attvalue for="0" value="metabolite" />
+          <attvalue for="1" value="C18_negative|IK:AKEUNCKRJATALU-UHFFFAOYSA-N" />
+          <attvalue for="2" value="C18-&#10;IK:AKEUNCKR" />
+          <attvalue for="3" value="metabolite" />
+        </attvalues>
+      </node>
+      <node id="F::Pseudomonas sp. LAB-08" label="F::Pseudomonas sp. LAB-08">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Pseudomonas sp. LAB-08" />
+          <attvalue for="2" value="Pseudomonas sp. LAB-08" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Mycobacterium haemophilum" label="F::Mycobacterium haemophilum">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Mycobacterium haemophilum" />
+          <attvalue for="2" value="Mycobacterium haemo..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="M::C18_negative|IK:BAHHZVVNFAOLAZ-UHFFFAOYSA-N" label="M::C18_negative|IK:BAHHZVVNFAOLAZ-UHFFFAOYSA-N">
+        <attvalues>
+          <attvalue for="0" value="metabolite" />
+          <attvalue for="1" value="C18_negative|IK:BAHHZVVNFAOLAZ-UHFFFAOYSA-N" />
+          <attvalue for="2" value="C18-&#10;IK:BAHHZVVN" />
+          <attvalue for="3" value="metabolite" />
+        </attvalues>
+      </node>
+      <node id="F::Homo sapiens" label="F::Homo sapiens">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Homo sapiens" />
+          <attvalue for="2" value="Homo sapiens" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Paenibacillus sp. JDR-2" label="F::Paenibacillus sp. JDR-2">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Paenibacillus sp. JDR-2" />
+          <attvalue for="2" value="Paenibacillus sp. J..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Cupriavidus taiwanensis" label="F::Cupriavidus taiwanensis">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Cupriavidus taiwanensis" />
+          <attvalue for="2" value="Cupriavidus taiwane..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="M::C18_negative|IK:BDJRBEYXGGNYIS-UHFFFAOYSA-N" label="M::C18_negative|IK:BDJRBEYXGGNYIS-UHFFFAOYSA-N">
+        <attvalues>
+          <attvalue for="0" value="metabolite" />
+          <attvalue for="1" value="C18_negative|IK:BDJRBEYXGGNYIS-UHFFFAOYSA-N" />
+          <attvalue for="2" value="C18-&#10;IK:BDJRBEYX" />
+          <attvalue for="3" value="metabolite" />
+        </attvalues>
+      </node>
+      <node id="F::Neorhizobium galegae" label="F::Neorhizobium galegae">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Neorhizobium galegae" />
+          <attvalue for="2" value="Neorhizobium galegae" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Cupriavidus necator" label="F::Cupriavidus necator">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Cupriavidus necator" />
+          <attvalue for="2" value="Cupriavidus necator" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Pseudomonas sp. LH1G9" label="F::Pseudomonas sp. LH1G9">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Pseudomonas sp. LH1G9" />
+          <attvalue for="2" value="Pseudomonas sp. LH1G9" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="M::C18_negative|IK:BJEPYKJPYRNKOW-REOHCLBHSA-N" label="M::C18_negative|IK:BJEPYKJPYRNKOW-REOHCLBHSA-N">
+        <attvalues>
+          <attvalue for="0" value="metabolite" />
+          <attvalue for="1" value="C18_negative|IK:BJEPYKJPYRNKOW-REOHCLBHSA-N" />
+          <attvalue for="2" value="C18-&#10;IK:BJEPYKJP" />
+          <attvalue for="3" value="metabolite" />
+        </attvalues>
+      </node>
+      <node id="F::Pseudomonas entomophila" label="F::Pseudomonas entomophila">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Pseudomonas entomophila" />
+          <attvalue for="2" value="Pseudomonas entomop..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Pseudomonas sp. K2W31S-8" label="F::Pseudomonas sp. K2W31S-8">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Pseudomonas sp. K2W31S-8" />
+          <attvalue for="2" value="Pseudomonas sp. K2W..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Chryseolinea sp. KIS68-18" label="F::Chryseolinea sp. KIS68-18">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Chryseolinea sp. KIS68-18" />
+          <attvalue for="2" value="Chryseolinea sp. KI..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="M::C18_negative|IK:BJEPYKJPYRNKOW-UWTATZPHSA-N" label="M::C18_negative|IK:BJEPYKJPYRNKOW-UWTATZPHSA-N">
+        <attvalues>
+          <attvalue for="0" value="metabolite" />
+          <attvalue for="1" value="C18_negative|IK:BJEPYKJPYRNKOW-UWTATZPHSA-N" />
+          <attvalue for="2" value="C18-&#10;IK:BJEPYKJP" />
+          <attvalue for="3" value="metabolite" />
+        </attvalues>
+      </node>
+      <node id="F::Pseudomonas sp. URMO17WK12:I11" label="F::Pseudomonas sp. URMO17WK12:I11">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Pseudomonas sp. URMO17WK12:I11" />
+          <attvalue for="2" value="Pseudomonas sp. URM..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Mesorhizobium ciceri" label="F::Mesorhizobium ciceri">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Mesorhizobium ciceri" />
+          <attvalue for="2" value="Mesorhizobium ciceri" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Pseudomonas sp. R4-34-07" label="F::Pseudomonas sp. R4-34-07">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Pseudomonas sp. R4-34-07" />
+          <attvalue for="2" value="Pseudomonas sp. R4-..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="M::C18_negative|IK:BJHIKXHVCXFQLS-PQLUHFTBSA-N" label="M::C18_negative|IK:BJHIKXHVCXFQLS-PQLUHFTBSA-N">
+        <attvalues>
+          <attvalue for="0" value="metabolite" />
+          <attvalue for="1" value="C18_negative|IK:BJHIKXHVCXFQLS-PQLUHFTBSA-N" />
+          <attvalue for="2" value="C18-&#10;IK:BJHIKXHV" />
+          <attvalue for="3" value="metabolite" />
+        </attvalues>
+      </node>
+      <node id="F::Agrobacterium fabrum" label="F::Agrobacterium fabrum">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Agrobacterium fabrum" />
+          <attvalue for="2" value="Agrobacterium fabrum" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Stenotrophomonas nitritireducens" label="F::Stenotrophomonas nitritireducens">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Stenotrophomonas nitritireducens" />
+          <attvalue for="2" value="Stenotrophomonas ni..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="M::C18_negative|IK:BJRNKVDFDLYUGJ-RMPHRYRLSA-N" label="M::C18_negative|IK:BJRNKVDFDLYUGJ-RMPHRYRLSA-N">
+        <attvalues>
+          <attvalue for="0" value="metabolite" />
+          <attvalue for="1" value="C18_negative|IK:BJRNKVDFDLYUGJ-RMPHRYRLSA-N" />
+          <attvalue for="2" value="C18-&#10;IK:BJRNKVDF" />
+          <attvalue for="3" value="metabolite" />
+        </attvalues>
+      </node>
+      <node id="F::Sulfurihydrogenibium sp. YO3AOP1" label="F::Sulfurihydrogenibium sp. YO3AOP1">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Sulfurihydrogenibium sp. YO3AOP1" />
+          <attvalue for="2" value="Sulfurihydrogenibiu..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Sulfuricurvum kujiense" label="F::Sulfuricurvum kujiense">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Sulfuricurvum kujiense" />
+          <attvalue for="2" value="Sulfuricurvum kujiense" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="M::C18_negative|IK:BJRNKVDFDLYUGJ-UHFFFAOYSA-N" label="M::C18_negative|IK:BJRNKVDFDLYUGJ-UHFFFAOYSA-N">
+        <attvalues>
+          <attvalue for="0" value="metabolite" />
+          <attvalue for="1" value="C18_negative|IK:BJRNKVDFDLYUGJ-UHFFFAOYSA-N" />
+          <attvalue for="2" value="C18-&#10;IK:BJRNKVDF" />
+          <attvalue for="3" value="metabolite" />
+        </attvalues>
+      </node>
+      <node id="F::denit__Rate (microgN/kilogram dry weight soil/day)" label="F::denit__Rate (microgN/kilogram dry weight soil/day)">
+        <attvalues>
+          <attvalue for="0" value="soil" />
+          <attvalue for="1" value="denit__Rate (microgN/kilogram dry weight soil/day)" />
+          <attvalue for="2" value="denit:Rate (microgN/kilogram dry weight soil/day)" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Microbacterium sp. CGR1" label="F::Microbacterium sp. CGR1">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Microbacterium sp. CGR1" />
+          <attvalue for="2" value="Microbacterium sp. ..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Catenulispora acidiphila" label="F::Catenulispora acidiphila">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Catenulispora acidiphila" />
+          <attvalue for="2" value="Catenulispora acidi..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="M::C18_negative|IK:BLUAFEHZUWYNDE-DCJAHCNHSA-N" label="M::C18_negative|IK:BLUAFEHZUWYNDE-DCJAHCNHSA-N">
+        <attvalues>
+          <attvalue for="0" value="metabolite" />
+          <attvalue for="1" value="C18_negative|IK:BLUAFEHZUWYNDE-DCJAHCNHSA-N" />
+          <attvalue for="2" value="C18-&#10;IK:BLUAFEHZ" />
+          <attvalue for="3" value="metabolite" />
+        </attvalues>
+      </node>
+      <node id="F::Kitasatospora setae" label="F::Kitasatospora setae">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Kitasatospora setae" />
+          <attvalue for="2" value="Kitasatospora setae" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::nitrif__Rate (mg NO3-N/kilogram dry weight soil/day)" label="F::nitrif__Rate (mg NO3-N/kilogram dry weight soil/day)">
+        <attvalues>
+          <attvalue for="0" value="soil" />
+          <attvalue for="1" value="nitrif__Rate (mg NO3-N/kilogram dry weight soil/day)" />
+          <attvalue for="2" value="nitrif:Rate (mg NO3-N/kilogram dry weight soil/day)" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Pseudomonas umsongensis" label="F::Pseudomonas umsongensis">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Pseudomonas umsongensis" />
+          <attvalue for="2" value="Pseudomonas umsonge..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="M::C18_negative|IK:BPSJMBKZSUTYNF-GXCUHXBUSA-N" label="M::C18_negative|IK:BPSJMBKZSUTYNF-GXCUHXBUSA-N">
+        <attvalues>
+          <attvalue for="0" value="metabolite" />
+          <attvalue for="1" value="C18_negative|IK:BPSJMBKZSUTYNF-GXCUHXBUSA-N" />
+          <attvalue for="2" value="C18-&#10;IK:BPSJMBKZ" />
+          <attvalue for="3" value="metabolite" />
+        </attvalues>
+      </node>
+      <node id="F::Bradyrhizobium sp." label="F::Bradyrhizobium sp.">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Bradyrhizobium sp." />
+          <attvalue for="2" value="Bradyrhizobium sp." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="M::C18_negative|IK:CDRPUGZCRXZLFL-UHFFFAOYSA-N" label="M::C18_negative|IK:CDRPUGZCRXZLFL-UHFFFAOYSA-N">
+        <attvalues>
+          <attvalue for="0" value="metabolite" />
+          <attvalue for="1" value="C18_negative|IK:CDRPUGZCRXZLFL-UHFFFAOYSA-N" />
+          <attvalue for="2" value="C18-&#10;IK:CDRPUGZC" />
+          <attvalue for="3" value="metabolite" />
+        </attvalues>
+      </node>
+      <node id="F::Paraburkholderia graminis" label="F::Paraburkholderia graminis">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Paraburkholderia graminis" />
+          <attvalue for="2" value="Paraburkholderia gr..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Burkholderia phage KS14" label="F::Burkholderia phage KS14">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Burkholderia phage KS14" />
+          <attvalue for="2" value="Burkholderia phage ..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::soil_total_C" label="F::soil_total_C">
+        <attvalues>
+          <attvalue for="0" value="soil" />
+          <attvalue for="1" value="soil_total_C" />
+          <attvalue for="2" value="soil:total_C" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="M::C18_negative|IK:CFJLERBDXYGARW-TVKJYDDYSA-N" label="M::C18_negative|IK:CFJLERBDXYGARW-TVKJYDDYSA-N">
+        <attvalues>
+          <attvalue for="0" value="metabolite" />
+          <attvalue for="1" value="C18_negative|IK:CFJLERBDXYGARW-TVKJYDDYSA-N" />
+          <attvalue for="2" value="C18-&#10;IK:CFJLERBD" />
+          <attvalue for="3" value="metabolite" />
+        </attvalues>
+      </node>
+      <node id="F::Paenibacillus crassostreae" label="F::Paenibacillus crassostreae">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Paenibacillus crassostreae" />
+          <attvalue for="2" value="Paenibacillus crass..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Pseudomonas alcaligenes" label="F::Pseudomonas alcaligenes">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Pseudomonas alcaligenes" />
+          <attvalue for="2" value="Pseudomonas alcalig..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Rhodoferax koreense" label="F::Rhodoferax koreense">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Rhodoferax koreense" />
+          <attvalue for="2" value="Rhodoferax koreense" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="M::C18_negative|IK:CKEXCBVNKRHAMX-UHFFFAOYSA-N" label="M::C18_negative|IK:CKEXCBVNKRHAMX-UHFFFAOYSA-N">
+        <attvalues>
+          <attvalue for="0" value="metabolite" />
+          <attvalue for="1" value="C18_negative|IK:CKEXCBVNKRHAMX-UHFFFAOYSA-N" />
+          <attvalue for="2" value="C18-&#10;IK:CKEXCBVN" />
+          <attvalue for="3" value="metabolite" />
+        </attvalues>
+      </node>
+      <node id="F::Frondihabitans sp. PAMC 28766" label="F::Frondihabitans sp. PAMC 28766">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Frondihabitans sp. PAMC 28766" />
+          <attvalue for="2" value="Frondihabitans sp. ..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Flavobacterium gilvum" label="F::Flavobacterium gilvum">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Flavobacterium gilvum" />
+          <attvalue for="2" value="Flavobacterium gilvum" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="M::C18_negative|IK:CQSLTKIXAJTQGA-FLIBITNWSA-N" label="M::C18_negative|IK:CQSLTKIXAJTQGA-FLIBITNWSA-N">
+        <attvalues>
+          <attvalue for="0" value="metabolite" />
+          <attvalue for="1" value="C18_negative|IK:CQSLTKIXAJTQGA-FLIBITNWSA-N" />
+          <attvalue for="2" value="C18-&#10;IK:CQSLTKIX" />
+          <attvalue for="3" value="metabolite" />
+        </attvalues>
+      </node>
+      <node id="F::Serratia sp. 3ACOL1" label="F::Serratia sp. 3ACOL1">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Serratia sp. 3ACOL1" />
+          <attvalue for="2" value="Serratia sp. 3ACOL1" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Alcaligenes faecalis" label="F::Alcaligenes faecalis">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Alcaligenes faecalis" />
+          <attvalue for="2" value="Alcaligenes faecalis" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Marivirga tractuosa" label="F::Marivirga tractuosa">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Marivirga tractuosa" />
+          <attvalue for="2" value="Marivirga tractuosa" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="M::C18_negative|IK:CSGSKMJWQQEEQK-NHCPJIJJSA-N" label="M::C18_negative|IK:CSGSKMJWQQEEQK-NHCPJIJJSA-N">
+        <attvalues>
+          <attvalue for="0" value="metabolite" />
+          <attvalue for="1" value="C18_negative|IK:CSGSKMJWQQEEQK-NHCPJIJJSA-N" />
+          <attvalue for="2" value="C18-&#10;IK:CSGSKMJW" />
+          <attvalue for="3" value="metabolite" />
+        </attvalues>
+      </node>
+      <node id="M::C18_negative|IK:CUCUKLJLRRAKFN-UHFFFAOYSA-N" label="M::C18_negative|IK:CUCUKLJLRRAKFN-UHFFFAOYSA-N">
+        <attvalues>
+          <attvalue for="0" value="metabolite" />
+          <attvalue for="1" value="C18_negative|IK:CUCUKLJLRRAKFN-UHFFFAOYSA-N" />
+          <attvalue for="2" value="C18-&#10;IK:CUCUKLJL" />
+          <attvalue for="3" value="metabolite" />
+        </attvalues>
+      </node>
+      <node id="F::soil_NH4" label="F::soil_NH4">
+        <attvalues>
+          <attvalue for="0" value="soil" />
+          <attvalue for="1" value="soil_NH4" />
+          <attvalue for="2" value="soil:NH4" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Stenotrophomonas rhizophila" label="F::Stenotrophomonas rhizophila">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Stenotrophomonas rhizophila" />
+          <attvalue for="2" value="Stenotrophomonas rh..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="M::C18_negative|IK:CWVRJTMFETXNAD-UHFFFAOYSA-N" label="M::C18_negative|IK:CWVRJTMFETXNAD-UHFFFAOYSA-N">
+        <attvalues>
+          <attvalue for="0" value="metabolite" />
+          <attvalue for="1" value="C18_negative|IK:CWVRJTMFETXNAD-UHFFFAOYSA-N" />
+          <attvalue for="2" value="C18-&#10;IK:CWVRJTMF" />
+          <attvalue for="3" value="metabolite" />
+        </attvalues>
+      </node>
+      <node id="F::Pseudomonas reinekei" label="F::Pseudomonas reinekei">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Pseudomonas reinekei" />
+          <attvalue for="2" value="Pseudomonas reinekei" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Bordetella pertussis" label="F::Bordetella pertussis">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Bordetella pertussis" />
+          <attvalue for="2" value="Bordetella pertussis" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::psize__Soil Sand Content %" label="F::psize__Soil Sand Content %">
+        <attvalues>
+          <attvalue for="0" value="soil" />
+          <attvalue for="1" value="psize__Soil Sand Content %" />
+          <attvalue for="2" value="psize__Soil Sand Co..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="M::C18_negative|IK:CZDNLUMNELLDDD-QZFWYPLZSA-N" label="M::C18_negative|IK:CZDNLUMNELLDDD-QZFWYPLZSA-N">
+        <attvalues>
+          <attvalue for="0" value="metabolite" />
+          <attvalue for="1" value="C18_negative|IK:CZDNLUMNELLDDD-QZFWYPLZSA-N" />
+          <attvalue for="2" value="C18-&#10;IK:CZDNLUMN" />
+          <attvalue for="3" value="metabolite" />
+        </attvalues>
+      </node>
+      <node id="F::Streptomyces virus Amela" label="F::Streptomyces virus Amela">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Streptomyces virus Amela" />
+          <attvalue for="2" value="Streptomyces virus ..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Pantoea agglomerans" label="F::Pantoea agglomerans">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Pantoea agglomerans" />
+          <attvalue for="2" value="Pantoea agglomerans" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="M::C18_negative|IK:CZMRCDWAGMRECN-UGDNZRGBSA-N" label="M::C18_negative|IK:CZMRCDWAGMRECN-UGDNZRGBSA-N">
+        <attvalues>
+          <attvalue for="0" value="metabolite" />
+          <attvalue for="1" value="C18_negative|IK:CZMRCDWAGMRECN-UGDNZRGBSA-N" />
+          <attvalue for="2" value="C18-&#10;IK:CZMRCDWA" />
+          <attvalue for="3" value="metabolite" />
+        </attvalues>
+      </node>
+      <node id="F::Massilia oculi" label="F::Massilia oculi">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Massilia oculi" />
+          <attvalue for="2" value="Massilia oculi" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Massilia sp. WG5" label="F::Massilia sp. WG5">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Massilia sp. WG5" />
+          <attvalue for="2" value="Massilia sp. WG5" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Intrasporangium calvum" label="F::Intrasporangium calvum">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Intrasporangium calvum" />
+          <attvalue for="2" value="Intrasporangium calvum" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="M::C18_negative|IK:CZOXIGOPZRIBJM-TZWBTVLISA-N" label="M::C18_negative|IK:CZOXIGOPZRIBJM-TZWBTVLISA-N">
+        <attvalues>
+          <attvalue for="0" value="metabolite" />
+          <attvalue for="1" value="C18_negative|IK:CZOXIGOPZRIBJM-TZWBTVLISA-N" />
+          <attvalue for="2" value="C18-&#10;IK:CZOXIGOP" />
+          <attvalue for="3" value="metabolite" />
+        </attvalues>
+      </node>
+      <node id="F::Pectobacterium carotovorum" label="F::Pectobacterium carotovorum">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Pectobacterium carotovorum" />
+          <attvalue for="2" value="Pectobacterium caro..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Aeromonas sp. ASNIH1" label="F::Aeromonas sp. ASNIH1">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Aeromonas sp. ASNIH1" />
+          <attvalue for="2" value="Aeromonas sp. ASNIH1" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Agrobacterium tumefaciens" label="F::Agrobacterium tumefaciens">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Agrobacterium tumefaciens" />
+          <attvalue for="2" value="Agrobacterium tumef..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="M::C18_negative|IK:DANYIYRPLHHOCZ-UHFFFAOYSA-N" label="M::C18_negative|IK:DANYIYRPLHHOCZ-UHFFFAOYSA-N">
+        <attvalues>
+          <attvalue for="0" value="metabolite" />
+          <attvalue for="1" value="C18_negative|IK:DANYIYRPLHHOCZ-UHFFFAOYSA-N" />
+          <attvalue for="2" value="C18-&#10;IK:DANYIYRP" />
+          <attvalue for="3" value="metabolite" />
+        </attvalues>
+      </node>
+      <node id="F::Rhizobium sp. NXC24" label="F::Rhizobium sp. NXC24">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Rhizobium sp. NXC24" />
+          <attvalue for="2" value="Rhizobium sp. NXC24" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Serratia sp. SCBI" label="F::Serratia sp. SCBI">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Serratia sp. SCBI" />
+          <attvalue for="2" value="Serratia sp. SCBI" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="M::C18_negative|IK:DJOJDHGQRNZXQQ-UHFFFAOYSA-N" label="M::C18_negative|IK:DJOJDHGQRNZXQQ-UHFFFAOYSA-N">
+        <attvalues>
+          <attvalue for="0" value="metabolite" />
+          <attvalue for="1" value="C18_negative|IK:DJOJDHGQRNZXQQ-UHFFFAOYSA-N" />
+          <attvalue for="2" value="C18-&#10;IK:DJOJDHGQ" />
+          <attvalue for="3" value="metabolite" />
+        </attvalues>
+      </node>
+      <node id="F::Mycobacterium sp. JS623" label="F::Mycobacterium sp. JS623">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Mycobacterium sp. JS623" />
+          <attvalue for="2" value="Mycobacterium sp. J..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Curtobacterium sp. BH-2-1-1" label="F::Curtobacterium sp. BH-2-1-1">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Curtobacterium sp. BH-2-1-1" />
+          <attvalue for="2" value="Curtobacterium sp. ..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="M::C18_negative|IK:DLIKSSGEMUFQOK-UHFFFAOYSA-N" label="M::C18_negative|IK:DLIKSSGEMUFQOK-UHFFFAOYSA-N">
+        <attvalues>
+          <attvalue for="0" value="metabolite" />
+          <attvalue for="1" value="C18_negative|IK:DLIKSSGEMUFQOK-UHFFFAOYSA-N" />
+          <attvalue for="2" value="C18-&#10;IK:DLIKSSGE" />
+          <attvalue for="3" value="metabolite" />
+        </attvalues>
+      </node>
+      <node id="F::Bacillus licheniformis" label="F::Bacillus licheniformis">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Bacillus licheniformis" />
+          <attvalue for="2" value="Bacillus licheniformis" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Curtobacterium pusillum" label="F::Curtobacterium pusillum">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Curtobacterium pusillum" />
+          <attvalue for="2" value="Curtobacterium pusi..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Phycicoccus dokdonensis" label="F::Phycicoccus dokdonensis">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Phycicoccus dokdonensis" />
+          <attvalue for="2" value="Phycicoccus dokdone..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="M::C18_negative|IK:DLRVVLDZNNYCBX-ABXHMFFYSA-N" label="M::C18_negative|IK:DLRVVLDZNNYCBX-ABXHMFFYSA-N">
+        <attvalues>
+          <attvalue for="0" value="metabolite" />
+          <attvalue for="1" value="C18_negative|IK:DLRVVLDZNNYCBX-ABXHMFFYSA-N" />
+          <attvalue for="2" value="C18-&#10;IK:DLRVVLDZ" />
+          <attvalue for="3" value="metabolite" />
+        </attvalues>
+      </node>
+      <node id="F::Luteibacter rhizovicinus" label="F::Luteibacter rhizovicinus">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Luteibacter rhizovicinus" />
+          <attvalue for="2" value="Luteibacter rhizovi..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Methylotenera mobilis" label="F::Methylotenera mobilis">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Methylotenera mobilis" />
+          <attvalue for="2" value="Methylotenera mobilis" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="M::C18_negative|IK:DRTQHJPVMGBUCF-UHFFFAOYSA-N" label="M::C18_negative|IK:DRTQHJPVMGBUCF-UHFFFAOYSA-N">
+        <attvalues>
+          <attvalue for="0" value="metabolite" />
+          <attvalue for="1" value="C18_negative|IK:DRTQHJPVMGBUCF-UHFFFAOYSA-N" />
+          <attvalue for="2" value="C18-&#10;IK:DRTQHJPV" />
+          <attvalue for="3" value="metabolite" />
+        </attvalues>
+      </node>
+      <node id="F::psize__Soil Clay Content %" label="F::psize__Soil Clay Content %">
+        <attvalues>
+          <attvalue for="0" value="soil" />
+          <attvalue for="1" value="psize__Soil Clay Content %" />
+          <attvalue for="2" value="psize__Soil Clay Co..." />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="F::Enterobacter sp. 638" label="F::Enterobacter sp. 638">
+        <attvalues>
+          <attvalue for="0" value="microbe" />
+          <attvalue for="1" value="Enterobacter sp. 638" />
+          <attvalue for="2" value="Enterobacter sp. 638" />
+          <attvalue for="3" value="feature" />
+        </attvalues>
+      </node>
+      <node id="M::C18_negative|IK:DRTQHJPVMGBUCF-XVFCMESISA-N" label="M::C18_negative|IK:DRTQHJPVMGBUCF-XVFCMESISA-N">
+        <attvalues>
+          <attvalue for="0" value="metabolite" />
+          <attvalue for="1" value="C18_negative|IK:DRTQHJPVMGBUCF-XVFCMESISA-N" />
+          <attvalue for="2" value="C18-&#10;IK:DRTQHJPV" />
+          <attvalue for="3" value="metabolite" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="F::Pseudomonas sp. R11-23-07" target="M::C18_negative|IK:AAWZDTNXLSGCEK-LNVDRNJUSA-N" id="0" weight="0.0186585280367884" />
+      <edge source="M::C18_negative|IK:AAWZDTNXLSGCEK-LNVDRNJUSA-N" target="F::Pseudomonas brassicacearum" id="1" weight="0.0182800647119509" />
+      <edge source="F::Paenibacillus sp. FSL R5-0912" target="M::C18_negative|IK:ABVDJKDAAWCYKH-PNJCVKMMSA-N" id="2" weight="0.0642841287584557" />
+      <edge source="M::C18_negative|IK:ABVDJKDAAWCYKH-PNJCVKMMSA-N" target="F::Niastella koreensis" id="3" weight="0.0542676321131406" />
+      <edge source="M::C18_negative|IK:ABVDJKDAAWCYKH-PNJCVKMMSA-N" target="F::Paenibacillus borealis" id="4" weight="0.0540009721741803" />
+      <edge source="F::Amycolatopsis orientalis" target="M::C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N" id="5" weight="0.0446753531866689" />
+      <edge source="M::C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N" target="F::Rahnella sp. ERMR1:05" id="6" weight="0.0254908647377133" />
+      <edge source="F::Kitasatospora sp. MMS16-BH015" target="M::C18_negative|IK:AJFTWGKYXHISKT-UHFFFAOYSA-N" id="7" weight="0.0433750149820236" />
+      <edge source="M::C18_negative|IK:AJFTWGKYXHISKT-UHFFFAOYSA-N" target="F::moist__Replicate 1 Mass Water / Mass Dry Soil %" id="8" weight="0.0409606397421808" />
+      <edge source="M::C18_negative|IK:AJFTWGKYXHISKT-UHFFFAOYSA-N" target="F::Bradyrhizobium diazoefficiens" id="9" weight="0.0251781550860853" />
+      <edge source="F::moist__Replicate 1 Mass Water / Mass Dry Soil %" target="M::C18_negative|IK:DJOJDHGQRNZXQQ-UHFFFAOYSA-N" id="10" weight="0.0232279451887901" />
+      <edge source="F::Cupriavidus basilensis" target="M::C18_negative|IK:AKEUNCKRJATALU-UHFFFAOYSA-N" id="11" weight="0.0392304854303962" />
+      <edge source="M::C18_negative|IK:AKEUNCKRJATALU-UHFFFAOYSA-N" target="F::Pseudomonas sp. LAB-08" id="12" weight="0.0204340986542264" />
+      <edge source="F::Mycobacterium haemophilum" target="M::C18_negative|IK:BAHHZVVNFAOLAZ-UHFFFAOYSA-N" id="13" weight="0.0342621581395096" />
+      <edge source="M::C18_negative|IK:BAHHZVVNFAOLAZ-UHFFFAOYSA-N" target="F::Homo sapiens" id="14" weight="0.0226153561069572" />
+      <edge source="M::C18_negative|IK:BAHHZVVNFAOLAZ-UHFFFAOYSA-N" target="F::Paenibacillus sp. JDR-2" id="15" weight="0.0185252854379976" />
+      <edge source="F::Cupriavidus taiwanensis" target="M::C18_negative|IK:BDJRBEYXGGNYIS-UHFFFAOYSA-N" id="16" weight="0.0404162854408452" />
+      <edge source="M::C18_negative|IK:BDJRBEYXGGNYIS-UHFFFAOYSA-N" target="F::Neorhizobium galegae" id="17" weight="0.0294678157316419" />
+      <edge source="M::C18_negative|IK:BDJRBEYXGGNYIS-UHFFFAOYSA-N" target="F::Cupriavidus necator" id="18" weight="0.0210540766770938" />
+      <edge source="F::Cupriavidus necator" target="M::C18_negative|IK:CWVRJTMFETXNAD-UHFFFAOYSA-N" id="19" weight="0.0275557549407233" />
+      <edge source="F::Pseudomonas sp. LH1G9" target="M::C18_negative|IK:BJEPYKJPYRNKOW-REOHCLBHSA-N" id="20" weight="0.0373356581933153" />
+      <edge source="M::C18_negative|IK:BJEPYKJPYRNKOW-REOHCLBHSA-N" target="F::Pseudomonas entomophila" id="21" weight="0.0255102053130981" />
+      <edge source="M::C18_negative|IK:BJEPYKJPYRNKOW-REOHCLBHSA-N" target="F::Pseudomonas sp. K2W31S-8" id="22" weight="0.0228090450454326" />
+      <edge source="F::Chryseolinea sp. KIS68-18" target="M::C18_negative|IK:BJEPYKJPYRNKOW-UWTATZPHSA-N" id="23" weight="0.0396506475009483" />
+      <edge source="F::Chryseolinea sp. KIS68-18" target="M::C18_negative|IK:BJRNKVDFDLYUGJ-RMPHRYRLSA-N" id="24" weight="0.0456176408426725" />
+      <edge source="M::C18_negative|IK:BJEPYKJPYRNKOW-UWTATZPHSA-N" target="F::Pseudomonas sp. URMO17WK12:I11" id="25" weight="0.0251268262531939" />
+      <edge source="M::C18_negative|IK:BJEPYKJPYRNKOW-UWTATZPHSA-N" target="F::Mesorhizobium ciceri" id="26" weight="0.0208282169247675" />
+      <edge source="F::Pseudomonas sp. R4-34-07" target="M::C18_negative|IK:BJHIKXHVCXFQLS-PQLUHFTBSA-N" id="27" weight="0.0508820799555111" />
+      <edge source="M::C18_negative|IK:BJHIKXHVCXFQLS-PQLUHFTBSA-N" target="F::Agrobacterium fabrum" id="28" weight="0.018691540015336" />
+      <edge source="M::C18_negative|IK:BJHIKXHVCXFQLS-PQLUHFTBSA-N" target="F::Stenotrophomonas nitritireducens" id="29" weight="0.0184645218646031" />
+      <edge source="M::C18_negative|IK:BJRNKVDFDLYUGJ-RMPHRYRLSA-N" target="F::Sulfurihydrogenibium sp. YO3AOP1" id="30" weight="0.0392803569857426" />
+      <edge source="F::Sulfuricurvum kujiense" target="M::C18_negative|IK:BJRNKVDFDLYUGJ-UHFFFAOYSA-N" id="31" weight="0.0372555561055969" />
+      <edge source="M::C18_negative|IK:BJRNKVDFDLYUGJ-UHFFFAOYSA-N" target="F::denit__Rate (microgN/kilogram dry weight soil/day)" id="32" weight="0.0235432306602727" />
+      <edge source="M::C18_negative|IK:BJRNKVDFDLYUGJ-UHFFFAOYSA-N" target="F::Microbacterium sp. CGR1" id="33" weight="0.0205631197991939" />
+      <edge source="F::Catenulispora acidiphila" target="M::C18_negative|IK:BLUAFEHZUWYNDE-DCJAHCNHSA-N" id="34" weight="0.0458057877333668" />
+      <edge source="M::C18_negative|IK:BLUAFEHZUWYNDE-DCJAHCNHSA-N" target="F::Kitasatospora setae" id="35" weight="0.0384482014703623" />
+      <edge source="M::C18_negative|IK:BLUAFEHZUWYNDE-DCJAHCNHSA-N" target="F::nitrif__Rate (mg NO3-N/kilogram dry weight soil/day)" id="36" weight="0.0371983376759741" />
+      <edge source="F::nitrif__Rate (mg NO3-N/kilogram dry weight soil/day)" target="M::C18_negative|IK:DJOJDHGQRNZXQQ-UHFFFAOYSA-N" id="37" weight="0.0475479348907934" />
+      <edge source="F::Pseudomonas umsongensis" target="M::C18_negative|IK:BPSJMBKZSUTYNF-GXCUHXBUSA-N" id="38" weight="0.1220847320987777" />
+      <edge source="F::Pseudomonas umsongensis" target="M::C18_negative|IK:CUCUKLJLRRAKFN-UHFFFAOYSA-N" id="39" weight="0.0327333729230505" />
+      <edge source="F::Bradyrhizobium sp." target="M::C18_negative|IK:CDRPUGZCRXZLFL-UHFFFAOYSA-N" id="40" weight="0.0495937215824742" />
+      <edge source="M::C18_negative|IK:CDRPUGZCRXZLFL-UHFFFAOYSA-N" target="F::Paraburkholderia graminis" id="41" weight="0.0453523729285862" />
+      <edge source="M::C18_negative|IK:CDRPUGZCRXZLFL-UHFFFAOYSA-N" target="F::Burkholderia phage KS14" id="42" weight="0.0303546813313857" />
+      <edge source="F::soil_total_C" target="M::C18_negative|IK:CFJLERBDXYGARW-TVKJYDDYSA-N" id="43" weight="0.1912085677396417" />
+      <edge source="F::soil_total_C" target="M::C18_negative|IK:CZDNLUMNELLDDD-QZFWYPLZSA-N" id="44" weight="0.0437174198630043" />
+      <edge source="M::C18_negative|IK:CFJLERBDXYGARW-TVKJYDDYSA-N" target="F::Paenibacillus crassostreae" id="45" weight="0.0277727742764117" />
+      <edge source="M::C18_negative|IK:CFJLERBDXYGARW-TVKJYDDYSA-N" target="F::Pseudomonas alcaligenes" id="46" weight="0.0255062265784358" />
+      <edge source="F::Rhodoferax koreense" target="M::C18_negative|IK:CKEXCBVNKRHAMX-UHFFFAOYSA-N" id="47" weight="0.0263298783615246" />
+      <edge source="M::C18_negative|IK:CKEXCBVNKRHAMX-UHFFFAOYSA-N" target="F::Frondihabitans sp. PAMC 28766" id="48" weight="0.0243376166790391" />
+      <edge source="F::Flavobacterium gilvum" target="M::C18_negative|IK:CQSLTKIXAJTQGA-FLIBITNWSA-N" id="49" weight="0.0660064427528637" />
+      <edge source="M::C18_negative|IK:CQSLTKIXAJTQGA-FLIBITNWSA-N" target="F::Serratia sp. 3ACOL1" id="50" weight="0.0301641175097652" />
+      <edge source="M::C18_negative|IK:CQSLTKIXAJTQGA-FLIBITNWSA-N" target="F::Alcaligenes faecalis" id="51" weight="0.0233239682856452" />
+      <edge source="F::Marivirga tractuosa" target="M::C18_negative|IK:CSGSKMJWQQEEQK-NHCPJIJJSA-N" id="52" weight="0.0246893429520585" />
+      <edge source="M::C18_negative|IK:CUCUKLJLRRAKFN-UHFFFAOYSA-N" target="F::soil_NH4" id="53" weight="0.0293658956553038" />
+      <edge source="M::C18_negative|IK:CUCUKLJLRRAKFN-UHFFFAOYSA-N" target="F::Stenotrophomonas rhizophila" id="54" weight="0.0236052928754105" />
+      <edge source="M::C18_negative|IK:CWVRJTMFETXNAD-UHFFFAOYSA-N" target="F::Pseudomonas reinekei" id="55" weight="0.0266642623146595" />
+      <edge source="M::C18_negative|IK:CWVRJTMFETXNAD-UHFFFAOYSA-N" target="F::Bordetella pertussis" id="56" weight="0.0218862332726402" />
+      <edge source="F::psize__Soil Sand Content %" target="M::C18_negative|IK:CZDNLUMNELLDDD-QZFWYPLZSA-N" id="57" weight="0.0690000312087457" />
+      <edge source="M::C18_negative|IK:CZDNLUMNELLDDD-QZFWYPLZSA-N" target="F::Streptomyces virus Amela" id="58" weight="0.0495161011524641" />
+      <edge source="F::Pantoea agglomerans" target="M::C18_negative|IK:CZMRCDWAGMRECN-UGDNZRGBSA-N" id="59" weight="0.0338381978154579" />
+      <edge source="M::C18_negative|IK:CZMRCDWAGMRECN-UGDNZRGBSA-N" target="F::Massilia oculi" id="60" weight="0.0324052608153649" />
+      <edge source="M::C18_negative|IK:CZMRCDWAGMRECN-UGDNZRGBSA-N" target="F::Massilia sp. WG5" id="61" weight="0.0211668940643741" />
+      <edge source="F::Intrasporangium calvum" target="M::C18_negative|IK:CZOXIGOPZRIBJM-TZWBTVLISA-N" id="62" weight="0.0237344493951887" />
+      <edge source="M::C18_negative|IK:CZOXIGOPZRIBJM-TZWBTVLISA-N" target="F::Pectobacterium carotovorum" id="63" weight="0.0232396414974232" />
+      <edge source="M::C18_negative|IK:CZOXIGOPZRIBJM-TZWBTVLISA-N" target="F::Aeromonas sp. ASNIH1" id="64" weight="0.0208491291630028" />
+      <edge source="F::Agrobacterium tumefaciens" target="M::C18_negative|IK:DANYIYRPLHHOCZ-UHFFFAOYSA-N" id="65" weight="0.0782461284976896" />
+      <edge source="M::C18_negative|IK:DANYIYRPLHHOCZ-UHFFFAOYSA-N" target="F::Rhizobium sp. NXC24" id="66" weight="0.0233325241418988" />
+      <edge source="M::C18_negative|IK:DANYIYRPLHHOCZ-UHFFFAOYSA-N" target="F::Serratia sp. SCBI" id="67" weight="0.0211233431733724" />
+      <edge source="M::C18_negative|IK:DJOJDHGQRNZXQQ-UHFFFAOYSA-N" target="F::Mycobacterium sp. JS623" id="68" weight="0.0326964529009097" />
+      <edge source="F::Curtobacterium sp. BH-2-1-1" target="M::C18_negative|IK:DLIKSSGEMUFQOK-UHFFFAOYSA-N" id="69" weight="0.0812880379555193" />
+      <edge source="M::C18_negative|IK:DLIKSSGEMUFQOK-UHFFFAOYSA-N" target="F::Bacillus licheniformis" id="70" weight="0.0325984607075709" />
+      <edge source="M::C18_negative|IK:DLIKSSGEMUFQOK-UHFFFAOYSA-N" target="F::Curtobacterium pusillum" id="71" weight="0.0236277528473061" />
+      <edge source="F::Phycicoccus dokdonensis" target="M::C18_negative|IK:DLRVVLDZNNYCBX-ABXHMFFYSA-N" id="72" weight="0.0292586021375311" />
+      <edge source="M::C18_negative|IK:DLRVVLDZNNYCBX-ABXHMFFYSA-N" target="F::Luteibacter rhizovicinus" id="73" weight="0.0195023176628035" />
+      <edge source="F::Methylotenera mobilis" target="M::C18_negative|IK:DRTQHJPVMGBUCF-UHFFFAOYSA-N" id="74" weight="0.1070659137428284" />
+      <edge source="F::Methylotenera mobilis" target="M::C18_negative|IK:DRTQHJPVMGBUCF-XVFCMESISA-N" id="75" weight="0.0511364173941685" />
+      <edge source="M::C18_negative|IK:DRTQHJPVMGBUCF-UHFFFAOYSA-N" target="F::psize__Soil Clay Content %" id="76" weight="0.0252738195537282" />
+      <edge source="M::C18_negative|IK:DRTQHJPVMGBUCF-UHFFFAOYSA-N" target="F::Enterobacter sp. 638" id="77" weight="0.0249253119290507" />
+      <edge source="F::psize__Soil Clay Content %" target="M::C18_negative|IK:DRTQHJPVMGBUCF-XVFCMESISA-N" id="78" weight="0.055582784714498" />
+      <edge source="F::Enterobacter sp. 638" target="M::C18_negative|IK:DRTQHJPVMGBUCF-XVFCMESISA-N" id="79" weight="0.0451338615133402" />
+    </edges>
+  </graph>
+</gexf>

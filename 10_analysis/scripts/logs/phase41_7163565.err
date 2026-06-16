@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/home/taha.mahir/Multiomicd-data-integration-/10_analysis/scripts/41_biological_interpretation.py", line 360, in <module>
+    main()
+  File "/home/taha.mahir/Multiomicd-data-integration-/10_analysis/scripts/41_biological_interpretation.py", line 350, in main
+    save_outputs(tables, story)
+  File "/home/taha.mahir/Multiomicd-data-integration-/10_analysis/scripts/41_biological_interpretation.py", line 326, in save_outputs
+    with pd.ExcelWriter(xlsx_path, engine="openpyxl") as writer:
+  File "/home/taha.mahir/.conda/envs/multiomics22/lib/python3.10/site-packages/pandas/io/excel/_openpyxl.py", line 57, in __init__
+    from openpyxl.workbook import Workbook
+ModuleNotFoundError: No module named 'openpyxl'

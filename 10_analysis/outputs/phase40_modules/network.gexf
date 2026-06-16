@@ -1,0 +1,770 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-06-15">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Agrobacterium tumefaciens" label="Agrobacterium tumefaciens" />
+      <node id="C18_negative|IK:DANYIYRPLHHOCZ-UHFFFAOYSA-N" label="C18_negative|IK:DANYIYRPLHHOCZ-UHFFFAOYSA-N" />
+      <node id="Rhizobium sp. NXC24" label="Rhizobium sp. NXC24" />
+      <node id="Serratia sp. SCBI" label="Serratia sp. SCBI" />
+      <node id="chem__LBCeq (mg/kg CaCO3/pH dry weight)" label="chem__LBCeq (mg/kg CaCO3/pH dry weight)" />
+      <node id="Dyella japonica" label="Dyella japonica" />
+      <node id="Stenotrophomonas sp. LM091" label="Stenotrophomonas sp. LM091" />
+      <node id="Alcanivorax sp. NBRC 101098" label="Alcanivorax sp. NBRC 101098" />
+      <node id="Rhizobium sp. 11515TR" label="Rhizobium sp. 11515TR" />
+      <node id="chem__LBC (mg/kg CaCO3/pH dry weight)" label="chem__LBC (mg/kg CaCO3/pH dry weight)" />
+      <node id="Sphingobacteriaceae bacterium GW460-11-11-14-LB5" label="Sphingobacteriaceae bacterium GW460-11-11-14-LB5" />
+      <node id="Herbaspirillum sp. meg3" label="Herbaspirillum sp. meg3" />
+      <node id="Agrobacterium vitis" label="Agrobacterium vitis" />
+      <node id="Pseudomonas arsenicoxydans" label="Pseudomonas arsenicoxydans" />
+      <node id="C18_negative|IK:CUCUKLJLRRAKFN-UHFFFAOYSA-N" label="C18_negative|IK:CUCUKLJLRRAKFN-UHFFFAOYSA-N" />
+      <node id="Lysobacter gummosus" label="Lysobacter gummosus" />
+      <node id="C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N" label="C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N" />
+      <node id="Niastella koreensis" label="Niastella koreensis" />
+      <node id="C18_negative|IK:ABVDJKDAAWCYKH-PNJCVKMMSA-N" label="C18_negative|IK:ABVDJKDAAWCYKH-PNJCVKMMSA-N" />
+      <node id="Rhizobium jaguaris" label="Rhizobium jaguaris" />
+      <node id="C18_negative|IK:BJEPYKJPYRNKOW-UWTATZPHSA-N" label="C18_negative|IK:BJEPYKJPYRNKOW-UWTATZPHSA-N" />
+      <node id="Rahnella sp. ERMR1:05" label="Rahnella sp. ERMR1:05" />
+      <node id="C18_negative|IK:AJFTWGKYXHISKT-UHFFFAOYSA-N" label="C18_negative|IK:AJFTWGKYXHISKT-UHFFFAOYSA-N" />
+      <node id="chem__K (Mehlich 1 mg/kg dry weight)" label="chem__K (Mehlich 1 mg/kg dry weight)" />
+      <node id="C18_negative|IK:BAHHZVVNFAOLAZ-UHFFFAOYSA-N" label="C18_negative|IK:BAHHZVVNFAOLAZ-UHFFFAOYSA-N" />
+      <node id="psize__Soil Silt Content %" label="psize__Soil Silt Content %" />
+      <node id="C18_negative|IK:DRTQHJPVMGBUCF-UHFFFAOYSA-N" label="C18_negative|IK:DRTQHJPVMGBUCF-UHFFFAOYSA-N" />
+      <node id="soil_NO3" label="soil_NO3" />
+      <node id="C18_negative|IK:BLUAFEHZUWYNDE-DCJAHCNHSA-N" label="C18_negative|IK:BLUAFEHZUWYNDE-DCJAHCNHSA-N" />
+      <node id="Rhodoferax koreense" label="Rhodoferax koreense" />
+      <node id="C18_negative|IK:CKEXCBVNKRHAMX-UHFFFAOYSA-N" label="C18_negative|IK:CKEXCBVNKRHAMX-UHFFFAOYSA-N" />
+      <node id="Frondihabitans sp. PAMC 28766" label="Frondihabitans sp. PAMC 28766" />
+      <node id="Paludisphaera borealis" label="Paludisphaera borealis" />
+      <node id="Kocuria sp. BT304" label="Kocuria sp. BT304" />
+      <node id="Mobiluncus curtisii" label="Mobiluncus curtisii" />
+      <node id="Bifidobacterium longum" label="Bifidobacterium longum" />
+      <node id="Mycobacterium marseillense" label="Mycobacterium marseillense" />
+      <node id="Nitrobacter hamburgensis" label="Nitrobacter hamburgensis" />
+      <node id="Gottschalkia acidurici" label="Gottschalkia acidurici" />
+      <node id="Brachybacterium saurashtrense" label="Brachybacterium saurashtrense" />
+      <node id="Kocuria palustris" label="Kocuria palustris" />
+      <node id="Geobacillus thermoleovorans" label="Geobacillus thermoleovorans" />
+      <node id="Pseudolabrys taiwanensis" label="Pseudolabrys taiwanensis" />
+      <node id="Gordonia sp. MMS17-SY073" label="Gordonia sp. MMS17-SY073" />
+      <node id="Kocuria turfanensis" label="Kocuria turfanensis" />
+      <node id="Dermabacter vaginalis" label="Dermabacter vaginalis" />
+      <node id="Bradyrhizobium sp. BTAi1" label="Bradyrhizobium sp. BTAi1" />
+      <node id="Bradyrhizobium lablabi" label="Bradyrhizobium lablabi" />
+      <node id="C18_negative|IK:CSGSKMJWQQEEQK-NHCPJIJJSA-N" label="C18_negative|IK:CSGSKMJWQQEEQK-NHCPJIJJSA-N" />
+      <node id="Devosia sp. A16" label="Devosia sp. A16" />
+      <node id="C18_negative|IK:CZDNLUMNELLDDD-QZFWYPLZSA-N" label="C18_negative|IK:CZDNLUMNELLDDD-QZFWYPLZSA-N" />
+      <node id="Lacunisphaera limnophila" label="Lacunisphaera limnophila" />
+      <node id="C18_negative|IK:DJOJDHGQRNZXQQ-UHFFFAOYSA-N" label="C18_negative|IK:DJOJDHGQRNZXQQ-UHFFFAOYSA-N" />
+      <node id="Mycobacterium haemophilum" label="Mycobacterium haemophilum" />
+      <node id="Homo sapiens" label="Homo sapiens" />
+      <node id="Paenibacillus sp. JDR-2" label="Paenibacillus sp. JDR-2" />
+      <node id="Bradyrhizobium sp. WSM471" label="Bradyrhizobium sp. WSM471" />
+      <node id="Opitutus sp. GAS368" label="Opitutus sp. GAS368" />
+      <node id="Clostridium botulinum" label="Clostridium botulinum" />
+      <node id="Actinoplanes teichomyceticus" label="Actinoplanes teichomyceticus" />
+      <node id="Jiangella sp. DSM 45060" label="Jiangella sp. DSM 45060" />
+      <node id="Mycobacterium tuberculosis" label="Mycobacterium tuberculosis" />
+      <node id="Pseudomonas lini" label="Pseudomonas lini" />
+      <node id="Terriglobus roseus" label="Terriglobus roseus" />
+      <node id="Massilia sp. WG5" label="Massilia sp. WG5" />
+      <node id="C18_negative|IK:CZMRCDWAGMRECN-UGDNZRGBSA-N" label="C18_negative|IK:CZMRCDWAGMRECN-UGDNZRGBSA-N" />
+      <node id="C18_negative|IK:CFJLERBDXYGARW-TVKJYDDYSA-N" label="C18_negative|IK:CFJLERBDXYGARW-TVKJYDDYSA-N" />
+      <node id="Pantoea agglomerans" label="Pantoea agglomerans" />
+      <node id="Paenibacillus polymyxa" label="Paenibacillus polymyxa" />
+      <node id="Streptomyces virus phiBT1" label="Streptomyces virus phiBT1" />
+      <node id="C18_negative|IK:BJHIKXHVCXFQLS-PQLUHFTBSA-N" label="C18_negative|IK:BJHIKXHVCXFQLS-PQLUHFTBSA-N" />
+      <node id="Pseudomonas frederiksbergensis" label="Pseudomonas frederiksbergensis" />
+      <node id="soil_total_C" label="soil_total_C" />
+      <node id="Paenibacillus crassostreae" label="Paenibacillus crassostreae" />
+      <node id="Pseudomonas alcaligenes" label="Pseudomonas alcaligenes" />
+      <node id="Mycobacterium virus D29" label="Mycobacterium virus D29" />
+      <node id="Leptolyngbya sp. NIES-3755" label="Leptolyngbya sp. NIES-3755" />
+      <node id="Coprothermobacter proteolyticus" label="Coprothermobacter proteolyticus" />
+      <node id="Streptomyces virus Zemlya" label="Streptomyces virus Zemlya" />
+      <node id="Pseudomonas alkylphenolica" label="Pseudomonas alkylphenolica" />
+      <node id="chem__Mn (Mehlich 1 mg/kg dry weight)" label="chem__Mn (Mehlich 1 mg/kg dry weight)" />
+      <node id="Paenibacillus lentus" label="Paenibacillus lentus" />
+      <node id="Agrobacterium fabrum" label="Agrobacterium fabrum" />
+      <node id="Pseudomonas sp. URMO17WK12:I11" label="Pseudomonas sp. URMO17WK12:I11" />
+      <node id="C18_negative|IK:CZOXIGOPZRIBJM-TZWBTVLISA-N" label="C18_negative|IK:CZOXIGOPZRIBJM-TZWBTVLISA-N" />
+      <node id="C18_negative|IK:DLIKSSGEMUFQOK-UHFFFAOYSA-N" label="C18_negative|IK:DLIKSSGEMUFQOK-UHFFFAOYSA-N" />
+      <node id="Streptomyces phage phiSASD1" label="Streptomyces phage phiSASD1" />
+      <node id="C18_negative|IK:AAWZDTNXLSGCEK-LNVDRNJUSA-N" label="C18_negative|IK:AAWZDTNXLSGCEK-LNVDRNJUSA-N" />
+      <node id="soil_total_N" label="soil_total_N" />
+      <node id="Amycolatopsis mediterranei" label="Amycolatopsis mediterranei" />
+      <node id="C18_negative|IK:BJRNKVDFDLYUGJ-UHFFFAOYSA-N" label="C18_negative|IK:BJRNKVDFDLYUGJ-UHFFFAOYSA-N" />
+      <node id="Pseudomonas sp. R11-23-07" label="Pseudomonas sp. R11-23-07" />
+      <node id="Pseudomonas brassicacearum" label="Pseudomonas brassicacearum" />
+      <node id="Polaromonas sp. JS666" label="Polaromonas sp. JS666" />
+      <node id="Pseudomonas protegens" label="Pseudomonas protegens" />
+      <node id="Pseudomonas sp. LH1G9" label="Pseudomonas sp. LH1G9" />
+      <node id="Neisseria sp. 10023" label="Neisseria sp. 10023" />
+      <node id="Enterobacter hormaechei" label="Enterobacter hormaechei" />
+      <node id="Pseudomonas sp. Z003-0.4C(8344-21)" label="Pseudomonas sp. Z003-0.4C(8344-21)" />
+      <node id="Pseudomonas sp. S09G 359" label="Pseudomonas sp. S09G 359" />
+      <node id="Pseudomonas sp. DR 5-09" label="Pseudomonas sp. DR 5-09" />
+      <node id="C18_negative|IK:BJEPYKJPYRNKOW-REOHCLBHSA-N" label="C18_negative|IK:BJEPYKJPYRNKOW-REOHCLBHSA-N" />
+      <node id="Pseudomonas sp. MYb193" label="Pseudomonas sp. MYb193" />
+      <node id="Paenibacillus borealis" label="Paenibacillus borealis" />
+      <node id="Xenorhabdus bovienii" label="Xenorhabdus bovienii" />
+      <node id="C18_negative|IK:BDJRBEYXGGNYIS-UHFFFAOYSA-N" label="C18_negative|IK:BDJRBEYXGGNYIS-UHFFFAOYSA-N" />
+      <node id="Pseudomonas alcaliphila" label="Pseudomonas alcaliphila" />
+      <node id="Pseudomonas thivervalensis" label="Pseudomonas thivervalensis" />
+      <node id="C18_negative|IK:CWVRJTMFETXNAD-UHFFFAOYSA-N" label="C18_negative|IK:CWVRJTMFETXNAD-UHFFFAOYSA-N" />
+      <node id="Paenibacillus sp. FSL R5-0912" label="Paenibacillus sp. FSL R5-0912" />
+      <node id="Pseudomonas umsongensis" label="Pseudomonas umsongensis" />
+      <node id="C18_negative|IK:BPSJMBKZSUTYNF-GXCUHXBUSA-N" label="C18_negative|IK:BPSJMBKZSUTYNF-GXCUHXBUSA-N" />
+      <node id="soil_NH4" label="soil_NH4" />
+      <node id="Stenotrophomonas rhizophila" label="Stenotrophomonas rhizophila" />
+      <node id="Enterobacter ludwigii" label="Enterobacter ludwigii" />
+      <node id="Mesorhizobium amorphae" label="Mesorhizobium amorphae" />
+      <node id="Variovorax sp. HW608" label="Variovorax sp. HW608" />
+      <node id="Pseudomonas vancouverensis" label="Pseudomonas vancouverensis" />
+      <node id="Halotalea alkalilenta" label="Halotalea alkalilenta" />
+      <node id="chem__Zn (Mehlich 1 mg/kg dry weight)" label="chem__Zn (Mehlich 1 mg/kg dry weight)" />
+      <node id="Bordetella sp. N" label="Bordetella sp. N" />
+      <node id="Variovorax paradoxus" label="Variovorax paradoxus" />
+      <node id="Cupriavidus necator" label="Cupriavidus necator" />
+      <node id="Cupriavidus basilensis" label="Cupriavidus basilensis" />
+      <node id="C18_negative|IK:AKEUNCKRJATALU-UHFFFAOYSA-N" label="C18_negative|IK:AKEUNCKRJATALU-UHFFFAOYSA-N" />
+      <node id="Buttiauxella sp. 3AFRM03" label="Buttiauxella sp. 3AFRM03" />
+      <node id="Pseudomonas reinekei" label="Pseudomonas reinekei" />
+      <node id="Alcanivorax borkumensis" label="Alcanivorax borkumensis" />
+      <node id="Massilia oculi" label="Massilia oculi" />
+      <node id="Bradyrhizobium sp." label="Bradyrhizobium sp." />
+      <node id="C18_negative|IK:CDRPUGZCRXZLFL-UHFFFAOYSA-N" label="C18_negative|IK:CDRPUGZCRXZLFL-UHFFFAOYSA-N" />
+      <node id="Paraburkholderia graminis" label="Paraburkholderia graminis" />
+      <node id="Burkholderia phage KS14" label="Burkholderia phage KS14" />
+      <node id="Amycolatopsis sp. AA4" label="Amycolatopsis sp. AA4" />
+      <node id="Rhodococcus sp. 2G" label="Rhodococcus sp. 2G" />
+      <node id="Variovorax boronicumulans" label="Variovorax boronicumulans" />
+      <node id="Modestobacter marinus" label="Modestobacter marinus" />
+      <node id="Alteromonas macleodii" label="Alteromonas macleodii" />
+      <node id="Pantoea vagans" label="Pantoea vagans" />
+      <node id="Bacillus velezensis" label="Bacillus velezensis" />
+      <node id="Bacillus muralis" label="Bacillus muralis" />
+      <node id="Rhizobium sp. NXC14" label="Rhizobium sp. NXC14" />
+      <node id="Pseudomonas sp. B10" label="Pseudomonas sp. B10" />
+      <node id="Janthinobacterium agaricidamnosum" label="Janthinobacterium agaricidamnosum" />
+      <node id="Bacteroides dorei" label="Bacteroides dorei" />
+      <node id="Cupriavidus taiwanensis" label="Cupriavidus taiwanensis" />
+      <node id="Neorhizobium galegae" label="Neorhizobium galegae" />
+      <node id="Janthinobacterium sp. Marseille" label="Janthinobacterium sp. Marseille" />
+      <node id="Ralstonia insidiosa" label="Ralstonia insidiosa" />
+      <node id="Ralstonia pickettii" label="Ralstonia pickettii" />
+      <node id="Ornithobacterium rhinotracheale" label="Ornithobacterium rhinotracheale" />
+      <node id="Massilia violaceinigra" label="Massilia violaceinigra" />
+      <node id="Herminiimonas arsenicoxydans" label="Herminiimonas arsenicoxydans" />
+      <node id="Stenotrophomonas sp. YAU14A_MKIMI4_1" label="Stenotrophomonas sp. YAU14A_MKIMI4_1" />
+      <node id="Herbaspirillum seropedicae" label="Herbaspirillum seropedicae" />
+      <node id="Bosea vaviloviae" label="Bosea vaviloviae" />
+      <node id="C18_negative|IK:CQSLTKIXAJTQGA-FLIBITNWSA-N" label="C18_negative|IK:CQSLTKIXAJTQGA-FLIBITNWSA-N" />
+      <node id="Xanthomonas citri" label="Xanthomonas citri" />
+      <node id="nitrif__Rate (mg NO3-N/kilogram dry weight soil/day)" label="nitrif__Rate (mg NO3-N/kilogram dry weight soil/day)" />
+      <node id="Mycobacterium sp. JS623" label="Mycobacterium sp. JS623" />
+      <node id="moist__Replicate 1 Mass Water / Mass Dry Soil %" label="moist__Replicate 1 Mass Water / Mass Dry Soil %" />
+      <node id="Streptomyces sp. SCSIO 03032" label="Streptomyces sp. SCSIO 03032" />
+      <node id="Streptomyces xiamenensis" label="Streptomyces xiamenensis" />
+      <node id="Burkholderia sp. PAMC 28687" label="Burkholderia sp. PAMC 28687" />
+      <node id="Collimonas pratensis" label="Collimonas pratensis" />
+      <node id="Kitasatospora setae" label="Kitasatospora setae" />
+      <node id="Streptacidiphilus sp. DSM 106435" label="Streptacidiphilus sp. DSM 106435" />
+      <node id="denit__Rate (microgN/kilogram dry weight soil/day)" label="denit__Rate (microgN/kilogram dry weight soil/day)" />
+      <node id="Candidatus Solibacter usitatus" label="Candidatus Solibacter usitatus" />
+      <node id="Actinomadura amylolytica" label="Actinomadura amylolytica" />
+      <node id="Chryseolinea sp. KIS68-18" label="Chryseolinea sp. KIS68-18" />
+      <node id="C18_negative|IK:BJRNKVDFDLYUGJ-RMPHRYRLSA-N" label="C18_negative|IK:BJRNKVDFDLYUGJ-RMPHRYRLSA-N" />
+      <node id="Novosphingobium sp. P6W" label="Novosphingobium sp. P6W" />
+      <node id="Phycicoccus dokdonensis" label="Phycicoccus dokdonensis" />
+      <node id="C18_negative|IK:DLRVVLDZNNYCBX-ABXHMFFYSA-N" label="C18_negative|IK:DLRVVLDZNNYCBX-ABXHMFFYSA-N" />
+      <node id="Luteibacter rhizovicinus" label="Luteibacter rhizovicinus" />
+      <node id="Enterobacter sp. 638" label="Enterobacter sp. 638" />
+      <node id="Nostoc sp. 'Lobaria pulmonaria (5183) cyanobiont'" label="Nostoc sp. 'Lobaria pulmonaria (5183) cyanobiont'" />
+      <node id="Microbacterium sp. BH-3-3-3" label="Microbacterium sp. BH-3-3-3" />
+      <node id="Streptomyces albulus" label="Streptomyces albulus" />
+      <node id="Rhodoferax saidenbachensis" label="Rhodoferax saidenbachensis" />
+      <node id="Streptomyces hundungensis" label="Streptomyces hundungensis" />
+      <node id="Halobacteriovorax sp. BALOs_7" label="Halobacteriovorax sp. BALOs_7" />
+      <node id="Candidatus Koribacter versatilis" label="Candidatus Koribacter versatilis" />
+      <node id="Amycolatopsis sp. BJA-103" label="Amycolatopsis sp. BJA-103" />
+      <node id="Marinomonas mediterranea" label="Marinomonas mediterranea" />
+      <node id="Arthrobacter sp. ERGS1:01" label="Arthrobacter sp. ERGS1:01" />
+      <node id="Curtobacterium sp. MR_MD2014" label="Curtobacterium sp. MR_MD2014" />
+      <node id="Streptomyces atratus" label="Streptomyces atratus" />
+      <node id="Rhodanobacter denitrificans" label="Rhodanobacter denitrificans" />
+      <node id="C18_negative|IK:DRTQHJPVMGBUCF-XVFCMESISA-N" label="C18_negative|IK:DRTQHJPVMGBUCF-XVFCMESISA-N" />
+      <node id="Intrasporangium calvum" label="Intrasporangium calvum" />
+      <node id="psize__Soil Sand Content %" label="psize__Soil Sand Content %" />
+      <node id="Pseudomonas sp. R4-34-07" label="Pseudomonas sp. R4-34-07" />
+      <node id="Stenotrophomonas nitritireducens" label="Stenotrophomonas nitritireducens" />
+      <node id="Lactobacillus delbrueckii" label="Lactobacillus delbrueckii" />
+      <node id="Streptomyces sp. TLI_053" label="Streptomyces sp. TLI_053" />
+      <node id="Bradyrhizobium japonicum" label="Bradyrhizobium japonicum" />
+      <node id="Lelliottia sp. WB101" label="Lelliottia sp. WB101" />
+      <node id="Cupriavidus pauculus" label="Cupriavidus pauculus" />
+      <node id="soil_pH" label="soil_pH" />
+      <node id="Massilia sp. NR 4-1" label="Massilia sp. NR 4-1" />
+      <node id="Bradyrhizobium icense" label="Bradyrhizobium icense" />
+      <node id="Leptolyngbya boryana" label="Leptolyngbya boryana" />
+      <node id="Pseudomonas sp. GR 6-02" label="Pseudomonas sp. GR 6-02" />
+      <node id="Xanthomonas campestris" label="Xanthomonas campestris" />
+      <node id="Catenulispora acidiphila" label="Catenulispora acidiphila" />
+      <node id="Paraburkholderia caledonica" label="Paraburkholderia caledonica" />
+      <node id="Bradyrhizobium erythrophlei" label="Bradyrhizobium erythrophlei" />
+      <node id="Kitasatospora aureofaciens" label="Kitasatospora aureofaciens" />
+      <node id="Streptomyces sp. NEAU-S7GS2" label="Streptomyces sp. NEAU-S7GS2" />
+      <node id="Granulicella mallensis" label="Granulicella mallensis" />
+      <node id="chem__P (Mehlich 1 mg/kg dry weight)" label="chem__P (Mehlich 1 mg/kg dry weight)" />
+      <node id="Nakamurella panacisegetis" label="Nakamurella panacisegetis" />
+      <node id="Kitasatospora sp. MMS16-BH015" label="Kitasatospora sp. MMS16-BH015" />
+      <node id="Streptomyces cattleya" label="Streptomyces cattleya" />
+      <node id="Halomonas sp. JS92-SW72" label="Halomonas sp. JS92-SW72" />
+      <node id="Burkholderia insecticola" label="Burkholderia insecticola" />
+      <node id="Sulfurihydrogenibium sp. YO3AOP1" label="Sulfurihydrogenibium sp. YO3AOP1" />
+      <node id="Borreliella burgdorferi" label="Borreliella burgdorferi" />
+      <node id="Streptomyces virus Amela" label="Streptomyces virus Amela" />
+      <node id="Mesorhizobium phage vB_MloP_Lo5R7ANS" label="Mesorhizobium phage vB_MloP_Lo5R7ANS" />
+      <node id="Thermotoga maritima" label="Thermotoga maritima" />
+      <node id="Caulobacter vibrioides" label="Caulobacter vibrioides" />
+      <node id="Caulobacter segnis" label="Caulobacter segnis" />
+      <node id="Treponema primitia" label="Treponema primitia" />
+      <node id="Burkholderia mallei" label="Burkholderia mallei" />
+      <node id="Desulfobacula toluolica" label="Desulfobacula toluolica" />
+      <node id="Sphingopyxis sp. EG6" label="Sphingopyxis sp. EG6" />
+      <node id="Corynebacterium diphtheriae" label="Corynebacterium diphtheriae" />
+      <node id="Pectobacterium carotovorum" label="Pectobacterium carotovorum" />
+      <node id="Aeromonas sp. ASNIH1" label="Aeromonas sp. ASNIH1" />
+      <node id="Hymenobacter sp. DG25B" label="Hymenobacter sp. DG25B" />
+      <node id="Vibrio natriegens" label="Vibrio natriegens" />
+      <node id="Salmonella enterica" label="Salmonella enterica" />
+      <node id="Dyella jiangningensis" label="Dyella jiangningensis" />
+      <node id="Streptomyces virus Izzy" label="Streptomyces virus Izzy" />
+      <node id="Pseudomonas salegens" label="Pseudomonas salegens" />
+      <node id="Echinicola strongylocentroti" label="Echinicola strongylocentroti" />
+      <node id="Pseudoflavitalea sp. 5GH32-13" label="Pseudoflavitalea sp. 5GH32-13" />
+      <node id="Erwinia billingiae" label="Erwinia billingiae" />
+      <node id="Streptomyces roseochromogenus" label="Streptomyces roseochromogenus" />
+      <node id="Sulfuritalea hydrogenivorans" label="Sulfuritalea hydrogenivorans" />
+      <node id="Hydrogenophilus thermoluteolus" label="Hydrogenophilus thermoluteolus" />
+      <node id="Streptomyces lividans" label="Streptomyces lividans" />
+      <node id="Brucella sp. 141012304" label="Brucella sp. 141012304" />
+      <node id="Anabaena cylindrica" label="Anabaena cylindrica" />
+      <node id="Streptomyces griseochromogenes" label="Streptomyces griseochromogenes" />
+      <node id="Rhizobium sp. NT-26" label="Rhizobium sp. NT-26" />
+      <node id="Stenotrophomonas sp. SAU14A_NAIMI4_8" label="Stenotrophomonas sp. SAU14A_NAIMI4_8" />
+      <node id="Helicobacter pylori" label="Helicobacter pylori" />
+      <node id="Bacillus licheniformis" label="Bacillus licheniformis" />
+      <node id="psize__Soil Clay Content %" label="psize__Soil Clay Content %" />
+      <node id="Methylotenera mobilis" label="Methylotenera mobilis" />
+      <node id="Polaribacter sp. SA4-10" label="Polaribacter sp. SA4-10" />
+      <node id="Caulobacter sp. K31" label="Caulobacter sp. K31" />
+      <node id="Pantoea rwandensis" label="Pantoea rwandensis" />
+      <node id="chem__Mg (Mehlich 1 mg/kg dry weight)" label="chem__Mg (Mehlich 1 mg/kg dry weight)" />
+      <node id="Methylomonas clara" label="Methylomonas clara" />
+      <node id="Azotobacter vinelandii" label="Azotobacter vinelandii" />
+      <node id="Mycobacterium sp. YC-RL4" label="Mycobacterium sp. YC-RL4" />
+      <node id="Microcystis sp. MC19" label="Microcystis sp. MC19" />
+      <node id="Neisseria gonorrhoeae" label="Neisseria gonorrhoeae" />
+      <node id="Mycolicibacterium gilvum" label="Mycolicibacterium gilvum" />
+      <node id="Algoriphagus machipongonensis" label="Algoriphagus machipongonensis" />
+      <node id="Pseudomonas koreensis" label="Pseudomonas koreensis" />
+      <node id="Alcaligenes faecalis" label="Alcaligenes faecalis" />
+      <node id="Corynebacterium camporealensis" label="Corynebacterium camporealensis" />
+      <node id="Nakamurella multipartita" label="Nakamurella multipartita" />
+      <node id="Thermomonospora curvata" label="Thermomonospora curvata" />
+      <node id="Mycobacterium liflandii" label="Mycobacterium liflandii" />
+      <node id="Rhodococcus aetherivorans" label="Rhodococcus aetherivorans" />
+      <node id="Roseobacter denitrificans" label="Roseobacter denitrificans" />
+      <node id="Frankia symbiont of Datisca glomerata" label="Frankia symbiont of Datisca glomerata" />
+      <node id="Streptococcus gordonii" label="Streptococcus gordonii" />
+      <node id="Pseudomonas sp. TMW 2.1634" label="Pseudomonas sp. TMW 2.1634" />
+      <node id="Amycolatopsis orientalis" label="Amycolatopsis orientalis" />
+      <node id="blood disease bacterium A2-HR MARDI" label="blood disease bacterium A2-HR MARDI" />
+      <node id="Rhodococcus erythropolis" label="Rhodococcus erythropolis" />
+      <node id="Amycolatopsis keratiniphila" label="Amycolatopsis keratiniphila" />
+      <node id="Weeksella virosa" label="Weeksella virosa" />
+      <node id="Janthinobacterium svalbardensis" label="Janthinobacterium svalbardensis" />
+      <node id="Shewanella sp. ANA-3" label="Shewanella sp. ANA-3" />
+      <node id="Actinoplanes derwentensis" label="Actinoplanes derwentensis" />
+      <node id="Janthinobacterium sp. 1_2014MBL_MicDiv" label="Janthinobacterium sp. 1_2014MBL_MicDiv" />
+      <node id="Rhodococcus sp. H-CA8f" label="Rhodococcus sp. H-CA8f" />
+      <node id="Raoultella ornithinolytica" label="Raoultella ornithinolytica" />
+      <node id="Bradyrhizobium diazoefficiens" label="Bradyrhizobium diazoefficiens" />
+      <node id="Komagataeibacter medellinensis" label="Komagataeibacter medellinensis" />
+      <node id="Streptomyces virus phiC31" label="Streptomyces virus phiC31" />
+      <node id="Dickeya dianthicola" label="Dickeya dianthicola" />
+      <node id="Herbaspirillum hiltneri" label="Herbaspirillum hiltneri" />
+      <node id="Rhizobium leguminosarum" label="Rhizobium leguminosarum" />
+      <node id="Sulfuricurvum kujiense" label="Sulfuricurvum kujiense" />
+      <node id="Microbacterium sp. CGR1" label="Microbacterium sp. CGR1" />
+      <node id="Xanthomonas euvesicatoria" label="Xanthomonas euvesicatoria" />
+      <node id="Flavobacterium commune" label="Flavobacterium commune" />
+      <node id="Microbacterium foliorum" label="Microbacterium foliorum" />
+      <node id="Variovorax sp. PMC12" label="Variovorax sp. PMC12" />
+      <node id="Wolbachia endosymbiont of Drosophila melanogaster" label="Wolbachia endosymbiont of Drosophila melanogaster" />
+      <node id="Candidatus Methylopumilus turicensis" label="Candidatus Methylopumilus turicensis" />
+      <node id="Pseudomonas silesiensis" label="Pseudomonas silesiensis" />
+      <node id="Endozoicomonas montiporae" label="Endozoicomonas montiporae" />
+      <node id="Curtobacterium sp. BH-2-1-1" label="Curtobacterium sp. BH-2-1-1" />
+      <node id="Curtobacterium pusillum" label="Curtobacterium pusillum" />
+      <node id="Delftia acidovorans" label="Delftia acidovorans" />
+      <node id="Escherichia coli" label="Escherichia coli" />
+      <node id="Bacillus cereus" label="Bacillus cereus" />
+      <node id="Parabacteroides distasonis" label="Parabacteroides distasonis" />
+      <node id="Pseudomonas aeruginosa" label="Pseudomonas aeruginosa" />
+      <node id="Dickeya sp. NCPPB 3274" label="Dickeya sp. NCPPB 3274" />
+      <node id="Gemmatirosa kalamazoonesis" label="Gemmatirosa kalamazoonesis" />
+      <node id="Pseudomonas virus PaMx74" label="Pseudomonas virus PaMx74" />
+      <node id="Paenibacillus sp. FSL P4-0081" label="Paenibacillus sp. FSL P4-0081" />
+      <node id="Pseudomonas sp. K2W31S-8" label="Pseudomonas sp. K2W31S-8" />
+      <node id="Asticcacaulis excentricus" label="Asticcacaulis excentricus" />
+      <node id="Micromonospora sp. L5" label="Micromonospora sp. L5" />
+      <node id="Actinoalloteichus sp. GBA129-24" label="Actinoalloteichus sp. GBA129-24" />
+      <node id="Pseudomonas sp. MRSN12121" label="Pseudomonas sp. MRSN12121" />
+      <node id="Kutzneria albida" label="Kutzneria albida" />
+      <node id="Streptomyces sp. 3214.6" label="Streptomyces sp. 3214.6" />
+      <node id="Wolbachia endosymbiont of Brugia malayi" label="Wolbachia endosymbiont of Brugia malayi" />
+      <node id="Pseudomonas sp. LAB-08" label="Pseudomonas sp. LAB-08" />
+      <node id="Stenotrophomonas sp. MYb57" label="Stenotrophomonas sp. MYb57" />
+      <node id="Burkholderia sp. PAMC 26561" label="Burkholderia sp. PAMC 26561" />
+      <node id="Lactobacillus crispatus" label="Lactobacillus crispatus" />
+      <node id="Streptomyces virus Sujidade" label="Streptomyces virus Sujidade" />
+      <node id="Burkholderia sp. CCGE1002" label="Burkholderia sp. CCGE1002" />
+      <node id="Pseudoxanthomonas spadix" label="Pseudoxanthomonas spadix" />
+      <node id="Paraburkholderia phymatum" label="Paraburkholderia phymatum" />
+      <node id="Aquitalea magnusonii" label="Aquitalea magnusonii" />
+      <node id="Ensifer adhaerens" label="Ensifer adhaerens" />
+      <node id="Rhizobium phaseoli" label="Rhizobium phaseoli" />
+      <node id="Bordetella parapertussis" label="Bordetella parapertussis" />
+      <node id="Agromyces sp. 30A" label="Agromyces sp. 30A" />
+      <node id="Phyllobacterium zundukense" label="Phyllobacterium zundukense" />
+      <node id="Candidatus Methylopumilus planktonicus" label="Candidatus Methylopumilus planktonicus" />
+      <node id="Clostridium estertheticum" label="Clostridium estertheticum" />
+      <node id="Conexibacter woesei" label="Conexibacter woesei" />
+      <node id="Xanthomonas albilineans" label="Xanthomonas albilineans" />
+      <node id="Bordetella pertussis" label="Bordetella pertussis" />
+      <node id="Bordetella pseudohinzii" label="Bordetella pseudohinzii" />
+      <node id="Azospira oryzae" label="Azospira oryzae" />
+      <node id="Mesorhizobium sp. DCY119" label="Mesorhizobium sp. DCY119" />
+      <node id="Bordetella flabilis" label="Bordetella flabilis" />
+      <node id="Yersinia massiliensis" label="Yersinia massiliensis" />
+      <node id="Pseudomonas saudiphocaensis" label="Pseudomonas saudiphocaensis" />
+      <node id="Marivirga tractuosa" label="Marivirga tractuosa" />
+      <node id="Acidobacteriaceae bacterium SBC82" label="Acidobacteriaceae bacterium SBC82" />
+      <node id="Owenweeksia hongkongensis" label="Owenweeksia hongkongensis" />
+      <node id="Hymenobacter sp. PAMC 26554" label="Hymenobacter sp. PAMC 26554" />
+      <node id="Flavobacterium indicum" label="Flavobacterium indicum" />
+      <node id="Polaromonas sp. SP1" label="Polaromonas sp. SP1" />
+      <node id="Mesorhizobium ciceri" label="Mesorhizobium ciceri" />
+      <node id="Rhizobium favelukesii" label="Rhizobium favelukesii" />
+      <node id="Sphingobium yanoikuyae" label="Sphingobium yanoikuyae" />
+      <node id="Dickeya solani" label="Dickeya solani" />
+      <node id="Pseudomonas entomophila" label="Pseudomonas entomophila" />
+      <node id="Pseudomonas sp. s211(2017)" label="Pseudomonas sp. s211(2017)" />
+      <node id="Pseudomonas sp. DY-1" label="Pseudomonas sp. DY-1" />
+      <node id="Pseudomonas granadensis" label="Pseudomonas granadensis" />
+      <node id="Pseudomonas kribbensis" label="Pseudomonas kribbensis" />
+      <node id="Pseudomonas lurida" label="Pseudomonas lurida" />
+      <node id="Rhizobium phage 16-3" label="Rhizobium phage 16-3" />
+      <node id="Pseudomonas sp. JY-Q" label="Pseudomonas sp. JY-Q" />
+      <node id="Flavobacterium gilvum" label="Flavobacterium gilvum" />
+      <node id="Serratia sp. 3ACOL1" label="Serratia sp. 3ACOL1" />
+      <node id="Streptomyces sviceus" label="Streptomyces sviceus" />
+      <node id="Rhodococcus sp. MTM3W5.2" label="Rhodococcus sp. MTM3W5.2" />
+      <node id="Pseudarthrobacter equi" label="Pseudarthrobacter equi" />
+      <node id="Clostridium butyricum" label="Clostridium butyricum" />
+      <node id="Streptomyces globosus" label="Streptomyces globosus" />
+      <node id="Escherichia fergusonii" label="Escherichia fergusonii" />
+      <node id="Flavobacterium crassostreae" label="Flavobacterium crassostreae" />
+      <node id="Actinoplanes sp. SE50/110" label="Actinoplanes sp. SE50/110" />
+      <node id="Clostridium saccharoperbutylacetonicum" label="Clostridium saccharoperbutylacetonicum" />
+      <node id="Microvirga ossetica" label="Microvirga ossetica" />
+      <node id="Edwardsiella anguillarum" label="Edwardsiella anguillarum" />
+    </nodes>
+    <edges>
+      <edge source="Agrobacterium tumefaciens" target="C18_negative|IK:DANYIYRPLHHOCZ-UHFFFAOYSA-N" id="0" weight="0.0782461284976896" />
+      <edge source="C18_negative|IK:DANYIYRPLHHOCZ-UHFFFAOYSA-N" target="Rhizobium sp. NXC24" id="1" weight="0.0233325241418988" />
+      <edge source="C18_negative|IK:DANYIYRPLHHOCZ-UHFFFAOYSA-N" target="Serratia sp. SCBI" id="2" weight="0.0211233431733724" />
+      <edge source="C18_negative|IK:DANYIYRPLHHOCZ-UHFFFAOYSA-N" target="chem__LBCeq (mg/kg CaCO3/pH dry weight)" id="3" weight="0.0127604664435406" />
+      <edge source="C18_negative|IK:DANYIYRPLHHOCZ-UHFFFAOYSA-N" target="Dyella japonica" id="4" weight="0.0117918194407434" />
+      <edge source="C18_negative|IK:DANYIYRPLHHOCZ-UHFFFAOYSA-N" target="Stenotrophomonas sp. LM091" id="5" weight="0.0110771773672096" />
+      <edge source="C18_negative|IK:DANYIYRPLHHOCZ-UHFFFAOYSA-N" target="Alcanivorax sp. NBRC 101098" id="6" weight="0.0095520040989964" />
+      <edge source="C18_negative|IK:DANYIYRPLHHOCZ-UHFFFAOYSA-N" target="Rhizobium sp. 11515TR" id="7" weight="0.0092202713711442" />
+      <edge source="C18_negative|IK:DANYIYRPLHHOCZ-UHFFFAOYSA-N" target="chem__LBC (mg/kg CaCO3/pH dry weight)" id="8" weight="0.0080946515059775" />
+      <edge source="C18_negative|IK:DANYIYRPLHHOCZ-UHFFFAOYSA-N" target="Sphingobacteriaceae bacterium GW460-11-11-14-LB5" id="9" weight="0.0079036197710101" />
+      <edge source="C18_negative|IK:DANYIYRPLHHOCZ-UHFFFAOYSA-N" target="Herbaspirillum sp. meg3" id="10" weight="0.0078509486235647" />
+      <edge source="C18_negative|IK:DANYIYRPLHHOCZ-UHFFFAOYSA-N" target="Agrobacterium vitis" id="11" weight="0.0077168700452373" />
+      <edge source="C18_negative|IK:DANYIYRPLHHOCZ-UHFFFAOYSA-N" target="Pseudomonas arsenicoxydans" id="12" weight="0.0067367567637004" />
+      <edge source="Stenotrophomonas sp. LM091" target="C18_negative|IK:CUCUKLJLRRAKFN-UHFFFAOYSA-N" id="13" weight="0.0215488688904907" />
+      <edge source="C18_negative|IK:CUCUKLJLRRAKFN-UHFFFAOYSA-N" target="Pseudomonas umsongensis" id="14" weight="0.0327333729230505" />
+      <edge source="C18_negative|IK:CUCUKLJLRRAKFN-UHFFFAOYSA-N" target="soil_NH4" id="15" weight="0.0293658956553038" />
+      <edge source="C18_negative|IK:CUCUKLJLRRAKFN-UHFFFAOYSA-N" target="Stenotrophomonas rhizophila" id="16" weight="0.0236052928754105" />
+      <edge source="C18_negative|IK:CUCUKLJLRRAKFN-UHFFFAOYSA-N" target="Enterobacter ludwigii" id="17" weight="0.0200841629141292" />
+      <edge source="C18_negative|IK:CUCUKLJLRRAKFN-UHFFFAOYSA-N" target="Mesorhizobium amorphae" id="18" weight="0.0186678814126017" />
+      <edge source="C18_negative|IK:CUCUKLJLRRAKFN-UHFFFAOYSA-N" target="Variovorax sp. HW608" id="19" weight="0.0102310185338402" />
+      <edge source="C18_negative|IK:CUCUKLJLRRAKFN-UHFFFAOYSA-N" target="Pseudomonas vancouverensis" id="20" weight="0.0087537626739182" />
+      <edge source="C18_negative|IK:CUCUKLJLRRAKFN-UHFFFAOYSA-N" target="Halotalea alkalilenta" id="21" weight="0.0085297120704084" />
+      <edge source="C18_negative|IK:CUCUKLJLRRAKFN-UHFFFAOYSA-N" target="chem__Zn (Mehlich 1 mg/kg dry weight)" id="22" weight="0.0061717152280006" />
+      <edge source="C18_negative|IK:CUCUKLJLRRAKFN-UHFFFAOYSA-N" target="Bordetella sp. N" id="23" weight="0.0058985199545446" />
+      <edge source="C18_negative|IK:CUCUKLJLRRAKFN-UHFFFAOYSA-N" target="Variovorax paradoxus" id="24" weight="0.005642672084863" />
+      <edge source="Lysobacter gummosus" target="C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N" id="25" weight="0.0136585582655933" />
+      <edge source="C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N" target="Rahnella sp. ERMR1:05" id="26" weight="0.0254908647377133" />
+      <edge source="C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N" target="Janthinobacterium agaricidamnosum" id="27" weight="0.0144887051099191" />
+      <edge source="C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N" target="Amycolatopsis orientalis" id="28" weight="0.0446753531866689" />
+      <edge source="C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N" target="blood disease bacterium A2-HR MARDI" id="29" weight="0.0096990323967628" />
+      <edge source="C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N" target="Rhodococcus erythropolis" id="30" weight="0.0088564184084569" />
+      <edge source="C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N" target="Amycolatopsis keratiniphila" id="31" weight="0.0083368962394304" />
+      <edge source="C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N" target="Weeksella virosa" id="32" weight="0.007542522853738" />
+      <edge source="C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N" target="Janthinobacterium svalbardensis" id="33" weight="0.0061678987878928" />
+      <edge source="C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N" target="Shewanella sp. ANA-3" id="34" weight="0.0054817764640774" />
+      <edge source="C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N" target="Actinoplanes derwentensis" id="35" weight="0.0053825675210852" />
+      <edge source="C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N" target="Janthinobacterium sp. 1_2014MBL_MicDiv" id="36" weight="0.0050999095137519" />
+      <edge source="C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N" target="Rhodococcus sp. H-CA8f" id="37" weight="0.0044054493830708" />
+      <edge source="Niastella koreensis" target="C18_negative|IK:ABVDJKDAAWCYKH-PNJCVKMMSA-N" id="38" weight="0.0542676321131406" />
+      <edge source="C18_negative|IK:ABVDJKDAAWCYKH-PNJCVKMMSA-N" target="Paenibacillus polymyxa" id="39" weight="0.0086722402293507" />
+      <edge source="C18_negative|IK:ABVDJKDAAWCYKH-PNJCVKMMSA-N" target="Paenibacillus borealis" id="40" weight="0.0540009721741803" />
+      <edge source="C18_negative|IK:ABVDJKDAAWCYKH-PNJCVKMMSA-N" target="Paenibacillus sp. FSL R5-0912" id="41" weight="0.0642841287584557" />
+      <edge source="C18_negative|IK:ABVDJKDAAWCYKH-PNJCVKMMSA-N" target="Alcanivorax borkumensis" id="42" weight="0.0062055834803639" />
+      <edge source="C18_negative|IK:ABVDJKDAAWCYKH-PNJCVKMMSA-N" target="Pseudomonas virus PaMx74" id="43" weight="0.0347644152086099" />
+      <edge source="C18_negative|IK:ABVDJKDAAWCYKH-PNJCVKMMSA-N" target="Paenibacillus sp. FSL P4-0081" id="44" weight="0.0240772764741748" />
+      <edge source="C18_negative|IK:ABVDJKDAAWCYKH-PNJCVKMMSA-N" target="Pseudomonas sp. K2W31S-8" id="45" weight="0.0168062577860594" />
+      <edge source="C18_negative|IK:ABVDJKDAAWCYKH-PNJCVKMMSA-N" target="Asticcacaulis excentricus" id="46" weight="0.0109458214749968" />
+      <edge source="C18_negative|IK:ABVDJKDAAWCYKH-PNJCVKMMSA-N" target="Micromonospora sp. L5" id="47" weight="0.0049897124826893" />
+      <edge source="C18_negative|IK:ABVDJKDAAWCYKH-PNJCVKMMSA-N" target="Actinoalloteichus sp. GBA129-24" id="48" weight="0.0049690737108887" />
+      <edge source="C18_negative|IK:ABVDJKDAAWCYKH-PNJCVKMMSA-N" target="Pseudomonas sp. MRSN12121" id="49" weight="0.0042986430969218" />
+      <edge source="C18_negative|IK:ABVDJKDAAWCYKH-PNJCVKMMSA-N" target="Kutzneria albida" id="50" weight="0.0041571317018034" />
+      <edge source="C18_negative|IK:ABVDJKDAAWCYKH-PNJCVKMMSA-N" target="Streptomyces sp. 3214.6" id="51" weight="0.0038839487678973" />
+      <edge source="Rhizobium jaguaris" target="C18_negative|IK:BJEPYKJPYRNKOW-UWTATZPHSA-N" id="52" weight="0.0107761493230785" />
+      <edge source="C18_negative|IK:BJEPYKJPYRNKOW-UWTATZPHSA-N" target="Pseudomonas frederiksbergensis" id="53" weight="0.0135041393192758" />
+      <edge source="C18_negative|IK:BJEPYKJPYRNKOW-UWTATZPHSA-N" target="Pseudomonas sp. URMO17WK12:I11" id="54" weight="0.0251268262531939" />
+      <edge source="C18_negative|IK:BJEPYKJPYRNKOW-UWTATZPHSA-N" target="Mesorhizobium amorphae" id="55" weight="0.0163301993344803" />
+      <edge source="C18_negative|IK:BJEPYKJPYRNKOW-UWTATZPHSA-N" target="Bacteroides dorei" id="56" weight="0.0152309580673506" />
+      <edge source="C18_negative|IK:BJEPYKJPYRNKOW-UWTATZPHSA-N" target="nitrif__Rate (mg NO3-N/kilogram dry weight soil/day)" id="57" weight="0.0142184324095691" />
+      <edge source="C18_negative|IK:BJEPYKJPYRNKOW-UWTATZPHSA-N" target="Chryseolinea sp. KIS68-18" id="58" weight="0.0396506475009483" />
+      <edge source="C18_negative|IK:BJEPYKJPYRNKOW-UWTATZPHSA-N" target="Bradyrhizobium icense" id="59" weight="0.0134535870581807" />
+      <edge source="C18_negative|IK:BJEPYKJPYRNKOW-UWTATZPHSA-N" target="Rhizobium leguminosarum" id="60" weight="0.014975074942785" />
+      <edge source="C18_negative|IK:BJEPYKJPYRNKOW-UWTATZPHSA-N" target="Phyllobacterium zundukense" id="61" weight="0.0097794280868379" />
+      <edge source="C18_negative|IK:BJEPYKJPYRNKOW-UWTATZPHSA-N" target="Mesorhizobium ciceri" id="62" weight="0.0208282169247675" />
+      <edge source="C18_negative|IK:BJEPYKJPYRNKOW-UWTATZPHSA-N" target="Rhizobium favelukesii" id="63" weight="0.0156981178216383" />
+      <edge source="C18_negative|IK:BJEPYKJPYRNKOW-UWTATZPHSA-N" target="Sphingobium yanoikuyae" id="64" weight="0.0151215003698008" />
+      <edge source="C18_negative|IK:BJEPYKJPYRNKOW-UWTATZPHSA-N" target="Dickeya solani" id="65" weight="0.0057406636585179" />
+      <edge source="Rahnella sp. ERMR1:05" target="C18_negative|IK:AJFTWGKYXHISKT-UHFFFAOYSA-N" id="66" weight="0.0164755388389934" />
+      <edge source="C18_negative|IK:AJFTWGKYXHISKT-UHFFFAOYSA-N" target="moist__Replicate 1 Mass Water / Mass Dry Soil %" id="67" weight="0.0409606397421808" />
+      <edge source="C18_negative|IK:AJFTWGKYXHISKT-UHFFFAOYSA-N" target="Streptacidiphilus sp. DSM 106435" id="68" weight="0.0211469654529931" />
+      <edge source="C18_negative|IK:AJFTWGKYXHISKT-UHFFFAOYSA-N" target="Kitasatospora sp. MMS16-BH015" id="69" weight="0.0433750149820236" />
+      <edge source="C18_negative|IK:AJFTWGKYXHISKT-UHFFFAOYSA-N" target="Streptomyces cattleya" id="70" weight="0.0163538333742133" />
+      <edge source="C18_negative|IK:AJFTWGKYXHISKT-UHFFFAOYSA-N" target="Bradyrhizobium diazoefficiens" id="71" weight="0.0251781550860853" />
+      <edge source="C18_negative|IK:AJFTWGKYXHISKT-UHFFFAOYSA-N" target="Komagataeibacter medellinensis" id="72" weight="0.0125806995515005" />
+      <edge source="C18_negative|IK:AJFTWGKYXHISKT-UHFFFAOYSA-N" target="Streptomyces virus phiC31" id="73" weight="0.0070004375427918" />
+      <edge source="C18_negative|IK:AJFTWGKYXHISKT-UHFFFAOYSA-N" target="Dickeya dianthicola" id="74" weight="0.006535267576111" />
+      <edge source="C18_negative|IK:AJFTWGKYXHISKT-UHFFFAOYSA-N" target="Herbaspirillum hiltneri" id="75" weight="0.0056022501545634" />
+      <edge source="chem__K (Mehlich 1 mg/kg dry weight)" target="C18_negative|IK:BAHHZVVNFAOLAZ-UHFFFAOYSA-N" id="76" weight="0.0104613751800205" />
+      <edge source="C18_negative|IK:BAHHZVVNFAOLAZ-UHFFFAOYSA-N" target="Mycobacterium marseillense" id="77" weight="0.0127158347865587" />
+      <edge source="C18_negative|IK:BAHHZVVNFAOLAZ-UHFFFAOYSA-N" target="Mycobacterium haemophilum" id="78" weight="0.0342621581395096" />
+      <edge source="C18_negative|IK:BAHHZVVNFAOLAZ-UHFFFAOYSA-N" target="Homo sapiens" id="79" weight="0.0226153561069572" />
+      <edge source="C18_negative|IK:BAHHZVVNFAOLAZ-UHFFFAOYSA-N" target="Paenibacillus sp. JDR-2" id="80" weight="0.0185252854379976" />
+      <edge source="C18_negative|IK:BAHHZVVNFAOLAZ-UHFFFAOYSA-N" target="Bradyrhizobium sp. WSM471" id="81" weight="0.0146307530695373" />
+      <edge source="C18_negative|IK:BAHHZVVNFAOLAZ-UHFFFAOYSA-N" target="Opitutus sp. GAS368" id="82" weight="0.0142638421096894" />
+      <edge source="C18_negative|IK:BAHHZVVNFAOLAZ-UHFFFAOYSA-N" target="Clostridium botulinum" id="83" weight="0.0099358363446445" />
+      <edge source="C18_negative|IK:BAHHZVVNFAOLAZ-UHFFFAOYSA-N" target="Actinoplanes teichomyceticus" id="84" weight="0.0091251933617968" />
+      <edge source="C18_negative|IK:BAHHZVVNFAOLAZ-UHFFFAOYSA-N" target="Jiangella sp. DSM 45060" id="85" weight="0.0082789560980979" />
+      <edge source="C18_negative|IK:BAHHZVVNFAOLAZ-UHFFFAOYSA-N" target="Mycobacterium tuberculosis" id="86" weight="0.0078421071190579" />
+      <edge source="C18_negative|IK:BAHHZVVNFAOLAZ-UHFFFAOYSA-N" target="Pseudomonas lini" id="87" weight="0.0072519227178067" />
+      <edge source="C18_negative|IK:BAHHZVVNFAOLAZ-UHFFFAOYSA-N" target="Terriglobus roseus" id="88" weight="0.0065002706869149" />
+      <edge source="psize__Soil Silt Content %" target="C18_negative|IK:DRTQHJPVMGBUCF-UHFFFAOYSA-N" id="89" weight="0.0163826559073819" />
+      <edge source="C18_negative|IK:DRTQHJPVMGBUCF-UHFFFAOYSA-N" target="Methylotenera mobilis" id="90" weight="0.1070659137428284" />
+      <edge source="C18_negative|IK:DRTQHJPVMGBUCF-UHFFFAOYSA-N" target="Pseudomonas koreensis" id="91" weight="0.0173874074791647" />
+      <edge source="C18_negative|IK:DRTQHJPVMGBUCF-UHFFFAOYSA-N" target="Variovorax sp. PMC12" id="92" weight="0.0216530385268455" />
+      <edge source="C18_negative|IK:DRTQHJPVMGBUCF-UHFFFAOYSA-N" target="Candidatus Methylopumilus planktonicus" id="93" weight="0.0058025772190401" />
+      <edge source="C18_negative|IK:DRTQHJPVMGBUCF-UHFFFAOYSA-N" target="Clostridium estertheticum" id="94" weight="0.0051177507800255" />
+      <edge source="C18_negative|IK:DRTQHJPVMGBUCF-UHFFFAOYSA-N" target="Conexibacter woesei" id="95" weight="0.0045936496006381" />
+      <edge source="C18_negative|IK:DRTQHJPVMGBUCF-UHFFFAOYSA-N" target="Xanthomonas albilineans" id="96" weight="0.0044163011790402" />
+      <edge source="C18_negative|IK:DRTQHJPVMGBUCF-UHFFFAOYSA-N" target="psize__Soil Clay Content %" id="97" weight="0.0252738195537282" />
+      <edge source="C18_negative|IK:DRTQHJPVMGBUCF-UHFFFAOYSA-N" target="Enterobacter sp. 638" id="98" weight="0.0249253119290507" />
+      <edge source="C18_negative|IK:DRTQHJPVMGBUCF-UHFFFAOYSA-N" target="Xanthomonas campestris" id="99" weight="0.0215682404391394" />
+      <edge source="soil_NO3" target="C18_negative|IK:BLUAFEHZUWYNDE-DCJAHCNHSA-N" id="100" weight="0.0260566048920183" />
+      <edge source="C18_negative|IK:BLUAFEHZUWYNDE-DCJAHCNHSA-N" target="nitrif__Rate (mg NO3-N/kilogram dry weight soil/day)" id="101" weight="0.0371983376759741" />
+      <edge source="C18_negative|IK:BLUAFEHZUWYNDE-DCJAHCNHSA-N" target="Kitasatospora setae" id="102" weight="0.0384482014703623" />
+      <edge source="C18_negative|IK:BLUAFEHZUWYNDE-DCJAHCNHSA-N" target="Candidatus Solibacter usitatus" id="103" weight="0.0287217092907829" />
+      <edge source="C18_negative|IK:BLUAFEHZUWYNDE-DCJAHCNHSA-N" target="Catenulispora acidiphila" id="104" weight="0.0458057877333668" />
+      <edge source="C18_negative|IK:BLUAFEHZUWYNDE-DCJAHCNHSA-N" target="Paraburkholderia caledonica" id="105" weight="0.0155415061757403" />
+      <edge source="C18_negative|IK:BLUAFEHZUWYNDE-DCJAHCNHSA-N" target="Bradyrhizobium erythrophlei" id="106" weight="0.0128848575641197" />
+      <edge source="C18_negative|IK:BLUAFEHZUWYNDE-DCJAHCNHSA-N" target="Kitasatospora aureofaciens" id="107" weight="0.0073776797271999" />
+      <edge source="C18_negative|IK:BLUAFEHZUWYNDE-DCJAHCNHSA-N" target="Streptomyces sp. NEAU-S7GS2" id="108" weight="0.0073317669556965" />
+      <edge source="C18_negative|IK:BLUAFEHZUWYNDE-DCJAHCNHSA-N" target="Granulicella mallensis" id="109" weight="0.0067940772095107" />
+      <edge source="C18_negative|IK:BLUAFEHZUWYNDE-DCJAHCNHSA-N" target="chem__P (Mehlich 1 mg/kg dry weight)" id="110" weight="0.00523808624667" />
+      <edge source="C18_negative|IK:BLUAFEHZUWYNDE-DCJAHCNHSA-N" target="Nakamurella panacisegetis" id="111" weight="0.0044315309676548" />
+      <edge source="Rhodoferax koreense" target="C18_negative|IK:CKEXCBVNKRHAMX-UHFFFAOYSA-N" id="112" weight="0.0263298783615246" />
+      <edge source="C18_negative|IK:CKEXCBVNKRHAMX-UHFFFAOYSA-N" target="Frondihabitans sp. PAMC 28766" id="113" weight="0.0243376166790391" />
+      <edge source="C18_negative|IK:CKEXCBVNKRHAMX-UHFFFAOYSA-N" target="Paludisphaera borealis" id="114" weight="0.0157816861705442" />
+      <edge source="C18_negative|IK:CKEXCBVNKRHAMX-UHFFFAOYSA-N" target="Kocuria sp. BT304" id="115" weight="0.0147633959899283" />
+      <edge source="C18_negative|IK:CKEXCBVNKRHAMX-UHFFFAOYSA-N" target="Mobiluncus curtisii" id="116" weight="0.0087629827152819" />
+      <edge source="C18_negative|IK:CKEXCBVNKRHAMX-UHFFFAOYSA-N" target="Bifidobacterium longum" id="117" weight="0.0087268806794901" />
+      <edge source="C18_negative|IK:CKEXCBVNKRHAMX-UHFFFAOYSA-N" target="Mycobacterium marseillense" id="118" weight="0.0083576599237898" />
+      <edge source="C18_negative|IK:CKEXCBVNKRHAMX-UHFFFAOYSA-N" target="Nitrobacter hamburgensis" id="119" weight="0.0077937835549897" />
+      <edge source="C18_negative|IK:CKEXCBVNKRHAMX-UHFFFAOYSA-N" target="Gottschalkia acidurici" id="120" weight="0.0077172544450602" />
+      <edge source="C18_negative|IK:CKEXCBVNKRHAMX-UHFFFAOYSA-N" target="Brachybacterium saurashtrense" id="121" weight="0.0055774653138795" />
+      <edge source="C18_negative|IK:CKEXCBVNKRHAMX-UHFFFAOYSA-N" target="Kocuria palustris" id="122" weight="0.0055378627171794" />
+      <edge source="C18_negative|IK:CKEXCBVNKRHAMX-UHFFFAOYSA-N" target="Geobacillus thermoleovorans" id="123" weight="0.0046452804880744" />
+      <edge source="C18_negative|IK:CKEXCBVNKRHAMX-UHFFFAOYSA-N" target="Pseudolabrys taiwanensis" id="124" weight="0.0045545298999305" />
+      <edge source="C18_negative|IK:CKEXCBVNKRHAMX-UHFFFAOYSA-N" target="Gordonia sp. MMS17-SY073" id="125" weight="0.0043192637653312" />
+      <edge source="C18_negative|IK:CKEXCBVNKRHAMX-UHFFFAOYSA-N" target="Kocuria turfanensis" id="126" weight="0.0042151618679283" />
+      <edge source="C18_negative|IK:CKEXCBVNKRHAMX-UHFFFAOYSA-N" target="Dermabacter vaginalis" id="127" weight="0.0040425139451091" />
+      <edge source="C18_negative|IK:CKEXCBVNKRHAMX-UHFFFAOYSA-N" target="Bradyrhizobium sp. BTAi1" id="128" weight="0.0040120734810875" />
+      <edge source="Bradyrhizobium lablabi" target="C18_negative|IK:CSGSKMJWQQEEQK-NHCPJIJJSA-N" id="129" weight="0.0061749700369131" />
+      <edge source="C18_negative|IK:CSGSKMJWQQEEQK-NHCPJIJJSA-N" target="Bradyrhizobium sp. WSM471" id="130" weight="0.0109691760574764" />
+      <edge source="C18_negative|IK:CSGSKMJWQQEEQK-NHCPJIJJSA-N" target="Pseudomonas umsongensis" id="131" weight="0.0137901680556227" />
+      <edge source="C18_negative|IK:CSGSKMJWQQEEQK-NHCPJIJJSA-N" target="Marivirga tractuosa" id="132" weight="0.0246893429520585" />
+      <edge source="C18_negative|IK:CSGSKMJWQQEEQK-NHCPJIJJSA-N" target="Acidobacteriaceae bacterium SBC82" id="133" weight="0.0166087772897041" />
+      <edge source="C18_negative|IK:CSGSKMJWQQEEQK-NHCPJIJJSA-N" target="Owenweeksia hongkongensis" id="134" weight="0.012808653393651" />
+      <edge source="C18_negative|IK:CSGSKMJWQQEEQK-NHCPJIJJSA-N" target="Hymenobacter sp. PAMC 26554" id="135" weight="0.00989169843023" />
+      <edge source="C18_negative|IK:CSGSKMJWQQEEQK-NHCPJIJJSA-N" target="Flavobacterium indicum" id="136" weight="0.0089157647512839" />
+      <edge source="C18_negative|IK:CSGSKMJWQQEEQK-NHCPJIJJSA-N" target="Polaromonas sp. SP1" id="137" weight="0.0065409014757401" />
+      <edge source="Devosia sp. A16" target="C18_negative|IK:CZDNLUMNELLDDD-QZFWYPLZSA-N" id="138" weight="0.0229556611407409" />
+      <edge source="C18_negative|IK:CZDNLUMNELLDDD-QZFWYPLZSA-N" target="soil_total_C" id="139" weight="0.0437174198630043" />
+      <edge source="C18_negative|IK:CZDNLUMNELLDDD-QZFWYPLZSA-N" target="Buttiauxella sp. 3AFRM03" id="140" weight="0.013460966225066" />
+      <edge source="C18_negative|IK:CZDNLUMNELLDDD-QZFWYPLZSA-N" target="psize__Soil Sand Content %" id="141" weight="0.0690000312087457" />
+      <edge source="C18_negative|IK:CZDNLUMNELLDDD-QZFWYPLZSA-N" target="Sulfurihydrogenibium sp. YO3AOP1" id="142" weight="0.0323683641817159" />
+      <edge source="C18_negative|IK:CZDNLUMNELLDDD-QZFWYPLZSA-N" target="Borreliella burgdorferi" id="143" weight="0.008422907754885" />
+      <edge source="C18_negative|IK:CZDNLUMNELLDDD-QZFWYPLZSA-N" target="Streptomyces virus Amela" id="144" weight="0.0495161011524641" />
+      <edge source="C18_negative|IK:CZDNLUMNELLDDD-QZFWYPLZSA-N" target="Mesorhizobium phage vB_MloP_Lo5R7ANS" id="145" weight="0.0240508609675114" />
+      <edge source="C18_negative|IK:CZDNLUMNELLDDD-QZFWYPLZSA-N" target="Thermotoga maritima" id="146" weight="0.014375419075594" />
+      <edge source="C18_negative|IK:CZDNLUMNELLDDD-QZFWYPLZSA-N" target="Caulobacter vibrioides" id="147" weight="0.0134667199667674" />
+      <edge source="C18_negative|IK:CZDNLUMNELLDDD-QZFWYPLZSA-N" target="Caulobacter segnis" id="148" weight="0.0121242627888239" />
+      <edge source="C18_negative|IK:CZDNLUMNELLDDD-QZFWYPLZSA-N" target="Treponema primitia" id="149" weight="0.0092933594156525" />
+      <edge source="C18_negative|IK:CZDNLUMNELLDDD-QZFWYPLZSA-N" target="Burkholderia mallei" id="150" weight="0.0086906515708014" />
+      <edge source="C18_negative|IK:CZDNLUMNELLDDD-QZFWYPLZSA-N" target="Desulfobacula toluolica" id="151" weight="0.0073082410411898" />
+      <edge source="C18_negative|IK:CZDNLUMNELLDDD-QZFWYPLZSA-N" target="Sphingopyxis sp. EG6" id="152" weight="0.0068847402795812" />
+      <edge source="C18_negative|IK:CZDNLUMNELLDDD-QZFWYPLZSA-N" target="Corynebacterium diphtheriae" id="153" weight="0.0066831817609649" />
+      <edge source="Lacunisphaera limnophila" target="C18_negative|IK:DJOJDHGQRNZXQQ-UHFFFAOYSA-N" id="154" weight="0.0113946527062974" />
+      <edge source="C18_negative|IK:DJOJDHGQRNZXQQ-UHFFFAOYSA-N" target="nitrif__Rate (mg NO3-N/kilogram dry weight soil/day)" id="155" weight="0.0475479348907934" />
+      <edge source="C18_negative|IK:DJOJDHGQRNZXQQ-UHFFFAOYSA-N" target="Mycobacterium sp. JS623" id="156" weight="0.0326964529009097" />
+      <edge source="C18_negative|IK:DJOJDHGQRNZXQQ-UHFFFAOYSA-N" target="moist__Replicate 1 Mass Water / Mass Dry Soil %" id="157" weight="0.0232279451887901" />
+      <edge source="C18_negative|IK:DJOJDHGQRNZXQQ-UHFFFAOYSA-N" target="Streptomyces sp. SCSIO 03032" id="158" weight="0.0198024007148588" />
+      <edge source="C18_negative|IK:DJOJDHGQRNZXQQ-UHFFFAOYSA-N" target="Streptomyces xiamenensis" id="159" weight="0.0061770193617622" />
+      <edge source="C18_negative|IK:DJOJDHGQRNZXQQ-UHFFFAOYSA-N" target="Burkholderia sp. PAMC 28687" id="160" weight="0.0057023818033133" />
+      <edge source="C18_negative|IK:DJOJDHGQRNZXQQ-UHFFFAOYSA-N" target="Collimonas pratensis" id="161" weight="0.0054583516797017" />
+      <edge source="Massilia sp. WG5" target="C18_negative|IK:CZMRCDWAGMRECN-UGDNZRGBSA-N" id="162" weight="0.0211668940643741" />
+      <edge source="Massilia sp. WG5" target="C18_negative|IK:CFJLERBDXYGARW-TVKJYDDYSA-N" id="163" weight="0.0182249397869543" />
+      <edge source="C18_negative|IK:CZMRCDWAGMRECN-UGDNZRGBSA-N" target="Pantoea agglomerans" id="164" weight="0.0338381978154579" />
+      <edge source="C18_negative|IK:CZMRCDWAGMRECN-UGDNZRGBSA-N" target="Massilia oculi" id="165" weight="0.0324052608153649" />
+      <edge source="C18_negative|IK:CZMRCDWAGMRECN-UGDNZRGBSA-N" target="Erwinia billingiae" id="166" weight="0.0124445492365369" />
+      <edge source="C18_negative|IK:CZMRCDWAGMRECN-UGDNZRGBSA-N" target="Streptomyces roseochromogenus" id="167" weight="0.0164381124614235" />
+      <edge source="C18_negative|IK:CZMRCDWAGMRECN-UGDNZRGBSA-N" target="Sulfuritalea hydrogenivorans" id="168" weight="0.0158060714528537" />
+      <edge source="C18_negative|IK:CZMRCDWAGMRECN-UGDNZRGBSA-N" target="Hydrogenophilus thermoluteolus" id="169" weight="0.0136008617375361" />
+      <edge source="C18_negative|IK:CZMRCDWAGMRECN-UGDNZRGBSA-N" target="Streptomyces lividans" id="170" weight="0.0099911859357575" />
+      <edge source="C18_negative|IK:CZMRCDWAGMRECN-UGDNZRGBSA-N" target="Brucella sp. 141012304" id="171" weight="0.0098036698367496" />
+      <edge source="C18_negative|IK:CZMRCDWAGMRECN-UGDNZRGBSA-N" target="Anabaena cylindrica" id="172" weight="0.0096163555487405" />
+      <edge source="C18_negative|IK:CZMRCDWAGMRECN-UGDNZRGBSA-N" target="Streptomyces griseochromogenes" id="173" weight="0.0078601826834037" />
+      <edge source="C18_negative|IK:CZMRCDWAGMRECN-UGDNZRGBSA-N" target="Rhizobium sp. NT-26" id="174" weight="0.004215583755126" />
+      <edge source="C18_negative|IK:CZMRCDWAGMRECN-UGDNZRGBSA-N" target="Stenotrophomonas sp. SAU14A_NAIMI4_8" id="175" weight="0.0040867660658615" />
+      <edge source="C18_negative|IK:CFJLERBDXYGARW-TVKJYDDYSA-N" target="soil_total_C" id="176" weight="0.1912085677396417" />
+      <edge source="C18_negative|IK:CFJLERBDXYGARW-TVKJYDDYSA-N" target="Paenibacillus crassostreae" id="177" weight="0.0277727742764117" />
+      <edge source="C18_negative|IK:CFJLERBDXYGARW-TVKJYDDYSA-N" target="Pseudomonas alcaligenes" id="178" weight="0.0255062265784358" />
+      <edge source="C18_negative|IK:CFJLERBDXYGARW-TVKJYDDYSA-N" target="Mycobacterium virus D29" id="179" weight="0.0172720294376388" />
+      <edge source="C18_negative|IK:CFJLERBDXYGARW-TVKJYDDYSA-N" target="Leptolyngbya sp. NIES-3755" id="180" weight="0.0149905724890903" />
+      <edge source="C18_negative|IK:CFJLERBDXYGARW-TVKJYDDYSA-N" target="Coprothermobacter proteolyticus" id="181" weight="0.0138626780139678" />
+      <edge source="C18_negative|IK:CFJLERBDXYGARW-TVKJYDDYSA-N" target="Streptomyces virus Zemlya" id="182" weight="0.0120718790809095" />
+      <edge source="C18_negative|IK:CFJLERBDXYGARW-TVKJYDDYSA-N" target="Pseudomonas alkylphenolica" id="183" weight="0.0084584541259426" />
+      <edge source="C18_negative|IK:CFJLERBDXYGARW-TVKJYDDYSA-N" target="chem__Mn (Mehlich 1 mg/kg dry weight)" id="184" weight="0.0073289800371734" />
+      <edge source="C18_negative|IK:CFJLERBDXYGARW-TVKJYDDYSA-N" target="Paenibacillus lentus" id="185" weight="0.005235535607938" />
+      <edge source="Streptomyces virus phiBT1" target="C18_negative|IK:BJHIKXHVCXFQLS-PQLUHFTBSA-N" id="186" weight="0.0092742550629801" />
+      <edge source="C18_negative|IK:BJHIKXHVCXFQLS-PQLUHFTBSA-N" target="Agrobacterium fabrum" id="187" weight="0.018691540015336" />
+      <edge source="C18_negative|IK:BJHIKXHVCXFQLS-PQLUHFTBSA-N" target="Burkholderia phage KS14" id="188" weight="0.011094651687465" />
+      <edge source="C18_negative|IK:BJHIKXHVCXFQLS-PQLUHFTBSA-N" target="Pseudomonas sp. R4-34-07" id="189" weight="0.0508820799555111" />
+      <edge source="C18_negative|IK:BJHIKXHVCXFQLS-PQLUHFTBSA-N" target="Stenotrophomonas nitritireducens" id="190" weight="0.0184645218646031" />
+      <edge source="C18_negative|IK:BJHIKXHVCXFQLS-PQLUHFTBSA-N" target="Lactobacillus delbrueckii" id="191" weight="0.0170172205647586" />
+      <edge source="C18_negative|IK:BJHIKXHVCXFQLS-PQLUHFTBSA-N" target="Streptomyces sp. TLI_053" id="192" weight="0.0128300028665834" />
+      <edge source="C18_negative|IK:BJHIKXHVCXFQLS-PQLUHFTBSA-N" target="Bradyrhizobium japonicum" id="193" weight="0.0116211479717524" />
+      <edge source="C18_negative|IK:BJHIKXHVCXFQLS-PQLUHFTBSA-N" target="Lelliottia sp. WB101" id="194" weight="0.0096630428476939" />
+      <edge source="C18_negative|IK:BJHIKXHVCXFQLS-PQLUHFTBSA-N" target="Cupriavidus pauculus" id="195" weight="0.0081719999786499" />
+      <edge source="C18_negative|IK:BJHIKXHVCXFQLS-PQLUHFTBSA-N" target="soil_pH" id="196" weight="0.0077825465717187" />
+      <edge source="C18_negative|IK:BJHIKXHVCXFQLS-PQLUHFTBSA-N" target="Massilia sp. NR 4-1" id="197" weight="0.0070024482044216" />
+      <edge source="Pseudomonas sp. URMO17WK12:I11" target="C18_negative|IK:CZOXIGOPZRIBJM-TZWBTVLISA-N" id="198" weight="0.0153070151852739" />
+      <edge source="Pseudomonas sp. URMO17WK12:I11" target="C18_negative|IK:DLIKSSGEMUFQOK-UHFFFAOYSA-N" id="199" weight="0.0125087777331488" />
+      <edge source="C18_negative|IK:CZOXIGOPZRIBJM-TZWBTVLISA-N" target="soil_total_N" id="200" weight="0.0133529434962234" />
+      <edge source="C18_negative|IK:CZOXIGOPZRIBJM-TZWBTVLISA-N" target="Novosphingobium sp. P6W" id="201" weight="0.012156008545635" />
+      <edge source="C18_negative|IK:CZOXIGOPZRIBJM-TZWBTVLISA-N" target="Intrasporangium calvum" id="202" weight="0.0237344493951887" />
+      <edge source="C18_negative|IK:CZOXIGOPZRIBJM-TZWBTVLISA-N" target="Pectobacterium carotovorum" id="203" weight="0.0232396414974232" />
+      <edge source="C18_negative|IK:CZOXIGOPZRIBJM-TZWBTVLISA-N" target="Aeromonas sp. ASNIH1" id="204" weight="0.0208491291630028" />
+      <edge source="C18_negative|IK:CZOXIGOPZRIBJM-TZWBTVLISA-N" target="Hymenobacter sp. DG25B" id="205" weight="0.0153125841246294" />
+      <edge source="C18_negative|IK:CZOXIGOPZRIBJM-TZWBTVLISA-N" target="Vibrio natriegens" id="206" weight="0.0081879012051368" />
+      <edge source="C18_negative|IK:CZOXIGOPZRIBJM-TZWBTVLISA-N" target="Salmonella enterica" id="207" weight="0.0071493127992645" />
+      <edge source="C18_negative|IK:CZOXIGOPZRIBJM-TZWBTVLISA-N" target="Dyella jiangningensis" id="208" weight="0.0065121974985126" />
+      <edge source="C18_negative|IK:CZOXIGOPZRIBJM-TZWBTVLISA-N" target="Streptomyces virus Izzy" id="209" weight="0.0063242969244821" />
+      <edge source="C18_negative|IK:CZOXIGOPZRIBJM-TZWBTVLISA-N" target="Pseudomonas salegens" id="210" weight="0.0059540075080762" />
+      <edge source="C18_negative|IK:CZOXIGOPZRIBJM-TZWBTVLISA-N" target="Echinicola strongylocentroti" id="211" weight="0.0057999780309861" />
+      <edge source="C18_negative|IK:CZOXIGOPZRIBJM-TZWBTVLISA-N" target="Pseudoflavitalea sp. 5GH32-13" id="212" weight="0.0053383256163141" />
+      <edge source="C18_negative|IK:DLIKSSGEMUFQOK-UHFFFAOYSA-N" target="Leptolyngbya boryana" id="213" weight="0.0113141568711277" />
+      <edge source="C18_negative|IK:DLIKSSGEMUFQOK-UHFFFAOYSA-N" target="Bacillus licheniformis" id="214" weight="0.0325984607075709" />
+      <edge source="C18_negative|IK:DLIKSSGEMUFQOK-UHFFFAOYSA-N" target="Curtobacterium sp. BH-2-1-1" id="215" weight="0.0812880379555193" />
+      <edge source="C18_negative|IK:DLIKSSGEMUFQOK-UHFFFAOYSA-N" target="Curtobacterium pusillum" id="216" weight="0.0236277528473061" />
+      <edge source="C18_negative|IK:DLIKSSGEMUFQOK-UHFFFAOYSA-N" target="Delftia acidovorans" id="217" weight="0.0193772386131495" />
+      <edge source="C18_negative|IK:DLIKSSGEMUFQOK-UHFFFAOYSA-N" target="Escherichia coli" id="218" weight="0.0136513188598849" />
+      <edge source="C18_negative|IK:DLIKSSGEMUFQOK-UHFFFAOYSA-N" target="Bacillus cereus" id="219" weight="0.0118355129035272" />
+      <edge source="C18_negative|IK:DLIKSSGEMUFQOK-UHFFFAOYSA-N" target="Parabacteroides distasonis" id="220" weight="0.0109576259438746" />
+      <edge source="C18_negative|IK:DLIKSSGEMUFQOK-UHFFFAOYSA-N" target="Pseudomonas aeruginosa" id="221" weight="0.0073036335858701" />
+      <edge source="C18_negative|IK:DLIKSSGEMUFQOK-UHFFFAOYSA-N" target="Dickeya sp. NCPPB 3274" id="222" weight="0.0057849064714522" />
+      <edge source="C18_negative|IK:DLIKSSGEMUFQOK-UHFFFAOYSA-N" target="Gemmatirosa kalamazoonesis" id="223" weight="0.0046437666964134" />
+      <edge source="Streptomyces phage phiSASD1" target="C18_negative|IK:AAWZDTNXLSGCEK-LNVDRNJUSA-N" id="224" weight="0.007791503114419" />
+      <edge source="C18_negative|IK:AAWZDTNXLSGCEK-LNVDRNJUSA-N" target="Pseudomonas sp. R11-23-07" id="225" weight="0.0186585280367884" />
+      <edge source="C18_negative|IK:AAWZDTNXLSGCEK-LNVDRNJUSA-N" target="Pseudomonas brassicacearum" id="226" weight="0.0182800647119509" />
+      <edge source="C18_negative|IK:AAWZDTNXLSGCEK-LNVDRNJUSA-N" target="Polaromonas sp. JS666" id="227" weight="0.018079823147592" />
+      <edge source="C18_negative|IK:AAWZDTNXLSGCEK-LNVDRNJUSA-N" target="Pseudomonas protegens" id="228" weight="0.0160986817491247" />
+      <edge source="C18_negative|IK:AAWZDTNXLSGCEK-LNVDRNJUSA-N" target="Pseudomonas sp. LH1G9" id="229" weight="0.0133580622614634" />
+      <edge source="C18_negative|IK:AAWZDTNXLSGCEK-LNVDRNJUSA-N" target="Neisseria sp. 10023" id="230" weight="0.0100977892291369" />
+      <edge source="C18_negative|IK:AAWZDTNXLSGCEK-LNVDRNJUSA-N" target="Enterobacter hormaechei" id="231" weight="0.0100777190632156" />
+      <edge source="C18_negative|IK:AAWZDTNXLSGCEK-LNVDRNJUSA-N" target="Pseudomonas sp. Z003-0.4C(8344-21)" id="232" weight="0.0093536872601909" />
+      <edge source="C18_negative|IK:AAWZDTNXLSGCEK-LNVDRNJUSA-N" target="Pseudomonas sp. S09G 359" id="233" weight="0.006948345861602" />
+      <edge source="C18_negative|IK:AAWZDTNXLSGCEK-LNVDRNJUSA-N" target="Pseudomonas sp. DR 5-09" id="234" weight="0.0062102162974345" />
+      <edge source="Amycolatopsis mediterranei" target="C18_negative|IK:BJRNKVDFDLYUGJ-UHFFFAOYSA-N" id="235" weight="0.0094029415587718" />
+      <edge source="C18_negative|IK:BJRNKVDFDLYUGJ-UHFFFAOYSA-N" target="Variovorax boronicumulans" id="236" weight="0.0198917427250008" />
+      <edge source="C18_negative|IK:BJRNKVDFDLYUGJ-UHFFFAOYSA-N" target="denit__Rate (microgN/kilogram dry weight soil/day)" id="237" weight="0.0235432306602727" />
+      <edge source="C18_negative|IK:BJRNKVDFDLYUGJ-UHFFFAOYSA-N" target="Actinomadura amylolytica" id="238" weight="0.0091299757387401" />
+      <edge source="C18_negative|IK:BJRNKVDFDLYUGJ-UHFFFAOYSA-N" target="Sulfuricurvum kujiense" id="239" weight="0.0372555561055969" />
+      <edge source="C18_negative|IK:BJRNKVDFDLYUGJ-UHFFFAOYSA-N" target="Microbacterium sp. CGR1" id="240" weight="0.0205631197991939" />
+      <edge source="C18_negative|IK:BJRNKVDFDLYUGJ-UHFFFAOYSA-N" target="Xanthomonas euvesicatoria" id="241" weight="0.0135147701227492" />
+      <edge source="C18_negative|IK:BJRNKVDFDLYUGJ-UHFFFAOYSA-N" target="Flavobacterium commune" id="242" weight="0.012648311839225" />
+      <edge source="C18_negative|IK:BJRNKVDFDLYUGJ-UHFFFAOYSA-N" target="Microbacterium foliorum" id="243" weight="0.012246668492487" />
+      <edge source="C18_negative|IK:BJRNKVDFDLYUGJ-UHFFFAOYSA-N" target="Variovorax sp. PMC12" id="244" weight="0.0118410704017683" />
+      <edge source="C18_negative|IK:BJRNKVDFDLYUGJ-UHFFFAOYSA-N" target="Wolbachia endosymbiont of Drosophila melanogaster" id="245" weight="0.0096403958824174" />
+      <edge source="C18_negative|IK:BJRNKVDFDLYUGJ-UHFFFAOYSA-N" target="Candidatus Methylopumilus turicensis" id="246" weight="0.0078373165193293" />
+      <edge source="C18_negative|IK:BJRNKVDFDLYUGJ-UHFFFAOYSA-N" target="Pseudomonas silesiensis" id="247" weight="0.0076287215907438" />
+      <edge source="C18_negative|IK:BJRNKVDFDLYUGJ-UHFFFAOYSA-N" target="Endozoicomonas montiporae" id="248" weight="0.0066570879198233" />
+      <edge source="Pseudomonas sp. LH1G9" target="C18_negative|IK:BJEPYKJPYRNKOW-REOHCLBHSA-N" id="249" weight="0.0373356581933153" />
+      <edge source="C18_negative|IK:BJEPYKJPYRNKOW-REOHCLBHSA-N" target="Pseudomonas sp. MYb193" id="250" weight="0.0148340093428608" />
+      <edge source="C18_negative|IK:BJEPYKJPYRNKOW-REOHCLBHSA-N" target="Pseudomonas alcaliphila" id="251" weight="0.0149735380960399" />
+      <edge source="C18_negative|IK:BJEPYKJPYRNKOW-REOHCLBHSA-N" target="Luteibacter rhizovicinus" id="252" weight="0.0196561205077178" />
+      <edge source="C18_negative|IK:BJEPYKJPYRNKOW-REOHCLBHSA-N" target="Raoultella ornithinolytica" id="253" weight="0.0141860213539966" />
+      <edge source="C18_negative|IK:BJEPYKJPYRNKOW-REOHCLBHSA-N" target="Pseudomonas sp. K2W31S-8" id="254" weight="0.0228090450454326" />
+      <edge source="C18_negative|IK:BJEPYKJPYRNKOW-REOHCLBHSA-N" target="Pseudomonas entomophila" id="255" weight="0.0255102053130981" />
+      <edge source="C18_negative|IK:BJEPYKJPYRNKOW-REOHCLBHSA-N" target="Pseudomonas sp. s211(2017)" id="256" weight="0.0133335277637549" />
+      <edge source="C18_negative|IK:BJEPYKJPYRNKOW-REOHCLBHSA-N" target="Pseudomonas sp. DY-1" id="257" weight="0.0112218945291014" />
+      <edge source="C18_negative|IK:BJEPYKJPYRNKOW-REOHCLBHSA-N" target="Pseudomonas granadensis" id="258" weight="0.0079346816561363" />
+      <edge source="C18_negative|IK:BJEPYKJPYRNKOW-REOHCLBHSA-N" target="Pseudomonas kribbensis" id="259" weight="0.0078295320992917" />
+      <edge source="C18_negative|IK:BJEPYKJPYRNKOW-REOHCLBHSA-N" target="Pseudomonas lurida" id="260" weight="0.0063946512803194" />
+      <edge source="C18_negative|IK:BJEPYKJPYRNKOW-REOHCLBHSA-N" target="Rhizobium phage 16-3" id="261" weight="0.0058503576621109" />
+      <edge source="C18_negative|IK:BJEPYKJPYRNKOW-REOHCLBHSA-N" target="Pseudomonas sp. JY-Q" id="262" weight="0.0055185678599104" />
+      <edge source="Xenorhabdus bovienii" target="C18_negative|IK:BDJRBEYXGGNYIS-UHFFFAOYSA-N" id="263" weight="0.0097060396711435" />
+      <edge source="C18_negative|IK:BDJRBEYXGGNYIS-UHFFFAOYSA-N" target="Cupriavidus necator" id="264" weight="0.0210540766770938" />
+      <edge source="C18_negative|IK:BDJRBEYXGGNYIS-UHFFFAOYSA-N" target="Cupriavidus taiwanensis" id="265" weight="0.0404162854408452" />
+      <edge source="C18_negative|IK:BDJRBEYXGGNYIS-UHFFFAOYSA-N" target="Neorhizobium galegae" id="266" weight="0.0294678157316419" />
+      <edge source="C18_negative|IK:BDJRBEYXGGNYIS-UHFFFAOYSA-N" target="Janthinobacterium sp. Marseille" id="267" weight="0.0202887866604234" />
+      <edge source="C18_negative|IK:BDJRBEYXGGNYIS-UHFFFAOYSA-N" target="Ralstonia insidiosa" id="268" weight="0.0196875683824151" />
+      <edge source="C18_negative|IK:BDJRBEYXGGNYIS-UHFFFAOYSA-N" target="Ralstonia pickettii" id="269" weight="0.0174744426345587" />
+      <edge source="C18_negative|IK:BDJRBEYXGGNYIS-UHFFFAOYSA-N" target="Ornithobacterium rhinotracheale" id="270" weight="0.0121042076413949" />
+      <edge source="C18_negative|IK:BDJRBEYXGGNYIS-UHFFFAOYSA-N" target="Massilia violaceinigra" id="271" weight="0.0113559592940326" />
+      <edge source="C18_negative|IK:BDJRBEYXGGNYIS-UHFFFAOYSA-N" target="Herminiimonas arsenicoxydans" id="272" weight="0.011120820616253" />
+      <edge source="C18_negative|IK:BDJRBEYXGGNYIS-UHFFFAOYSA-N" target="Stenotrophomonas sp. YAU14A_MKIMI4_1" id="273" weight="0.0071358805322345" />
+      <edge source="C18_negative|IK:BDJRBEYXGGNYIS-UHFFFAOYSA-N" target="Herbaspirillum seropedicae" id="274" weight="0.0064593728157322" />
+      <edge source="C18_negative|IK:BDJRBEYXGGNYIS-UHFFFAOYSA-N" target="Bosea vaviloviae" id="275" weight="0.0053343071137933" />
+      <edge source="Pseudomonas thivervalensis" target="C18_negative|IK:CWVRJTMFETXNAD-UHFFFAOYSA-N" id="276" weight="0.0097848955816021" />
+      <edge source="C18_negative|IK:CWVRJTMFETXNAD-UHFFFAOYSA-N" target="Cupriavidus necator" id="277" weight="0.0275557549407233" />
+      <edge source="C18_negative|IK:CWVRJTMFETXNAD-UHFFFAOYSA-N" target="Pseudomonas reinekei" id="278" weight="0.0266642623146595" />
+      <edge source="C18_negative|IK:CWVRJTMFETXNAD-UHFFFAOYSA-N" target="nitrif__Rate (mg NO3-N/kilogram dry weight soil/day)" id="279" weight="0.0176456176582868" />
+      <edge source="C18_negative|IK:CWVRJTMFETXNAD-UHFFFAOYSA-N" target="Wolbachia endosymbiont of Brugia malayi" id="280" weight="0.0080700750852923" />
+      <edge source="C18_negative|IK:CWVRJTMFETXNAD-UHFFFAOYSA-N" target="Bordetella pertussis" id="281" weight="0.0218862332726402" />
+      <edge source="C18_negative|IK:CWVRJTMFETXNAD-UHFFFAOYSA-N" target="Bordetella pseudohinzii" id="282" weight="0.0155017037983018" />
+      <edge source="C18_negative|IK:CWVRJTMFETXNAD-UHFFFAOYSA-N" target="Azospira oryzae" id="283" weight="0.009650782509488" />
+      <edge source="C18_negative|IK:CWVRJTMFETXNAD-UHFFFAOYSA-N" target="Mesorhizobium sp. DCY119" id="284" weight="0.0084392737181332" />
+      <edge source="C18_negative|IK:CWVRJTMFETXNAD-UHFFFAOYSA-N" target="Bordetella flabilis" id="285" weight="0.0072181064429401" />
+      <edge source="C18_negative|IK:CWVRJTMFETXNAD-UHFFFAOYSA-N" target="Yersinia massiliensis" id="286" weight="0.0065509556436343" />
+      <edge source="C18_negative|IK:CWVRJTMFETXNAD-UHFFFAOYSA-N" target="Pseudomonas saudiphocaensis" id="287" weight="0.0063952663217357" />
+      <edge source="Pseudomonas umsongensis" target="C18_negative|IK:BPSJMBKZSUTYNF-GXCUHXBUSA-N" id="288" weight="0.1220847320987777" />
+      <edge source="C18_negative|IK:BPSJMBKZSUTYNF-GXCUHXBUSA-N" target="Luteibacter rhizovicinus" id="289" weight="0.0141961650344812" />
+      <edge source="C18_negative|IK:BPSJMBKZSUTYNF-GXCUHXBUSA-N" target="Halomonas sp. JS92-SW72" id="290" weight="0.0047870726778986" />
+      <edge source="C18_negative|IK:BPSJMBKZSUTYNF-GXCUHXBUSA-N" target="Burkholderia insecticola" id="291" weight="0.0044261533921541" />
+      <edge source="Cupriavidus basilensis" target="C18_negative|IK:AKEUNCKRJATALU-UHFFFAOYSA-N" id="292" weight="0.0392304854303962" />
+      <edge source="C18_negative|IK:AKEUNCKRJATALU-UHFFFAOYSA-N" target="Pseudomonas reinekei" id="293" weight="0.0152601953709609" />
+      <edge source="C18_negative|IK:AKEUNCKRJATALU-UHFFFAOYSA-N" target="Xanthomonas citri" id="294" weight="0.0162288446951019" />
+      <edge source="C18_negative|IK:AKEUNCKRJATALU-UHFFFAOYSA-N" target="Pseudomonas sp. LAB-08" id="295" weight="0.0204340986542264" />
+      <edge source="C18_negative|IK:AKEUNCKRJATALU-UHFFFAOYSA-N" target="Stenotrophomonas sp. MYb57" id="296" weight="0.0178042837264881" />
+      <edge source="C18_negative|IK:AKEUNCKRJATALU-UHFFFAOYSA-N" target="Burkholderia sp. PAMC 26561" id="297" weight="0.0112824268231597" />
+      <edge source="C18_negative|IK:AKEUNCKRJATALU-UHFFFAOYSA-N" target="Lactobacillus crispatus" id="298" weight="0.0102039796140173" />
+      <edge source="C18_negative|IK:AKEUNCKRJATALU-UHFFFAOYSA-N" target="Streptomyces virus Sujidade" id="299" weight="0.0082324530812285" />
+      <edge source="C18_negative|IK:AKEUNCKRJATALU-UHFFFAOYSA-N" target="Burkholderia sp. CCGE1002" id="300" weight="0.0071340982663069" />
+      <edge source="C18_negative|IK:AKEUNCKRJATALU-UHFFFAOYSA-N" target="Pseudoxanthomonas spadix" id="301" weight="0.0067026833772957" />
+      <edge source="C18_negative|IK:AKEUNCKRJATALU-UHFFFAOYSA-N" target="Paraburkholderia phymatum" id="302" weight="0.0062530495888956" />
+      <edge source="C18_negative|IK:AKEUNCKRJATALU-UHFFFAOYSA-N" target="Aquitalea magnusonii" id="303" weight="0.0058034579028253" />
+      <edge source="C18_negative|IK:AKEUNCKRJATALU-UHFFFAOYSA-N" target="Ensifer adhaerens" id="304" weight="0.0054088741960306" />
+      <edge source="C18_negative|IK:AKEUNCKRJATALU-UHFFFAOYSA-N" target="Rhizobium phaseoli" id="305" weight="0.0053023841321001" />
+      <edge source="C18_negative|IK:AKEUNCKRJATALU-UHFFFAOYSA-N" target="Bordetella parapertussis" id="306" weight="0.0052006723084213" />
+      <edge source="C18_negative|IK:AKEUNCKRJATALU-UHFFFAOYSA-N" target="Agromyces sp. 30A" id="307" weight="0.0049725302569515" />
+      <edge source="Bradyrhizobium sp." target="C18_negative|IK:CDRPUGZCRXZLFL-UHFFFAOYSA-N" id="308" weight="0.0495937215824742" />
+      <edge source="C18_negative|IK:CDRPUGZCRXZLFL-UHFFFAOYSA-N" target="Paraburkholderia graminis" id="309" weight="0.0453523729285862" />
+      <edge source="C18_negative|IK:CDRPUGZCRXZLFL-UHFFFAOYSA-N" target="Burkholderia phage KS14" id="310" weight="0.0303546813313857" />
+      <edge source="C18_negative|IK:CDRPUGZCRXZLFL-UHFFFAOYSA-N" target="Amycolatopsis sp. AA4" id="311" weight="0.0184971478109954" />
+      <edge source="C18_negative|IK:CDRPUGZCRXZLFL-UHFFFAOYSA-N" target="Rhodococcus sp. 2G" id="312" weight="0.0121829023989069" />
+      <edge source="C18_negative|IK:CDRPUGZCRXZLFL-UHFFFAOYSA-N" target="Variovorax boronicumulans" id="313" weight="0.0114417315382719" />
+      <edge source="C18_negative|IK:CDRPUGZCRXZLFL-UHFFFAOYSA-N" target="Modestobacter marinus" id="314" weight="0.0107720526002291" />
+      <edge source="C18_negative|IK:CDRPUGZCRXZLFL-UHFFFAOYSA-N" target="Alteromonas macleodii" id="315" weight="0.0098138047382671" />
+      <edge source="C18_negative|IK:CDRPUGZCRXZLFL-UHFFFAOYSA-N" target="Pantoea vagans" id="316" weight="0.0097495540901541" />
+      <edge source="C18_negative|IK:CDRPUGZCRXZLFL-UHFFFAOYSA-N" target="Bacillus velezensis" id="317" weight="0.0088544868786956" />
+      <edge source="C18_negative|IK:CDRPUGZCRXZLFL-UHFFFAOYSA-N" target="Bacillus muralis" id="318" weight="0.0080901576841787" />
+      <edge source="C18_negative|IK:CDRPUGZCRXZLFL-UHFFFAOYSA-N" target="Rhizobium sp. NXC14" id="319" weight="0.0078223807467212" />
+      <edge source="C18_negative|IK:CDRPUGZCRXZLFL-UHFFFAOYSA-N" target="Pseudomonas sp. B10" id="320" weight="0.0073812784234753" />
+      <edge source="Ornithobacterium rhinotracheale" target="C18_negative|IK:CQSLTKIXAJTQGA-FLIBITNWSA-N" id="321" weight="0.0190544659185091" />
+      <edge source="C18_negative|IK:CQSLTKIXAJTQGA-FLIBITNWSA-N" target="Pseudomonas sp. GR 6-02" id="322" weight="0.0227814023757124" />
+      <edge source="C18_negative|IK:CQSLTKIXAJTQGA-FLIBITNWSA-N" target="Alcaligenes faecalis" id="323" weight="0.0233239682856452" />
+      <edge source="C18_negative|IK:CQSLTKIXAJTQGA-FLIBITNWSA-N" target="Flavobacterium gilvum" id="324" weight="0.0660064427528637" />
+      <edge source="C18_negative|IK:CQSLTKIXAJTQGA-FLIBITNWSA-N" target="Serratia sp. 3ACOL1" id="325" weight="0.0301641175097652" />
+      <edge source="C18_negative|IK:CQSLTKIXAJTQGA-FLIBITNWSA-N" target="Streptomyces sviceus" id="326" weight="0.0215968694069747" />
+      <edge source="C18_negative|IK:CQSLTKIXAJTQGA-FLIBITNWSA-N" target="Rhodococcus sp. MTM3W5.2" id="327" weight="0.0209044503110823" />
+      <edge source="C18_negative|IK:CQSLTKIXAJTQGA-FLIBITNWSA-N" target="Pseudarthrobacter equi" id="328" weight="0.0165768827755223" />
+      <edge source="C18_negative|IK:CQSLTKIXAJTQGA-FLIBITNWSA-N" target="Clostridium butyricum" id="329" weight="0.0085082815070273" />
+      <edge source="C18_negative|IK:CQSLTKIXAJTQGA-FLIBITNWSA-N" target="Streptomyces globosus" id="330" weight="0.0084201597424061" />
+      <edge source="C18_negative|IK:CQSLTKIXAJTQGA-FLIBITNWSA-N" target="Escherichia fergusonii" id="331" weight="0.0072865283087789" />
+      <edge source="C18_negative|IK:CQSLTKIXAJTQGA-FLIBITNWSA-N" target="Flavobacterium crassostreae" id="332" weight="0.0070640030597277" />
+      <edge source="C18_negative|IK:CQSLTKIXAJTQGA-FLIBITNWSA-N" target="Actinoplanes sp. SE50/110" id="333" weight="0.0068679050748907" />
+      <edge source="C18_negative|IK:CQSLTKIXAJTQGA-FLIBITNWSA-N" target="Clostridium saccharoperbutylacetonicum" id="334" weight="0.0064260862501143" />
+      <edge source="C18_negative|IK:CQSLTKIXAJTQGA-FLIBITNWSA-N" target="Microvirga ossetica" id="335" weight="0.0061022385149564" />
+      <edge source="C18_negative|IK:CQSLTKIXAJTQGA-FLIBITNWSA-N" target="Edwardsiella anguillarum" id="336" weight="0.0046503946645124" />
+      <edge source="Chryseolinea sp. KIS68-18" target="C18_negative|IK:BJRNKVDFDLYUGJ-RMPHRYRLSA-N" id="337" weight="0.0456176408426725" />
+      <edge source="C18_negative|IK:BJRNKVDFDLYUGJ-RMPHRYRLSA-N" target="Sulfurihydrogenibium sp. YO3AOP1" id="338" weight="0.0392803569857426" />
+      <edge source="C18_negative|IK:BJRNKVDFDLYUGJ-RMPHRYRLSA-N" target="Corynebacterium camporealensis" id="339" weight="0.0080562556371833" />
+      <edge source="C18_negative|IK:BJRNKVDFDLYUGJ-RMPHRYRLSA-N" target="Nakamurella multipartita" id="340" weight="0.0075122840784263" />
+      <edge source="C18_negative|IK:BJRNKVDFDLYUGJ-RMPHRYRLSA-N" target="Thermomonospora curvata" id="341" weight="0.0072928414285539" />
+      <edge source="C18_negative|IK:BJRNKVDFDLYUGJ-RMPHRYRLSA-N" target="Mycobacterium liflandii" id="342" weight="0.0056523225432424" />
+      <edge source="C18_negative|IK:BJRNKVDFDLYUGJ-RMPHRYRLSA-N" target="Rhodococcus aetherivorans" id="343" weight="0.0053363500362201" />
+      <edge source="C18_negative|IK:BJRNKVDFDLYUGJ-RMPHRYRLSA-N" target="Roseobacter denitrificans" id="344" weight="0.0051491370358857" />
+      <edge source="C18_negative|IK:BJRNKVDFDLYUGJ-RMPHRYRLSA-N" target="Frankia symbiont of Datisca glomerata" id="345" weight="0.0051206452836933" />
+      <edge source="C18_negative|IK:BJRNKVDFDLYUGJ-RMPHRYRLSA-N" target="Streptococcus gordonii" id="346" weight="0.0046414599354145" />
+      <edge source="C18_negative|IK:BJRNKVDFDLYUGJ-RMPHRYRLSA-N" target="Pseudomonas sp. TMW 2.1634" id="347" weight="0.0045400034080425" />
+      <edge source="Phycicoccus dokdonensis" target="C18_negative|IK:DLRVVLDZNNYCBX-ABXHMFFYSA-N" id="348" weight="0.0292586021375311" />
+      <edge source="C18_negative|IK:DLRVVLDZNNYCBX-ABXHMFFYSA-N" target="Luteibacter rhizovicinus" id="349" weight="0.0195023176628035" />
+      <edge source="C18_negative|IK:DLRVVLDZNNYCBX-ABXHMFFYSA-N" target="Enterobacter sp. 638" id="350" weight="0.0159257510599647" />
+      <edge source="C18_negative|IK:DLRVVLDZNNYCBX-ABXHMFFYSA-N" target="Nostoc sp. 'Lobaria pulmonaria (5183) cyanobiont'" id="351" weight="0.0147576307639164" />
+      <edge source="C18_negative|IK:DLRVVLDZNNYCBX-ABXHMFFYSA-N" target="Microbacterium sp. BH-3-3-3" id="352" weight="0.0096781967734024" />
+      <edge source="C18_negative|IK:DLRVVLDZNNYCBX-ABXHMFFYSA-N" target="Streptomyces albulus" id="353" weight="0.0095448899045345" />
+      <edge source="C18_negative|IK:DLRVVLDZNNYCBX-ABXHMFFYSA-N" target="Rhodoferax saidenbachensis" id="354" weight="0.0083707988797613" />
+      <edge source="C18_negative|IK:DLRVVLDZNNYCBX-ABXHMFFYSA-N" target="Streptomyces hundungensis" id="355" weight="0.0082478636454464" />
+      <edge source="C18_negative|IK:DLRVVLDZNNYCBX-ABXHMFFYSA-N" target="Halobacteriovorax sp. BALOs_7" id="356" weight="0.0080363655962719" />
+      <edge source="C18_negative|IK:DLRVVLDZNNYCBX-ABXHMFFYSA-N" target="Candidatus Koribacter versatilis" id="357" weight="0.0080100465090212" />
+      <edge source="C18_negative|IK:DLRVVLDZNNYCBX-ABXHMFFYSA-N" target="Amycolatopsis sp. BJA-103" id="358" weight="0.0072858196268006" />
+      <edge source="C18_negative|IK:DLRVVLDZNNYCBX-ABXHMFFYSA-N" target="Marinomonas mediterranea" id="359" weight="0.0072254409140186" />
+      <edge source="C18_negative|IK:DLRVVLDZNNYCBX-ABXHMFFYSA-N" target="Arthrobacter sp. ERGS1:01" id="360" weight="0.0065559971926949" />
+      <edge source="C18_negative|IK:DLRVVLDZNNYCBX-ABXHMFFYSA-N" target="Curtobacterium sp. MR_MD2014" id="361" weight="0.0058164462123629" />
+      <edge source="C18_negative|IK:DLRVVLDZNNYCBX-ABXHMFFYSA-N" target="Streptomyces atratus" id="362" weight="0.0056742273328649" />
+      <edge source="C18_negative|IK:DLRVVLDZNNYCBX-ABXHMFFYSA-N" target="Rhodanobacter denitrificans" id="363" weight="0.0055941129323698" />
+      <edge source="Enterobacter sp. 638" target="C18_negative|IK:DRTQHJPVMGBUCF-XVFCMESISA-N" id="364" weight="0.0451338615133402" />
+      <edge source="C18_negative|IK:DRTQHJPVMGBUCF-XVFCMESISA-N" target="Xanthomonas campestris" id="365" weight="0.022428642838694" />
+      <edge source="C18_negative|IK:DRTQHJPVMGBUCF-XVFCMESISA-N" target="Helicobacter pylori" id="366" weight="0.0090514395354425" />
+      <edge source="C18_negative|IK:DRTQHJPVMGBUCF-XVFCMESISA-N" target="psize__Soil Clay Content %" id="367" weight="0.055582784714498" />
+      <edge source="C18_negative|IK:DRTQHJPVMGBUCF-XVFCMESISA-N" target="Methylotenera mobilis" id="368" weight="0.0511364173941685" />
+      <edge source="C18_negative|IK:DRTQHJPVMGBUCF-XVFCMESISA-N" target="Polaribacter sp. SA4-10" id="369" weight="0.0300162907517852" />
+      <edge source="C18_negative|IK:DRTQHJPVMGBUCF-XVFCMESISA-N" target="Caulobacter sp. K31" id="370" weight="0.0139763423499895" />
+      <edge source="C18_negative|IK:DRTQHJPVMGBUCF-XVFCMESISA-N" target="Pantoea rwandensis" id="371" weight="0.0073389501155214" />
+      <edge source="C18_negative|IK:DRTQHJPVMGBUCF-XVFCMESISA-N" target="chem__Mg (Mehlich 1 mg/kg dry weight)" id="372" weight="0.0067634865578389" />
+      <edge source="C18_negative|IK:DRTQHJPVMGBUCF-XVFCMESISA-N" target="Methylomonas clara" id="373" weight="0.0060156094290454" />
+      <edge source="C18_negative|IK:DRTQHJPVMGBUCF-XVFCMESISA-N" target="Azotobacter vinelandii" id="374" weight="0.005807392837539" />
+      <edge source="C18_negative|IK:DRTQHJPVMGBUCF-XVFCMESISA-N" target="Mycobacterium sp. YC-RL4" id="375" weight="0.0057177215804921" />
+      <edge source="C18_negative|IK:DRTQHJPVMGBUCF-XVFCMESISA-N" target="Microcystis sp. MC19" id="376" weight="0.0055675980077742" />
+      <edge source="C18_negative|IK:DRTQHJPVMGBUCF-XVFCMESISA-N" target="Neisseria gonorrhoeae" id="377" weight="0.0053047596463547" />
+      <edge source="C18_negative|IK:DRTQHJPVMGBUCF-XVFCMESISA-N" target="Mycolicibacterium gilvum" id="378" weight="0.0045950299773933" />
+      <edge source="C18_negative|IK:DRTQHJPVMGBUCF-XVFCMESISA-N" target="Algoriphagus machipongonensis" id="379" weight="0.0044160592182227" />
+    </edges>
+  </graph>
+</gexf>

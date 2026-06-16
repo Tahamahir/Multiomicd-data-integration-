@@ -1,0 +1,31 @@
+node_id,label,display_label,node_type,degree,weighted_degree,betweenness,hub_score,label_short,clean_name,biological_category
+F::Pseudomonas umsongensis,Pseudomonas umsongensis,Pseudomonas umsonge...,microbe,2,0.1548181050218282,0.0006060606060606,0.8051980198019801,Pseudomonas umsongensis,Pseudomonas,microbe_Pseudomonas
+F::Chryseolinea sp. KIS68-18,Chryseolinea sp. KIS68-18,Chryseolinea sp. KI...,microbe,2,0.0852682883436208,0.0012121212121212,0.7623762376237623,Chryseolinea sp. KIS68-18,Chryseolinea sp. KIS68-18,microbe_other
+F::Methylotenera mobilis,Methylotenera mobilis,Methylotenera mobilis,microbe,2,0.1582023311369969,0.0,0.7423267326732673,Methylotenera mobilis,Methylotenera,microbe_Methylotenera
+F::Enterobacter sp. 638,Enterobacter sp. 638,Enterobacter sp. 638,microbe,2,0.0700591734423909,0.0002020202020202,0.6995049504950495,Enterobacter sp. 638,Enterobacter,microbe_Enterobacter
+F::Cupriavidus necator,Cupriavidus necator,Cupriavidus necator,microbe,2,0.048609831617817,0.0018181818181818,0.685891089108911,Cupriavidus necator,Cupriavidus,microbe_Cupriavidus
+F::Curtobacterium sp. BH-2-1-1,Curtobacterium sp. BH-2-1-1,Curtobacterium sp. ...,microbe,1,0.0812880379555193,0.0,0.4705445544554456,Curtobacterium sp. BH-2-1-1,Curtobacterium sp. BH-2-1-1,microbe_other
+F::Agrobacterium tumefaciens,Agrobacterium tumefaciens,Agrobacterium tumef...,microbe,1,0.0782461284976896,0.0,0.4636138613861386,Agrobacterium tumefaciens,Agrobacterium,microbe_Agrobacterium
+F::Flavobacterium gilvum,Flavobacterium gilvum,Flavobacterium gilvum,microbe,1,0.0660064427528637,0.0,0.4393564356435643,Flavobacterium gilvum,Flavobacterium,microbe_Flavobacterium
+F::Paenibacillus sp. FSL R5-0912,Paenibacillus sp. FSL R5-0912,Paenibacillus sp. F...,microbe,1,0.0642841287584557,0.0,0.4358910891089109,Paenibacillus sp. FSL R5-0912,Paenibacillus,microbe_Paenibacillus
+F::Niastella koreensis,Niastella koreensis,Niastella koreensis,microbe,1,0.0542676321131406,0.0,0.4254950495049505,Niastella koreensis,Niastella koreensis,microbe_other
+F::Paenibacillus borealis,Paenibacillus borealis,Paenibacillus borealis,microbe,1,0.0540009721741803,0.0,0.422029702970297,Paenibacillus borealis,Paenibacillus,microbe_Paenibacillus
+F::Pseudomonas sp. R4-34-07,Pseudomonas sp. R4-34-07,Pseudomonas sp. R4-...,microbe,1,0.0508820799555111,0.0,0.4185643564356435,Pseudomonas sp. R4-34-07,Pseudomonas,microbe_Pseudomonas
+F::Bradyrhizobium sp.,Bradyrhizobium sp.,Bradyrhizobium sp.,microbe,1,0.0495937215824742,0.0,0.4116336633663366,Bradyrhizobium sp.,Rhizobium,microbe_Rhizobium
+F::Streptomyces virus Amela,Streptomyces virus Amela,Streptomyces virus ...,microbe,1,0.0495161011524641,0.0,0.4081683168316831,Streptomyces virus Amela,Streptomyces,microbe_Streptomyces
+F::Catenulispora acidiphila,Catenulispora acidiphila,Catenulispora acidi...,microbe,1,0.0458057877333668,0.0,0.3977722772277227,Catenulispora acidiphila,Catenulispora acidiphila,microbe_other
+F::Paraburkholderia graminis,Paraburkholderia graminis,Paraburkholderia gr...,microbe,1,0.0453523729285862,0.0,0.3943069306930692,Paraburkholderia graminis,Paraburkholderia graminis,microbe_other
+F::Amycolatopsis orientalis,Amycolatopsis orientalis,Amycolatopsis orien...,microbe,1,0.0446753531866689,0.0,0.3908415841584158,Amycolatopsis orientalis,Amycolatopsis orientalis,microbe_other
+F::Kitasatospora sp. MMS16-BH015,Kitasatospora sp. MMS16-BH015,Kitasatospora sp. M...,microbe,1,0.0433750149820236,0.0,0.3873762376237623,Kitasatospora sp. MMS16-BH015,Kitasatospora,microbe_Kitasatospora
+F::Cupriavidus taiwanensis,Cupriavidus taiwanensis,Cupriavidus taiwane...,microbe,1,0.0404162854408452,0.0,0.3839108910891088,Cupriavidus taiwanensis,Cupriavidus,microbe_Cupriavidus
+F::Sulfurihydrogenibium sp. YO3AOP1,Sulfurihydrogenibium sp. YO3AOP1,Sulfurihydrogenibiu...,microbe,1,0.0392803569857426,0.0,0.3804455445544554,Sulfurihydrogenibium sp. YO3AOP1,Sulfurihydrogenibium sp. YO3AOP1,microbe_other
+F::Cupriavidus basilensis,Cupriavidus basilensis,Cupriavidus basilensis,microbe,1,0.0392304854303962,0.0,0.3769801980198019,Cupriavidus basilensis,Cupriavidus,microbe_Cupriavidus
+F::Kitasatospora setae,Kitasatospora setae,Kitasatospora setae,microbe,1,0.0384482014703623,0.0,0.3735148514851485,Kitasatospora setae,Kitasatospora,microbe_Kitasatospora
+F::Pseudomonas sp. LH1G9,Pseudomonas sp. LH1G9,Pseudomonas sp. LH1G9,microbe,1,0.0373356581933153,0.0,0.370049504950495,Pseudomonas sp. LH1G9,Pseudomonas,microbe_Pseudomonas
+F::Sulfuricurvum kujiense,Sulfuricurvum kujiense,Sulfuricurvum kujiense,microbe,1,0.0372555561055969,0.0,0.3665841584158416,Sulfuricurvum kujiense,Sulfuricurvum kujiense,microbe_other
+F::Mycobacterium haemophilum,Mycobacterium haemophilum,Mycobacterium haemo...,microbe,1,0.0342621581395096,0.0,0.3596534653465346,Mycobacterium haemophilum,Mycobacterium haemophilum,microbe_other
+F::Pantoea agglomerans,Pantoea agglomerans,Pantoea agglomerans,microbe,1,0.0338381978154579,0.0,0.3561881188118811,Pantoea agglomerans,Pantoea agglomerans,microbe_other
+F::Mycobacterium sp. JS623,Mycobacterium sp. JS623,Mycobacterium sp. J...,microbe,1,0.0326964529009097,0.0,0.3527227722772277,Mycobacterium sp. JS623,Mycobacterium sp. JS623,microbe_other
+F::Bacillus licheniformis,Bacillus licheniformis,Bacillus licheniformis,microbe,1,0.0325984607075709,0.0,0.3492574257425742,Bacillus licheniformis,Bacillus licheniformis,microbe_other
+F::Massilia oculi,Massilia oculi,Massilia oculi,microbe,1,0.0324052608153649,0.0,0.3457920792079207,Massilia oculi,Massilia,microbe_Massilia
+F::Burkholderia phage KS14,Burkholderia phage KS14,Burkholderia phage ...,microbe,1,0.0303546813313857,0.0,0.3423267326732673,Burkholderia phage KS14,Burkholderia phage KS14,microbe_other

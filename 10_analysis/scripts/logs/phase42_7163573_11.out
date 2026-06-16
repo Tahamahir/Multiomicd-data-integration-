@@ -1,0 +1,11 @@
+Job ID: 7163585
+Task ID: 11
+Node: slurm-compute-h21c5-u30-svn3
+Start: Tue Jun 16 11:28:35 +01 2026
+[INFO] X: (105, 3059)
+[INFO] Y selected: (105, 30)
+[INFO] MG features: 3039
+[INFO] Soil features: 20
+[TASK] 11
+[METABOLITE] C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N
+[RUN] Real baseline validation
