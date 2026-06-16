@@ -9,3 +9,26 @@ Start: Tue Jun 16 11:28:31 +01 2026
 [TASK] 23
 [METABOLITE] C18_positive|IK:PUQSUZTXKPLAPR-UJPOAAIJSA-N
 [RUN] Real baseline validation
+[RUN] Null model permutations
+  permutation 1/20
+  permutation 2/20
+  permutation 3/20
+  permutation 4/20
+  permutation 5/20
+  permutation 6/20
+  permutation 7/20
+  permutation 8/20
+  permutation 9/20
+  permutation 10/20
+  permutation 11/20
+  permutation 12/20
+  permutation 13/20
+  permutation 14/20
+  permutation 15/20
+  permutation 16/20
+  permutation 17/20
+  permutation 18/20
+  permutation 19/20
+  permutation 20/20
+[DONE] Saved: /home/taha.mahir/Multiomicd-data-integration-/10_analysis/outputs/phase42_article_validation/metrics_task_023.csv
+End: Tue Jun 16 14:30:35 +01 2026
