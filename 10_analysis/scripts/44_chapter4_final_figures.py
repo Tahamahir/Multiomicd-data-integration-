@@ -438,16 +438,80 @@ def fig4_4_metabolomics_sparsity_and_log():
 # ============================================================
 # FIGURE 4.5 — SOIL VARIABLE CATEGORIES
 # ============================================================
-
 def fig4_5_soil_variable_categories():
-    soil_cols_df = read_csv_if_exists("soil_columns_detected.csv")
+    """
+    Figure 4.5 - Soil variable categories.
 
-    if soil_cols_df is not None and soil_cols_df.shape[1] >= 1:
-        soil_cols = soil_cols_df.iloc[:, 0].dropna().astype(str).tolist()
-    else:
-        soil_cols = SOIL_COLUMNS_CONFIRMED
+    Important:
+    We use only the confirmed 27 soil variables detected during EDA.
+    This avoids reading old/wrong soil_columns_detected.csv files from previous outputs.
+    """
 
-    categories = pd.Series([classify_soil_column(c) for c in soil_cols]).value_counts()
+    soil_cols = SOIL_COLUMNS_CONFIRMED
+
+    def classify_soil_column_clean(col: str):
+        c = str(col).lower()
+
+        # pH and acidity / buffering
+        if (
+            c == "soil_ph"
+            or c == "chem__ph"
+            or "lbc" in c
+            or "ph dry weight" in c
+        ):
+            return "pH / acidity"
+
+        # Nitrogen cycle
+        if (
+            "nh4" in c
+            or "no3" in c
+            or "nitrif" in c
+            or "denit" in c
+            or "total_n" in c
+            or "chem__n" in c
+        ):
+            return "Nitrogen cycle"
+
+        # Carbon
+       # Carbon
+        if c == "soil_total_c" or c.startswith("chem__c ("):
+            return "Carbon" 
+        # Minerals
+        if any(x in c for x in [
+            "chem__ca",
+            "chem__k",
+            "chem__mg",
+            "chem__mn",
+            "chem__p",
+            "chem__zn"
+        ]):
+            return "Minerals"
+
+        # Moisture
+        if "moist" in c or "water" in c:
+            return "Moisture"
+
+        # Texture
+        if "sand" in c or "clay" in c or "silt" in c or "psize" in c:
+            return "Texture"
+
+        return "Other"
+
+    categories = pd.Series(
+        [classify_soil_column_clean(c) for c in soil_cols]
+    ).value_counts()
+
+    order = [
+        "Nitrogen cycle",
+        "Minerals",
+        "pH / acidity",
+        "Moisture",
+        "Texture",
+        "Carbon",
+        "Other",
+    ]
+
+    categories = categories.reindex(order).dropna()
 
     fig, ax = plt.subplots(figsize=(9, 5.5))
 
@@ -475,13 +539,16 @@ def fig4_5_soil_variable_categories():
 
     plt.xticks(rotation=25, ha="right")
     plt.tight_layout()
+
     save_fig(fig, "fig4_5_soil_variable_categories")
 
-    pd.DataFrame({"category": categories.index, "n_variables": categories.values}).to_csv(
-        OUT_DIR / "fig4_5_soil_variable_categories_data.csv", index=False
-    )
-
-
+    pd.DataFrame({
+        "category": categories.index,
+        "n_variables": categories.values
+    }).to_csv(
+        OUT_DIR / "fig4_5_soil_variable_categories_data.csv",
+        index=False
+        )
 # ============================================================
 # FIGURE 4.6 — SOIL REDUNDANCY HEATMAP
 # ============================================================
