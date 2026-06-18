@@ -1,0 +1,12 @@
+[PHASE 44 FINAL] Generating Chapter 4 figures...
+[1/7] Dataset overview
+[2/7] X sparsity summary
+[3/7] X low variance summary
+[4/7] Metabolomics sparsity and log transformation
+[5/7] Soil variable categories
+[6/7] Soil redundancy heatmap
+[7/7] Preprocessing decision flow
+[SUMMARY] Writing summary files
+
+[DONE] Chapter 4 final figures generated.
+Output folder: /home/taha.mahir/Multiomicd-data-integration-/10_analysis/outputs/phase44_chapter4_figures_final

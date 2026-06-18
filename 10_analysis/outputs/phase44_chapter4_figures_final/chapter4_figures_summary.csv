@@ -1,0 +1,15 @@
+metric,value
+n_samples,105.0
+initial_x_features,3066.0
+initial_mg_features,3039.0
+initial_soil_variables,27.0
+initial_y_metabolites,652.0
+final_x_features,3059.0
+final_mg_features,3039.0
+final_soil_variables,20.0
+final_y_metabolites,47.0
+x_mean_zero_fraction_percent,18.403690243220577
+y_mean_zero_fraction_percent,62.619047619047606
+x_features_zero_fraction_ge_90,137.0
+x_features_variance_lt_1e_4,2197.0
+soil_strong_pairs_abs_ge_0_90,18.0
