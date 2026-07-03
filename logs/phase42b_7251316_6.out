@@ -1,0 +1,5 @@
+Job 7251323 | Task 6 | Node slurm-compute-h23a5-u30-svn1
+NPERM=100 NREP=2 | Start: Fri Jun 26 15:59:05 +01 2026
+[TASK 6] C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N | n_repeats=2 | n_perm=100
+[DONE] /home/taha.mahir/Multiomicd-data-integration-/10_analysis/outputs/phase42b_revalidation_full/metrics_task_006.csv
+End: Sat Jun 27 08:47:47 +01 2026

@@ -1,0 +1,3 @@
+Job 7247136 | Task 33 | Node slurm-compute-h22b8-u4-svn1
+NPERM=100 NREP=2 | Start: Thu Jun 25 18:07:39 +01 2026
+[TASK 33] C18_negative|IK:BJEPYKJPYRNKOW-REOHCLBHSA-N | n_repeats=2 | n_perm=100

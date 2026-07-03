@@ -1,0 +1,5 @@
+Job 7251319 | Task 2 | Node slurm-compute-h22d5-u8-svn3
+NPERM=100 NREP=2 | Start: Fri Jun 26 15:59:05 +01 2026
+[TASK 2] C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N | n_repeats=2 | n_perm=100
+[DONE] /home/taha.mahir/Multiomicd-data-integration-/10_analysis/outputs/phase42b_revalidation_full/metrics_task_002.csv
+End: Sat Jun 27 08:28:16 +01 2026

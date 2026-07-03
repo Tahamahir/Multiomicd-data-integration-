@@ -1,0 +1,14 @@
+Job 7262712 | Task 20 | Node slurm-compute-h23c8-u14-svn3
+NPERM=30 NREP=1 | Start: Sun Jun 28 22:30:29 +01 2026
+[TASK 20] C18_negative|IK:BJRNKVDFDLYUGJ-RMPHRYRLSA-N | n_repeats=1 | n_perm=30
+    [reel ecrit] MG_Soil_late r2=0.305
+    [perm 1/30 ecrite] nul r2=-0.128
+    [perm 5/30 ecrite] nul r2=-0.058
+    [perm 10/30 ecrite] nul r2=-0.023
+    [perm 15/30 ecrite] nul r2=-0.068
+    [perm 20/30 ecrite] nul r2=-0.004
+    [perm 25/30 ecrite] nul r2=-0.119
+    [perm 30/30 ecrite] nul r2=-0.054
+    [nul termine] 30/30 permutations ecrites
+[DONE] /home/taha.mahir/Multiomicd-data-integration-/10_analysis/outputs/phase42b_revalidation_full/metrics_task_020.csv
+End: Mon Jun 29 00:39:43 +01 2026

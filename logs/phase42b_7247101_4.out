@@ -1,0 +1,3 @@
+Job 7247106 | Task 4 | Node slurm-compute-h22b5-u14-svn3
+NPERM=100 NREP=2 | Start: Thu Jun 25 18:07:35 +01 2026
+[TASK 4] C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N | n_repeats=2 | n_perm=100
