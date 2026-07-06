@@ -22,7 +22,8 @@ soil = [c for c in X.columns if any(str(c).lower().startswith(p) for p in SOIL_P
 mg   = [c for c in X.columns if c not in soil]
 MI_K, NC, WMG, WS, NSPLIT = 500, 75, 0.7, 0.3, 5
 B, TOPN = 30, 47            # 30 permutations, tous les metabolites
-print(f"MG={len(mg)}  Soil={len(soil)}  metabolites={len(metabolites)}", flush=True)
+print(f"MG={len(mg)}  Soil={len(soil)}  metabolites={len(metabolites)
+                                                     }", flush=True)
 
 def prep(Xtr, Xte, strat):
     imp = SimpleImputer(strategy="median") if strat=="median" else SimpleImputer(strategy="constant", fill_value=0)
