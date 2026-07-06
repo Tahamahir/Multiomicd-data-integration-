@@ -1,0 +1,6 @@
+threshold,n_metabolites_above_threshold
+0.5,474
+0.7,342
+0.8,234
+0.9,0
+0.95,0

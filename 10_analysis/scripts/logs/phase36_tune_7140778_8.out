@@ -1,0 +1,10 @@
+Job ID: 7140787
+Array Task ID: 8
+Node: slurm-compute-h21d5-u14-svn3
+Start: Sun Jun 14 14:35:52 +01 2026
+================================================================================
+Task ID: 8
+Metabolite: C18_negative|IK:NGFMICBWJRZIBI-UHFFFAOYSA-N
+Model: XGB
+X shape: (105, 3059)
+================================================================================

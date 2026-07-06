@@ -1,0 +1,2 @@
+n_total_metabolites,n_r2_gt_0,n_r2_gt_0_1,n_r2_gt_0_2,n_r2_gt_0_3,best_r2,median_r2,mean_r2,pearson_corr_zero_fraction_vs_r2,spearman_corr_zero_fraction_vs_r2
+652,224,110,47,15,0.6270071367326707,-0.07633604847349165,-0.7556532991383682,0.2055091837732246,-0.16413511589280239

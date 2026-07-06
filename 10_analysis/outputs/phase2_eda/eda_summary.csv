@@ -1,0 +1,2 @@
+n_samples,x_n_columns,x_soil_n_columns,x_metagenomics_n_columns,y_raw_n_columns,y_log_n_columns,x_global_zero_fraction,y_raw_global_zero_fraction,y_log_global_zero_fraction
+105,3066,380,2686,652,652,0.18403690243220575,0.6261904761904762,0.6261904761904762

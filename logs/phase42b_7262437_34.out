@@ -1,0 +1,4 @@
+Job 7262472 | Task 34 | Node slurm-compute-h24c5-u5-svn4
+NPERM=30 NREP=1 | Start: Sun Jun 28 17:11:42 +01 2026
+[SKIP] 34 deja complet (303 lignes) -> /home/taha.mahir/Multiomicd-data-integration-/10_analysis/outputs/phase42b_revalidation_full/metrics_task_034.csv
+End: Sun Jun 28 17:11:48 +01 2026

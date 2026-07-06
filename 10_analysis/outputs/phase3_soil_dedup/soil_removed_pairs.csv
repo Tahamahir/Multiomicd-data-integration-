@@ -1,0 +1,9 @@
+kept,removed,correlation
+soil_pH,chem__pH,1.0
+soil_NH4,chem__NH4-N (mg/kg dry weight),1.0
+soil_NO3,chem__NO3-N (mg/kg dry weight),1.0
+soil_total_C,chem__C (%),1.0
+soil_total_N,chem__N (%),1.0
+chem__LBCeq (mg/kg CaCO3/pH dry weight),chem__LBC (mg/kg CaCO3/pH dry weight),1.0
+moist__Replicate 1 Mass Water / Mass Dry Soil %,moist__Replicate 2 Mass Water / Mass Dry Soil %,0.9776612247513832
+moist__Replicate 1 Mass Water / Mass Dry Soil %,moist__Replicate 3 Mass Water / Mass Dry Soil %,0.9760677400753058

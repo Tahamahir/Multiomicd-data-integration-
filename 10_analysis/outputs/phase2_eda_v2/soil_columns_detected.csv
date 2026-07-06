@@ -1,0 +1,28 @@
+soil_column
+soil_pH
+soil_NH4
+soil_NO3
+soil_total_C
+soil_total_N
+chem__LBC (mg/kg CaCO3/pH dry weight)
+chem__LBCeq (mg/kg CaCO3/pH dry weight)
+chem__pH
+chem__Ca (Mehlich 1 mg/kg dry weight)
+chem__K (Mehlich 1 mg/kg dry weight)
+chem__Mg (Mehlich 1 mg/kg dry weight)
+chem__Mn (Mehlich 1 mg/kg dry weight)
+chem__P (Mehlich 1 mg/kg dry weight)
+chem__Zn (Mehlich 1 mg/kg dry weight)
+chem__NH4-N (mg/kg dry weight)
+chem__NO3-N (mg/kg dry weight)
+chem__C (%)
+chem__N (%)
+denit__Rate (microgN/kilogram dry weight soil/day)
+moist__Replicate 1 Mass Water / Mass Dry Soil %
+moist__Replicate 2 Mass Water / Mass Dry Soil %
+moist__Replicate 3 Mass Water / Mass Dry Soil %
+nitrif__Technical Replicate
+nitrif__Rate (mg NO3-N/kilogram dry weight soil/day)
+psize__Soil Sand Content %
+psize__Soil Clay Content %
+psize__Soil Silt Content %

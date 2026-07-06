@@ -1,0 +1,21 @@
+Job ID: 7141552
+Array Task ID: 1
+Node: slurm-compute-h21a5-u8-svn3
+Start: Sun Jun 14 15:55:06 +01 2026
+Running config:
+{
+  "config_id": "C001",
+  "mi_k": 300,
+  "reduction": "sparsepca",
+  "n_components": 50,
+  "w_mg": 0.7,
+  "model": "rf_strong"
+}
+X: (105, 3059)
+Y: (105, 30)
+MG features: 3039
+Soil features: 20
+Saved: /home/taha.mahir/Multiomicd-data-integration-/10_analysis/outputs/phase37_pro_full_pipeline_tuning/C001_metrics.csv
+Mean R2: 0.3903421252343694
+Median R2: 0.35821917957114097
+End: Sun Jun 14 16:32:08 +01 2026

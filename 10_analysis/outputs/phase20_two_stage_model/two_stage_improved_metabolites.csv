@@ -1,0 +1,2 @@
+metabolite,direct_model,zero_fraction,presence_fraction,direct_mean_r2,direct_mean_rmse,two_stage_mean_r2,two_stage_mean_rmse,r2_improvement,stage1_mean_auc,stage1_mean_f1,stage1_mean_accuracy,two_stage_better
+C18_positive|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,ExtraTrees_tuned,0.009523809523809525,0.9904761904761905,0.26897905401629385,1.7997654320750602,0.29789453783138453,1.778906939767713,0.02891548381509068,,1.0,1.0,True

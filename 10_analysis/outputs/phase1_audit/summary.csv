@@ -1,0 +1,2 @@
+n_samples_x,n_samples_y,n_columns_x_total,n_columns_y_total,n_numeric_columns_x,n_numeric_columns_y,x_id_column,y_id_column,n_common_sample_ids,same_order_between_x_and_y,x_global_sparsity_zero_fraction,y_global_sparsity_zero_fraction,x_missing_rate,y_missing_rate,n_non_numeric_columns_x,n_non_numeric_columns_y
+105,105,3123,986,3107,985,nmdc_biosample_id,biosample_id_norm,0,False,0.19418823853970296,0.7300555958423979,0.00045743561593705685,0.0,16,1

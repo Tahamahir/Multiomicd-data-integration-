@@ -1,0 +1,3 @@
+Job 7247118 | Task 16 | Node slurm-compute-h24b8-u11-svn2
+NPERM=100 NREP=2 | Start: Thu Jun 25 18:07:35 +01 2026
+[TASK 16] C18_positive|IK:PUQSUZTXKPLAPR-UJPOAAIJSA-N | n_repeats=2 | n_perm=100

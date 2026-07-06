@@ -1,0 +1,24 @@
+Job ID: 7140802
+Array Task ID: 23
+Node: slurm-compute-h22d5-u14-svn1
+Start: Sun Jun 14 14:35:53 +01 2026
+================================================================================
+Task ID: 23
+Metabolite: C18_positive|IK:PUQSUZTXKPLAPR-UJPOAAIJSA-N
+Model: ELASTIC
+X shape: (105, 3059)
+================================================================================
+Fitting 10 folds for each of 30 candidates, totalling 300 fits
+Done:
+{
+  "metabolite": "C18_positive|IK:PUQSUZTXKPLAPR-UJPOAAIJSA-N",
+  "model_code": "ELASTIC",
+  "best_cv_r2": 0.27341840371962883,
+  "best_params": "{\"model__alpha\": 1.0, \"model__l1_ratio\": 0.5}",
+  "r2_train_refit": 0.711097416048635,
+  "rmse_train_refit": 3.395775802008328,
+  "mae_train_refit": 2.9306265587676417,
+  "n_samples": 105,
+  "n_features": 3059
+}
+End: Sun Jun 14 14:38:18 +01 2026

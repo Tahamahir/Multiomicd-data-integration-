@@ -1,0 +1,2 @@
+metabolite,model_code,best_cv_r2,best_params,r2_train_refit,rmse_train_refit,mae_train_refit,n_samples,n_features
+HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RF,0.41476037141239896,"{""model__max_depth"": 20, ""model__max_features"": 0.5, ""model__min_samples_leaf"": 2, ""model__n_estimators"": 300}",0.893884441432059,2.132043925994862,1.4349887912654287,105,3059

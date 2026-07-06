@@ -1,0 +1,301 @@
+model_feature,mean_abs_importance,feature,feature_type,metabolite,best_model,cv_r2,cv_rmse,interpretation_mode,rank
+Streptomyces sp. SCSIO 03032,0.40965219330494773,Streptomyces sp. SCSIO 03032,mg,C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,RandomForest_tuned,0.6466928701780337,3.7137242708050855,true_shap,1
+Actinomadura amylolytica,0.35442985354509193,Actinomadura amylolytica,mg,C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,RandomForest_tuned,0.6466928701780337,3.7137242708050855,true_shap,2
+Thermomonospora curvata,0.32466357966184417,Thermomonospora curvata,mg,C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,RandomForest_tuned,0.6466928701780337,3.7137242708050855,true_shap,3
+Allokutzneria albata,0.3234157538421468,Allokutzneria albata,mg,C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,RandomForest_tuned,0.6466928701780337,3.7137242708050855,true_shap,4
+Amycolatopsis keratiniphila,0.22716178362503775,Amycolatopsis keratiniphila,mg,C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,RandomForest_tuned,0.6466928701780337,3.7137242708050855,true_shap,5
+Actinoalloteichus sp. GBA129-24,0.22159988025546568,Actinoalloteichus sp. GBA129-24,mg,C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,RandomForest_tuned,0.6466928701780337,3.7137242708050855,true_shap,6
+Streptomyces sp. TLI_053,0.20361565376374582,Streptomyces sp. TLI_053,mg,C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,RandomForest_tuned,0.6466928701780337,3.7137242708050855,true_shap,7
+Micromonospora auratinigra,0.2035282558972381,Micromonospora auratinigra,mg,C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,RandomForest_tuned,0.6466928701780337,3.7137242708050855,true_shap,8
+Kitasatospora setae,0.20310867072286695,Kitasatospora setae,mg,C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,RandomForest_tuned,0.6466928701780337,3.7137242708050855,true_shap,9
+Micromonospora narathiwatensis,0.17030128831324434,Micromonospora narathiwatensis,mg,C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,RandomForest_tuned,0.6466928701780337,3.7137242708050855,true_shap,10
+Streptosporangium roseum,0.15024255032832962,Streptosporangium roseum,mg,C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,RandomForest_tuned,0.6466928701780337,3.7137242708050855,true_shap,11
+Amycolatopsis sp. BJA-103,0.14261039987888463,Amycolatopsis sp. BJA-103,mg,C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,RandomForest_tuned,0.6466928701780337,3.7137242708050855,true_shap,12
+Nakamurella multipartita,0.13897715945940303,Nakamurella multipartita,mg,C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,RandomForest_tuned,0.6466928701780337,3.7137242708050855,true_shap,13
+Nocardiopsis gilva,0.12553245074611347,Nocardiopsis gilva,mg,C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,RandomForest_tuned,0.6466928701780337,3.7137242708050855,true_shap,14
+Amycolatopsis orientalis,0.11996623844377861,Amycolatopsis orientalis,mg,C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,RandomForest_tuned,0.6466928701780337,3.7137242708050855,true_shap,15
+Kitasatospora aureofaciens,0.10399251743236806,Kitasatospora aureofaciens,mg,C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,RandomForest_tuned,0.6466928701780337,3.7137242708050855,true_shap,16
+Streptacidiphilus sp. DSM 106435,0.10096520353573207,Streptacidiphilus sp. DSM 106435,mg,C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,RandomForest_tuned,0.6466928701780337,3.7137242708050855,true_shap,17
+Nocardiopsis dassonvillei,0.09170985585061926,Nocardiopsis dassonvillei,mg,C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,RandomForest_tuned,0.6466928701780337,3.7137242708050855,true_shap,18
+Nakamurella panacisegetis,0.09112052382972186,Nakamurella panacisegetis,mg,C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,RandomForest_tuned,0.6466928701780337,3.7137242708050855,true_shap,19
+Streptosporangium sp. 'caverna',0.08829158223096276,Streptosporangium sp. 'caverna',mg,C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,RandomForest_tuned,0.6466928701780337,3.7137242708050855,true_shap,20
+Kutzneria albida,0.07766991021339255,Kutzneria albida,mg,C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,RandomForest_tuned,0.6466928701780337,3.7137242708050855,true_shap,21
+Kitasatospora sp. MMS16-BH015,0.07148168928800823,Kitasatospora sp. MMS16-BH015,mg,C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,RandomForest_tuned,0.6466928701780337,3.7137242708050855,true_shap,22
+Pseudomonas lini,0.06416430081264496,Pseudomonas lini,mg,C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,RandomForest_tuned,0.6466928701780337,3.7137242708050855,true_shap,23
+Catenulispora acidiphila,0.059216444438957336,Catenulispora acidiphila,mg,C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,RandomForest_tuned,0.6466928701780337,3.7137242708050855,true_shap,24
+Alcanivorax sp. N3-2A,0.05531545373925169,Alcanivorax sp. N3-2A,mg,C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,RandomForest_tuned,0.6466928701780337,3.7137242708050855,true_shap,25
+Phycicoccus dokdonensis,0.054010043601030226,Phycicoccus dokdonensis,mg,C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,RandomForest_tuned,0.6466928701780337,3.7137242708050855,true_shap,26
+Jatrophihabitans sp. GAS493,0.05366466874296128,Jatrophihabitans sp. GAS493,mg,C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,RandomForest_tuned,0.6466928701780337,3.7137242708050855,true_shap,27
+Nonomuraea sp. ATCC 55076,0.053201523962886535,Nonomuraea sp. ATCC 55076,mg,C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,RandomForest_tuned,0.6466928701780337,3.7137242708050855,true_shap,28
+soil_NH4,0.04825631614920853,soil_NH4,soil,C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,RandomForest_tuned,0.6466928701780337,3.7137242708050855,true_shap,29
+Pseudonocardia sp. AL041005-10,0.04605517277020786,Pseudonocardia sp. AL041005-10,mg,C18_negative|IK:RGHHSNMVTDWUBI-UHFFFAOYSA-N,RandomForest_tuned,0.6466928701780337,3.7137242708050855,true_shap,30
+Kutzneria albida,0.4598795771598816,Kutzneria albida,mg,C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,XGBoost_tuned,0.630536037972228,3.189792818032504,fallback_feature_importance,1
+Pseudonocardia sp. AL041005-10,0.05801407992839813,Pseudonocardia sp. AL041005-10,mg,C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,XGBoost_tuned,0.630536037972228,3.189792818032504,fallback_feature_importance,2
+Streptomyces sviceus,0.05176599696278572,Streptomyces sviceus,mg,C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,XGBoost_tuned,0.630536037972228,3.189792818032504,fallback_feature_importance,3
+Burkholderia pseudomallei,0.04697984457015991,Burkholderia pseudomallei,mg,C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,XGBoost_tuned,0.630536037972228,3.189792818032504,fallback_feature_importance,4
+Bacillus muralis,0.024352988228201866,Bacillus muralis,mg,C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,XGBoost_tuned,0.630536037972228,3.189792818032504,fallback_feature_importance,5
+Acinetobacter lwoffii,0.02179182879626751,Acinetobacter lwoffii,mg,C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,XGBoost_tuned,0.630536037972228,3.189792818032504,fallback_feature_importance,6
+Streptomyces actuosus,0.02120007574558258,Streptomyces actuosus,mg,C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,XGBoost_tuned,0.630536037972228,3.189792818032504,fallback_feature_importance,7
+Rahnella sp. ERMR1:05,0.021047649905085564,Rahnella sp. ERMR1:05,mg,C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,XGBoost_tuned,0.630536037972228,3.189792818032504,fallback_feature_importance,8
+Lachnoclostridium phytofermentans,0.01939667947590351,Lachnoclostridium phytofermentans,mg,C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,XGBoost_tuned,0.630536037972228,3.189792818032504,fallback_feature_importance,9
+Streptomyces lincolnensis,0.018412379547953606,Streptomyces lincolnensis,mg,C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,XGBoost_tuned,0.630536037972228,3.189792818032504,fallback_feature_importance,10
+Chryseobacterium arthrosphaerae,0.017434703186154366,Chryseobacterium arthrosphaerae,mg,C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,XGBoost_tuned,0.630536037972228,3.189792818032504,fallback_feature_importance,11
+Brucella suis,0.017164040356874466,Brucella suis,mg,C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,XGBoost_tuned,0.630536037972228,3.189792818032504,fallback_feature_importance,12
+Xanthomonas campestris,0.015603127889335155,Xanthomonas campestris,mg,C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,XGBoost_tuned,0.630536037972228,3.189792818032504,fallback_feature_importance,13
+Leifsonia sp. 21MFCrub1.1,0.014204824343323708,Leifsonia sp. 21MFCrub1.1,mg,C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,XGBoost_tuned,0.630536037972228,3.189792818032504,fallback_feature_importance,14
+Dickeya sp. MK7,0.011007520370185375,Dickeya sp. MK7,mg,C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,XGBoost_tuned,0.630536037972228,3.189792818032504,fallback_feature_importance,15
+Caulobacter flavus,0.010935792699456215,Caulobacter flavus,mg,C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,XGBoost_tuned,0.630536037972228,3.189792818032504,fallback_feature_importance,16
+Acidiferrobacter sp. SPIII_3,0.008806763216853142,Acidiferrobacter sp. SPIII_3,mg,C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,XGBoost_tuned,0.630536037972228,3.189792818032504,fallback_feature_importance,17
+Sphingopyxis sp. LPB0140,0.008381408639252186,Sphingopyxis sp. LPB0140,mg,C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,XGBoost_tuned,0.630536037972228,3.189792818032504,fallback_feature_importance,18
+Mycobacterium shigaense,0.008301782421767712,Mycobacterium shigaense,mg,C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,XGBoost_tuned,0.630536037972228,3.189792818032504,fallback_feature_importance,19
+Methylobacterium sp. XJLW,0.008071636781096458,Methylobacterium sp. XJLW,mg,C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,XGBoost_tuned,0.630536037972228,3.189792818032504,fallback_feature_importance,20
+Bosea sp. AS-1,0.0067833117209374905,Bosea sp. AS-1,mg,C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,XGBoost_tuned,0.630536037972228,3.189792818032504,fallback_feature_importance,21
+Acinetobacter radioresistens,0.005910272244364023,Acinetobacter radioresistens,mg,C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,XGBoost_tuned,0.630536037972228,3.189792818032504,fallback_feature_importance,22
+Streptomyces phage Nanodon,0.005215222481638193,Streptomyces phage Nanodon,mg,C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,XGBoost_tuned,0.630536037972228,3.189792818032504,fallback_feature_importance,23
+Lactobacillus fermentum,0.005094091407954693,Lactobacillus fermentum,mg,C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,XGBoost_tuned,0.630536037972228,3.189792818032504,fallback_feature_importance,24
+Burkholderia cepacia,0.004213972948491573,Burkholderia cepacia,mg,C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,XGBoost_tuned,0.630536037972228,3.189792818032504,fallback_feature_importance,25
+Helicobacter pylori,0.003936273977160454,Helicobacter pylori,mg,C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,XGBoost_tuned,0.630536037972228,3.189792818032504,fallback_feature_importance,26
+Paraburkholderia caffeinilytica,0.0037722585257142782,Paraburkholderia caffeinilytica,mg,C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,XGBoost_tuned,0.630536037972228,3.189792818032504,fallback_feature_importance,27
+Sphingomonas indica,0.0033994277473539114,Sphingomonas indica,mg,C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,XGBoost_tuned,0.630536037972228,3.189792818032504,fallback_feature_importance,28
+Cylindrospermum stagnale,0.00337703013792634,Cylindrospermum stagnale,mg,C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,XGBoost_tuned,0.630536037972228,3.189792818032504,fallback_feature_importance,29
+Burkholderia sp. MSMB0266,0.003282826393842697,Burkholderia sp. MSMB0266,mg,C18_negative|IK:WLJVXDMOQOGPHL-UHFFFAOYSA-N,XGBoost_tuned,0.630536037972228,3.189792818032504,fallback_feature_importance,30
+Calothrix sp. NIES-3974,0.2180446479932829,Calothrix sp. NIES-3974,mg,C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,ExtraTrees_tuned,0.5661954856051917,3.139799192266706,true_shap,1
+Thermomonospora curvata,0.13602480944960174,Thermomonospora curvata,mg,C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,ExtraTrees_tuned,0.5661954856051917,3.139799192266706,true_shap,2
+Kutzneria albida,0.13499054503766536,Kutzneria albida,mg,C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,ExtraTrees_tuned,0.5661954856051917,3.139799192266706,true_shap,3
+Thermobifida fusca,0.1314576741019488,Thermobifida fusca,mg,C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,ExtraTrees_tuned,0.5661954856051917,3.139799192266706,true_shap,4
+Actinomadura amylolytica,0.11272175659361507,Actinomadura amylolytica,mg,C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,ExtraTrees_tuned,0.5661954856051917,3.139799192266706,true_shap,5
+Nocardiopsis dassonvillei,0.11258864064251849,Nocardiopsis dassonvillei,mg,C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,ExtraTrees_tuned,0.5661954856051917,3.139799192266706,true_shap,6
+Kosakonia radicincitans,0.1070418008821008,Kosakonia radicincitans,mg,C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,ExtraTrees_tuned,0.5661954856051917,3.139799192266706,true_shap,7
+Nocardiopsis alba,0.09247156080088886,Nocardiopsis alba,mg,C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,ExtraTrees_tuned,0.5661954856051917,3.139799192266706,true_shap,8
+Treponema denticola,0.08929760222153577,Treponema denticola,mg,C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,ExtraTrees_tuned,0.5661954856051917,3.139799192266706,true_shap,9
+Catenulispora acidiphila,0.0830753604808925,Catenulispora acidiphila,mg,C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,ExtraTrees_tuned,0.5661954856051917,3.139799192266706,true_shap,10
+Nostoc sp. PCC 7524,0.08251220115024631,Nostoc sp. PCC 7524,mg,C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,ExtraTrees_tuned,0.5661954856051917,3.139799192266706,true_shap,11
+Mycobacterium colombiense,0.0783865617984434,Mycobacterium colombiense,mg,C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,ExtraTrees_tuned,0.5661954856051917,3.139799192266706,true_shap,12
+Mycobacterium shigaense,0.07450613069294805,Mycobacterium shigaense,mg,C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,ExtraTrees_tuned,0.5661954856051917,3.139799192266706,true_shap,13
+Thermobispora bispora,0.07432625837452732,Thermobispora bispora,mg,C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,ExtraTrees_tuned,0.5661954856051917,3.139799192266706,true_shap,14
+Nocardiopsis gilva,0.07169194042615855,Nocardiopsis gilva,mg,C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,ExtraTrees_tuned,0.5661954856051917,3.139799192266706,true_shap,15
+Gramella salexigens,0.06775117966457181,Gramella salexigens,mg,C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,ExtraTrees_tuned,0.5661954856051917,3.139799192266706,true_shap,16
+Aquimarina sp. AD10,0.06695697918310874,Aquimarina sp. AD10,mg,C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,ExtraTrees_tuned,0.5661954856051917,3.139799192266706,true_shap,17
+Streptosporangium roseum,0.06226669005683902,Streptosporangium roseum,mg,C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,ExtraTrees_tuned,0.5661954856051917,3.139799192266706,true_shap,18
+Kitasatospora setae,0.061854627428225416,Kitasatospora setae,mg,C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,ExtraTrees_tuned,0.5661954856051917,3.139799192266706,true_shap,19
+Kitasatospora aureofaciens,0.06094830774949709,Kitasatospora aureofaciens,mg,C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,ExtraTrees_tuned,0.5661954856051917,3.139799192266706,true_shap,20
+Nonomuraea sp. ATCC 55076,0.05991809944842546,Nonomuraea sp. ATCC 55076,mg,C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,ExtraTrees_tuned,0.5661954856051917,3.139799192266706,true_shap,21
+Kitasatospora sp. MMS16-BH015,0.05173263598300151,Kitasatospora sp. MMS16-BH015,mg,C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,ExtraTrees_tuned,0.5661954856051917,3.139799192266706,true_shap,22
+Streptosporangium sp. 'caverna',0.05125121322766008,Streptosporangium sp. 'caverna',mg,C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,ExtraTrees_tuned,0.5661954856051917,3.139799192266706,true_shap,23
+soil_total_C,0.04975532348284651,soil_total_C,soil,C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,ExtraTrees_tuned,0.5661954856051917,3.139799192266706,true_shap,24
+Glaciecola nitratireducens,0.04821688054473856,Glaciecola nitratireducens,mg,C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,ExtraTrees_tuned,0.5661954856051917,3.139799192266706,true_shap,25
+Mycobacterium marseillense,0.0479368892093483,Mycobacterium marseillense,mg,C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,ExtraTrees_tuned,0.5661954856051917,3.139799192266706,true_shap,26
+nitrif__Rate (mg NO3-N/kilogram dry weight soil/day),0.04687952780046911,nitrif__Rate (mg NO3-N/kilogram dry weight soil/day),soil,C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,ExtraTrees_tuned,0.5661954856051917,3.139799192266706,true_shap,27
+Streptacidiphilus sp. DSM 106435,0.04675552430175688,Streptacidiphilus sp. DSM 106435,mg,C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,ExtraTrees_tuned,0.5661954856051917,3.139799192266706,true_shap,28
+soil_total_N,0.04675288867743246,soil_total_N,soil,C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,ExtraTrees_tuned,0.5661954856051917,3.139799192266706,true_shap,29
+Mycobacterium haemophilum,0.04660512717015728,Mycobacterium haemophilum,mg,C18_positive|IK:LVGKNOAMLMIIKO-QXMHVHEDSA-N,ExtraTrees_tuned,0.5661954856051917,3.139799192266706,true_shap,30
+Kitasatospora aureofaciens,2.2213076005508814,Kitasatospora aureofaciens,mg,HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,RandomForest_tuned,0.5267660573045383,4.232243680762494,true_shap,1
+Agromyces aureus,0.9564688946909088,Agromyces aureus,mg,HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,RandomForest_tuned,0.5267660573045383,4.232243680762494,true_shap,2
+Streptomyces xiamenensis,0.9510827890975752,Streptomyces xiamenensis,mg,HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,RandomForest_tuned,0.5267660573045383,4.232243680762494,true_shap,3
+Streptacidiphilus sp. DSM 106435,0.528409794406066,Streptacidiphilus sp. DSM 106435,mg,HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,RandomForest_tuned,0.5267660573045383,4.232243680762494,true_shap,4
+Actinoplanes friuliensis,0.3832378791338337,Actinoplanes friuliensis,mg,HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,RandomForest_tuned,0.5267660573045383,4.232243680762494,true_shap,5
+Kitasatospora sp. MMS16-BH015,0.2830739949152074,Kitasatospora sp. MMS16-BH015,mg,HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,RandomForest_tuned,0.5267660573045383,4.232243680762494,true_shap,6
+Agromyces sp. 30A,0.26104646044809227,Agromyces sp. 30A,mg,HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,RandomForest_tuned,0.5267660573045383,4.232243680762494,true_shap,7
+Streptomyces sp. TLI_053,0.2103377995761608,Streptomyces sp. TLI_053,mg,HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,RandomForest_tuned,0.5267660573045383,4.232243680762494,true_shap,8
+Microbacterium sp. BH-3-3-3,0.18341722194624635,Microbacterium sp. BH-3-3-3,mg,HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,RandomForest_tuned,0.5267660573045383,4.232243680762494,true_shap,9
+Paraburkholderia phytofirmans,0.1789455211437458,Paraburkholderia phytofirmans,mg,HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,RandomForest_tuned,0.5267660573045383,4.232243680762494,true_shap,10
+Microbacterium sp. LKL04,0.1724512584301307,Microbacterium sp. LKL04,mg,HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,RandomForest_tuned,0.5267660573045383,4.232243680762494,true_shap,11
+Lysinimonas sp. 2DFWR-13,0.1655146413438095,Lysinimonas sp. 2DFWR-13,mg,HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,RandomForest_tuned,0.5267660573045383,4.232243680762494,true_shap,12
+Cellulomonas fimi,0.1015127298568533,Cellulomonas fimi,mg,HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,RandomForest_tuned,0.5267660573045383,4.232243680762494,true_shap,13
+Streptomyces sp. SCSIO 03032,0.07791476018662313,Streptomyces sp. SCSIO 03032,mg,HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,RandomForest_tuned,0.5267660573045383,4.232243680762494,true_shap,14
+Lysobacter gummosus,0.04771452380035597,Lysobacter gummosus,mg,HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,RandomForest_tuned,0.5267660573045383,4.232243680762494,true_shap,15
+Pseudoxanthomonas spadix,0.04081970824224667,Pseudoxanthomonas spadix,mg,HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,RandomForest_tuned,0.5267660573045383,4.232243680762494,true_shap,16
+Actinoplanes teichomyceticus,0.040284084722214834,Actinoplanes teichomyceticus,mg,HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,RandomForest_tuned,0.5267660573045383,4.232243680762494,true_shap,17
+Cupriavidus pauculus,0.037792317710712134,Cupriavidus pauculus,mg,HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,RandomForest_tuned,0.5267660573045383,4.232243680762494,true_shap,18
+Pseudomonas protegens,0.029181810495866527,Pseudomonas protegens,mg,HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,RandomForest_tuned,0.5267660573045383,4.232243680762494,true_shap,19
+Massilia sp. NR 4-1,0.027428957083344564,Massilia sp. NR 4-1,mg,HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,RandomForest_tuned,0.5267660573045383,4.232243680762494,true_shap,20
+Pseudomonas chlororaphis,0.02742204639036758,Pseudomonas chlororaphis,mg,HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,RandomForest_tuned,0.5267660573045383,4.232243680762494,true_shap,21
+Paenibacillus riograndensis,0.025233886589843692,Paenibacillus riograndensis,mg,HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,RandomForest_tuned,0.5267660573045383,4.232243680762494,true_shap,22
+Paenibacillus graminis,0.02430195109611922,Paenibacillus graminis,mg,HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,RandomForest_tuned,0.5267660573045383,4.232243680762494,true_shap,23
+Alcaligenes aquatilis,0.023503526155861626,Alcaligenes aquatilis,mg,HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,RandomForest_tuned,0.5267660573045383,4.232243680762494,true_shap,24
+Microbacterium paludicola,0.022953702403215762,Microbacterium paludicola,mg,HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,RandomForest_tuned,0.5267660573045383,4.232243680762494,true_shap,25
+Microbacterium sp. No. 7,0.02266600823864859,Microbacterium sp. No. 7,mg,HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,RandomForest_tuned,0.5267660573045383,4.232243680762494,true_shap,26
+Actinoplanes sp. N902-109,0.02224678027566474,Actinoplanes sp. N902-109,mg,HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,RandomForest_tuned,0.5267660573045383,4.232243680762494,true_shap,27
+Serratia plymuthica,0.022175011065153395,Serratia plymuthica,mg,HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,RandomForest_tuned,0.5267660573045383,4.232243680762494,true_shap,28
+Actinoplanes derwentensis,0.019653396796853174,Actinoplanes derwentensis,mg,HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,RandomForest_tuned,0.5267660573045383,4.232243680762494,true_shap,29
+Kitasatospora setae,0.01786272549640729,Kitasatospora setae,mg,HILICZ_negative|IK:COLNVLDHVKWLRT-QMMMGPOBSA-N,RandomForest_tuned,0.5267660573045383,4.232243680762494,true_shap,30
+Desulfocapsa sulfexigens,0.026709241207752258,Desulfocapsa sulfexigens,mg,C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N,ExtraTrees_tuned,0.4860926802070316,4.207452786834347,true_shap,1
+Tessaracoccus flavescens,0.02596699502818322,Tessaracoccus flavescens,mg,C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N,ExtraTrees_tuned,0.4860926802070316,4.207452786834347,true_shap,2
+Psychrobacter sp. AntiMn-1,0.025027744966920513,Psychrobacter sp. AntiMn-1,mg,C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N,ExtraTrees_tuned,0.4860926802070316,4.207452786834347,true_shap,3
+Streptococcus suis,0.023471702759659083,Streptococcus suis,mg,C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N,ExtraTrees_tuned,0.4860926802070316,4.207452786834347,true_shap,4
+Micromonospora echinofusca,0.02289861227872327,Micromonospora echinofusca,mg,C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N,ExtraTrees_tuned,0.4860926802070316,4.207452786834347,true_shap,5
+Thermosulfidibacter takaii,0.02280331402501311,Thermosulfidibacter takaii,mg,C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N,ExtraTrees_tuned,0.4860926802070316,4.207452786834347,true_shap,6
+Methylovulum psychrotolerans,0.02211106420527821,Methylovulum psychrotolerans,mg,C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N,ExtraTrees_tuned,0.4860926802070316,4.207452786834347,true_shap,7
+Planktothrix agardhii,0.021801926802870783,Planktothrix agardhii,mg,C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N,ExtraTrees_tuned,0.4860926802070316,4.207452786834347,true_shap,8
+Arcanobacterium haemolyticum,0.02109763831008246,Arcanobacterium haemolyticum,mg,C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N,ExtraTrees_tuned,0.4860926802070316,4.207452786834347,true_shap,9
+Pseudarcicella sp. HME7025,0.02075635725296054,Pseudarcicella sp. HME7025,mg,C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N,ExtraTrees_tuned,0.4860926802070316,4.207452786834347,true_shap,10
+Actinomyces sp. VUL4_3,0.02072755261649,Actinomyces sp. VUL4_3,mg,C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N,ExtraTrees_tuned,0.4860926802070316,4.207452786834347,true_shap,11
+Carboxydocella thermautotrophica,0.020567737000780257,Carboxydocella thermautotrophica,mg,C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N,ExtraTrees_tuned,0.4860926802070316,4.207452786834347,true_shap,12
+Sphaerochaeta globosa,0.02047591600428721,Sphaerochaeta globosa,mg,C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N,ExtraTrees_tuned,0.4860926802070316,4.207452786834347,true_shap,13
+Corynebacterium mustelae,0.020155532340967324,Corynebacterium mustelae,mg,C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N,ExtraTrees_tuned,0.4860926802070316,4.207452786834347,true_shap,14
+Gordonia phthalatica,0.02014524485413473,Gordonia phthalatica,mg,C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N,ExtraTrees_tuned,0.4860926802070316,4.207452786834347,true_shap,15
+Cyanothece sp. ATCC 51142,0.019829938525467064,Cyanothece sp. ATCC 51142,mg,C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N,ExtraTrees_tuned,0.4860926802070316,4.207452786834347,true_shap,16
+Acidaminococcus intestini,0.01973895543935942,Acidaminococcus intestini,mg,C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N,ExtraTrees_tuned,0.4860926802070316,4.207452786834347,true_shap,17
+Ruminococcus champanellensis,0.01939782436223183,Ruminococcus champanellensis,mg,C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N,ExtraTrees_tuned,0.4860926802070316,4.207452786834347,true_shap,18
+Ruminococcus albus,0.018911510795672843,Ruminococcus albus,mg,C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N,ExtraTrees_tuned,0.4860926802070316,4.207452786834347,true_shap,19
+Rhodococcus sp. WB1,0.018781737635618505,Rhodococcus sp. WB1,mg,C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N,ExtraTrees_tuned,0.4860926802070316,4.207452786834347,true_shap,20
+Nocardiopsis dassonvillei,0.018772738391206377,Nocardiopsis dassonvillei,mg,C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N,ExtraTrees_tuned,0.4860926802070316,4.207452786834347,true_shap,21
+Thermobispora bispora,0.01871104788729241,Thermobispora bispora,mg,C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N,ExtraTrees_tuned,0.4860926802070316,4.207452786834347,true_shap,22
+Pelodictyon phaeoclathratiforme,0.01855636066331994,Pelodictyon phaeoclathratiforme,mg,C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N,ExtraTrees_tuned,0.4860926802070316,4.207452786834347,true_shap,23
+Clostridium sp. SY8519,0.018292146702128646,Clostridium sp. SY8519,mg,C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N,ExtraTrees_tuned,0.4860926802070316,4.207452786834347,true_shap,24
+Mycobacterium pseudoshottsii,0.01777229387852755,Mycobacterium pseudoshottsii,mg,C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N,ExtraTrees_tuned,0.4860926802070316,4.207452786834347,true_shap,25
+Actinomyces hongkongensis,0.01765679399605766,Actinomyces hongkongensis,mg,C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N,ExtraTrees_tuned,0.4860926802070316,4.207452786834347,true_shap,26
+Elusimicrobium minutum,0.017536291366720073,Elusimicrobium minutum,mg,C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N,ExtraTrees_tuned,0.4860926802070316,4.207452786834347,true_shap,27
+Corynebacterium ammoniagenes,0.017477502994626103,Corynebacterium ammoniagenes,mg,C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N,ExtraTrees_tuned,0.4860926802070316,4.207452786834347,true_shap,28
+Allokutzneria albata,0.017379710010651674,Allokutzneria albata,mg,C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N,ExtraTrees_tuned,0.4860926802070316,4.207452786834347,true_shap,29
+Treponema azotonutricium,0.01648564746456594,Treponema azotonutricium,mg,C18_positive|IK:MECHNRXZTMCUDQ-UHFFFAOYSA-N,ExtraTrees_tuned,0.4860926802070316,4.207452786834347,true_shap,30
+Amycolatopsis orientalis,0.11612282518329785,Amycolatopsis orientalis,mg,C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,RandomForest_tuned,0.4812052308429454,3.939560474758952,true_shap,1
+Saccharothrix espanaensis,0.08323368629181274,Saccharothrix espanaensis,mg,C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,RandomForest_tuned,0.4812052308429454,3.939560474758952,true_shap,2
+Jatrophihabitans sp. GAS493,0.0701152741732631,Jatrophihabitans sp. GAS493,mg,C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,RandomForest_tuned,0.4812052308429454,3.939560474758952,true_shap,3
+Nocardiopsis alba,0.06788329351656912,Nocardiopsis alba,mg,C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,RandomForest_tuned,0.4812052308429454,3.939560474758952,true_shap,4
+Thermomonospora curvata,0.06150522173388525,Thermomonospora curvata,mg,C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,RandomForest_tuned,0.4812052308429454,3.939560474758952,true_shap,5
+Nakamurella panacisegetis,0.05251705459554835,Nakamurella panacisegetis,mg,C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,RandomForest_tuned,0.4812052308429454,3.939560474758952,true_shap,6
+Allokutzneria albata,0.05223903428888592,Allokutzneria albata,mg,C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,RandomForest_tuned,0.4812052308429454,3.939560474758952,true_shap,7
+Streptomyces sp. TLI_053,0.050556472634102644,Streptomyces sp. TLI_053,mg,C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,RandomForest_tuned,0.4812052308429454,3.939560474758952,true_shap,8
+Nonomuraea sp. ATCC 55076,0.047519482522867536,Nonomuraea sp. ATCC 55076,mg,C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,RandomForest_tuned,0.4812052308429454,3.939560474758952,true_shap,9
+Janthinobacterium sp. LM6,0.046021908557130516,Janthinobacterium sp. LM6,mg,C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,RandomForest_tuned,0.4812052308429454,3.939560474758952,true_shap,10
+Janthinobacterium agaricidamnosum,0.044436936182621255,Janthinobacterium agaricidamnosum,mg,C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,RandomForest_tuned,0.4812052308429454,3.939560474758952,true_shap,11
+Kibdelosporangium phytohabitans,0.04402330484166231,Kibdelosporangium phytohabitans,mg,C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,RandomForest_tuned,0.4812052308429454,3.939560474758952,true_shap,12
+Homo sapiens,0.042385576893026126,Homo sapiens,mg,C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,RandomForest_tuned,0.4812052308429454,3.939560474758952,true_shap,13
+Micromonospora narathiwatensis,0.04123790923464688,Micromonospora narathiwatensis,mg,C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,RandomForest_tuned,0.4812052308429454,3.939560474758952,true_shap,14
+Amycolatopsis methanolica,0.040813218055913175,Amycolatopsis methanolica,mg,C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,RandomForest_tuned,0.4812052308429454,3.939560474758952,true_shap,15
+Kutzneria albida,0.04061019019216,Kutzneria albida,mg,C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,RandomForest_tuned,0.4812052308429454,3.939560474758952,true_shap,16
+Kitasatospora sp. MMS16-BH015,0.03973571308202547,Kitasatospora sp. MMS16-BH015,mg,C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,RandomForest_tuned,0.4812052308429454,3.939560474758952,true_shap,17
+Actinomyces sp. oral taxon 897,0.03971149215385841,Actinomyces sp. oral taxon 897,mg,C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,RandomForest_tuned,0.4812052308429454,3.939560474758952,true_shap,18
+Micromonospora echinofusca,0.03929192242351723,Micromonospora echinofusca,mg,C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,RandomForest_tuned,0.4812052308429454,3.939560474758952,true_shap,19
+Micromonospora auratinigra,0.03899695004286556,Micromonospora auratinigra,mg,C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,RandomForest_tuned,0.4812052308429454,3.939560474758952,true_shap,20
+Janthinobacterium svalbardensis,0.037920716085236485,Janthinobacterium svalbardensis,mg,C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,RandomForest_tuned,0.4812052308429454,3.939560474758952,true_shap,21
+Paludisphaera borealis,0.03659471751748904,Paludisphaera borealis,mg,C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,RandomForest_tuned,0.4812052308429454,3.939560474758952,true_shap,22
+Streptomyces globosus,0.036528746849226724,Streptomyces globosus,mg,C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,RandomForest_tuned,0.4812052308429454,3.939560474758952,true_shap,23
+Nakamurella multipartita,0.03548481491222643,Nakamurella multipartita,mg,C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,RandomForest_tuned,0.4812052308429454,3.939560474758952,true_shap,24
+Streptosporangium roseum,0.035399962048465454,Streptosporangium roseum,mg,C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,RandomForest_tuned,0.4812052308429454,3.939560474758952,true_shap,25
+Streptomyces sp. SCSIO 03032,0.034774098609048135,Streptomyces sp. SCSIO 03032,mg,C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,RandomForest_tuned,0.4812052308429454,3.939560474758952,true_shap,26
+Weeksella virosa,0.03346163434886942,Weeksella virosa,mg,C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,RandomForest_tuned,0.4812052308429454,3.939560474758952,true_shap,27
+Amycolatopsis sp. AA4,0.03342040274867762,Amycolatopsis sp. AA4,mg,C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,RandomForest_tuned,0.4812052308429454,3.939560474758952,true_shap,28
+Amycolatopsis keratiniphila,0.0332770987632151,Amycolatopsis keratiniphila,mg,C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,RandomForest_tuned,0.4812052308429454,3.939560474758952,true_shap,29
+Kitasatospora aureofaciens,0.03321307432481707,Kitasatospora aureofaciens,mg,C18_negative|IK:AIONOLUJZLIMTK-UHFFFAOYSA-N,RandomForest_tuned,0.4812052308429454,3.939560474758952,true_shap,30
+Frankia symbiont of Datisca glomerata,0.06444700062274933,Frankia symbiont of Datisca glomerata,mg,C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,XGBoost_tuned,0.4723181412272977,3.400177493715858,fallback_feature_importance,1
+Mycobacterium marseillense,0.021232211962342262,Mycobacterium marseillense,mg,C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,XGBoost_tuned,0.4723181412272977,3.400177493715858,fallback_feature_importance,2
+Nonomuraea sp. ATCC 55076,0.017385093495249748,Nonomuraea sp. ATCC 55076,mg,C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,XGBoost_tuned,0.4723181412272977,3.400177493715858,fallback_feature_importance,3
+Bradyrhizobium erythrophlei,0.016859004274010658,Bradyrhizobium erythrophlei,mg,C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,XGBoost_tuned,0.4723181412272977,3.400177493715858,fallback_feature_importance,4
+Acidobacteriaceae bacterium SBC82,0.015133089385926723,Acidobacteriaceae bacterium SBC82,mg,C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,XGBoost_tuned,0.4723181412272977,3.400177493715858,fallback_feature_importance,5
+Mycobacterium paragordonae,0.014388537034392357,Mycobacterium paragordonae,mg,C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,XGBoost_tuned,0.4723181412272977,3.400177493715858,fallback_feature_importance,6
+Rhodococcus ruber,0.01291436143219471,Rhodococcus ruber,mg,C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,XGBoost_tuned,0.4723181412272977,3.400177493715858,fallback_feature_importance,7
+Trichormus variabilis,0.012818102724850178,Trichormus variabilis,mg,C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,XGBoost_tuned,0.4723181412272977,3.400177493715858,fallback_feature_importance,8
+Streptacidiphilus sp. DSM 106435,0.011595353484153748,Streptacidiphilus sp. DSM 106435,mg,C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,XGBoost_tuned,0.4723181412272977,3.400177493715858,fallback_feature_importance,9
+Catenulispora acidiphila,0.010561801493167877,Catenulispora acidiphila,mg,C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,XGBoost_tuned,0.4723181412272977,3.400177493715858,fallback_feature_importance,10
+Frankia inefficax,0.010480758734047413,Frankia inefficax,mg,C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,XGBoost_tuned,0.4723181412272977,3.400177493715858,fallback_feature_importance,11
+Frankia sp. EAN1pec,0.009935921989381313,Frankia sp. EAN1pec,mg,C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,XGBoost_tuned,0.4723181412272977,3.400177493715858,fallback_feature_importance,12
+Exiguobacterium sibiricum,0.009354420937597752,Exiguobacterium sibiricum,mg,C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,XGBoost_tuned,0.4723181412272977,3.400177493715858,fallback_feature_importance,13
+Bifidobacterium actinocoloniiforme,0.00933743454515934,Bifidobacterium actinocoloniiforme,mg,C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,XGBoost_tuned,0.4723181412272977,3.400177493715858,fallback_feature_importance,14
+Nitrosomonas communis,0.009324116632342339,Nitrosomonas communis,mg,C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,XGBoost_tuned,0.4723181412272977,3.400177493715858,fallback_feature_importance,15
+Rhodopseudomonas palustris,0.009196626022458076,Rhodopseudomonas palustris,mg,C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,XGBoost_tuned,0.4723181412272977,3.400177493715858,fallback_feature_importance,16
+Ochrobactrum sp. A44,0.009061610326170921,Ochrobactrum sp. A44,mg,C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,XGBoost_tuned,0.4723181412272977,3.400177493715858,fallback_feature_importance,17
+Streptomyces avermitilis,0.00889752060174942,Streptomyces avermitilis,mg,C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,XGBoost_tuned,0.4723181412272977,3.400177493715858,fallback_feature_importance,18
+Candidatus Nanopelagicus hibericus,0.008702890016138554,Candidatus Nanopelagicus hibericus,mg,C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,XGBoost_tuned,0.4723181412272977,3.400177493715858,fallback_feature_importance,19
+Bradyrhizobium icense,0.008594470098614693,Bradyrhizobium icense,mg,C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,XGBoost_tuned,0.4723181412272977,3.400177493715858,fallback_feature_importance,20
+Mycolicibacterium rhodesiae,0.008350245654582977,Mycolicibacterium rhodesiae,mg,C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,XGBoost_tuned,0.4723181412272977,3.400177493715858,fallback_feature_importance,21
+Synechococcus sp. CC9311,0.007898353971540928,Synechococcus sp. CC9311,mg,C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,XGBoost_tuned,0.4723181412272977,3.400177493715858,fallback_feature_importance,22
+Kosakonia radicincitans,0.007862110622227192,Kosakonia radicincitans,mg,C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,XGBoost_tuned,0.4723181412272977,3.400177493715858,fallback_feature_importance,23
+Desulfomonile tiedjei,0.007790823932737112,Desulfomonile tiedjei,mg,C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,XGBoost_tuned,0.4723181412272977,3.400177493715858,fallback_feature_importance,24
+Pseudarthrobacter chlorophenolicus,0.0076738460920751095,Pseudarthrobacter chlorophenolicus,mg,C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,XGBoost_tuned,0.4723181412272977,3.400177493715858,fallback_feature_importance,25
+Mucinivorans hirudinis,0.0075621455907821655,Mucinivorans hirudinis,mg,C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,XGBoost_tuned,0.4723181412272977,3.400177493715858,fallback_feature_importance,26
+nitrif__Rate (mg NO3-N/kilogram dry weight soil/day),0.007512671407312155,nitrif__Rate (mg NO3-N/kilogram dry weight soil/day),soil,C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,XGBoost_tuned,0.4723181412272977,3.400177493715858,fallback_feature_importance,27
+Myroides odoratus,0.007400264497846365,Myroides odoratus,mg,C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,XGBoost_tuned,0.4723181412272977,3.400177493715858,fallback_feature_importance,28
+Methanocorpusculum labreanum,0.007385620381683111,Methanocorpusculum labreanum,mg,C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,XGBoost_tuned,0.4723181412272977,3.400177493715858,fallback_feature_importance,29
+_Eubacterium_ minutum,0.007351906970143318,[Eubacterium] minutum,mg,C18_negative|IK:GYUCMTKUEQLBJW-UHFFFAOYSA-N,XGBoost_tuned,0.4723181412272977,3.400177493715858,fallback_feature_importance,30
+Nocardia farcinica,0.08328427374362946,Nocardia farcinica,mg,C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,XGBoost_tuned,0.4422310812494176,4.278340139161292,fallback_feature_importance,1
+Nocardia seriolae,0.05938011407852173,Nocardia seriolae,mg,C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,XGBoost_tuned,0.4422310812494176,4.278340139161292,fallback_feature_importance,2
+Planctomyces sp. SH-PL62,0.05156104639172554,Planctomyces sp. SH-PL62,mg,C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,XGBoost_tuned,0.4422310812494176,4.278340139161292,fallback_feature_importance,3
+Actinoplanes friuliensis,0.04194844886660576,Actinoplanes friuliensis,mg,C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,XGBoost_tuned,0.4422310812494176,4.278340139161292,fallback_feature_importance,4
+Methylocella silvestris,0.03423207998275757,Methylocella silvestris,mg,C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,XGBoost_tuned,0.4422310812494176,4.278340139161292,fallback_feature_importance,5
+Nocardia sp. CFHS0054,0.030777161940932274,Nocardia sp. CFHS0054,mg,C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,XGBoost_tuned,0.4422310812494176,4.278340139161292,fallback_feature_importance,6
+Streptomyces sp. RTd22,0.03044070675969124,Streptomyces sp. RTd22,mg,C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,XGBoost_tuned,0.4422310812494176,4.278340139161292,fallback_feature_importance,7
+Catenulispora acidiphila,0.023929009214043617,Catenulispora acidiphila,mg,C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,XGBoost_tuned,0.4422310812494176,4.278340139161292,fallback_feature_importance,8
+Mycobacterium kansasii,0.020782217383384705,Mycobacterium kansasii,mg,C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,XGBoost_tuned,0.4422310812494176,4.278340139161292,fallback_feature_importance,9
+Herminiimonas arsenicoxydans,0.016714656725525856,Herminiimonas arsenicoxydans,mg,C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,XGBoost_tuned,0.4422310812494176,4.278340139161292,fallback_feature_importance,10
+Bradyrhizobium sp. ORS 3257,0.015804113820195198,Bradyrhizobium sp. ORS 3257,mg,C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,XGBoost_tuned,0.4422310812494176,4.278340139161292,fallback_feature_importance,11
+Janthinobacterium agaricidamnosum,0.015622405335307121,Janthinobacterium agaricidamnosum,mg,C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,XGBoost_tuned,0.4422310812494176,4.278340139161292,fallback_feature_importance,12
+Agrobacterium fabrum,0.015582975931465626,Agrobacterium fabrum,mg,C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,XGBoost_tuned,0.4422310812494176,4.278340139161292,fallback_feature_importance,13
+Citrobacter freundii complex sp. CFNIH9,0.01348036527633667,Citrobacter freundii complex sp. CFNIH9,mg,C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,XGBoost_tuned,0.4422310812494176,4.278340139161292,fallback_feature_importance,14
+Lentzea guizhouensis,0.013013268820941448,Lentzea guizhouensis,mg,C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,XGBoost_tuned,0.4422310812494176,4.278340139161292,fallback_feature_importance,15
+Enterobacter hormaechei,0.01281811110675335,Enterobacter hormaechei,mg,C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,XGBoost_tuned,0.4422310812494176,4.278340139161292,fallback_feature_importance,16
+Cupriavidus pauculus,0.012044565752148628,Cupriavidus pauculus,mg,C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,XGBoost_tuned,0.4422310812494176,4.278340139161292,fallback_feature_importance,17
+Bradyrhizobium sp. CCGE-LA001,0.011006015352904797,Bradyrhizobium sp. CCGE-LA001,mg,C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,XGBoost_tuned,0.4422310812494176,4.278340139161292,fallback_feature_importance,18
+Bradyrhizobium sp. S23321,0.010894848965108395,Bradyrhizobium sp. S23321,mg,C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,XGBoost_tuned,0.4422310812494176,4.278340139161292,fallback_feature_importance,19
+Polynucleobacter duraquae,0.010125343687832355,Polynucleobacter duraquae,mg,C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,XGBoost_tuned,0.4422310812494176,4.278340139161292,fallback_feature_importance,20
+Dickeya zeae,0.008465679362416267,Dickeya zeae,mg,C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,XGBoost_tuned,0.4422310812494176,4.278340139161292,fallback_feature_importance,21
+Vibrio natriegens,0.008089824579656124,Vibrio natriegens,mg,C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,XGBoost_tuned,0.4422310812494176,4.278340139161292,fallback_feature_importance,22
+Bordetella genomosp. 8,0.007851970382034779,Bordetella genomosp. 8,mg,C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,XGBoost_tuned,0.4422310812494176,4.278340139161292,fallback_feature_importance,23
+Mycobacterium shigaense,0.007826029323041439,Mycobacterium shigaense,mg,C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,XGBoost_tuned,0.4422310812494176,4.278340139161292,fallback_feature_importance,24
+Streptococcus agalactiae,0.007308266591280699,Streptococcus agalactiae,mg,C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,XGBoost_tuned,0.4422310812494176,4.278340139161292,fallback_feature_importance,25
+Streptomyces sp. TN58,0.007066390942782164,Streptomyces sp. TN58,mg,C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,XGBoost_tuned,0.4422310812494176,4.278340139161292,fallback_feature_importance,26
+Lelliottia sp. WB101,0.006404757499694824,Lelliottia sp. WB101,mg,C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,XGBoost_tuned,0.4422310812494176,4.278340139161292,fallback_feature_importance,27
+chem__Ca (Mehlich 1 mg/kg dry weight),0.0062232245691120625,chem__Ca (Mehlich 1 mg/kg dry weight),soil,C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,XGBoost_tuned,0.4422310812494176,4.278340139161292,fallback_feature_importance,28
+Buttiauxella sp. 3AFRM03,0.005916742142289877,Buttiauxella sp. 3AFRM03,mg,C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,XGBoost_tuned,0.4422310812494176,4.278340139161292,fallback_feature_importance,29
+Pseudomonas sp. A214,0.005416641477495432,Pseudomonas sp. A214,mg,C18_positive|IK:MBIZFBDREVRUHY-UHFFFAOYSA-N,XGBoost_tuned,0.4422310812494176,4.278340139161292,fallback_feature_importance,30
+Streptacidiphilus sp. DSM 106435,0.02248265966773033,Streptacidiphilus sp. DSM 106435,mg,C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,XGBoost_tuned,0.4382750010141011,3.225998358007724,fallback_feature_importance,1
+Mycobacterium marseillense,0.015269272960722446,Mycobacterium marseillense,mg,C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,XGBoost_tuned,0.4382750010141011,3.225998358007724,fallback_feature_importance,2
+Streptomyces antibioticus,0.015169629827141762,Streptomyces antibioticus,mg,C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,XGBoost_tuned,0.4382750010141011,3.225998358007724,fallback_feature_importance,3
+Burkholderia anthina,0.015069746412336826,Burkholderia anthina,mg,C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,XGBoost_tuned,0.4382750010141011,3.225998358007724,fallback_feature_importance,4
+Vibrio furnissii,0.013581658713519573,Vibrio furnissii,mg,C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,XGBoost_tuned,0.4382750010141011,3.225998358007724,fallback_feature_importance,5
+soil_total_N,0.013134969398379326,soil_total_N,soil,C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,XGBoost_tuned,0.4382750010141011,3.225998358007724,fallback_feature_importance,6
+Calditerrivibrio nitroreducens,0.012718508951365948,Calditerrivibrio nitroreducens,mg,C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,XGBoost_tuned,0.4382750010141011,3.225998358007724,fallback_feature_importance,7
+Catenulispora acidiphila,0.011675111018121243,Catenulispora acidiphila,mg,C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,XGBoost_tuned,0.4382750010141011,3.225998358007724,fallback_feature_importance,8
+Mycobacterium colombiense,0.011168339289724827,Mycobacterium colombiense,mg,C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,XGBoost_tuned,0.4382750010141011,3.225998358007724,fallback_feature_importance,9
+Wenyingzhuangia fucanilytica,0.011013785377144814,Wenyingzhuangia fucanilytica,mg,C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,XGBoost_tuned,0.4382750010141011,3.225998358007724,fallback_feature_importance,10
+Acinetobacter baumannii,0.009607023559510708,Acinetobacter baumannii,mg,C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,XGBoost_tuned,0.4382750010141011,3.225998358007724,fallback_feature_importance,11
+moist__Replicate 1 Mass Water / Mass Dry Soil %,0.00953762885183096,moist__Replicate 1 Mass Water / Mass Dry Soil %,soil,C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,XGBoost_tuned,0.4382750010141011,3.225998358007724,fallback_feature_importance,12
+Mycobacterium sp. WY10,0.009467706084251404,Mycobacterium sp. WY10,mg,C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,XGBoost_tuned,0.4382750010141011,3.225998358007724,fallback_feature_importance,13
+soil_NH4,0.00813066866248846,soil_NH4,soil,C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,XGBoost_tuned,0.4382750010141011,3.225998358007724,fallback_feature_importance,14
+Bradyrhizobium erythrophlei,0.00790060218423605,Bradyrhizobium erythrophlei,mg,C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,XGBoost_tuned,0.4382750010141011,3.225998358007724,fallback_feature_importance,15
+Anaerotignum propionicum,0.007873746566474438,Anaerotignum propionicum,mg,C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,XGBoost_tuned,0.4382750010141011,3.225998358007724,fallback_feature_importance,16
+Bradyrhizobium sp. SK17,0.006649606395512819,Bradyrhizobium sp. SK17,mg,C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,XGBoost_tuned,0.4382750010141011,3.225998358007724,fallback_feature_importance,17
+Terriglobus roseus,0.006360406521707773,Terriglobus roseus,mg,C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,XGBoost_tuned,0.4382750010141011,3.225998358007724,fallback_feature_importance,18
+Streptomyces autolyticus,0.0061513520777225494,Streptomyces autolyticus,mg,C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,XGBoost_tuned,0.4382750010141011,3.225998358007724,fallback_feature_importance,19
+Collimonas pratensis,0.0061073037795722485,Collimonas pratensis,mg,C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,XGBoost_tuned,0.4382750010141011,3.225998358007724,fallback_feature_importance,20
+Corynebacterium diphtheriae,0.005863995756953955,Corynebacterium diphtheriae,mg,C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,XGBoost_tuned,0.4382750010141011,3.225998358007724,fallback_feature_importance,21
+Cloacibacterium normanense,0.005784654524177313,Cloacibacterium normanense,mg,C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,XGBoost_tuned,0.4382750010141011,3.225998358007724,fallback_feature_importance,22
+soil_total_C,0.0057549248449504375,soil_total_C,soil,C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,XGBoost_tuned,0.4382750010141011,3.225998358007724,fallback_feature_importance,23
+Exiguobacterium sp. MH3,0.005520198028534651,Exiguobacterium sp. MH3,mg,C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,XGBoost_tuned,0.4382750010141011,3.225998358007724,fallback_feature_importance,24
+Kosakonia radicincitans,0.005441244691610336,Kosakonia radicincitans,mg,C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,XGBoost_tuned,0.4382750010141011,3.225998358007724,fallback_feature_importance,25
+Bacillus megaterium,0.005293853115290403,Bacillus megaterium,mg,C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,XGBoost_tuned,0.4382750010141011,3.225998358007724,fallback_feature_importance,26
+Phenylobacterium zucineum,0.0052208006381988525,Phenylobacterium zucineum,mg,C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,XGBoost_tuned,0.4382750010141011,3.225998358007724,fallback_feature_importance,27
+Streptomyces bingchenggensis,0.005199711304157972,Streptomyces bingchenggensis,mg,C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,XGBoost_tuned,0.4382750010141011,3.225998358007724,fallback_feature_importance,28
+Kutzneria albida,0.005034249275922775,Kutzneria albida,mg,C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,XGBoost_tuned,0.4382750010141011,3.225998358007724,fallback_feature_importance,29
+Nostoc sp. PCC 7524,0.004948791582137346,Nostoc sp. PCC 7524,mg,C18_positive|IK:GUMFPOIJOXLCLA-JKSUJKDBSA-N,XGBoost_tuned,0.4382750010141011,3.225998358007724,fallback_feature_importance,30
+Candidatus Koribacter versatilis,0.4042025249035774,Candidatus Koribacter versatilis,mg,HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RandomForest_tuned,0.4350307938679755,4.68266215915222,true_shap,1
+Catenulispora acidiphila,0.3964011604145413,Catenulispora acidiphila,mg,HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RandomForest_tuned,0.4350307938679755,4.68266215915222,true_shap,2
+Acidobacteriaceae bacterium SBC82,0.35730579481163016,Acidobacteriaceae bacterium SBC82,mg,HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RandomForest_tuned,0.4350307938679755,4.68266215915222,true_shap,3
+Granulicella mallensis,0.34796354135804874,Granulicella mallensis,mg,HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RandomForest_tuned,0.4350307938679755,4.68266215915222,true_shap,4
+Granulicella tundricola,0.2696365510160466,Granulicella tundricola,mg,HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RandomForest_tuned,0.4350307938679755,4.68266215915222,true_shap,5
+Kitasatospora setae,0.2636166086567036,Kitasatospora setae,mg,HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RandomForest_tuned,0.4350307938679755,4.68266215915222,true_shap,6
+Kitasatospora aureofaciens,0.24393138629523298,Kitasatospora aureofaciens,mg,HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RandomForest_tuned,0.4350307938679755,4.68266215915222,true_shap,7
+Kitasatospora sp. MMS16-BH015,0.23104142388827606,Kitasatospora sp. MMS16-BH015,mg,HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RandomForest_tuned,0.4350307938679755,4.68266215915222,true_shap,8
+nitrif__Rate (mg NO3-N/kilogram dry weight soil/day),0.22482377837576015,nitrif__Rate (mg NO3-N/kilogram dry weight soil/day),soil,HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RandomForest_tuned,0.4350307938679755,4.68266215915222,true_shap,9
+Terriglobus roseus,0.22224486918759387,Terriglobus roseus,mg,HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RandomForest_tuned,0.4350307938679755,4.68266215915222,true_shap,10
+Acidobacterium capsulatum,0.19341706556726615,Acidobacterium capsulatum,mg,HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RandomForest_tuned,0.4350307938679755,4.68266215915222,true_shap,11
+Streptomyces sp. TLI_053,0.19081584996493278,Streptomyces sp. TLI_053,mg,HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RandomForest_tuned,0.4350307938679755,4.68266215915222,true_shap,12
+Terriglobus saanensis,0.14493100114742383,Terriglobus saanensis,mg,HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RandomForest_tuned,0.4350307938679755,4.68266215915222,true_shap,13
+Candidatus Solibacter usitatus,0.13210187730447953,Candidatus Solibacter usitatus,mg,HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RandomForest_tuned,0.4350307938679755,4.68266215915222,true_shap,14
+Streptacidiphilus sp. DSM 106435,0.11407507707163386,Streptacidiphilus sp. DSM 106435,mg,HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RandomForest_tuned,0.4350307938679755,4.68266215915222,true_shap,15
+Sphingobacteriaceae bacterium GW460-11-11-14-LB5,0.0910620266178606,Sphingobacteriaceae bacterium GW460-11-11-14-LB5,mg,HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RandomForest_tuned,0.4350307938679755,4.68266215915222,true_shap,16
+soil_NO3,0.08261538478038709,soil_NO3,soil,HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RandomForest_tuned,0.4350307938679755,4.68266215915222,true_shap,17
+Bradyrhizobium lablabi,0.07150222075745258,Bradyrhizobium lablabi,mg,HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RandomForest_tuned,0.4350307938679755,4.68266215915222,true_shap,18
+Bradyrhizobium sp.,0.0584942591241325,Bradyrhizobium sp.,mg,HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RandomForest_tuned,0.4350307938679755,4.68266215915222,true_shap,19
+Chryseolinea sp. KIS68-18,0.05310389644895454,Chryseolinea sp. KIS68-18,mg,HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RandomForest_tuned,0.4350307938679755,4.68266215915222,true_shap,20
+moist__Replicate 1 Mass Water / Mass Dry Soil %,0.05148306233094497,moist__Replicate 1 Mass Water / Mass Dry Soil %,soil,HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RandomForest_tuned,0.4350307938679755,4.68266215915222,true_shap,21
+Kitasatospora albolonga,0.04980908886846018,Kitasatospora albolonga,mg,HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RandomForest_tuned,0.4350307938679755,4.68266215915222,true_shap,22
+Pedobacter sp. G11,0.04498570324105845,Pedobacter sp. G11,mg,HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RandomForest_tuned,0.4350307938679755,4.68266215915222,true_shap,23
+Micromonospora inositola,0.038133827217984285,Micromonospora inositola,mg,HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RandomForest_tuned,0.4350307938679755,4.68266215915222,true_shap,24
+Bradyrhizobium erythrophlei,0.03622364916398083,Bradyrhizobium erythrophlei,mg,HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RandomForest_tuned,0.4350307938679755,4.68266215915222,true_shap,25
+Acidisphaera sp. G45-3,0.031216953504325348,Acidisphaera sp. G45-3,mg,HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RandomForest_tuned,0.4350307938679755,4.68266215915222,true_shap,26
+Bradyrhizobium icense,0.030967849372851235,Bradyrhizobium icense,mg,HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RandomForest_tuned,0.4350307938679755,4.68266215915222,true_shap,27
+Chitinophaga pinensis,0.0303642437523011,Chitinophaga pinensis,mg,HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RandomForest_tuned,0.4350307938679755,4.68266215915222,true_shap,28
+chem__Zn (Mehlich 1 mg/kg dry weight),0.03003730596808086,chem__Zn (Mehlich 1 mg/kg dry weight),soil,HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RandomForest_tuned,0.4350307938679755,4.68266215915222,true_shap,29
+Sulfurihydrogenibium sp. YO3AOP1,0.029975360384499654,Sulfurihydrogenibium sp. YO3AOP1,mg,HILICZ_positive|IK:OYTCZOJKXCTBHG-UHFFFAOYSA-N,RandomForest_tuned,0.4350307938679755,4.68266215915222,true_shap,30

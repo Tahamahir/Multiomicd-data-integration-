@@ -1,0 +1,34 @@
+Job ID: 7163589
+Task ID: 15
+Node: slurm-compute-h21c8-u14-svn1
+Start: Tue Jun 16 11:28:30 +01 2026
+[INFO] X: (105, 3059)
+[INFO] Y selected: (105, 30)
+[INFO] MG features: 3039
+[INFO] Soil features: 20
+[TASK] 15
+[METABOLITE] C18_negative|IK:ZWNLSRDFHQCTQW-UHFFFAOYSA-N
+[RUN] Real baseline validation
+[RUN] Null model permutations
+  permutation 1/20
+  permutation 2/20
+  permutation 3/20
+  permutation 4/20
+  permutation 5/20
+  permutation 6/20
+  permutation 7/20
+  permutation 8/20
+  permutation 9/20
+  permutation 10/20
+  permutation 11/20
+  permutation 12/20
+  permutation 13/20
+  permutation 14/20
+  permutation 15/20
+  permutation 16/20
+  permutation 17/20
+  permutation 18/20
+  permutation 19/20
+  permutation 20/20
+[DONE] Saved: /home/taha.mahir/Multiomicd-data-integration-/10_analysis/outputs/phase42_article_validation/metrics_task_015.csv
+End: Tue Jun 16 14:13:51 +01 2026

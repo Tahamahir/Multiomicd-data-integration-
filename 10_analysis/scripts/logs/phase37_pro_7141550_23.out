@@ -1,0 +1,21 @@
+Job ID: 7141574
+Array Task ID: 23
+Node: slurm-compute-h24b8-u7-svn4
+Start: Sun Jun 14 15:55:11 +01 2026
+Running config:
+{
+  "config_id": "C023",
+  "mi_k": 800,
+  "reduction": "sparsepca",
+  "n_components": 75,
+  "w_mg": 0.8,
+  "model": "rf_strong"
+}
+X: (105, 3059)
+Y: (105, 30)
+MG features: 3039
+Soil features: 20
+Saved: /home/taha.mahir/Multiomicd-data-integration-/10_analysis/outputs/phase37_pro_full_pipeline_tuning/C023_metrics.csv
+Mean R2: 0.3819914159650977
+Median R2: 0.3486985175691189
+End: Sun Jun 14 18:05:28 +01 2026

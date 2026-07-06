@@ -1,0 +1,381 @@
+soil_column
+soil_pH
+soil_NH4
+soil_NO3
+soil_total_C
+soil_total_N
+chem__LBC (mg/kg CaCO3/pH dry weight)
+chem__LBCeq (mg/kg CaCO3/pH dry weight)
+chem__pH
+chem__Ca (Mehlich 1 mg/kg dry weight)
+chem__K (Mehlich 1 mg/kg dry weight)
+chem__Mg (Mehlich 1 mg/kg dry weight)
+chem__Mn (Mehlich 1 mg/kg dry weight)
+chem__P (Mehlich 1 mg/kg dry weight)
+chem__Zn (Mehlich 1 mg/kg dry weight)
+chem__NH4-N (mg/kg dry weight)
+chem__NO3-N (mg/kg dry weight)
+chem__C (%)
+chem__N (%)
+denit__Rate (microgN/kilogram dry weight soil/day)
+moist__Replicate 1 Mass Water / Mass Dry Soil %
+moist__Replicate 2 Mass Water / Mass Dry Soil %
+moist__Replicate 3 Mass Water / Mass Dry Soil %
+nitrif__Rate (mg NO3-N/kilogram dry weight soil/day)
+psize__Soil Sand Content %
+psize__Soil Clay Content %
+psize__Soil Silt Content %
+Acidiphilium cryptum
+Acidiphilium multivorum
+Acidisphaera sp. G45-3
+Actinopolymorpha singaporensis
+Aeromonas hydrophila
+Agarilytica rhodophyticola
+Aggregatibacter aphrophilus
+Agrococcus carbonis
+Akkermansia glycaniphila
+Akkermansia muciniphila
+Algoriphagus machipongonensis
+Algoriphagus sp. M8-2
+Alicycliphilus denitrificans
+Amycolatopsis keratiniphila
+Anaerolinea thermophila
+Arcanobacterium phocae
+Archangium gephyra
+Azospirillum thiophilum
+Bacillus phage BM5
+Bathymodiolus septemdierum thioautotrophic gill symbiont
+Bifidobacterium thermophilum
+Bradyrhizobium erythrophlei
+Bradyrhizobium oligotrophicum
+Brevibacterium sandarakinum
+Buchnera aphidicola
+Burkholderia phage KS14
+Caldilinea aerophila
+Candidatus Accumulibacter phosphatis
+Candidatus Amoebophilus asiaticus
+Candidatus Azobacteroides pseudotrichonymphae
+Candidatus Desulfovibrio trichonymphae
+Candidatus Methanomethylophilus alvus
+Candidatus Nucleicultrix amoebiphila
+Candidatus Phaeomarinobacter ectocarpi
+Candidatus Planktophila dulcis
+Candidatus Planktophila lacus
+Candidatus Planktophila versatilis
+Candidatus Protochlamydia amoebophila
+Candidatus Protochlamydia naegleriophila
+Candidatus Thiodictyon syntrophicum
+Candidatus Xiphinematobacter sp. Idaho Grape
+Capnocytophaga canimorsus
+Capnocytophaga haemolytica
+Capnocytophaga leadbetteri
+Capnocytophaga ochracea
+Capnocytophaga sputigena
+Capnocytophaga stomatis
+Carboxydocella thermautotrophica
+Catenulispora acidiphila
+Cellulophaga algicola
+Cellulophaga baltica
+Cellulophaga lytica
+Chamaesiphon minutus
+Chitinophaga caeni
+Chitinophaga pinensis
+Chitinophaga sp. MD30
+Chloracidobacterium thermophilum
+Chlorobium phaeobacteroides
+Chlorobium phaeovibrioides
+Chryseobacterium arthrosphaerae
+Cnuibacter physcomitrellae
+Corynebacterium diphtheriae
+Corynebacterium glyciniphilum
+Corynebacterium phocae
+Corynebacterium sphenisci
+Croceicoccus naphthovorans
+Cytophaga hutchinsonii
+Cytophagales bacterium TFI 002
+Denitrovibrio acetiphilus
+Dermatophilus congolensis
+Desulfobacterium autotrophicum
+Desulfosporosinus acidiphilus
+Desulfotalea psychrophila
+Desulfurivibrio alkaliphilus
+Diaphorobacter polyhydroxybutyrativorans
+Dietzia psychralcaliphila
+Elizabethkingia anophelis
+Ferriphaselus amnicola
+Fictibacillus phosphorivorans
+Flavobacterium branchiophilum
+Flavobacterium psychrophilum
+Formosa agariphila
+Gemmatimonas phototrophica
+Geodermatophilus obscurus
+Gloeomargarita lithophora
+Gluconacetobacter diazotrophicus
+Glutamicibacter halophytocola
+Gordonia phage GMA4
+Gordonia phthalatica
+Haemophilus influenzae
+Halobacillus halophilus
+Halorhodospira halophila
+Hartmannibacter diazotrophicus
+Hoeflea phototrophica
+Hydrogenophaga crassostreae
+Hydrogenophaga sp. PBC
+Hydrogenophaga sp. RAC07
+Hydrogenophilus thermoluteolus
+Hyphomicrobium denitrificans
+Hyphomicrobium nitrativorans
+Hyphomicrobium sp. MC1
+Hyphomonas neptunium
+Hyphomonas sp. CACIAM 19H1
+Hyphomonas sp. Mor2
+Isosphaera pallida
+Jatrophihabitans sp. GAS493
+Jiangella alkaliphila
+Kibdelosporangium phytohabitans
+Kocuria rhizophila
+Lachnoclostridium phocaeense
+Lachnoclostridium phytofermentans
+Lacimicrobium alkaliphilum
+Lacunisphaera limnophila
+Leadbetterella byssophila
+Legionella pneumophila
+Leptospirillum ferriphilum
+Lysinibacillus sphaericus
+Magnetospirillum gryphiswaldense
+Marinobacter hydrocarbonoclasticus
+Marinobacter psychrophilus
+Martelella endophytica
+Megasphaera elsdenii
+Megasphaera hexanoica
+Megasphaera stantonii
+Mesorhizobium amorphae
+Mesorhizobium phage vB_MloP_Lo5R7ANS
+Metallosphaera sedula
+Methanosphaerula palustris
+Methylacidiphilum fumariolicum
+Methylacidiphilum infernorum
+Methylibium petroleiphilum
+Methylobacterium phyllosphaerae
+Methyloceanibacter sp. wino2
+Methylocystis bryophila
+Methylomicrobium alcaliphilum
+Methylophaga frappieri
+Methylophaga nitratireducenticrescens
+Methylophilus sp. TWE2
+Methylovorus glucosotrophus
+Microcella alkaliphila
+Microchaete diplosiphon
+Microlunatus phosphovorus
+Mycobacterium dioxanotrophicus
+Mycobacterium haemophilum
+Mycolicibacterium phlei
+Natronomonas pharaonis
+Nitrosococcus halophilus
+Nitrosomonas eutropha
+Nitrososphaera viennensis
+Nostoc sphaeroides
+Novibacillus thermophilus
+Novosphingobium aromaticivorans
+Novosphingobium pentaromativorans
+Novosphingobium resinovorum
+Novosphingobium sp. P6W
+Novosphingobium sp. PP1Y
+Novosphingobium sp. THN1
+Novosphingobium tardaugens
+Oblitimonas alkaliphila
+Oceanisphaera avium
+Oceanisphaera profunda
+Oleiphilus messinensis
+Oligotropha carboxidovorans
+Paenibacillus naphthalenovorans
+Paenibacillus physcomitrellae
+Paludisphaera borealis
+Pannonibacter phragmitetus
+Paraburkholderia phenoliruptrix
+Paraburkholderia phymatum
+Paraburkholderia phytofirmans
+Paracoccus aminophilus
+Paraglaciecola psychrophila
+Pararhodospirillum photometricum
+Pelodictyon phaeoclathratiforme
+Peptoclostridium acidaminophilum
+Persephonella marina
+Phaeobacter gallaeciensis
+Phaeobacter inhibens
+Phaeobacter piscinae
+Phaeobacter porticola
+Phaeobacter sp. LSS9
+Phenylobacterium sp. HYN0004
+Phenylobacterium zucineum
+Phoenicibacter massiliensis
+Photobacterium damselae
+Photobacterium gaetbulicola
+Photorhabdus laumondii
+Photorhabdus thracensis
+Phreatobacter cathodiphilus
+Phycicoccus dokdonensis
+Phycisphaera mikurensis
+Phyllobacterium zundukense
+Phytobacter sp. SCO41
+Phytobacter ursingii
+Planctopirus limnophila
+Polaromonas naphthalenivorans
+Polymorphum gilvum
+Polynucleobacter acidiphobus
+Porphyrobacter HT-58-2
+Porphyrobacter neustonensis
+Porphyrobacter sp. CACIAM 03H1
+Porphyrobacter sp. LM 6
+Porphyromonas asaccharolytica
+Porphyromonas gingivalis
+Proteiniphilum saccharofermentans
+Pseudarthrobacter chlorophenolicus
+Pseudarthrobacter phenanthrenivorans
+Pseudodesulfovibrio piezophilus
+Pseudomonas alcaliphila
+Pseudomonas alkylphenolica
+Pseudomonas chlororaphis
+Pseudomonas entomophila
+Pseudomonas phage phiPsa374
+Pseudomonas psychrophila
+Pseudomonas rhizosphaerae
+Pseudomonas saudiphocaensis
+Pseudomonas sp. LPH1
+Pseudomonas sp. phDV1
+Rhizobacter gummiphilus
+Rhizobium phage 16-3
+Rhizobium phage RHEph10
+Rhizobium phaseoli
+Rhodobacter sphaeroides
+Rhodococcus biphenylivorans
+Rhodococcus coprophilus
+Rhodovulum sulfidophilum
+Rubinisphaera brasiliensis
+Rubrobacter xylanophilus
+Saccharophagus degradans
+Salinisphaera sp. LB1
+Sandaracinus amylolyticus
+Sedimentisphaera cyanobacteriorum
+Sedimentisphaera salicampi
+Shewanella psychrophila
+Sideroxydans lithotrophicus
+Singulisphaera acidiphila
+Sphaerobacter thermophilus
+Sphaerochaeta coccoides
+Sphaerochaeta globosa
+Sphaerospermopsis kisseleviana
+Sphingobacteriaceae bacterium GW460-11-11-14-LB5
+Sphingobacterium mizutaii
+Sphingobacterium sp. 21
+Sphingobacterium sp. B29
+Sphingobacterium sp. G1-14
+Sphingobacterium sp. ML3W
+Sphingobium baderi
+Sphingobium chlorophenolicum
+Sphingobium cloacae
+Sphingobium herbicidovorans
+Sphingobium hydrophobicum
+Sphingobium indicum
+Sphingobium japonicum
+Sphingobium sp. EP60837
+Sphingobium sp. MI1205
+Sphingobium sp. RAC03
+Sphingobium sp. SCG-1
+Sphingobium sp. SYK-6
+Sphingobium sp. TKS
+Sphingobium sp. YBL2
+Sphingobium sp. YG1
+Sphingobium yanoikuyae
+Sphingomonas hengshuiensis
+Sphingomonas indica
+Sphingomonas koreensis
+Sphingomonas melonis
+Sphingomonas panacis
+Sphingomonas sanxanigenens
+Sphingomonas sp. Cra20
+Sphingomonas sp. FARSPH
+Sphingomonas sp. JJ-A5
+Sphingomonas sp. KC8
+Sphingomonas sp. LK11
+Sphingomonas sp. LM7
+Sphingomonas sp. MM-1
+Sphingomonas sp. NIC1
+Sphingomonas sp. YZ-8
+Sphingomonas taxi
+Sphingomonas wittichii
+Sphingopyxis alaskensis
+Sphingopyxis fribergensis
+Sphingopyxis granuli
+Sphingopyxis macrogoltabida
+Sphingopyxis sp. 113P3
+Sphingopyxis sp. EG6
+Sphingopyxis sp. FD7
+Sphingopyxis sp. LPB0140
+Sphingopyxis sp. MG
+Sphingopyxis sp. QXT-31
+Sphingopyxis sp. WS5A3p
+Sphingopyxis terrae
+Sphingorhabdus flavimaris
+Sphingorhabdus sp. Alg231-15
+Sphingorhabdus sp. M41
+Sphingorhabdus sp. YGSMI21
+Spirochaeta thermophila
+Sporosarcina psychrophila
+Staphylococcus aureus
+Staphylococcus epidermidis
+Stenotrophomonas acidaminiphila
+Stenotrophomonas maltophilia
+Stenotrophomonas nitritireducens
+Stenotrophomonas rhizophila
+Stenotrophomonas sp. ESTM1D_MKCIP4_1
+Stenotrophomonas sp. G4
+Stenotrophomonas sp. LM091
+Stenotrophomonas sp. MYb57
+Stenotrophomonas sp. Pemsol
+Stenotrophomonas sp. SAU14A_NAIMI4_5
+Stenotrophomonas sp. SAU14A_NAIMI4_8
+Stenotrophomonas sp. WZN-1
+Stenotrophomonas sp. YAU14A_MKIMI4_1
+Stenotrophomonas sp. YAU14D1_LEIMI4_1
+Stenotrophomonas sp. ZAC14A_NAIMI4_1
+Stenotrophomonas sp. ZAC14D2_NAIMI4_6
+Stenotrophomonas sp. ZAC14D2_NAIMI4_7
+Streptacidiphilus sp. DSM 106435
+Streptococcus thermophilus
+Streptomyces phage Nanodon
+Streptomyces phage phiHau3
+Streptomyces phage phiSASD1
+Streptomyces virus phiBT1
+Streptomyces virus phiC31
+Symbiobacterium thermophilum
+Syntrophobacter fumaroxidans
+Syntrophobotulus glycolicus
+Syntrophomonas wolfei
+Syntrophothermus lipocalidus
+Syntrophus aciditrophicus
+Tateyamaria omphalii
+Tenacibaculum mesophilum
+Thermacetogenium phaeum
+Thermoanaerobacter siderophilus
+Thermodesulfobium acidiphilum
+Thermotoga petrophila
+Thermus thermophilus
+Thioalkalivibrio sulfidiphilus
+Thiomicrospira aerophila
+Tropheryma whipplei
+Verminephrobacter eiseniae
+Vibrio scophthalmi
+Waddlia chondrophila
+Wolbachia endosymbiont of Drosophila melanogaster
+Wolbachia endosymbiont of Drosophila simulans
+Xanthobacter autotrophicus
+Xanthomonas phaseoli
+Xenorhabdus nematophila
+Yersinia entomophaga
+Zhongshania aliphaticivorans
+[Clostridium] sphenoides
+[Mycobacterium] stephanolepidis
+[Pseudomonas] mesoacidophila
+alpha proteobacterium HIMB59
+halophilic archaeon DL31

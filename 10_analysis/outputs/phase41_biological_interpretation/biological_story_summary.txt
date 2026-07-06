@@ -1,0 +1,53 @@
+Phase 41 - Biological interpretation summary
+============================================
+
+1. Global structure
+- The interpreted XAI network contains 80 selected featuremetabolite links.
+- These links connect 71 microbial/soil features to 30 metabolites.
+- Microbial links represent 86.2% of selected links, while soil-related links represent 13.8%.
+
+2. Main biological hubs
+- Top metabolite hubs:
+  * C18_negative|IK:CFJLERBDXY | hub_score=0.937, degree=3
+  * C18_negative|IK:CZDNLUMNEL | hub_score=0.926, degree=3
+  * C18_negative|IK:ABVDJKDAAW | hub_score=0.911, degree=3
+  * C18_negative|IK:BLUAFEHZUW | hub_score=0.901, degree=3
+  * C18_negative|IK:DJOJDHGQRN | hub_score=0.896, degree=3
+  * C18_negative|IK:AJFTWGKYXH | hub_score=0.894, degree=3
+  * C18_negative|IK:DLIKSSGEMU | hub_score=0.890, degree=3
+  * C18_negative|IK:CDRPUGZCRX | hub_score=0.886, degree=3
+  * C18_negative|IK:DRTQHJPVMG | hub_score=0.885, degree=3
+  * C18_negative|IK:DRTQHJPVMG | hub_score=0.884, degree=3
+
+- Top microbial hubs:
+  * Pseudomonas | hub_score=0.805, degree=2 | plant-associated and rhizosphere-adapted bacteria; often involved in nutrient cycling and secondary metabolite interactions
+  * Chryseolinea sp. KIS68-18 | hub_score=0.762, degree=2 | microbial feature with recurrent predictive contribution
+  * Methylotenera | hub_score=0.742, degree=2 | methylotrophic bacteria potentially linked to one-carbon metabolism
+  * Enterobacter | hub_score=0.700, degree=2 | plant-associated bacteria with broad metabolic capabilities
+  * Cupriavidus | hub_score=0.686, degree=2 | soil bacteria often associated with stress tolerance and metal resistance
+  * Curtobacterium sp. BH-2-1-1 | hub_score=0.471, degree=1 | microbial feature with recurrent predictive contribution
+  * Agrobacterium | hub_score=0.464, degree=1 | soil and plant-associated bacteria
+  * Flavobacterium | hub_score=0.439, degree=1 | soil and rhizosphere bacteria involved in organic matter transformation
+  * Paenibacillus | hub_score=0.436, degree=1 | soil bacteria often linked to plant growth promotion and nutrient mobilization
+  * Niastella koreensis | hub_score=0.425, degree=1 | microbial feature with recurrent predictive contribution
+
+- Top soil hubs:
+  * soil_total_C | hub_score=0.842, degree=2
+  * nitrif__Rate (mg NO3-N/kilogram dry weight soil/day) | hub_score=0.771, degree=2
+  * moist__Replicate 1 Mass Water / Mass Dry Soil % | hub_score=0.726, degree=2
+  * psize__Soil Clay Content % | hub_score=0.663, degree=2
+  * psize__Soil Sand Content % | hub_score=0.446, degree=1
+  * soil_NH4 | hub_score=0.332, degree=1
+  * denit__Rate (microgN/kilogram dry weight soil/day) | hub_score=0.276, degree=1
+
+3. Soil interpretation
+- The most represented soil-related categories are:
+  * nitrogen: 4 links
+  * texture: 3 links
+  * moisture: 2 links
+  * carbon: 2 links
+
+4. Biological conclusion
+- The XAI-based interpretation suggests that metabolite prediction is not driven by a single variable, but by a structured combination of microbial and soil-related predictors.
+- Microbial features dominate the network globally, while soil variables such as carbon, nitrogen, texture or moisture-related variables act as environmental modulators.
+- These results should be interpreted as predictive and associative signals, not as direct causal mechanisms.

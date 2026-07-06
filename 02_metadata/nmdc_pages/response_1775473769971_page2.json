@@ -1,0 +1,3216 @@
+{
+  "meta": {
+    "mongo_filter_dict": {
+      "associated_studies": "nmdc:sty-11-r2h77870"
+    },
+    "mongo_sort_list": null,
+    "count": 416,
+    "db_response_time_ms": 5,
+    "page": 2,
+    "per_page": 100,
+    "fields": "id,name,description,env_broad_scale,env_local_scale,env_medium"
+  },
+  "results": [
+    {
+      "id": "nmdc:bsm-11-b7pv2a25",
+      "name": "Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-13-CL2_39_29 endosphere",
+      "description": "Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO:01000349",
+        "term": {
+          "id": "ENVO:01000349",
+          "name": "root matter",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-fy3j8w19",
+      "name": "Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - GW-7986-Co2_68_28 endosphere",
+      "description": "Root microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO:01000349",
+        "term": {
+          "id": "ENVO:01000349",
+          "name": "root matter",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-g4rxzh95",
+      "name": "Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-13-CL1_35_33 endosphere",
+      "description": "Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO:01000349",
+        "term": {
+          "id": "ENVO:01000349",
+          "name": "root matter",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-bgar5122",
+      "name": "Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - GW-11047-CL1_23_5 endosphere",
+      "description": "Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO:01000349",
+        "term": {
+          "id": "ENVO:01000349",
+          "name": "root matter",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-766dwa91",
+      "name": "Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-198-CL2_38_5 endosphere",
+      "description": "Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO:01000349",
+        "term": {
+          "id": "ENVO:01000349",
+          "name": "root matter",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-jt9qtx26",
+      "name": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-904-Co2_51_17 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-szd4fj93",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-845-CL3_80_19 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-90vp2x95",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-56-Co1_22_4 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-ad739z23",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-133-Co2_50_25 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-b3802b26",
+      "name": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - SKWD-24-1-Co2_54_22 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-nz6f9964",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-13-Co2_41_23 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-c52npq37",
+      "name": "Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-833-CL3_77_6 endosphere",
+      "description": "Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO:01000349",
+        "term": {
+          "id": "ENVO:01000349",
+          "name": "root matter",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-7yjtg159",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - SKWA-24-3-Co3_23_35 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-52bf8107",
+      "name": "Bulk soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-198-CL3_81_33 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-q3sa0t28",
+      "name": "Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - SKWA-24-3-Co3_23_35 endosphere",
+      "description": "Root microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO:01000349",
+        "term": {
+          "id": "ENVO:01000349",
+          "name": "root matter",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-yqrv3r15",
+      "name": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-388-Co1_32_7 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-b70s9h20",
+      "name": "Bulk soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-360-CL3_72_12 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-v1ynyj85",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-845-Co3_28_42 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-m5tyz195",
+      "name": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-234-Co1_23_3 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-1r4br749",
+      "name": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-388-Co3_8_57 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-y46kr968",
+      "name": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-847-Co1_12_9 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-wm40z541",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - SKWD-24-1-Co2_54_22 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-hx03gs06",
+      "name": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-845-Co1_24_3 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-pnb58t51",
+      "name": "Bulk soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA - GW-11047-CL1_23_5 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-ynkz2756",
+      "name": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-351-Co3_11_46 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-2k7det13",
+      "name": "Bulk soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-845-CL3_80_19 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-aztxt406",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-234-CL2_65_22 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-a93af105",
+      "name": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-866-Co1_10_5 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-6y2dt532",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA - GW-4579-CL2_50_20 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-97dgrv19",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-13-Co1_30_3 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-35peqt55",
+      "name": "Bulk soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-904-CL3_91_3 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-5snc2s56",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-307-CL1_26_33 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-nrt24197",
+      "name": "Bulk soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-904-CL2_57_20 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-zxvekh84",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-351-CL3_84_27 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-9rcfa470",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-904-Co2_51_17 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-3t0sfk18",
+      "name": "Bulk soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-388-CL1_25_34 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-adwwk217",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-845-CL2_37_16 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-4ep6tc76",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-388-CL3_88_3 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-g3r2dm95",
+      "name": "Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-360-CL3_72_12 endosphere",
+      "description": "Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO:01000349",
+        "term": {
+          "id": "ENVO:01000349",
+          "name": "root matter",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-cd09p052",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-904-Co1_5_9 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-acfvxq24",
+      "name": "Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-307-CL2_57_8 endosphere",
+      "description": "Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO:01000349",
+        "term": {
+          "id": "ENVO:01000349",
+          "name": "root matter",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-ptgmvp63",
+      "name": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - GW-4579-Co3_14_51 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-jq2e3v76",
+      "name": "Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-13-CL3_85_26 endosphere",
+      "description": "Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO:01000349",
+        "term": {
+          "id": "ENVO:01000349",
+          "name": "root matter",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-tkwn9650",
+      "name": "Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-56-Co1_22_4 endosphere",
+      "description": "Root microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO:01000349",
+        "term": {
+          "id": "ENVO:01000349",
+          "name": "root matter",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-3nhng665",
+      "name": "Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-845-CL3_80_19 endosphere",
+      "description": "Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO:01000349",
+        "term": {
+          "id": "ENVO:01000349",
+          "name": "root matter",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-spav5m37",
+      "name": "Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-351-CL1_27_10 endosphere",
+      "description": "Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO:01000349",
+        "term": {
+          "id": "ENVO:01000349",
+          "name": "root matter",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-dtyb1w45",
+      "name": "Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-234-Co2_52_27 endosphere",
+      "description": "Root microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO:01000349",
+        "term": {
+          "id": "ENVO:01000349",
+          "name": "root matter",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-vp7n5531",
+      "name": "Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-234-CL2_65_22 endosphere",
+      "description": "Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO:01000349",
+        "term": {
+          "id": "ENVO:01000349",
+          "name": "root matter",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-3nffqc45",
+      "name": "Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-360-Co3_13_34 endosphere",
+      "description": "Root microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO:01000349",
+        "term": {
+          "id": "ENVO:01000349",
+          "name": "root matter",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-899bm454",
+      "name": "Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - SKWA-24-3-Co1_3_5 endosphere",
+      "description": "Root microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO:01000349",
+        "term": {
+          "id": "ENVO:01000349",
+          "name": "root matter",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-kdja3v28",
+      "name": "Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-331-Co3_15_40 endosphere",
+      "description": "Root microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO:01000349",
+        "term": {
+          "id": "ENVO:01000349",
+          "name": "root matter",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-rpj4zm44",
+      "name": "Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-847-CL3_83_27 endosphere",
+      "description": "Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO:01000349",
+        "term": {
+          "id": "ENVO:01000349",
+          "name": "root matter",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-4pc4k424",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - SKWA-24-3-Co2_41_10 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-z66zfk92",
+      "name": "Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-388-Co3_8_57 endosphere",
+      "description": "Root microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO:01000349",
+        "term": {
+          "id": "ENVO:01000349",
+          "name": "root matter",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-h96d6881",
+      "name": "Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-847-Co3_9_34 endosphere",
+      "description": "Root microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO:01000349",
+        "term": {
+          "id": "ENVO:01000349",
+          "name": "root matter",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-y80cxc26",
+      "name": "Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - GW-4579-Co2_44_8 endosphere",
+      "description": "Root microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO:01000349",
+        "term": {
+          "id": "ENVO:01000349",
+          "name": "root matter",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-mb9s8c17",
+      "name": "Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-866-Co1_10_5 endosphere",
+      "description": "Root microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO:01000349",
+        "term": {
+          "id": "ENVO:01000349",
+          "name": "root matter",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-wj8zqj74",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA - GW-4579-CL1_25_23 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-cz68sy30",
+      "name": "Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-360-Co2_62_25 endosphere",
+      "description": "Root microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO:01000349",
+        "term": {
+          "id": "ENVO:01000349",
+          "name": "root matter",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-1r59n445",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-470-CL2_38_23 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-08mamh62",
+      "name": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - GW-9591-Co1_16_8 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-pvr0ez88",
+      "name": "Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - SKWD-24-1-Co2_54_22 endosphere",
+      "description": "Root microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO:01000349",
+        "term": {
+          "id": "ENVO:01000349",
+          "name": "root matter",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-w1t8bv92",
+      "name": "Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-448-CL1_35_3 endosphere",
+      "description": "Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO:01000349",
+        "term": {
+          "id": "ENVO:01000349",
+          "name": "root matter",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-8wd4pp40",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-866-Co1_10_5 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-vcna9q80",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-448-CL3_88_32 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-pejvvs20",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-833-Co3_31_37 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-vsd0et60",
+      "name": "Bulk soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-307-CL1_26_33 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-dvn9nk09",
+      "name": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-234-Co3_21_62 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-z423gx54",
+      "name": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-234-Co2_52_27 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-zqaeph53",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - SKWA-24-3-Co1_3_5 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-v0hqhp22",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-234-Co1_23_3 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-ye5khf03",
+      "name": "Bulk soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-86-CL2_69_17 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-7asn9342",
+      "name": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - SKWA-24-3-Co3_23_35 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-2a37n046",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-285-CL2_56_7 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-v5qwbp22",
+      "name": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-360-Co3_13_34 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-61a55c09",
+      "name": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-56-Co3_6_53 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-7j0fnc87",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-866-CL2_50_11 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-w2q32794",
+      "name": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-13-Co1_30_3 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-r8wy8d17",
+      "name": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - GW-7986-Co2_68_28 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-arjq1c41",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-307-Co2_62_14 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-m53pa616",
+      "name": "Bulk soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-13-CL3_85_26 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-5nhz3402",
+      "name": "Bulk soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-13-CL1_35_33 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-m03j3183",
+      "name": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-866-Co2_58_19 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-fa3kp606",
+      "name": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - SKWA-24-3-Co2_41_10 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-v9f9cm81",
+      "name": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - SKWA-24-3-Co1_3_5 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-thpb7b07",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - GW-7986-Co2_68_28 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-k3zdem68",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-13-CL3_85_26 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-9413qr84",
+      "name": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - SKWD-24-1-Co3_24_32 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-bd18tk15",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-833-Co2_47_23 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-k8s74094",
+      "name": "Bulk soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA - GW-4579-CL2_50_20 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-6hgyxc93",
+      "name": "Bulk soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA - GW-9591-CL1_34_16 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-8ah8pz02",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-258-CL2_67_23 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-k7v09098",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-360-Co1_23_6 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-aan31e03",
+      "name": "Rhizosphere soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA - SKWA-24-3-CL2_69_25 rhizosphere",
+      "description": "Rhizosphere soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00005801",
+        "term": {
+          "id": "ENVO:00005801",
+          "name": "rhizosphere",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00001998",
+        "term": {
+          "id": "ENVO:00001998",
+          "name": "soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-3ekmcr15",
+      "name": "Bulk soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-258-CL1_34_5 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-y5w1j489",
+      "name": "Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-388-Co2_54_7 endosphere",
+      "description": "Root microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO:01000349",
+        "term": {
+          "id": "ENVO:01000349",
+          "name": "root matter",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-5g2kjf44",
+      "name": "Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - GW-11047-CL2_41_30 endosphere",
+      "description": "Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO:01000349",
+        "term": {
+          "id": "ENVO:01000349",
+          "name": "root matter",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-hejnp838",
+      "name": "Bulk soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-847-CL3_83_27 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-wrgc0v31",
+      "name": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-351-Co1_10_3 soil",
+      "description": "Bulk soil microbial communities from poplar common garden site in Corvallis, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_00000011",
+        "term": {
+          "id": "ENVO:00000011",
+          "name": "garden",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO_00005802",
+        "term": {
+          "id": "ENVO:00005802",
+          "name": "bulk soil",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    },
+    {
+      "id": "nmdc:bsm-11-jxazjs92",
+      "name": "Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - GW-9591-CL1_34_16 endosphere",
+      "description": "Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA",
+      "env_broad_scale": {
+        "has_raw_value": "ENVO_00000446",
+        "term": {
+          "id": "ENVO:00000446",
+          "name": "terrestrial biome",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_local_scale": {
+        "has_raw_value": "ENVO_01001057",
+        "term": {
+          "id": "ENVO:01001057",
+          "name": "environment associated with a plant part or small plant",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      },
+      "env_medium": {
+        "has_raw_value": "ENVO:01000349",
+        "term": {
+          "id": "ENVO:01000349",
+          "name": "root matter",
+          "type": "nmdc:OntologyClass"
+        },
+        "type": "nmdc:ControlledIdentifiedTermValue"
+      }
+    }
+  ],
+  "group_by": []
+}

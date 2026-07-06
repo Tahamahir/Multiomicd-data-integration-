@@ -1,0 +1,10 @@
+[PHASE 40] Loading data
+[PHASE 40] Filtering
+[INFO] Filtered edges: 120
+[PHASE 40] Graph building
+[INFO] Nodes: 133
+[INFO] Edges: 120
+[PHASE 40] Modules detection
+[PHASE 40] Hubs
+[PHASE 40] Figures
+[DONE] Saved in 10_analysis/outputs/phase40_modules

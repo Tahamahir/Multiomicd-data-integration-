@@ -1,0 +1,51 @@
+column,variance
+chem__LBCeq (mg/kg CaCO3/pH dry weight),1449293.5763747478
+chem__LBC (mg/kg CaCO3/pH dry weight),172329.79505050505
+chem__Ca (Mehlich 1 mg/kg dry weight),123927.7018748586
+denit__Rate (microgN/kilogram dry weight soil/day),20827.001522406797
+chem__K (Mehlich 1 mg/kg dry weight),8778.670957299697
+chem__Mg (Mehlich 1 mg/kg dry weight),6257.534650222627
+chem__P (Mehlich 1 mg/kg dry weight),1614.3421294401576
+psize__Soil Clay Content %,497.1882885743749
+psize__Soil Silt Content %,262.66633906528483
+moist__Replicate 1 Mass Water / Mass Dry Soil %,181.95573838869154
+moist__Replicate 2 Mass Water / Mass Dry Soil %,174.5238093752844
+moist__Replicate 3 Mass Water / Mass Dry Soil %,173.19075597263958
+chem__Mn (Mehlich 1 mg/kg dry weight),159.64607617682427
+chem__NO3-N (mg/kg dry weight),86.38567597891995
+soil_NO3,86.38567597891995
+psize__Soil Sand Content %,76.53363930870346
+chem__NH4-N (mg/kg dry weight),34.42019327515151
+soil_NH4,34.42019327515151
+nitrif__Rate (mg NO3-N/kilogram dry weight soil/day),10.86921723264473
+Massilia sp. WG5,10.779525624175827
+chem__Zn (Mehlich 1 mg/kg dry weight),7.98429251420606
+chem__C (%),6.464307946969696
+soil_total_C,6.464307946969696
+Pseudomonas fluorescens,6.256488508791208
+Pseudomonas frederiksbergensis,4.85843962912088
+Paraburkholderia hospita,4.460277348351648
+Erwinia billingiae,4.081064191941391
+Pseudomonas cichorii,4.036368766483517
+Paraburkholderia caledonica,3.926149958241758
+Pseudomonas umsongensis,2.8424160434065935
+Massilia putida,2.7323196304029307
+Burkholderia ambifaria,2.7208616395604395
+Pseudomonas koreensis,2.6795303467032974
+Luteibacter rhizovicinus,2.60818856007326
+Bradyrhizobium erythrophlei,1.2608150060439558
+Pseudomonas arsenicoxydans,1.2500407765567765
+Pseudomonas sp. GR 6-02,0.9747097056776559
+Streptomyces bingchenggensis,0.9659442906593406
+Pseudomonas sp. UW4,0.8523983595238097
+Rhizobium leguminosarum,0.8446867908424911
+Paraburkholderia phytofirmans,0.8235335857142856
+Rhodopseudomonas palustris,0.7652423159340659
+Pseudomonas putida,0.7647333434065934
+chem__pH,0.5899157474747474
+soil_pH,0.5899157474747474
+Collimonas fungivorans,0.5711009600732603
+Pseudomonas lini,0.545730136996337
+Pseudomonas sp. URMO17WK12:I11,0.5095010021978021
+Pseudomonas protegens,0.4403532842490844
+Bradyrhizobium japonicum,0.43854787271062273

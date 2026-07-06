@@ -1,0 +1,24 @@
+Job ID: 7140806
+Array Task ID: 27
+Node: slurm-compute-h22d5-u14-svn1
+Start: Sun Jun 14 14:35:53 +01 2026
+================================================================================
+Task ID: 27
+Metabolite: HILICZ_negative|IK:QZZGJDVWLFXDLK-UHFFFAOYSA-N
+Model: RF
+X shape: (105, 3059)
+================================================================================
+Fitting 10 folds for each of 72 candidates, totalling 720 fits
+Done:
+{
+  "metabolite": "HILICZ_negative|IK:QZZGJDVWLFXDLK-UHFFFAOYSA-N",
+  "model_code": "RF",
+  "best_cv_r2": 0.23432916895481376,
+  "best_params": "{\"model__max_depth\": null, \"model__max_features\": \"sqrt\", \"model__min_samples_leaf\": 1, \"model__n_estimators\": 800}",
+  "r2_train_refit": 0.9072157988956668,
+  "rmse_train_refit": 1.8890436622108582,
+  "mae_train_refit": 1.4897031047915383,
+  "n_samples": 105,
+  "n_features": 3059
+}
+End: Sun Jun 14 14:43:15 +01 2026

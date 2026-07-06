@@ -1,0 +1,15 @@
+# MIMOSA2 configuration template
+# A COMPLETER selon les chemins et formats attendus par MIMOSA2.
+# MIMOSA2 nécessite généralement :
+# - microbiome/taxonomy abundance file
+# - metabolomics file
+# - reference database / metabolic potential
+# - metabolite identifiers mappables
+
+microbiome_file=mimosa2_taxa_abundance_samples_by_taxa.csv
+metabolome_file=mimosa2_metabolites_samples_by_metabolites.csv
+
+# TODO:
+# reference_data_path=/path/to/mimosa2/reference/data
+# metabolite_id_type=inchikey_or_hmdb_or_kegg
+# taxonomy_id_type=species_or_genus
