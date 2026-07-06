@@ -1,2 +1,0 @@
-metabolite,model_code,best_cv_r2,best_params,r2_train_refit,rmse_train_refit,mae_train_refit,n_samples,n_features
-C18_positive|NAME:,RF,0.2730652496993487,"{""model__max_depth"": null, ""model__max_features"": 0.5, ""model__min_samples_leaf"": 5, ""model__n_estimators"": 800}",0.8027607368487659,0.29554343968443614,0.23128676673218534,105,3059

@@ -1,2 +1,0 @@
-n_metabolites,mean_final_cv_r2,median_final_cv_r2,max_final_cv_r2,mean_final_cv_rmse,n_r2_gt_0_2,n_r2_gt_0_4,n_r2_gt_0_6,n_relationships_all,n_relationships_interpretable
-47,0.35224372631758094,0.3285200261911318,0.6466928701780337,4.250171690480069,45,12,2,1175,845

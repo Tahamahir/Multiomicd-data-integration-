@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "/home/taha.mahir/Multiomicd-data-integration-/10_analysis/scripts/31_best_model_per_metabolite.py", line 22, in <module>
-    from xgboost import XGBRegressor
-ModuleNotFoundError: No module named 'xgboost'

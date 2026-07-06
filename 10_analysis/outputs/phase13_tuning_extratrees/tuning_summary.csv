@@ -1,2 +1,0 @@
-n_metabolites_tuned,mean_baseline_r2,mean_tuned_r2,median_baseline_r2,median_tuned_r2,mean_r2_improvement,n_improved_metabolites,n_worse_metabolites,n_tuned_r2_gt_0_2,n_tuned_r2_gt_0_4,n_tuned_r2_gt_0_6
-47,0.28497023298897717,0.31993933268814917,0.2783829883078567,0.3052831304117535,0.03496909969917193,45,1,44,8,1

@@ -1,9 +1,0 @@
-{
-  "n_metabolites": 10,
-  "mean_r2_MGSoil_real": 0.47787685102166727,
-  "median_r2_MGSoil_real": 0.47500875475755366,
-  "mean_r2_MGonly_real": 0.4595876230524588,
-  "mean_r2_Soilonly_real": 0.4096313731591096,
-  "mean_r2_MGSoil_null": NaN,
-  "n_significant_fdr_005": 0
-}

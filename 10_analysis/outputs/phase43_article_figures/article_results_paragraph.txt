@@ -1,4 +1,0 @@
-Article-ready validation paragraph
-==================================
-
-The integrated MG+Soil late-fusion model achieved the best overall predictive performance, with a mean cross-validated R² of 0.378 and a median R² of 0.352 across 30 metabolites. This performance was higher than both the MG-only baseline (mean R² = 0.355) and the Soil-only baseline (mean R² = 0.302). The per-metabolite performance ranged from R² = 0.258 to R² = 0.698, indicating heterogeneous predictability across metabolites. In contrast, the shuffled null model produced a negative mean R² (-0.061), confirming that the observed predictive performance was not driven by random associations. Overall, these results support the presence of a measurable multi-omic signal linking microbial and soil-derived features to metabolomic variation.

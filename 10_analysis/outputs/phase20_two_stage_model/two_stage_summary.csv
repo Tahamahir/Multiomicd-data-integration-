@@ -1,2 +1,0 @@
-n_metabolites_tested,mean_direct_r2,mean_two_stage_r2,median_direct_r2,median_two_stage_r2,mean_r2_improvement,n_improved,n_not_improved,mean_stage1_auc,mean_stage1_f1,mean_stage1_accuracy
-47,0.3512142999639775,-0.024031944423943265,0.3280923466515905,-0.021952279418541963,-0.37524624438792087,1,46,0.8345239483221649,0.688387122870393,0.7871539313399779

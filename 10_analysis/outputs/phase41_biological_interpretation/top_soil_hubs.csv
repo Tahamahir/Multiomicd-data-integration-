@@ -1,8 +1,0 @@
-node_id,label,display_label,node_type,degree,weighted_degree,betweenness,hub_score,label_short,clean_name,biological_category
-F::soil_total_C,soil_total_C,soil:total_C,soil,2,0.234925987602646,0.0018181818181818,0.8418316831683168,soil_total_C,soil_total_C,carbon
-F::nitrif__Rate (mg NO3-N/kilogram dry weight soil/day),nitrif__Rate (mg NO3-N/kilogram dry weight soil/day),nitrif:Rate (mg NO3-N/kilogram dry weight soil/day),soil,2,0.0847462725667675,0.0036363636363636,0.771039603960396,nitrif__Rate (mg NO3-N/kilogram dry weight soil/day),nitrif__Rate (mg NO3-N/kilogram dry weight soil/day),nitrogen
-F::moist__Replicate 1 Mass Water / Mass Dry Soil %,moist__Replicate 1 Mass Water / Mass Dry Soil %,moist__Replicate 1 ...,soil,2,0.0641885849309709,0.0036363636363636,0.725990099009901,moist__Replicate 1 Mass Water / Mass Dry Soil %,moist__Replicate 1 Mass Water / Mass Dry Soil %,moisture
-F::psize__Soil Clay Content %,psize__Soil Clay Content %,psize__Soil Clay Co...,soil,2,0.0808566042682262,0.0,0.6626237623762377,psize__Soil Clay Content %,psize__Soil Clay Content %,texture
-F::psize__Soil Sand Content %,psize__Soil Sand Content %,psize__Soil Sand Co...,soil,1,0.0690000312087457,0.0,0.4462871287128713,psize__Soil Sand Content %,psize__Soil Sand Content %,texture
-F::soil_NH4,soil_NH4,soil:NH4,soil,1,0.0293658956553038,0.0,0.3319306930693069,soil_NH4,soil_NH4,nitrogen
-F::denit__Rate (microgN/kilogram dry weight soil/day),denit__Rate (microgN/kilogram dry weight soil/day),denit:Rate (microgN/kilogram dry weight soil/day),soil,1,0.0235432306602727,0.0,0.2764851485148514,denit__Rate (microgN/kilogram dry weight soil/day),denit__Rate (microgN/kilogram dry weight soil/day),nitrogen
